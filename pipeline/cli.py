@@ -156,14 +156,23 @@ def run_pipeline(args) -> None:
         if not api_key:
             log.warning("未设置 DEEPSEEK_API_KEY：相关文章的总结将保持“待补充”状态")
         to_summarize = [p for p in all_papers if p.get("relevant") and not p.get("summary")]
-        for i, p in enumerate(to_summarize, 1):
-            summary = summarize_paper(p, timeout=args.summary_timeout)
-            if summary:
-                p["summary"] = summary
-                p["summary_status"] = "done"
-            else:
-                p["summary_status"] = "pending"
-            log.info("总结进度 %d/%d", i, len(to_summarize))
+        if to_summarize:
+            done = 0
+            with ThreadPoolExecutor(max_workers=4) as pool:
+                futures = {pool.submit(summarize_paper, p, timeout=args.summary_timeout): p for p in to_summarize}
+                for fut in as_completed(futures):
+                    p = futures[fut]
+                    summary = fut.result()
+                    if summary:
+                        p["summary"] = summary
+                        p["summary_status"] = "done"
+                    else:
+                        p["summary_status"] = "pending"
+                    done += 1
+                    if done % 25 == 0 or done == len(to_summarize):
+                        log.info("总结进度 %d/%d", done, len(to_summarize))
+        else:
+            log.info("无待总结文章")
     else:
         log.info("已跳过 AI 总结（--skip-summary）")
 

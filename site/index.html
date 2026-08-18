@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>文献雷达 · 药物递送与肿瘤治疗</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-row">
+        <div>
+          <h1>文献雷达</h1>
+          <p class="subtitle">药物递送 · 自组装多肽 · 纳米药物 · 肿瘤治疗 · 细胞搭便车 · 肺部靶向 · 细胞疗法 · 基因治疗</p>
+        </div>
+        <div class="header-meta">
+          <span id="updated-at">--</span>
+          <span id="total-count" class="pill">-- 篇</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="filter-bar">
+      <div class="filter-row">
+        <input id="search" type="search" placeholder="搜索标题 / DOI / 关键词…">
+        <select id="range">
+          <option value="7" selected>近 7 天</option>
+          <option value="30">近 30 天</option>
+          <option value="90">近 90 天</option>
+          <option value="all">全部</option>
+        </select>
+        <select id="tier">
+          <option value="">全部期刊层级</option>
+          <option value="S">S · 综合大刊 (CNS)</option>
+          <option value="A">A · Nature 系子刊</option>
+          <option value="B">B · 综合小子刊</option>
+          <option value="C">C · 药剂纳米顶刊</option>
+        </select>
+        <label class="fav-toggle"><input id="fav-only" type="checkbox"> 仅看收藏</label>
+        <div class="export-group">
+          <button id="export-ris" class="btn">导出 RIS</button>
+          <button id="export-bib" class="btn">导出 BibTeX</button>
+        </div>
+      </div>
+      <div id="direction-chips" class="chips"></div>
+    </section>
+
+    <section id="result-info" class="result-info"></section>
+    <section id="paper-list" class="paper-list"></section>
+    <section id="empty-state" class="empty-state hidden">
+      <p>暂无符合条件的文章。</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>数据滚动保留 90 天 · 收藏保存在本浏览器 · 摘要由 AI 生成，请以原文为准</p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
+

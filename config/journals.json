@@ -1,0 +1,34 @@
+{
+  "journals": [
+    {"name": "Nature", "issn": "0028-0836", "tier": "S", "enabled": true, "rss": ["https://feeds.nature.com/nature/rss/current", "https://feeds.nature.com/nature/rss/aop"]},
+    {"name": "Science", "issn": "0036-8075", "tier": "S", "enabled": true, "rss": ["https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"]},
+    {"name": "Cell", "issn": "0092-8674", "tier": "S", "enabled": true, "rss": []},
+
+    {"name": "Nature Nanotechnology", "issn": "1748-3387", "tier": "A", "enabled": true, "rss": ["https://feeds.nature.com/nnano/rss/current", "https://feeds.nature.com/nnano/rss/aop"]},
+    {"name": "Nature Biomedical Engineering", "issn": "2157-846X", "tier": "A", "enabled": true, "rss": ["https://feeds.nature.com/natbiomedeng/rss/current", "https://feeds.nature.com/natbiomedeng/rss/aop"]},
+    {"name": "Nature Materials", "issn": "1476-1122", "tier": "A", "enabled": true, "rss": ["https://feeds.nature.com/nmat/rss/current", "https://feeds.nature.com/nmat/rss/aop"]},
+    {"name": "Nature Biotechnology", "issn": "1087-0156", "tier": "A", "enabled": true, "rss": ["https://feeds.nature.com/nbt/rss/current", "https://feeds.nature.com/nbt/rss/aop"]},
+    {"name": "Nature Medicine", "issn": "1078-8956", "tier": "A", "enabled": true, "rss": ["https://feeds.nature.com/nm/rss/current", "https://feeds.nature.com/nm/rss/aop"]},
+    {"name": "Nature Communications", "issn": "2041-1723", "tier": "A", "enabled": true, "rss": ["https://feeds.nature.com/ncomms/rss/current", "https://feeds.nature.com/ncomms/rss/aop"]},
+
+    {"name": "Science Advances", "issn": "2375-2548", "tier": "B", "enabled": true, "rss": ["https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"]},
+    {"name": "PNAS", "issn": "0027-8424", "tier": "B", "enabled": true, "rss": ["https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas"]},
+    {"name": "Advanced Science", "issn": "2198-3844", "tier": "B", "enabled": true, "rss": []},
+    {"name": "Advanced Materials", "issn": "0935-9648", "tier": "B", "enabled": true, "rss": []},
+    {"name": "Angewandte Chemie International Edition", "issn": "1433-7851", "tier": "B", "enabled": true, "rss": []},
+
+    {"name": "ACS Nano", "issn": "1936-0851", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Journal of Controlled Release", "issn": "0168-3659", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Advanced Drug Delivery Reviews", "issn": "0169-409X", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Journal of Nanobiotechnology", "issn": "1477-3155", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Biomaterials", "issn": "0142-9612", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Small", "issn": "1613-6810", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Nano Letters", "issn": "1530-6984", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Advanced Healthcare Materials", "issn": "2192-2640", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Nano Today", "issn": "1748-0132", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Molecular Pharmaceutics", "issn": "1543-8384", "tier": "C", "enabled": true, "rss": []},
+    {"name": "International Journal of Pharmaceutics", "issn": "0378-5173", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Theranostics", "issn": "1838-7640", "tier": "C", "enabled": true, "rss": []},
+    {"name": "Molecular Therapy", "issn": "1525-0016", "tier": "C", "enabled": true, "rss": []}
+  ]
+}

@@ -1,0 +1,201 @@
+min_score: 2
+exclude_title_terms:
+  - correction
+  - corrigendum
+  - retraction
+  - erratum
+  - addendum
+  - editor's pick
+  - editor’s pick
+  - news & views
+  - obituary
+  - this week in
+  - in brief
+  - expression of concern
+  - editorial
+directions:
+  - id: drug_delivery
+    label: 药物递送系统
+    keywords:
+      - drug delivery
+      - drug-delivery
+      - delivery system
+      - delivery systems
+      - drug carrier
+      - drug carriers
+      - nanocarrier
+      - nanocarriers
+      - controlled release
+      - sustained release
+      - targeted delivery
+      - cargo delivery
+      - delivery platform
+      - drug transport
+      - drug encapsulation
+      - prodrug
+      - 药物递送
+  - id: peptide_assembly
+    label: 自组装多肽
+    keywords:
+      - self-assembl
+      - peptide
+      - peptides
+      - polypeptide
+      - oligopeptide
+      - peptide amphiphile
+      - peptide nanofiber
+      - peptide fiber
+      - peptide hydrogel
+      - peptide fibril
+      - beta-sheet
+      - supramolecular peptide
+      - peptide self-assembly
+      - amphiphilic peptide
+      - 多肽
+  - id: nanomedicine
+    label: 纳米药物
+    keywords:
+      - nanomedicine
+      - nanoparticle
+      - nanoparticles
+      - nanomaterials
+      - nanocarrier
+      - nanocarriers
+      - nanosystem
+      - nanoplatform
+      - liposome
+      - lipid nanoparticle
+      - polymer nanoparticle
+      - inorganic nanoparticle
+      - nano-drug
+      - nanodrug
+      - micelle
+      - dendrimer
+      - nanocrystal
+      - biomimetic nanoparticle
+      - 纳米
+  - id: tumor_therapy
+    label: 肿瘤治疗
+    keywords:
+      - tumor
+      - tumour
+      - cancer
+      - carcinoma
+      - oncology
+      - antitumor
+      - anti-tumor
+      - anticancer
+      - anti-cancer
+      - cancer therapy
+      - tumor therapy
+      - tumour therapy
+      - chemotherapy
+      - immunotherapy
+      - melanoma
+      - photothermal
+      - photodynamic
+      - chemodynamic
+      - metastasis
+      - xenograft
+      - 肿瘤
+      - 癌症
+  - id: cell_hitchhiking
+    label: 细胞搭便车
+    keywords:
+      - cell hitchhiking
+      - hitchhiking
+      - hitchhiker
+      - cell-mediated delivery
+      - cell membrane-camouflaged
+      - cell membrane coated
+      - cell membrane-coated
+      - cell membrane camouflaged
+      - membrane-coated nanoparticle
+      - membrane-camouflaged
+      - platelet
+      - platelets
+      - platelet-mimetic
+      - erythrocyte
+      - red blood cell
+      - macrophage-mediated
+      - neutrophil-mediated
+      - cell-mediated transport
+      - cellular shuttle
+      - cell-based delivery
+      - immune cell delivery
+      - leukocyte
+      - monocyte
+      - 细胞搭便车
+      - 血小板
+  - id: lung_targeting
+    label: 肺部靶向
+    keywords:
+      - lung
+      - lungs
+      - pulmonary
+      - pulmonary delivery
+      - inhalation
+      - inhaled
+      - intratracheal
+      - intranasal
+      - airway
+      - alveolar
+      - bronchial
+      - lung targeting
+      - lung-targeted
+      - respiratory
+      - nebuliz
+      - aeros
+      - deep lung
+      - lung cancer
+      - lung metastasis
+      - 肺部
+      - 肺靶向
+  - id: cell_therapy
+    label: 细胞疗法
+    keywords:
+      - cell therapy
+      - cellular therapy
+      - cell-based therapy
+      - cell-based immunotherapy
+      - car-t
+      - car t cell
+      - chimeric antigen receptor
+      - adoptive cell
+      - adoptive transfer
+      - engineered t cell
+      - engineered immune cell
+      - tumor-infiltrating lymphocyte
+      - tils
+      - nk cell therapy
+      - stem cell therapy
+      - tcr-t
+      - cell vaccine
+      - cellular immunotherapy
+      - 细胞疗法
+      - CAR-T
+  - id: gene_therapy
+    label: 基因治疗
+    keywords:
+      - gene therapy
+      - gene delivery
+      - gene transfer
+      - mrna delivery
+      - mrna vaccine
+      - messenger rna delivery
+      - crispr
+      - genome editing
+      - gene editing
+      - sirna delivery
+      - shrna
+      - antisense oligonucleotide
+      - aav
+      - viral vector
+      - non-viral gene
+      - genetic therapy
+      - gene silencing
+      - rnai
+      - dna delivery
+      - nucleic acid delivery
+      - 基因治疗
+      - 基因递送

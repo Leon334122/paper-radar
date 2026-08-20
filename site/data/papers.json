@@ -1,8 +1,157 @@
 {
- "updated_at": "2026-08-19T23:02:30+00:00",
- "count": 760,
+ "updated_at": "2026-08-20T23:16:56+00:00",
+ "count": 780,
  "note": "本文件由 pipeline build 自动生成，请勿手工编辑。",
  "papers": [
+  {
+   "doi": "10.1038/d41586-026-02612-3",
+   "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
+   "authors": [],
+   "journal": "Nature",
+   "tier": "S",
+   "publication_date": "2026-08-20",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 8,
+   "url": "https://www.nature.com/articles/d41586-026-02612-3",
+   "url_doi": "https://doi.org/10.1038/d41586-026-02612-3",
+   "url_pubmed": null,
+   "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3 Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
+   "abstract_source": "rss",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "Moderna个性化癌症疫苗在黑色素瘤试验中展现防复发潜力，或拓展至其他肿瘤治疗。",
+    "innovation": "个性化mRNA疫苗针对患者肿瘤特异性突变；临床试验证实可有效阻止黑色素瘤复发；技术平台可适配多种癌症类型。",
+    "significance": "该疫苗为癌症个性化免疫治疗提供了实证支持，有望改变术后辅助治疗模式。未来若能扩展至更多癌种，将推动精准肿瘤学发展，提升患者生存率。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:38+00:00"
+   },
+   "source": "rss"
+  },
+  {
+   "doi": "10.1038/s41551-026-01776-7",
+   "title": "Analysing long-read CRISPR experiments with CRISPRLungo",
+   "authors": [
+    "Gue-Ho Hwang",
+    "Benjamin Vyshedskiy",
+    "Timothy Barry",
+    "Jing Zeng",
+    "Sébastien Levesque",
+    "John P. Manis",
+    "Akiko Shimamura",
+    "Daniel E. Bauer",
+    "Luca Pinello"
+   ],
+   "journal": "Nature Biomedical Engineering",
+   "tier": "A",
+   "publication_date": "2026-08-20",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向",
+    "基因治疗"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1038/s41551-026-01776-7",
+   "url_doi": "https://doi.org/10.1038/s41551-026-01776-7",
+   "url_pubmed": null,
+   "abstract": "Nature Biomedical Engineering, Published online: 20 August 2026; doi:10.1038/s41551-026-01776-7 CRISPRLungo is a computational pipeline for characterizing complex DNA sequence changes induced by genome editing made available through a user-friendly web application.",
+   "abstract_source": "rss",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "CRISPRLungo是一种计算流程，通过用户友好的网络应用分析长读段CRISPR实验，表征复杂DNA序列变化。",
+    "innovation": "利用长读段测序数据全面表征基因组编辑诱导的复杂DNA序列变化；提供用户友好的Web应用，降低分析门槛；支持复杂基因编辑结果的灵活解析。",
+    "significance": "该工具将帮助研究人员深入理解CRISPR编辑产生的复杂DNA变化，提高基因编辑结果解析的准确性和效率。其用户友好的设计有望在基因治疗和基础研究中广泛应用，推动精准基因组编辑的发展。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:40+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1038/d41591-026-00041-3",
+   "title": "Intercepting pancreatic cancer with a vaccine",
+   "authors": [
+    "Karen O’Leary"
+   ],
+   "journal": "Nature Medicine",
+   "tier": "A",
+   "publication_date": "2026-08-20",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1038/d41591-026-00041-3",
+   "url_doi": "https://doi.org/10.1038/d41591-026-00041-3",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "通过疫苗干预胰腺癌发生发展，探索预防性抗癌策略。",
+    "innovation": "提出拦截胰腺癌的疫苗新策略；聚焦预防而非治疗；可能针对高风险或早期阶段。",
+    "significance": "为胰腺癌提供潜在预防手段，有望降低发病率或延缓病程；为肿瘤疫苗研发开辟新方向，具有重要临床转化前景。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:38+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": null,
+   "title": "<b>Intercepting pancreatic cancer with a vaccine</b>",
+   "authors": [],
+   "journal": "Nature Medicine",
+   "tier": "A",
+   "publication_date": "2026-08-20",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://www.nature.com/articles/d41591-026-00041-3",
+   "url_doi": null,
+   "url_pubmed": null,
+   "abstract": "Nature Medicine, Published online: 20 August 2026; doi:10.1038/d41591-026-00041-3 An ‘off-the-shelf’ vaccine that targets mutant KRAS can safely and durably activate T cell responses in healthy people at high risk of developing pancreatic cancer, according to a phase 1 study.",
+   "abstract_source": "rss",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "一项1期研究显示，靶向突变KRAS的现货型疫苗可安全持久激活高危健康人的T细胞反应，用于拦截胰腺癌。",
+    "innovation": "靶向突变KRAS的现货型疫苗设计；在健康高风险人群中验证安全性与免疫原性；持久激活T细胞反应实现癌症拦截。",
+    "significance": "该疫苗有望为胰腺癌高危人群提供预防性干预策略，填补早期拦截空白。若后续验证有效，可降低胰腺癌发病率，并拓展至其他KRAS突变相关肿瘤的预防。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:39+00:00"
+   },
+   "source": "rss"
+  },
+  {
+   "doi": "10.1038/s41467-026-76483-7",
+   "title": "Constructing and decoding tree-ring-like surface patterns on self-assembled polymer platelets",
+   "authors": [],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-08-20",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽",
+    "细胞搭便车"
+   ],
+   "relevance_score": 12,
+   "url": "https://www.nature.com/articles/s41467-026-76483-7",
+   "url_doi": "https://doi.org/10.1038/s41467-026-76483-7",
+   "url_pubmed": null,
+   "abstract": "Nature Communications, Published online: 20 August 2026; doi:10.1038/s41467-026-76483-7 Control of surface patterns in assembled nanostructures is desirable, but challenging to achieve. Here, the authors report the development of a flow-based crystallisation-driven self-assembly method for the preparation of polymer platelets with controlled 3D surface patterns.",
+   "abstract_source": "rss",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发流动诱导结晶驱动自组装法，制备具有受控三维树轮状表面图案的聚合物片材。",
+    "innovation": "提出基于流动的结晶驱动自组装新方法；实现聚合物片材表面三维图案的精确控制；解码树轮状图案的形成机制。",
+    "significance": "为纳米结构表面图案工程提供新策略，推动功能化聚合物材料的设计。该技术有望应用于传感、催化及纳米器件领域的精准构筑。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:42+00:00"
+   },
+   "source": "rss"
+  },
   {
    "doi": "10.1038/d41586-026-02587-1",
    "title": "How do people live beyond 110? Abundance of cancer-killing cells might be key",
@@ -623,8 +772,14 @@
    "url_pubmed": null,
    "abstract": "Biomolecular condensates, including membraneless organelles, form through liquid-liquid phase separation (LLPS) driven by sequence-specific associations within intrinsically disordered protein regions. Understanding how sticker valence governs LLPS is essential for predicting pathological aggregation and designing programmable biomaterials. Among associative amino acid motifs, cationic arginine (Arg) is a key regulator of biological LLPS, yet the molecular basis of its distinct phase behavior remains incompletely understood. Here, we investigate peptide-inspired heteropolymers composed of associative Arg-like guanidinium stickers and lysine-like ammonium spacers. The interchain sticker-sticker associations lead to LLPS, and sticker valence governs the phase separation behavior. Prior to macroscopic phase separation, enhanced sticker associations induce a continuous coil-to-globule transition even under overall good-solvent conditions, thereby facilitating LLPS. At interfaces, elevated salt counterintuitively reduces inter-surface cohesion despite stronger sticker associations, because preferential intra-surface network formation depletes free stickers available for inter-surface binding; this cohesion can be transiently restored by mechanical stimulation. These results establish a molecular framework linking sticker valence, chain collapse, phase separation, and interfacial mechanics in associative polymers, and identify peptide-inspired sticker-spacer heteropolymers as a versatile platform for programmable condensates and responsive soft materials.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究揭示精氨酸类粘附基价态调控肽启发聚合物的链塌缩与液-液相分离机制。",
+    "innovation": "发现粘附基价态在良溶剂条件下驱动连续线圈-球状转变并促进相分离;揭示界面处高盐反常降低表面内聚力的机制源于表面内网络优先形成;证明机械刺激可瞬时恢复界面内聚力。",
+    "significance": "建立了粘附基价态、链塌缩、相分离与界面力学间的分子框架，为预测病理性聚集提供理论依据。所提出的肽启发粘附-间隔异聚物平台可用于设计可编程凝聚体与响应性软材料。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:42+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -2800,8 +2955,14 @@
    "url_pubmed": null,
    "abstract": "Despite advances in combined photothermal (PTT) and photodynamic (PDT) therapy for melanoma, therapeutic efficacy remains limited by tumor hypoxia, intracellular glutathione (GSH), insufficient tumor targeting, and photobleaching of photosensitizers. Herein, tumor-targeting and GSH self-depleting hyaluronic acid (HA)/tannic acid (TA)-engineered Prussian blue (PB) oxygen nanogenerators (ONs) loaded with IR780 (IHTPB ONs) are developed to enhance synergistic PTT/PDT. The IHTPB ONs exhibit uniform morphology, excellent colloidal stability, acidity/GSH-responsive IR780 release, high photothermal conversion efficiency (60%), and outstanding photothermal stability. Importantly, PB-mediated GSH oxidation and TA-mediated GSH conjugation enable dual-mode GSH depletion, while PB catalyzes oxygen generation to alleviate tumor hypoxia and promote IR780-mediated singlet oxygen production. Following CD44-mediated cellular uptake, IHTPB ONs effectively deplete intracellular GSH and, under near-infrared irradiation, induce robust reactive oxygen species generation and hyperthermia, leading to mitochondrial dysfunction, lipid peroxidation, apoptosis, and ferroptosis. In vivo, IHTPB ONs exhibit superior tumor accumulation and significantly enhanced antitumor efficacy compared with free IR780 and non-targeted nanoparticles, resulting in prolonged survival of melanoma-bearing mice. This work provides an effective nanoplatform integrating tumor targeting, oxygen self-supply, and dual-mode GSH depletion to potentiate synergistic PTT/PDT for melanoma therapy.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发肿瘤靶向HA/TA修饰的普鲁士蓝氧纳米发生器负载IR780，通过双模式消耗谷胱甘肽并产氧增强黑色素瘤光疗。",
+    "innovation": "PB介导GSH氧化与TA介导GSH缀合实现双模式消耗；PB催化产氧缓解缺氧并增强IR780单线态氧生成；HA赋予CD44靶向与IR780响应性释放。",
+    "significance": "有效克服肿瘤缺氧、高GSH和光漂白等光疗瓶颈，显著增强PTT/PDT协同疗效。该平台兼具靶向、自供氧和GSH自消耗功能，为黑色素瘤联合治疗提供可临床转化的纳米策略。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:42+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -2879,6 +3040,43 @@
     "generated_at": "2026-08-19T23:02:13+00:00"
    },
    "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.biomaterials.2026.124559",
+   "title": "Intranasal delivery of engineered macrophage-membrane-coated nanoparticles with enhanced Dectin-1 expression for targeted therapy of cryptococcal meningitis",
+   "authors": [
+    "Chenghao Liu",
+    "Feiyang Geng",
+    "Yuhan Liu",
+    "Haiyan Zhu",
+    "Xunlong Shi",
+    "Weiyue Lu",
+    "Gang Wei"
+   ],
+   "journal": "Biomaterials",
+   "tier": "C",
+   "publication_date": "2026-08-17",
+   "date_precision": "approx",
+   "directions": [
+    "纳米药物",
+    "细胞搭便车",
+    "肺部靶向"
+   ],
+   "relevance_score": 12,
+   "url": "https://doi.org/10.1016/j.biomaterials.2026.124559",
+   "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124559",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发鼻内递送Dectin-1增强的巨噬细胞膜纳米颗粒，靶向治疗隐球菌脑膜炎。",
+    "innovation": "采用鼻内递送路径实现脑部靶向；利用工程化巨噬细胞膜仿生纳米颗粒增强Dectin-1表达以识别隐球菌；结合膜包被技术提高生物相容性与穿透血脑屏障能力。",
+    "significance": "为隐球菌脑膜炎提供非侵入性靶向治疗新策略，有望提高药物脑内递送效率并降低全身毒性；该仿生纳米平台可拓展至其他中枢神经系统真菌或感染性疾病治疗。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:43+00:00"
+   },
+   "source": "crossref"
   },
   {
    "doi": "10.1002/smll.202512693",
@@ -3701,12 +3899,12 @@
     "纳米药物",
     "肿瘤治疗"
    ],
-   "relevance_score": 9,
+   "relevance_score": 15,
    "url": "https://doi.org/10.1016/j.biomaterials.2026.124557",
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124557",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42617466/",
+   "abstract": "Effective T-cell activation plays the critical role in cancer immunotherapy; however, strategies to precisely and sustainably stimulate antitumor T-cell responses while minimizing systemic toxicity remain limited. Here, we develop a sonogenetic artificial antigen-presenting cell (aAPC) platform for remote, spatiotemporally controlled Ca2+ influx in tumor-infiltrating T cells. The platform consists of poly (lactic-co-glycolic acid) nanoparticles loaded with the plasmid encoding the Mechanosensitive channel of large conductance (MSCL), coated with tumor-pulsed dendritic cell membranes to provide costimulatory signals, and conjugated with PD-1-targeting aptamers for T-cell-specific delivery. The nanoplatform exhibited high gene transfection efficiency within T cells and realize the expression of US (US)-responsive MSCL on the surface of T cells. Upon US irradiation, the engineered MSCL open, triggering controlled Ca2+ influx and activating downstream NFAT signalling. Therefore, sonogenetic aAPC results in the efficient and specific synergistic activation of T cells, improves the killing effects of T cells and ameliorated the dysfunction of exhausted T cells. In B16-F10 melanoma-bearing mice, sonogenetic aAPC promotes tumor infiltration and proliferation of CD8+ T cells, reduces immunosuppressive cells, and significantly suppresses tumor growth without eliciting adverse systemic immune-related events. This work demonstrates a safe and effective strategy for remotely potentiating T-cell-mediated antitumor immunity through precise sonogenetic control of calcium signalling.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "构建声遗传学抗原呈递纳米平台，时空调控T细胞钙信号以增强癌症免疫治疗效果。",
@@ -9985,6 +10183,42 @@
     "significance": "该技术有望提高口服药物的生物利用度和靶向效率，减少全身副作用。未来可应用于溃疡、炎症性肠病及肿瘤等消化道疾病的精准治疗，推动纳米医学与临床转化。",
     "model": "deepseek-v4-flash",
     "generated_at": "2026-08-19T23:02:20+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127285",
+   "title": "Time-sequential delivery of vitamin a palmitate and prednisolone acetate from a structurally tailored contact lens for corneal injury therapy",
+   "authors": [
+    "Jicheng Dong",
+    "Lin Jin",
+    "Hanzhi Cui",
+    "Chunxiao Yan",
+    "Chuanfeng An",
+    "Bingqian Wu",
+    "Fang Cheng",
+    "Lijun Zhang"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-08-11",
+   "date_precision": "approx",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127285",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127285",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42580500/",
+   "abstract": "The demand for corneal tissue healing and for the prevention of complications is growing. Conventional multi-drug eye drop therapy is significantly hampered by poor drug bioavailability and low patient compliance, which creates an urgent need for the development of drug co-delivery strategies. In this study, vitamin A palmitate (VAP) and prednisolone acetate (PA) were utilized to construct time-sequential drug-loaded bandage contact lenses (BCLs) to achieve the therapeutic requirements that address epithelial repair followed by stromal anti-inflammatory therapy. The solubility and drug-loading capacity of VAP and PA were enhanced by investigating cyclodextrin (CD) structures that encapsulate the two drugs. Subsequently, VAP pH-responsive films and PA sustained-release lenses were prepared separately and integrated into a \"sandwich\" structure. The fabricated dual-drug film BCLs achieved time-sequential delivery of VAP and PA over 144 h. In vitro release and permeation studies demonstrated the drug release behavior and release mechanisms of the film-based and BCLs-mediated drug delivery system. Comprehensive evaluations, including cytocompatibility assays, analysis of inflammatory cytokines, ocular irritation assessment, and alkali burn model studies, demonstrated the system's excellent biocompatibility, effective repair ability to promote corneal epithelial regeneration while significantly suppressing scar formation. This study not only achieved time-sequential drug release precisely tailored to the distinct healing requirements of different corneal injury stages but also elucidates the structure-release relationship of the BCLs system.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "利用环糊精包合维生素A棕榈酸酯和泼尼松龙醋酸酯，构建时间序贯释药角膜绷带镜，实现角膜损伤分期治疗。",
+    "innovation": "设计pH响应VAP膜与PA缓释镜片集成的三明治结构，实现144小时时间序贯双药释放；通过环糊精结构筛选增强难溶性药物的载药量与溶解度；揭示膜基与镜片递药系统的结构-释放关系。",
+    "significance": "该研究解决了传统多药滴眼液生物利用度低、依从性差的问题，为角膜损伤提供了按愈合阶段精确给药的新型递药平台。其双药序贯释放策略兼具促上皮再生与抗炎抗瘢痕效果，具有临床转化潜力，可推广至其他眼部疾病的联合治疗。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:46+00:00"
    },
    "source": "crossref"
   },
@@ -19704,12 +19938,12 @@
     "肿瘤治疗",
     "细胞疗法"
    ],
-   "relevance_score": 9,
+   "relevance_score": 11,
    "url": "https://doi.org/10.1016/j.cell.2026.07.054",
    "url_doi": "https://doi.org/10.1016/j.cell.2026.07.054",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42617595/",
+   "abstract": "Human protein-coding genes evolved via rearrangement of domains from ancestral genes. We develop a scalable, evolutionarily guided method to assemble novel genes from constituent domains within a protein family, termed DESynR (domain engineered via synthesis and recombination) genes. In primary human T cells, DESynR activator protein-1 (AP-1) transcription factors (TFs) significantly outperform natural AP-1 TFs across in vitro and in vivo antitumor assays. DESynR AP-1 TFs induce broad transcriptional and epigenetic reprogramming and establish non-natural T cell states that optimize features of exhaustion, effector and cytotoxic function, and persistence-sometimes co-opting gene modules from disparate cell types. Reprogramming is primarily driven by differential regulation of established AP-1-bound regulatory elements rather than unique binding. Finally, we screen DESynR erythroblast transformation-specific (ETS) and forkhead box (FOX) TFs to support generalizability across protein families. Overall, we demonstrate that reconfiguring existing protein domains may uncover non-evolved genes that program therapeutically relevant cell states.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "通过结构域重组设计合成转录因子，增强CAR T细胞的抗肿瘤功能，为细胞治疗提供新策略。",
@@ -19717,6 +19951,544 @@
     "significance": "该研究为CAR T细胞疗法提供了一种新的工程化改造途径，有望提高实体瘤疗效。合成的转录因子可灵活设计，未来可拓展至其他免疫细胞治疗或基因治疗领域。",
     "model": "deepseek-v4-flash",
     "generated_at": "2026-08-19T23:02:21+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.05.043",
+   "title": "Expansion and CAR engineering of granulocyte-monocyte progenitors for cellular immunotherapy",
+   "authors": [
+    "Shi Yue",
+    "Zheng Guo",
+    "Crystal Pan",
+    "Xueyuan A. Jing",
+    "Litao Tao",
+    "Tai Nguyen",
+    "Jiaqi Tang",
+    "Yanpui Chan",
+    "Humberto Contreras-Trujillo",
+    "Du Jiang",
+    "Xue Yan",
+    "Hang Xiang",
+    "Xugeng Liu",
+    "Celia Bloom",
+    "Asiri Ediriwickrema",
+    "Sebastian Koschade",
+    "Xiao Wang",
+    "Ziyuan Wang",
+    "Natalie Shu",
+    "Yingxiao Shi"
+   ],
+   "journal": "Cell",
+   "tier": "S",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗",
+    "细胞搭便车",
+    "细胞疗法"
+   ],
+   "relevance_score": 14,
+   "url": "https://doi.org/10.1016/j.cell.2026.05.043",
+   "url_doi": "https://doi.org/10.1016/j.cell.2026.05.043",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42320470/",
+   "abstract": "Engineered macrophages are promising for tumor immunotherapy but are limited by poor ex vivo expansion, genetic tractability, and biodistribution after transfer. Here, we develop defined culture conditions that enable long-term expansion of mouse and human granulocyte-monocyte progenitors (GMPs) while preserving progenitor identity and myeloid potential, establishing GMPs as a renewable engineering platform. Mechanistically, we identify myeloperoxidase as a regulator of GMP proliferation. Expanded GMPs are readily engineered and, after transfer, seed hematopoietic niches and generate donor-derived myelopoiesis that restores antibacterial defense in chronic granulomatous disease mice and yields abundant tumor-infiltrating macrophages. GMPs engineered with chimeric antigen receptors (CARs) suppress CD19-positive leukemia and human epidermal growth factor receptor 2 (HER2)-positive solid tumors. We further introduce a CAR incorporating an immunoglobulin G (IgG) Fc domain that recruits host Fc receptor-expressing phagocytes, enables T cell priming across major histocompatibility complex (MHC) mismatch, and enhances efficacy in immunocompetent allogeneic cancer models. Together, these findings establish expandable GMPs as a scalable platform for engineered immunotherapy.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发可长期扩增的粒细胞-单核细胞祖细胞平台，经CAR工程改造后用于肿瘤免疫治疗。",
+    "innovation": "建立小鼠和人类GMPs的长期扩增培养体系，保持祖细胞特性；发现髓过氧化物酶调控GMP增殖；构建含IgG Fc域的CAR以招募吞噬细胞并跨越MHC错配。",
+    "significance": "解决了巨噬细胞体外扩增和基因改造的瓶颈，提供可再生的工程免疫细胞来源。该平台在白血病和实体瘤模型中显示疗效，并增强同种异体免疫环境下的治疗潜力，为细胞免疫治疗提供可扩展的新策略。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:45+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.06.031",
+   "title": "Viral protease-initiated lytic cell death as a universal antiviral mRNA therapy",
+   "authors": [
+    "Lin Li",
+    "Xiu-Li Yan",
+    "Hao-Yang Wang",
+    "Hang-Yu Zhou",
+    "Yu-Yan Li",
+    "Wenlong Ma",
+    "Jian Li",
+    "Rong-Rong Zhang",
+    "Lu Lv",
+    "Xing-Yao Huang",
+    "Hao Du",
+    "Tian-Shu Cao",
+    "Qing Ye",
+    "Hui Zhao",
+    "Yan Fu",
+    "Byung-Ho Kang",
+    "Qiang Ding",
+    "Aiping Wu",
+    "Yi-Jiao Huang",
+    "Cheng-Feng Qin"
+   ],
+   "journal": "Cell",
+   "tier": "S",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1016/j.cell.2026.06.031",
+   "url_doi": "https://doi.org/10.1016/j.cell.2026.06.031",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42476130/",
+   "abstract": "While gasdermin (GSDM)-mediated pyroptosis is a potent immune effector, its antiviral potential remains largely untapped. Here, we introduce viral protease-initiated lytic cell death (VID), a universal mRNA therapeutic platform inspired by the modular architecture of GSDM and the clinical success of mRNA vaccines. By engineering gasdermin-D (GSDMD) to harbor viral protease-specific cleavage motifs, we generated VID activators (VIDAs) that selectively trigger lytic cell death in virus-infected cells. Using hepatitis A virus (HAV) as a model, lipid nanoparticle (LNP)-encapsulated VIDA mRNA abolished viral replication and shedding in vivo and mitigated liver injury through a coordinated \"kill-and-alert\" mechanism that primes bystander immunity. The platform's versatility was further demonstrated against Zika virus (ZIKV) and SARS-CoV-2. Leveraging a generative artificial intelligence (AI) framework, we designed de novo cleavage motifs for the SARS-CoV-2 main protease, yielding optimized VIDAs with superior antiviral potency. Collectively, our study establishes VIDA mRNA as a versatile, broadly applicable strategy for combating diverse viral threats.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发病毒蛋白酶启动的裂解性细胞死亡mRNA疗法，通过工程化GSDMD选择性杀伤感染细胞，广谱抗病毒。",
+    "innovation": "将GSDMD模块化改造，插入病毒蛋白酶特异性切割基序，实现感染细胞选择性裂解；结合生成式AI设计全新切割基序，优化针对SARS-CoV-2的VIDA效力；利用LNP递送VIDA mRNA，通过“杀伤-警报”机制激发旁观者免疫，在体内清除病毒并减轻肝损伤。",
+    "significance": "该平台将mRNA疫苗的临床成功与焦亡机制结合，提供了一种可编程、广谱的抗病毒策略，对HAV、ZIKV和SARS-CoV-2等多种病毒有效。有望成为快速应对新发病毒威胁的通用mRNA药物平台，推动下一代抗病毒疗法的研发。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:45+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.05.036",
+   "title": "Cuproptosis-immunity crosstalk informs strategy to overcome immunotherapy resistance",
+   "authors": [
+    "Guang Lei",
+    "Zhengze Lu",
+    "Zhihao Xu",
+    "Chen Braun",
+    "David Huo",
+    "Jian Gao",
+    "Lin Tan",
+    "Ting Hong",
+    "Shengrong Wu",
+    "Mingchuang Sun",
+    "Xi Zhao",
+    "Qidong Li",
+    "Xiong Chen",
+    "Yuelong Yan",
+    "Hyemin Lee",
+    "Chao Mao",
+    "Li Zhuang",
+    "Li-Ting Ku",
+    "Nahum Puebla",
+    "Hampartsoum Barsoumian"
+   ],
+   "journal": "Cell",
+   "tier": "S",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.cell.2026.05.036",
+   "url_doi": "https://doi.org/10.1016/j.cell.2026.05.036",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42330950/",
+   "abstract": "Cuproptosis is a recently identified form of copper-dependent cell death that depends on ferredoxin 1 (FDX1)-mediated protein lipoylation. Here, we reveal that CD8+ T cell-mediated antitumor immunity enhances tumor cell susceptibility to cuproptosis, leading to a more potent tumor-suppressive effect of cuproptosis inducers in immunocompetent hosts compared with immunodeficient ones. Mechanistically, cuproptotic tumor cells act as a form of immunogenic cell death, releasing damage-associated molecular patterns that activate dendritic cells and enhance antitumor immunity. Reciprocally, CD8+ T cell-derived interferon (IFN)-γ enhances FDX1 transcription in tumor cells by activating the signal transducer and activator of transcription 1 (STAT1)-IFN regulatory factor-1 (IRF1) signaling axis, resulting in heightened tumor cell sensitivity to cuproptosis. Consequently, combining a cuproptosis inducer with anti-programmed cell death ligand 1 (PD-L1) therapy amplifies tumoral cuproptosis and demonstrates efficacy in overcoming PD-L1 therapy resistance across multiple preclinical models. Our findings unveil a previously unrecognized connection between antitumor immunity and cuproptosis and highlight a potential therapeutic approach to counteract tumor immunotherapy resistance by targeting this unique cell death pathway.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究揭示CD8+T细胞免疫与铜死亡双向调控，联合铜死亡诱导剂与PD-L1疗法可克服免疫治疗耐药。",
+    "innovation": "发现CD8+T细胞抗肿瘤免疫增强肿瘤细胞对铜死亡的敏感性；揭示铜死亡作为一种免疫原性细胞死亡激活抗肿瘤免疫；阐明IFN-γ-STAT1-IRF1轴上调FDX1转录的机制。",
+    "significance": "该研究首次连接抗肿瘤免疫与铜死亡，为理解肿瘤免疫微环境提供新视角。联合靶向铜死亡与免疫检查点抑制剂的策略在多种临床前模型中有效克服PD-L1治疗耐药，具有重要的转化应用前景。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:46+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.05.026",
+   "title": "The critical role of the endogenous immune compartment after CAR T cell therapy in recurrent GBM",
+   "authors": [
+    "Nelson F. Freeburg",
+    "Daniel Chafamo",
+    "Gayathri Konanur Gopikrishna",
+    "Regan M. Murphy",
+    "Jacqueline J. Peng",
+    "Shridhar Parthasarathy",
+    "Sydney Dumont",
+    "Edward G. Estrada",
+    "Meghan T. Logun",
+    "Yusha Sun",
+    "Xin Wang",
+    "Payal Grover",
+    "Jesse L. Rodriguez",
+    "Daniel L. Zhang",
+    "Kristen Park",
+    "Yao Fu",
+    "Nadine Ben Hamouda",
+    "Isaias Hernandez-Verdin",
+    "Lamia Lamrani",
+    "Kelly A. Hicks"
+   ],
+   "journal": "Cell",
+   "tier": "S",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "细胞疗法"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1016/j.cell.2026.05.026",
+   "url_doi": "https://doi.org/10.1016/j.cell.2026.05.026",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42296961/",
+   "abstract": "Glioblastoma (GBM) is the most common primary malignant brain tumor in adults, with a median survival of under 15 months and no effective treatment after recurrence. A recent phase 1 trial of intracerebroventricular bivalent chimeric antigen receptor (CAR) T cells in recurrent GBM, registered at ClinicalTrials.gov (NCT05168423), showed promising responses, including tumor reduction and prolonged survival. However, relapse remains common. We performed in-depth profiling of longitudinal cerebrospinal fluid (CSF) and tumor samples from responders and non-responders to characterize immune dynamics following infusion. Our study reveals that, although CAR T cells activate post infusion across all patients, outcomes were defined by divergent remodeling of the endogenous immune landscape. Cytotoxic natural killer cell expansion characterized responders, whereas regulatory T cell expansion and abundant baseline immunosuppressive scavenger myeloid cells characterized non-responders. These findings indicate that host immune cells play a critical role in CAR T cell therapy for GBM, suggesting that combinatorial strategies modulating the endogenous immune compartment could improve next-generation treatments.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究发现内源性免疫室在复发胶质母细胞瘤CAR T治疗中的关键作用，决定疗效差异。",
+    "innovation": "首次揭示CAR T疗效由内源性免疫景观重塑决定而非CAR T自身活化；识别NK细胞扩增为应答特征，Treg和抑制性髓系细胞为非应答特征；基于脑脊液和肿瘤纵向样本深入刻画免疫动态。",
+    "significance": "为胶质母细胞瘤免疫治疗提供新机制见解，提示调节内源性免疫室的联合策略可改善下一代CAR T疗效，具有重要临床转化前景。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:47+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.05.018",
+   "title": "Prion-based protein self-assembly tunes mutagenesis to enable rapid adaptation",
+   "authors": [
+    "Alexandria Van Elgort",
+    "Christopher M. Jakobson",
+    "Yiwen R. Chen",
+    "James S. Byers",
+    "Raymond A. Futia",
+    "Thomas M. Lozanoski",
+    "Zachary H. Harvey",
+    "Jinglin L. Xie",
+    "David M. Garcia",
+    "Daniel F. Jarosz"
+   ],
+   "journal": "Cell",
+   "tier": "S",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1016/j.cell.2026.05.018",
+   "url_doi": "https://doi.org/10.1016/j.cell.2026.05.018",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42263676/",
+   "abstract": "Mutations supply the raw material for evolution, yet because most are neutral or deleterious, elevated mutation rates are typically transient. Nonetheless, modeling predicts that a mechanism for heritable but reversible \"mutagenesis switches\" would be advantageous in some selective contexts. Here, we report that frequent prion-based switching of DNA repair and recombination proteins alters mutagenesis in Saccharomyces cerevisiae populations from diverse ecological niches, including the laboratory and clinic, providing adaptive benefits in short-term evolution under strong selective pressure. Self-templating protein assembly alters the activities and interactions of multiple DNA-fidelity factors, reshaping adaptive outcomes while maintaining resilience to genotoxic stress. In the WHO priority pathogen Candida albicans, which diverged from S. cerevisiae ∼300 million years ago, a key regulator of prion inheritance accelerates the rapid emergence of fluconazole resistance. These findings suggest that protein self-assembly can generate epigenetic memory that tunes genome diversification over multiple generations, enabling rapid adaptation in challenging environments.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究发现朊病毒样蛋白自组装可调控DNA修复与重组，作为可逆突变开关，助力酵母快速适应环境。",
+    "innovation": "揭示朊病毒样蛋白自组装通过改变DNA修复因子的活性与互作，形成可遗传且可逆的突变开关；在白色念珠菌中发现朊病毒遗传调控因子加速氟康唑耐药性产生；将蛋白自组装与表观遗传记忆及基因组多样化调控联系起来。",
+    "significance": "该发现为理解快速进化与耐药性产生提供了全新机制，暗示蛋白质自组装可跨代传递突变倾向。未来可能通过干预此类开关来调控病原菌进化速率，或用于合成生物学设计可编程的适应性突变系统。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:48+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.07.042",
+   "title": "Cuproptosis enters the cancer-immunity circuit",
+   "authors": [
+    "Yunhao Gao",
+    "Nianzeng Xing"
+   ],
+   "journal": "Cell",
+   "tier": "S",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1016/j.cell.2026.07.042",
+   "url_doi": "https://doi.org/10.1016/j.cell.2026.07.042",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "铜死亡被纳入肿瘤-免疫循环，揭示其在癌症免疫中的新角色。",
+    "innovation": "首次将铜死亡与肿瘤免疫循环关联；提出铜死亡可能调控抗肿瘤免疫应答；拓展癌症免疫治疗的新机制。",
+    "significance": "该研究为理解铜死亡在肿瘤微环境中的免疫调节作用提供新视角，有望推动基于铜死亡的免疫治疗策略开发，提升癌症治疗效果。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:48+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.jconrel.2026.115268",
+   "title": "ReprogRAM nanoplatform for direct conversion of fibroblasts to osteoblasts for bone regeneration",
+   "authors": [
+    "Sunghyun Moon",
+    "Kiho Jeong",
+    "Wijin Kim",
+    "Dajeong Kim",
+    "Hyejin Kim",
+    "Manho Kim",
+    "Taehyeon Kim",
+    "Iksoo Jang",
+    "Ju Hyun Park",
+    "Jong Bum Lee"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115268",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115268",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42617699/",
+   "abstract": "mRNA-based direct conversion offers an integration-free route for osteogenic cell-fate reprogramming, yet efficient reprogramming typically requires sustained expression of reprogramming factors. Here, we developed ReprogRAM (Reprogrammable RNA Assemblies for Multi-factor expression), a self-assembled concatemeric mRNA nanoparticle synthesized by rolling-circle transcription and engineered for cap-independent translation. A single delivery of ReprogRAM to human dermal fibroblasts enabled cytosolic expression that persisted over time with minimal cytokine induction. By leveraging this long-acting expression profile, we encoded the osteogenic reprogramming factors Oct4 and Cbfβ and implemented a hybridized delivery strategy to enforce co-expression of both factors. ReprogRAM induced robust osteogenic conversion, as evidenced by increased mineralized matrix deposition, induction of osteoblast markers, and transcriptomic remodeling toward osteoblasts. Finally, transplantation of ReprogRAM-derived reprogrammed osteoblasts (rOBs) embedded in a gelatin scaffold promoted bone repair in a critical-sized mouse calvarial defect model. Together, ReprogRAM provides a long-acting, integration-free mRNA modality for cell-fate engineering and bone regeneration.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发自组装串联mRNA纳米平台ReprogRAM，实现成纤维细胞向成骨细胞直接转化，促进骨再生。",
+    "innovation": "利用滚环转录合成自组装串联mRNA，支持非帽依赖性翻译，实现长时间胞内表达且免疫原性低；编码Oct4和Cbfβ并通过杂交递送策略共表达，驱动成骨重编程。",
+    "significance": "提供无需基因组整合的长效mRNA细胞命运工程工具，避免传统病毒载体风险。ReprogRAM转化的成骨细胞植入明胶支架可修复小鼠颅骨临界缺损，为骨组织工程和再生医学提供新策略。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:49+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127326",
+   "title": "A novel device for aerosol plume evaluation of orally inhaled and nasal drug products",
+   "authors": [
+    "Athiya Azeem",
+    "Liam Milton-McGurk",
+    "Agisilaos Kourmatzis",
+    "Jiale Li",
+    "Hak-Kim Chan",
+    "Shaokoon Cheng"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127326",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127326",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42617897/",
+   "abstract": "Accurate measurement of aerosol velocity is important for evaluating the performance of orally inhaled and nasal drug products (OINDPs). This study aims to demonstrate and evaluate the accuracy and reliability of a novel instrument, the \"OptoSleeve,\" which integrates a compact optical diagnostic system designed to measure aerosol velocity and plume duration across various aerosol drug emitting devices. The OptoSleeve employs the laser extinction concept to capture aerosol flow behaviour. Experiments in this study were performed using nasal sprays, pressurised metered dose inhalers (pMDIs), and dry powder inhalers (DPIs) under a range of flow rate conditions, and the results were compared with reference measurements obtained from Particle Imaging Velocimetry (PIV) and Particle Tracking Velocimetry (PTV). The OptoSleeve was shown to provide velocity data that closely align with those obtained using PIV and PTV. Further complementary studies, conducted using computational fluid dynamics modelling, revealed that integrating the OptoSleeve with a regulatory-approved throat replica (e.g., the United States Pharmacopeia throat) has minimal impact on aerosol transport and deposition dynamics within the replica.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研发新型OptoSleeve光学设备，用于准确测量口鼻吸入药物气溶胶速度与喷雾持续时间。",
+    "innovation": "集成紧凑光学诊断系统，基于激光消光原理测量气溶胶速度；与PIV/PTV参考方法对比验证准确性；与法规认可的喉部模型集成对气溶胶输送影响极小。",
+    "significance": "该设备为口鼻吸入药物产品的性能评估提供了简便可靠的测量工具，有助于质量控制与产品开发。其与标准喉部模型的兼容性支持在法规环境下应用，推动吸入制剂测试方法的标准化与高效化。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:50+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ymthe.2026.08.026",
+   "title": "Advanced iPSC-based modelling of LMNA-related congenital muscular dystrophy enables development of genetic therapies for muscle laminopathies",
+   "authors": [
+    "Daniel Moore",
+    "Heather Steele-Stallard",
+    "Luca Pinton",
+    "Valentina Maria Lionello",
+    "Lucia Rossi",
+    "Artadokht Aghaeipour",
+    "Vanessa Todorow",
+    "Salma Jalal",
+    "Cherry Tsz Yan Wong",
+    "Angela Clara-Hwang",
+    "SungWoo Choi",
+    "Gisèle Bonne",
+    "Peter S. Zammit",
+    "Francesco Saverio Tedesco"
+   ],
+   "journal": "Molecular Therapy",
+   "tier": "C",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "基因治疗"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1016/j.ymthe.2026.08.026",
+   "url_doi": "https://doi.org/10.1016/j.ymthe.2026.08.026",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42619265/",
+   "abstract": "LMNArelated congenital muscular dystrophy (L-CMD) is one of the most severe laminopathies, which are incurable diseases primarily caused by pathogenic LMNA variants. LMNA encodes Lamin A/C: key components of the nuclear lamina, which provides structural stability to the nucleus, whilst regulating chromatin organisation and gene expression. L-CMD research is hindered by lack of humanised, tissue-specific models that accurately recapitulate disease phenotypes. We previously reported nuclear shape abnormalities and Lamin mislocalisation in LMNA-mutant induced pluripotent stem cell (iPSC)-derived skeletal muscle cells. Here, we expand the selection of L-CMD iPSCs, validate disease-associated readouts using a transgene-free differentiation protocol and assess gene editing strategies using 2D and 3D cultures. Results showed no overt defects in developmental myogenesis but recapitulated pathological nuclear shape abnormalities in monolayer cultures and engineered muscles, nuclear envelope protein mislocalisation and transcriptomic alterations across multiple pathogenic LMNA variants. We then used our platform to assess outcomes of LMNA gene editing. CRISPR-based exon-removal generated sRNA and protein Lamin A/C species, without normalisation of nuclear morphology or transcriptomic profile. Conversely, precise editing of the same variant corrected nuclear morphometrics, alongside normalisation of the pro-inflammatory transcriptomic signature, providing an advanced, humanised platform for translational research and precision medicine in laminopathies.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "建立基于iPSC的LMNA相关先天性肌营养不良模型，用于开发肌肉层蛋白病的基因治疗策略。",
+    "innovation": "扩展L-CMD iPSC库并验证无转基因分化方案；结合2D和3D培养评估基因编辑疗效；比较CRISPR外显子切除与精确编辑对核形态和转录组的修复效果。",
+    "significance": "提供了人源化、组织特异性的疾病模型，能准确重现核形态异常和转录组改变；为层蛋白病的基因治疗和精准医学研究奠定基础，推动个性化治疗方案开发。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:51+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ymthe.2026.08.024",
+   "title": "Leveraging host cell modulators of adeno-associated vectors transduction to tailor viral biodistribution",
+   "authors": [
+    "Katie Kubek-Luck",
+    "Jason Velazquez",
+    "Xiaorui Yao",
+    "Joseph Gabriels",
+    "Charles Hsu",
+    "Sanjay Arora",
+    "Lara Bontadelli",
+    "Yoann Gilbart",
+    "Fumiaki Aihara",
+    "Hui Li",
+    "Fadela Bouadjemi",
+    "James Ooi",
+    "Jairo Nunes",
+    "Frederic Sigoillot",
+    "Jan Weiler",
+    "Emily Meseck",
+    "Keith Mansfield",
+    "Eloise Hudry"
+   ],
+   "journal": "Molecular Therapy",
+   "tier": "C",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "基因治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1016/j.ymthe.2026.08.024",
+   "url_doi": "https://doi.org/10.1016/j.ymthe.2026.08.024",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42619262/",
+   "abstract": "Clinical successes in gene therapy using adeno-associated vectors (AAV) are offering a hopeful path toward the correction of several monogenic disorders. At its core, AAV gene delivery relies on multiple interactions between the capsid or vector genome and numerous host cell factors, a complex process that remains incompletely understood. Whether different serotypes similarly hijack the intracellular machinery in a cell, and whether these processes are necessarily conserved across species, are not known. To identify host factors enabling or preventing transduction across species or serotypes, CRISPR/Cas9 whole-genome knockdown screens were conducted in mouse (AML12) and human (HuH-7) cell lines before transduction with AAV2 or AAV9. Key common entry factors (AAVR, GPR108) were confirmed, with many other serotype- and/or species-specific host cell modulators identified. Interestingly, while serotype-specific differences were observed for successful transduction of a specific cell line, species-specific divergences were even more striking when comparing results across murine and human cells for the same serotype. Leveraging these data, we developed a novel approach to detarget liver transduction by transiently downregulating the expression of key entry factors in this tissue using GalNac-siRNAs prior to AAV9 administration. Such manipulation not only blunted hepatic transduction but also redirected the vector to other transduction-permissive tissues.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "通过CRISPR筛选揭示AAV转导的宿主因子，并用GalNac-siRNA瞬时下调肝内关键因子以改变病毒生物分布。",
+    "innovation": "首次系统比较跨物种和血清型的AAV转导宿主因子，发现物种差异大于血清型差异；利用GalNac-siRNA瞬时下调肝脏关键进入因子，实现肝脱靶并重定向AAV至其他组织。",
+    "significance": "该研究深化了对AAV与宿主细胞互作机制的理解，为基因治疗的靶向性优化提供了新策略。通过调控宿主因子而非改造病毒本身，可更灵活地调整载体生物分布，有望提高基因治疗的安全性和有效性。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:51+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ymthe.2026.08.027",
+   "title": "Pan-Cancer Oncolytic Virotherapy Through Disruption of Tumor Cell Mitochondrial Dynamics",
+   "authors": [
+    "Shufeng Feng",
+    "Lu Cui",
+    "Yongxin Zhu",
+    "Yao Cheng",
+    "Dongmei Diao",
+    "Xuefeng Li",
+    "Huimin Duan",
+    "Haixia Zhang",
+    "Xiaoxiao Liu",
+    "Qing Pan",
+    "Fanpu Ji",
+    "Yu Zhang",
+    "Changbo Ou",
+    "Hai Li"
+   ],
+   "journal": "Molecular Therapy",
+   "tier": "C",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1016/j.ymthe.2026.08.027",
+   "url_doi": "https://doi.org/10.1016/j.ymthe.2026.08.027",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42619261/",
+   "abstract": "Oxidative stress, a pervasive cancer vulnerability, remains a challenging therapeutic target attributed to tumor heterogeneity and adaptive resistance. Herein, we identify RhoA as a \"redox rheostat\" during oncolytic virotherapy through regulating mitochondrial dynamics, thereby addressing this bottleneck to enable pan-cancer therapy via oxidative-oncolytic synergy. Engineering oncolytic virus to express RhoA (rNDV-RHOA) elicits robust oxidative mitophagic cell death with inherent tumor selectivity and demonstrates superior oncolysis in a comprehensive panel of preclinical cancer models spanning in vitro, ex vivo, and in vivo settings, including models evaluated under intravenous administration. The construct exhibits favorable safety profiles without inducing seroconversion, facilitating repeated systemic dosing. Mechanistically, RhoA drives mitochondrial fission to impair mitochondrial Complex III, initiating oxidative stress while tempering it via mitophagy induction downstream of Akt/mTOR inhibition. Concurrently, viral infection serves as the decisive precipitating event that shifts the cellular response from adaptive mitophagy to mitochondrial catastrophe by enhancing Complex I and V activities to promote ATP biosynthesis, thereby culminating in acute cell death characterized by a precipitous decline in mitochondrial mass and ATP bioavailability. This establishes rNDV-RHOA as an oncolytic virotherapy platform that transcends conventional oncolysis to surmount tumor heterogeneity by exploiting inherent tumor redox dependency.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ymthe.2026.08.025",
+   "title": "Intranasal delivery of a vasoactive intestinal peptide-based circRNA vaccine induces systemic and mucosal immunity against RSV in mice",
+   "authors": [
+    "Junqi Xiang",
+    "Jie Xu",
+    "Jing Zhu",
+    "Bo Yang",
+    "Mingling Wan",
+    "Jiangyu Cai",
+    "Shuying Chen",
+    "Yuncheng Wang",
+    "Shanrong Yang",
+    "Yaokai Wang",
+    "Li Lin",
+    "Qiqi Zhang",
+    "Na Zang",
+    "Enmei Liu",
+    "Yushun Wan"
+   ],
+   "journal": "Molecular Therapy",
+   "tier": "C",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "自组装多肽",
+    "肺部靶向"
+   ],
+   "relevance_score": 11,
+   "url": "https://doi.org/10.1016/j.ymthe.2026.08.025",
+   "url_doi": "https://doi.org/10.1016/j.ymthe.2026.08.025",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42619264/",
+   "abstract": "Respiratory syncytial virus (RSV) is a major cause of acute lower respiratory tract disease in infants and older adults; however, vaccine strategies capable of inducing robust respiratory mucosal immunity remain limited. Here, we developed a receptor-guided intranasal circular RNA (circRNA) vaccine platform based on a vasoactive intestinal peptide-nucleocapsid fusion protein (VIP-N), which enables the self-assembled delivery of circRNA encoding RSV antigens. Mechanistically, VIP-N enters cells through VIP receptor-dependent early endocytosis and preferentially enhances circRNA delivery in respiratory epithelial cells and antigen-presenting cells. In mice, intranasal immunization with VIP-N+circRNA vaccines induced serum IgG responses comparable to those elicited by intramuscular administration. VIP-N+circRNA vaccines uniquely promoted IgA responses in bronchoalveolar lavage fluid and increased T follicular helper 1 cells. Moreover, the VIP-N+circRNA vaccine encoding pre-F elicited the strongest neutralizing activity and conferred cross-protection against both RSV A and B subtypes, significantly reducing pulmonary viral burden and lung inflammation. Notably, the immune response was predominantly T helper type 1 (Th1) cell-skewed, without an accompanying increase in Th2 cytokines associated with vaccine-enhanced respiratory disease. Collectively, these findings suggest VIP-mediated circRNA delivery as a promising intranasal strategy to induce comprehensive immunity against RSV, potentially improving protection in vulnerable populations.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "基于VIP-N融合蛋白的鼻内circRNA疫苗递送平台，诱导RSV系统性及黏膜免疫并交叉保护。",
+    "innovation": "首次利用血管活性肠肽-核衣壳融合蛋白实现受体介导的鼻内circRNA递送；诱导呼吸道局部IgA和Tfh1细胞免疫，优于肌内注射；编码pre-F抗原交叉保护RSV A/B亚型且避免Th2相关疫苗增强疾病。",
+    "significance": "该平台克服了呼吸道黏膜疫苗递送瓶颈，为RSV及呼吸道病原体疫苗开发提供新策略；鼻内接种无创便捷，有望提升婴幼儿和老年人等易感人群的保护效力，并减少注射相关负担。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:53+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ymthe.2026.08.028",
+   "title": "Antisense oligonucleotides against Il6ra ameliorate cancer cachexia in mice",
+   "authors": [
+    "Yuanyuan Wang",
+    "Qingtao Sun",
+    "Wenqiang Zheng",
+    "Lijie Han",
+    "Qian Zhang",
+    "Adrian R. Krainer",
+    "Bo Li"
+   ],
+   "journal": "Molecular Therapy",
+   "tier": "C",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗",
+    "基因治疗"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1016/j.ymthe.2026.08.028",
+   "url_doi": "https://doi.org/10.1016/j.ymthe.2026.08.028",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42619263/",
+   "abstract": "Mounting evidence indicates that interleukin-6 (IL-6) plays an essential role in the development of cancer cachexia. Particularly, recent work showed that IL-6 drives cancer cachexia through neurons in the area postrema of the brainstem. However, there are currently no approved drugs for treating cancer cachexia. Here we developed a splice-switching antisense oligonucleotide (ASO)-based therapy for treating cancer cachexia by reducing IL-6 receptor (IL-6R) expression in the brain. In two mouse models of cancer cachexia, a single dose of ASOs, administered by intracerebroventricular injection after cancer onset, reduces IL-6R levels in the brainstem and ameliorates cachectic symptoms. It also extends survival in one of the models. In parallel, the ASO treatment reduces cancer-associated transcriptomic activation of inflammatory pathways in both the brainstem and skeletal muscle. We also developed ASOs that suppress human IL-6R expression, paving the road for clinical studies. Our study thus provides a new approach for treating cancer cachexia.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发靶向Il6ra的反义寡核苷酸，通过脑室内注射减轻癌症恶病质并延长生存。",
+    "innovation": "首次采用剪接转换反义寡核苷酸靶向脑干IL-6R治疗癌症恶病质；单次脑室内注射即可在肿瘤发生后减轻症状并延长生存；同时开发了抑制人IL-6R的ASO，为临床转化奠定基础。",
+    "significance": "该研究填补了癌症恶病质无获批药物的空白，提供了一种精准靶向中枢IL-6信号的新治疗策略。通过降低脑干IL-6R表达，不仅缓解恶病质症状，还抑制炎症通路激活，具有广阔的临床转化前景。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:54+00:00"
    },
    "source": "crossref"
   },
@@ -27771,8 +28543,14 @@
    "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42314236/",
    "abstract": "Patient-derived orthotopic xenotransplantation (PDOX) models have recently emerged as a potential approach for experimental therapeutics and precision medicine in malignant disease. However, the clinical application of PDOX models was restricted by the varying success rate of the animal models, long generation time, limited number of patient tumor cells and distinct stromal environments. To address this critical barrier, we developed an innovative patient-derived cell ring organoid platform using scaffold-free tumor cell rings. By co-culturing primary sarcoma cells with human skin fibroblasts (HSFs), functional tumor microenvironment (TME) -incorporated organoids were generated within 48 h without exogenous matrices. These organoids enabled rapid establishment of orthotopic xenografts (r-PDOX) in ≤7 days with 100% engraftment efficiency while requiring 50% fewer cells than conventional methods. Crucially, integrated HSFs replicated desmoplastic stroma and vascular networks, preserving patient-specific molecular profiles (transcriptomic correlation r = 0.87) and biological processes. As a preliminary proof-of-concept, the r-PDOX models showed encouraging concordance with patient responses to first-line therapeutics, including ifosfamide and anlotinib, though validation in larger cohorts is required. This platform overcomes key limitations of existing sarcoma models - including cell leakage, phenotypic drift, and protracted timelines, offering a physiologically relevant tool for personalized therapy exploration. The platform represents a promising methodological foundation for rapid sarcoma preclinical modeling in the era of precision oncology.",
    "abstract_source": "pubmed",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发基于细胞环的无支架器官oid平台，快速构建肉瘤患者源性原位异种移植模型，实现高成功率与个体化药敏预测。",
+    "innovation": "首创无支架细胞环器官oid平台，48小时内构建含肿瘤微环境的类器官；植入效率100%且细胞用量减少50%，7天内完成r-PDOX建立；保留患者分子特征（转录组相关性r=0.87）并复现促结缔组织增生基质与血管网络。",
+    "significance": "该平台克服了传统肉瘤模型细胞泄漏、表型漂移和周期长的瓶颈，为个性化治疗提供生理相关工具。初步验证对一线药物（异环磷酰胺、安罗替尼）反应与患者一致，为精准肿瘤学快速临床前建模奠定基础。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-20T23:16:54+00:00"
+   },
    "source": "crossref"
   },
   {

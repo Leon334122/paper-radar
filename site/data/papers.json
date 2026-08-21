@@ -1,8 +1,40 @@
 {
- "updated_at": "2026-08-20T23:16:56+00:00",
- "count": 780,
+ "updated_at": "2026-08-21T23:01:44+00:00",
+ "count": 794,
  "note": "本文件由 pipeline build 自动生成，请勿手工编辑。",
  "papers": [
+  {
+   "doi": "10.1038/s41551-026-01770-z",
+   "title": "Targeted lipid nanoparticles unlock in vivo human haematopoietic stem cell gene editing",
+   "authors": [
+    "Zhangyi Luo",
+    "Audrey T. Zhu",
+    "Michael J. Mitchell"
+   ],
+   "journal": "Nature Biomedical Engineering",
+   "tier": "A",
+   "publication_date": "2026-08-21",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物",
+    "基因治疗"
+   ],
+   "relevance_score": 15,
+   "url": "https://doi.org/10.1038/s41551-026-01770-z",
+   "url_doi": "https://doi.org/10.1038/s41551-026-01770-z",
+   "url_pubmed": null,
+   "abstract": "Nature Biomedical Engineering, Published online: 21 August 2026; doi:10.1038/s41551-026-01770-z Antibody-modified targeted lipid nanoparticles enable precise, durable genetic modification of human haematopoietic stem cells directly in the bone marrow.",
+   "abstract_source": "rss",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "抗体修饰的靶向脂质纳米颗粒可在骨髓内直接编辑人类造血干细胞，实现精准持久的基因修饰。",
+    "innovation": "抗体修饰实现造血干细胞靶向递送；直接在体内骨髓进行基因编辑，无需体外操作；实现精准且持久的遗传修饰。",
+    "significance": "该技术简化了造血干细胞基因治疗流程，避免体外培养带来的损伤和风险。有望用于治疗血液系统遗传病，并推动体内细胞编程的临床应用。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:31+00:00"
+   },
+   "source": "crossref"
+  },
   {
    "doi": "10.1038/d41586-026-02612-3",
    "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
@@ -27,6 +59,33 @@
     "significance": "该疫苗为癌症个性化免疫治疗提供了实证支持，有望改变术后辅助治疗模式。未来若能扩展至更多癌种，将推动精准肿瘤学发展，提升患者生存率。",
     "model": "deepseek-v4-flash",
     "generated_at": "2026-08-20T23:16:38+00:00"
+   },
+   "source": "rss"
+  },
+  {
+   "doi": "10.1038/d41586-026-02617-y",
+   "title": "Daily briefing: People older than 100 have more cancer-killing cells",
+   "authors": [],
+   "journal": "Nature",
+   "tier": "S",
+   "publication_date": "2026-08-20",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://www.nature.com/articles/d41586-026-02617-y",
+   "url_doi": "https://doi.org/10.1038/d41586-026-02617-y",
+   "url_pubmed": null,
+   "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02617-y Killer T cells might help people to live to extraordinarily old ages. Plus, the longest-lived brain organoids so far and how mass genome-screening programmes for newborns might work.",
+   "abstract_source": "rss",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究发现百岁以上老人体内杀伤性T细胞更多，可能助力极端长寿，并涉及脑类器官与新生儿基因组筛查。",
+    "innovation": "揭示杀伤性T细胞数量与百岁长寿的关联；报道迄今最长寿脑类器官培养成果；探讨新生儿大规模基因组筛查的实施方案。",
+    "significance": "为理解人类长寿的免疫机制提供新线索，有望推动抗癌与抗衰老研究；脑类器官和基因组筛查技术的进展为再生医学与精准预防奠定基础。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:30+00:00"
    },
    "source": "rss"
   },
@@ -151,6 +210,122 @@
     "generated_at": "2026-08-20T23:16:42+00:00"
    },
    "source": "rss"
+  },
+  {
+   "doi": "10.1126/science.aed9286",
+   "title": "RAD51 stabilizes neutrophil extracellular traps to compartmentalize inflammation",
+   "authors": [
+    "Lorenza Iolanda Tsansizi",
+    "Sophie Yihan Guan",
+    "Iker Valle Aramburu",
+    "Rajvee Shah Punatar",
+    "Thomas J. Williams",
+    "Yihe E. Qiao",
+    "Anna Reed",
+    "Darius Armstrong-James",
+    "Stephen C. West",
+    "Venizelos Papayannopoulos"
+   ],
+   "journal": "Science",
+   "tier": "S",
+   "publication_date": "2026-08-20",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1126/science.aed9286",
+   "url_doi": "https://doi.org/10.1126/science.aed9286",
+   "url_pubmed": null,
+   "abstract": "<jats:p>\n                    Neutrophil extracellular traps (NETs) feature a branched chromatin architecture whose origin and function remain unknown. We found that NET branching is mediated by RAD51, a protein generating DNA junctions during DNA recombination repair. Pharmacological inhibition,\n                    <jats:italic toggle=\"yes\">RAD51</jats:italic>\n                    knockdown, or GEN1 and RuvC resolvase treatment reduced branching and destabilized NETs, whereas RAD51 up-regulation by different stimuli generated NETs with variable stability. RAD51 inhibition during murine pulmonary\n                    <jats:italic toggle=\"yes\">Aspergillus fumigatus</jats:italic>\n                    infection dismantled NETs and reduced lung cytokines. However, the increased accumulation of NET components in the circulation led to interleukin-6 (IL-6) induction in circulating monocytes that exacerbated type 2 inflammation and asthma. Extracellular plasma DNA correlated with IL-6 and eotaxin in human aspergillosis. By structurally stabilizing NETs, RAD51 compartmentalizes inflammation to thwart aberrant systemic immune activation, linking DNA repair to inflammation.\n                  </jats:p>",
+   "abstract_source": "crossref",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究发现RAD51通过稳定中性粒细胞胞外陷阱的结构来区隔炎症，避免系统性免疫过度激活。",
+    "innovation": "揭示RAD51在NETs分支结构形成中的关键作用；证明调控RAD51可改变NETs稳定性并影响炎症定位；将DNA修复蛋白与炎症区隔机制联系起来。",
+    "significance": "该发现为理解NETs结构功能及炎症调控提供了新视角，并为曲霉病等炎症性疾病提供潜在治疗靶点。通过调节RAD51活性，有望开发出平衡局部免疫与系统性炎症的新型干预策略。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:30+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1126/science.aeb0357",
+   "title": "A cinnamyl alcohol dehydrogenase–like scaffold organizes monoterpenoid indole alkaloid biosynthesis",
+   "authors": [
+    "Di Gao",
+    "Scott Galeung Alexander Mann",
+    "Binbin Chen",
+    "Yuanwei Gou",
+    "Cong Chen",
+    "Chong Qiao",
+    "Jorge Jonathan Oswaldo Garza-Garcia",
+    "Mohammadamin Shahsavarani",
+    "Xiaojing Jiang",
+    "Hannah Caroline Tran",
+    "Jingfei Bao",
+    "Mathew Bailey Richardson",
+    "Jianing Li",
+    "Jacob Owen Perley",
+    "Jaewook Hwang",
+    "Feng Dong",
+    "Chang Dong",
+    "Lei Huang",
+    "Vincenzo De Luca",
+    "Yajie Wang"
+   ],
+   "journal": "Science",
+   "tier": "S",
+   "publication_date": "2026-08-20",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1126/science.aeb0357",
+   "url_doi": "https://doi.org/10.1126/science.aeb0357",
+   "url_pubmed": null,
+   "abstract": "<jats:p>Biosynthesis of ~3000 monoterpenoid indole alkaloids (MIAs), including the anticancer drug vinblastine, involves the highly unstable intermediate strictosidine aglycone. Its formation by strictosidine β-glucosidase (SGD) and subsequent conversion by geissoschizine synthase (GS) occur in spatially separated compartments, representing a major biosynthesis bottleneck. In this study, we discover VinBLAST, a cinnamyl alcohol dehydrogenase–like protein repurposed as a scaffold for efficient processing of this labile intermediate. VinBLAST physically mediates the interaction of SGD and GS in the nucleus and allosterically enhances the catalytic efficiency of GS. VinBLAST homologs from diverse plant families enhance the biosynthesis of several representative MIAs, with the production of catharanthine increased to ~160 milligrams per liter in yeast, nearly 1000-fold higher than shown in previous studies. Our discovery provides a missing link in organizing MIA biosynthesis and enables scalable bioproduction of geissoschizine-derived therapeutics.</jats:p>",
+   "abstract_source": "crossref",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "发现CAD-like蛋白VinBLAST作为支架，组织单萜吲哚生物碱合成并大幅提升产量。",
+    "innovation": "发现VinBLAST作为支架蛋白，在细胞核内介导SGD与GS的物理互作；通过别构效应增强GS催化效率；利用VinBLAST同源物将酵母中阿吗碱产量提升近千倍。",
+    "significance": "该发现填补了单萜吲哚生物碱生物合成组织机制的空白，解决了不稳定中间体传递瓶颈。通过异源表达策略，为实现长春花碱等临床药物的规模化绿色生物制造提供了可行路径。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:31+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1002/adhm.71620",
+   "title": "Biphasic Co‐Delivery of Curcumin and 5‐FU using 3D‐Printed Dissolving Microneedles for Skin Cancer Therapy",
+   "authors": [
+    "Rutuja N. Meshram",
+    "Dimitrios A. Lamprou"
+   ],
+   "journal": "Advanced Healthcare Materials",
+   "tier": "C",
+   "publication_date": "2026-08-20",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1002/adhm.71620",
+   "url_doi": "https://doi.org/10.1002/adhm.71620",
+   "url_pubmed": null,
+   "abstract": "Dissolving microneedle (MN) arrays are a minimally invasive strategy for localized transdermal chemotherapy; however, their translation is limited by drug loading, reproducible dosing, and the difficulty of incorporating chemically distinct drugs into printable matrices. Although MN-mediated delivery of curcumin and 5-fluorouracil (5-FU) has previously been reported using inkjet/coating-based approaches, those systems deposit drug formulations onto preformed solid MNs and are therefore constrained by surface coating uniformity, limited matrix integration, possible drug loss during handling, and less direct control over geometry-dependent dose. Here, we report a distinct one-step DLP 3D-printing strategy in which hydrophilic 5-FU and hydrophobic curcumin are incorporated directly into a single PEGDA/VP photocurable resin before fabrication. The optimized resin enabled high-resolution MN arrays with CAD-defined dimensions, sharp tips, insertion efficiency above 95%, high drug entrapment, and controlled/biphasic release behavior. Importantly, the work demonstrates that curcumin's optical absorbance can be managed through exposure optimization without compromising print fidelity, allowing dual-drug-loaded dissolving MNs to be manufactured directly from the therapeutic resin. These findings establish the system as a formulation-process-performance platform rather than a first report of curcumin/5-FU MN co-delivery, providing a scalable and customizable approach for localized skin-cancer drug delivery that warrants future biological validation.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "采用一步DLP 3D打印将姜黄素与5-FU共载于溶解微针，实现双相释放与高效透皮递送，用于皮肤癌局部治疗。",
+    "innovation": "一步DLP 3D打印将亲水性5-FU和疏水性姜黄素直接封装于PEGDA/VP光固化树脂；通过曝光优化调控姜黄素光吸收而不影响打印精度，实现高包封与双相释放；微针具有CAD定义尺寸、尖锐针尖和>95%插入效率。",
+    "significance": "该策略克服传统涂覆法制备载药微针的均匀性和载药量限制，形成可扩展、可定制的制剂-工艺-性能平台，为皮肤癌局部化疗提供新方案，但需进一步生物学验证以推动临床转化。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:34+00:00"
+   },
+   "source": "openalex"
   },
   {
    "doi": "10.1038/d41586-026-02587-1",
@@ -302,12 +477,12 @@
    "directions": [
     "纳米药物"
    ],
-   "relevance_score": 6,
+   "relevance_score": 8,
    "url": "https://doi.org/10.1186/s12951-026-04935-9",
    "url_doi": "https://doi.org/10.1186/s12951-026-04935-9",
    "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "abstract": "Infected bone defects remain a critical clinical challenge due to the coexistence of persistent bacterial infection, excessive inflammation, and impaired bone regeneration. The development of nanoparticle-based phototherapy capable of simultaneously addressing these issues is therefore of great significance. Here, selenium-tellurium (SeTe) nanoparticles via a novel sputtering and exfoliation process were developed. These agents showed strong short-wave infrared (SWIR) photothermal/photoelectric responses, alongside excellent physicochemical stability and biocompatibility, making them promising active phototherapeutic candidates. SeTe inhibited bacterial growth and biofilms under SWIR while reducing reactive oxygen species and suppressing inflammation-related cytokines. Notably, SeTe upregulated selenoproteins like GPX4 and GPX1, enhancing antioxidant capacity and redox balance. SeTe also promoted osteogenic differentiation via increased alkaline phosphatase activity, mineralization, and osteogenic gene/protein expression. In vivo, SeTe combined with SWIR significantly improved infected bone defect repair—reducing bacteria, boosting new bone formation, and restoring bone microarchitecture. Histology and immunohistochemistry showed reduced inflammation, along with elevated osteogenic and antioxidant markers. This multifunctional SeTe-based system integrates antibacterial, anti-inflammatory, and osteogenic properties, offering a promising approach for treating infected bone defects and advancing biomaterial design for complex tissue regeneration.",
+   "abstract_source": "openalex",
    "summary_status": "done",
    "summary": {
     "one_liner": "开发SWIR响应性SeTe纳米颗粒，兼具抗菌活性与硒蛋白相关氧化还原调控，用于感染性骨缺损修复。",
@@ -423,6 +598,134 @@
     "significance": "该纳米平台显著抑制三阴性乳腺癌肿瘤生长，并拓展至激素受体阳性乳腺癌，为广谱乳腺癌靶向治疗提供新策略。结合3D球体模型提高了药物筛选的准确性，有望推动香芹酚的临床转化研究。",
     "model": "deepseek-v4-flash",
     "generated_at": "2026-08-19T23:01:47+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1126/sciadv.aec5478",
+   "title": "Reconstructing pathogen-specific antibody binding epitopes and age-dependent immune signatures from proteomic-scale peptide libraries",
+   "authors": [
+    "Everlyn Kamau",
+    "Nikolina Walas",
+    "Minlu Zhang",
+    "Kathy Kamath",
+    "Jack Reifert",
+    "John Shon",
+    "Shahjahan Ali",
+    "Md Ziaur Rahman",
+    "Abul K. Shoab",
+    "Syeda L Famida",
+    "Salma Akther",
+    "Md Saheen Hossen",
+    "Palash Mutsuddi",
+    "Mahbubur Rahman",
+    "Jessica A. Grembi",
+    "Andrew Mertens",
+    "Richelle C. Charles",
+    "Daniel T. Leung",
+    "Stephen P. Luby",
+    "Audrie Lin"
+   ],
+   "journal": "Science Advances",
+   "tier": "B",
+   "publication_date": "2026-08-19",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1126/sciadv.aec5478",
+   "url_doi": "https://doi.org/10.1126/sciadv.aec5478",
+   "url_pubmed": null,
+   "abstract": "High-density peptide arrays are useful for mapping linear antibody epitopes and resolution of antibody specificity in a single-assay platform. Here, we used peptide library screening to evaluate magnitude and breadth of humoral responses to enteric pathogens in the context of public health interventions. We characterized the epitope landscape to known immunogenic proteins to several viruses, bacteria, and parasites and used that to infer immunological profiles at age 3, 14, and 28 months. The peptide libraries detected immune signatures better for viruses compared with bacteria and parasites and captured distinct dynamics of protein-level variation in immune signatures over time. We found limited sensitivity for bacterial and protozoan pathogens whose humoral responses may depend more on conformational or natively modified epitopes than linear-peptide binding. Unbiased peptide libraries have potential utility for broad analysis of antibody responses in integrated serosurveillance, but our results reveal pathogen-specific limitations where peptide-based serology would be less predictive of true infection status and where it would provide greater surveillance value. Beyond assay performance, peptide arrays are useful for studying epitope architecture, and a practical implication would require augmentation with alternative antigen formats (whole-protein or folded antigens) in a complementary hybrid approach.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "利用蛋白质组尺度肽库重建病原体特异性抗体表位，并揭示年龄相关的免疫特征，评估其在血清监测中的价值。",
+    "innovation": "构建覆盖多种病毒、细菌和寄生虫的蛋白组尺度肽库，系统描绘线性抗体表位图谱；首次在公共卫生干预背景下分析3、14、28月龄婴幼儿的免疫特征动态变化；明确肽库对病毒免疫信号检测优于细菌和原生动物，并揭示其结构表位依赖局限性。",
+    "significance": "该研究为整合血清监测提供了高通量抗体分析平台，有助于评估公共健康干预效果和病原体暴露史。同时，揭示了肽阵列在细菌和寄生虫检测中的不足，为未来构建肽与全蛋白或折叠抗原互补的混合检测策略提供了关键依据。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:34+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1126/sciadv.aeg3424",
+   "title": "HMOX1 controls a heme-ferritin switch that protects cells from ferroptosis",
+   "authors": [
+    "Izadora de Souza",
+    "Izabela Amélia Marques de Andrade",
+    "Florêncio Porto Freitas",
+    "Ana Beatriz da Silva Teixeira",
+    "Maria Carolina Clares Ramalho",
+    "Karoline Almeida",
+    "Ancély Ferreira dos Santos",
+    "Werner Schmitz",
+    "Gholamreza Fazeli",
+    "Clarissa Ribeiro Reily Rocha",
+    "José Pedro Friedmann Angeli"
+   ],
+   "journal": "Science Advances",
+   "tier": "B",
+   "publication_date": "2026-08-19",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1126/sciadv.aeg3424",
+   "url_doi": "https://doi.org/10.1126/sciadv.aeg3424",
+   "url_pubmed": null,
+   "abstract": "Modulating the intracellular labile iron pool (LIP) has emerged as a promising strategy to induce ferroptosis in cancer cells, offering a way to overcome resistance to apoptosis-based therapies. One of the main contributors to LIP is heme catabolism mediated by heme oxygenase-1 (HMOX1), which promotes ferroptosis sensitivity by releasing free iron. Beyond its role as an iron donor, heme can influence diverse proteins and signaling pathways that drive tumor progression, but how heme regulates ferroptosis remains poorly understood. Here, we uncover a paradoxical, protective function of heme in the absence of HMOX1 activity. When HMOX1 is inactive, heme becomes stabilized, leading to ferritin up-regulation, suppression of ferroptosis, and rescue of cell death induced by both pharmacological and genetic inhibition of GPX4. Our findings reveal an unrecognized heme-HMOX1-ferritin axis that controls ferroptosis sensitivity. Targeting this pathway may offer a new therapeutic strategy to modulate ferroptosis in cancer.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究发现HMOX1失活时血红素稳定并上调铁蛋白，抑制铁死亡，揭示新的血红素-HMOX1-铁蛋白调控轴。",
+    "innovation": "揭示HMOX1失活时血红素发挥保护性功能，而非促铁死亡；发现血红素-HMOX1-铁蛋白轴调控铁死亡敏感性；证明该轴可对抗GPX4抑制诱导的细胞死亡。",
+    "significance": "该发现挑战了HMOX1仅通过释放铁促进铁死亡的传统认知，为理解铁代谢与铁死亡调控提供新视角。靶向此通路可为癌症治疗中调节铁死亡提供新策略，尤其对克服凋亡耐药具有潜在应用价值。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:34+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.biomaterials.2026.124563",
+   "title": "Evaluation and clinical translation of nanoprobiotic delivery systems",
+   "authors": [
+    "Lizhi Liu",
+    "Zhengying Cui",
+    "Zihan Zheng",
+    "Gaoke Wang",
+    "Ruifang Dong",
+    "Qiaochu Li",
+    "Caili Fu",
+    "Mengxue Zhang",
+    "Dali Wang",
+    "Wujun Xu",
+    "Vesa-Pekka Lehto",
+    "Zhiqiang Xing",
+    "Jinyao Liu"
+   ],
+   "journal": "Biomaterials",
+   "tier": "C",
+   "publication_date": "2026-08-19",
+   "date_precision": "approx",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1016/j.biomaterials.2026.124563",
+   "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124563",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42623997/",
+   "abstract": "Nanoprobiotic delivery systems have emerged as a promising strategy to improve probiotic stability, functionality, and therapeutic efficacy. In general, nanoprobiotics refer to probiotic formulations integrated with nanoscale or nanoengineered carriers to protect living microorganisms and enhance delivery efficiency. Compared with conventional formulations, these systems provide better stress resistance, improved colonization, and more controlled or targeted release, showing broad potential in functional foods, precision nutrition, and gastrointestinal disease intervention. Despite these advances, the clinical translation of nanoprobiotic delivery systems remains limited. One of the major barriers is the lack of a systematic and standardized evaluation framework that can connect material design with biological performance and translational feasibility. Current studies often focus on isolated indicators such as encapsulation efficiency or survival rate, whereas comprehensive assessment across in vitro, in vivo, and clinical levels is still insufficient and inconsistent. In this review, we propose a multilevel evaluation framework for nanoprobiotic delivery systems to support their rational development and clinical translation. Specifically, we summarize current strategies for nanoprobiotic design and then discuss key evaluation approaches, including static and dynamic in vitro digestion models, intestinal permeability and epithelial interaction studies, animal-based biodistribution and bioactivity assessment, and clinical trials with population-level follow-up. We further highlight major translational challenges, including biosafety, large-scale manufacturing, regulatory uncertainty, and long-term stability. Overall, this review aims to provide a structured framework for the standardized evaluation of nanoprobiotic delivery systems and to accelerate their translation from laboratory research to practical clinical and nutritional applications.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "综述纳米益生菌递送系统，提出多层级评估框架以连接材料设计、生物性能与临床转化，促进标准化发展。",
+    "innovation": "提出涵盖体外、体内及临床的多层级系统评估框架；首次将材料设计、生物性能与转化可行性进行关联分析；系统总结静态/动态消化模型、肠屏障研究及人群随访等评估方法",
+    "significance": "为纳米益生菌递送系统提供标准化评估范式，有助于解决现有研究指标碎片化问题。该框架可加速候选制剂从实验室向临床与营养应用转化，同时为生物安全、规模化生产等挑战提供应对思路。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:35+00:00"
    },
    "source": "crossref"
   },
@@ -1467,6 +1770,46 @@
     "generated_at": "2026-08-19T23:02:07+00:00"
    },
    "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.biomaterials.2026.124562",
+   "title": "Paving the way for immunotherapy: Simvastatin-primed dual-targeting NPTAC overcomes immune resistance in hepatocellular carcinoma",
+   "authors": [
+    "Chen Chen",
+    "Quanwei Sun",
+    "Qiongliu Yu",
+    "Yunlong Li",
+    "Wenshuo Yang",
+    "Zhengwei Song",
+    "Kang Liu",
+    "Danni Huang",
+    "Wenjing Niu",
+    "Wei Shen",
+    "Ye Yang",
+    "Dengke Yin"
+   ],
+   "journal": "Biomaterials",
+   "tier": "C",
+   "publication_date": "2026-08-18",
+   "date_precision": "approx",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.biomaterials.2026.124562",
+   "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124562",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "辛伐他汀预处理的双靶向NPTAC通过克服免疫耐受，为肝细胞癌免疫治疗铺平道路。",
+    "innovation": "双靶向纳米递送系统；辛伐他汀预处理增强抗肿瘤免疫；克服肝癌免疫耐受",
+    "significance": "该策略有望解除肝癌免疫治疗阻力，提升疗效。为纳米药物联合免疫治疗提供新思路，具有临床转化潜力。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:37+00:00"
+   },
+   "source": "crossref"
   },
   {
    "doi": "10.1021/acs.molpharmaceut.6c00219",
@@ -3058,16 +3401,17 @@
    "publication_date": "2026-08-17",
    "date_precision": "approx",
    "directions": [
+    "药物递送系统",
     "纳米药物",
     "细胞搭便车",
     "肺部靶向"
    ],
-   "relevance_score": 12,
+   "relevance_score": 18,
    "url": "https://doi.org/10.1016/j.biomaterials.2026.124559",
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124559",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42623996/",
+   "abstract": "Cryptococcal meningitis is a devastating fungal infection of the central nervous system that disproportionately affects immunocompromised individuals and carries high mortality. Amphotericin B (AmB), the clinical gold standard, exhibits potent fungicidal activity but is associated with substantial systemic toxicity. Nanoparticle-based delivery systems have been explored to enhance AmB therapeutic efficacy and mitigate systemic toxicity; however, inadequate blood-brain barrier (BBB) penetration and the absence of pathogen-specific targeting remain major obstacles. Herein, we developed a biomimetic targeted nanoplatform for intranasal delivery to address these challenges. The nanoplatform was constructed by coating self-assembled AmB and chlorin e6 (Ce6) hybrid nanoparticles with genetically engineered macrophage membranes overexpressing the β-glucan receptor Dectin-1. Following intranasal administration, the nanoplatform efficiently reached the meninges and specifically bound Cryptococcus neoformans via Dectin-1-mediated recognition, upon which ultrasound stimulation triggered reactive oxygen species (ROS) generation from Ce6 and rapid AmB release. In vitro studies confirmed the enhanced fungal targeting and antifungal efficacy of the engineered nanoplatform. In a murine model of cryptococcal meningitis, treatment with this nanoplatform significantly reduced brain fungal burden, alleviated histopathological damage, and prolonged survival compared with commercially available liposomal AmB. Collectively, these findings highlight the biomimetic targeted nanoplatform as a promising therapeutic strategy for fungal infections in the brain.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "开发鼻内递送Dectin-1增强的巨噬细胞膜纳米颗粒，靶向治疗隐球菌脑膜炎。",
@@ -3341,6 +3685,45 @@
     "generated_at": "2026-08-18T23:02:43+00:00"
    },
    "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.biomaterials.2026.124545",
+   "title": "Mechanical regulation of m6A-dependent autophagy sustains cancer stemness and chemoresistance in a viscoelastic tumor microenvironment",
+   "authors": [
+    "Yueman Zhang",
+    "Chutian Huang",
+    "Yuxiao Zhang",
+    "Yang Zhang",
+    "Huiyao Deng",
+    "Weitang Guo",
+    "Zhuo Li",
+    "Xiayi Xu",
+    "Yu Zhang",
+    "Kunyu Zhang",
+    "Liming Bian"
+   ],
+   "journal": "Biomaterials",
+   "tier": "C",
+   "publication_date": "2026-08-16",
+   "date_precision": "approx",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.biomaterials.2026.124545",
+   "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124545",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究揭示粘弹性肿瘤微环境通过机械调控m6A依赖性自噬维持癌症干性与化疗耐药的新机制。",
+    "innovation": "首次阐明粘弹性微环境机械信号调控m6A修饰进而影响自噬的分子通路；揭示机械-表观遗传-自噬轴在癌症干性和化疗耐药中的协同作用。",
+    "significance": "为理解肿瘤微环境物理特性对癌症进展的调控提供新视角，有望推动针对机械传导和m6A修饰的联合治疗策略开发，改善化疗耐药患者的预后。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:38+00:00"
+   },
+   "source": "crossref"
   },
   {
    "doi": "10.1038/s41467-026-76757-0",
@@ -11288,6 +11671,52 @@
     "significance": "该研究为GRPR靶向放射性药物的结构优化提供了新策略，NMe-His12替换有望成为设计激动剂类示踪剂的有效修饰手段。[68Ga]Ga-SP01012展现出作为PET示踪剂可视化GRPR阳性肿瘤的潜力，有助于推动癌症诊断与放射配体治疗的精准化发展。",
     "model": "deepseek-v4-flash",
     "generated_at": "2026-08-18T14:35:57+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1126/science.adv8291",
+   "title": "Chemically induced skin tumors arise from long-lived stem cells of the upper hair follicle",
+   "authors": [
+    "Eve Kandyba",
+    "Arnaud Jabouille",
+    "Ferriol Calvet",
+    "Yun Rose Li",
+    "Andrea Curtabbi",
+    "Diana Cristea",
+    "Joyce Shin",
+    "Reyno Delrosario",
+    "Jonathan Anzules",
+    "Di Wu",
+    "David Quigley",
+    "Mark Taylor",
+    "Camila Zanette",
+    "Fang Yin Lo",
+    "Jacob Higgins",
+    "Jesse Salk",
+    "Nuria Lopez-Bigas",
+    "Allan Balmain"
+   ],
+   "journal": "Science",
+   "tier": "S",
+   "publication_date": "2026-08-06",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 5,
+   "url": "https://doi.org/10.1126/science.adv8291",
+   "url_doi": "https://doi.org/10.1126/science.adv8291",
+   "url_pubmed": null,
+   "abstract": "<jats:p>\n                    The identification of the cancer cell of origin is a fundamental issue in cancer biology. We used fluorescent lineage tracing of independent mouse skin stem cell populations, single-cell transcriptomics, and duplex sequencing to identify the origin of chemically induced skin tumors. Tumors arose predominantly from\n                    <jats:italic toggle=\"yes\">Lgr6</jats:italic>\n                    <jats:sup>+</jats:sup>\n                    and/or\n                    <jats:italic toggle=\"yes\">Lrig1</jats:italic>\n                    <jats:sup>+</jats:sup>\n                    stem cells of the upper hair follicle but only very rarely from the\n                    <jats:italic toggle=\"yes\">Lgr5</jats:italic>\n                    <jats:sup>+</jats:sup>\n                    and\n                    <jats:italic toggle=\"yes\">Krt19</jats:italic>\n                    <jats:sup>+</jats:sup>\n                    hair follicle bulge.\n                    <jats:italic toggle=\"yes\">Lgr6</jats:italic>\n                    <jats:sup>+</jats:sup>\n                    stem cells initiated by dimethylbenzanthracene responded to tumor promoter treatment, resulting in clonal expansion of initiated cells carrying the canonical\n                    <jats:italic toggle=\"yes\">Hras</jats:italic>\n                    Q61L mutation. Spontaneous mutations in\n                    <jats:italic toggle=\"yes\">Kras</jats:italic>\n                    also clonally expanded but did not generate tumors unless the\n                    <jats:italic toggle=\"yes\">Hras</jats:italic>\n                    gene was deleted, thus revealing a competitive interaction between the\n                    <jats:italic toggle=\"yes\">Hras</jats:italic>\n                    and\n                    <jats:italic toggle=\"yes\">Kras</jats:italic>\n                    pathways that influences clonal selection.\n                  </jats:p>",
+   "abstract_source": "crossref",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "化学诱导皮肤肿瘤主要起源于毛囊上部的Lgr6+和Lrig1+干细胞，而非毛囊隆突干细胞，并揭示Hras与Kras通路的竞争性相互作用。",
+    "innovation": "通过荧光谱系追踪和单细胞转录组学精确定位肿瘤起源细胞为毛囊上部Lgr6+/Lrig1+干细胞；发现Hras Q61L突变驱动的克隆扩增与Kras自发突变之间存在竞争性选择；揭示肿瘤促进剂处理可导致携带Hras突变的起始干细胞克隆性扩增。",
+    "significance": "该研究为理解皮肤癌的细胞起源提供了直接证据，明确了特定干细胞亚群在化学致癌中的关键作用。Hras与Kras通路的竞争性相互作用为癌症预防和治疗提供了新的潜在靶点，有助于开发更精准的早期干预策略。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:38+00:00"
    },
    "source": "crossref"
   },
@@ -20200,12 +20629,12 @@
    "directions": [
     "肿瘤治疗"
    ],
-   "relevance_score": 3,
+   "relevance_score": 5,
    "url": "https://doi.org/10.1016/j.cell.2026.07.042",
    "url_doi": "https://doi.org/10.1016/j.cell.2026.07.042",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42624074/",
+   "abstract": "In this issue of Cell, Lei et al. reveal a reciprocal circuit in which cuproptotic tumor cells promote dendritic cell activation and CD8+ T cell priming, whereas T cell-derived IFN-γ sensitizes tumor cells to FDX1-dependent cuproptosis. This self-reinforcing interaction provides a mechanistic rationale for combining cuproptosis induction with PD-L1 blockade to overcome immunotherapy resistance.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "铜死亡被纳入肿瘤-免疫循环，揭示其在癌症免疫中的新角色。",
@@ -20408,8 +20837,14 @@
    "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42619261/",
    "abstract": "Oxidative stress, a pervasive cancer vulnerability, remains a challenging therapeutic target attributed to tumor heterogeneity and adaptive resistance. Herein, we identify RhoA as a \"redox rheostat\" during oncolytic virotherapy through regulating mitochondrial dynamics, thereby addressing this bottleneck to enable pan-cancer therapy via oxidative-oncolytic synergy. Engineering oncolytic virus to express RhoA (rNDV-RHOA) elicits robust oxidative mitophagic cell death with inherent tumor selectivity and demonstrates superior oncolysis in a comprehensive panel of preclinical cancer models spanning in vitro, ex vivo, and in vivo settings, including models evaluated under intravenous administration. The construct exhibits favorable safety profiles without inducing seroconversion, facilitating repeated systemic dosing. Mechanistically, RhoA drives mitochondrial fission to impair mitochondrial Complex III, initiating oxidative stress while tempering it via mitophagy induction downstream of Akt/mTOR inhibition. Concurrently, viral infection serves as the decisive precipitating event that shifts the cellular response from adaptive mitophagy to mitochondrial catastrophe by enhancing Complex I and V activities to promote ATP biosynthesis, thereby culminating in acute cell death characterized by a precipitous decline in mitochondrial mass and ATP bioavailability. This establishes rNDV-RHOA as an oncolytic virotherapy platform that transcends conventional oncolysis to surmount tumor heterogeneity by exploiting inherent tumor redox dependency.",
    "abstract_source": "pubmed",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "通过溶瘤病毒表达RhoA调控线粒体动力学，引发氧化应激与线粒体灾难，实现泛癌治疗。",
+    "innovation": "首次揭示RhoA作为氧化还原调节器，通过调控线粒体分裂与自噬实现溶瘤效应；构建rNDV-RHOA溶瘤病毒平台，利用氧化-溶瘤协同机制克服肿瘤异质性；阐明病毒感染从适应性自噬转向线粒体灾难的关键机制。",
+    "significance": "该平台提供了一种安全、可重复给药的泛癌治疗策略，通过利用肿瘤固有的氧化还原依赖性，有望突破传统溶瘤疗法的局限性，为难治性肿瘤提供新方案。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:41+00:00"
+   },
    "source": "crossref"
   },
   {
@@ -20489,6 +20924,130 @@
     "significance": "该研究填补了癌症恶病质无获批药物的空白，提供了一种精准靶向中枢IL-6信号的新治疗策略。通过降低脑干IL-6R表达，不仅缓解恶病质症状，还抑制炎症通路激活，具有广阔的临床转化前景。",
     "model": "deepseek-v4-flash",
     "generated_at": "2026-08-20T23:16:54+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.jconrel.2026.115287",
+   "title": "A pathogen-mimicking nanovaccine orchestrating danger recognition and immune activation for potent cellular immunity",
+   "authors": [
+    "Shuting Bai",
+    "Tianyi Luo",
+    "Kun Xiong",
+    "Yan Li",
+    "Yao Tang",
+    "Yating Wang",
+    "Yuan Xue",
+    "Yuwei Zhu",
+    "Bowen Ke",
+    "Xun Sun"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115287",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115287",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42624432/",
+   "abstract": "Vaccines protect against infectious diseases by mimicking pathogens and delivering key signals required for immune activation. However, how to rationally emulate pathogen invasion processes to achieve potent cellular immunity remains a major challenge in vaccine design. Here, we propose a pathogen-mimicking delivery strategy based on the sequential processes of \"danger recognition\" and \"immune activation\". Mannatide derived from Streptococcus α-hemolyticus was incorporated into the formulation to mimic pathogen-associated carbohydrate structures, thereby promoting mannose receptor-mediated antigen-presenting cell (APC) targeting and immune recognition. Acting as a pathogen-associated \"danger signal\", mannatide facilitates APC recognition and provides the foundation for downstream immune activation. To further amplify immune responses, we identified escin sodium (Esc), screened from clinically used saponin molecules, as a novel immunostimulatory agent capable of activating APCs through interferon-associated signaling pathways. Using highly adsorptive aluminum hydroxide as the \"pathogen structural scaffold\", we developed a one-step microfluidic-assisted assembly strategy to construct aluminum hydroxide-mannatide nanovaccines (AlMN) co-loaded with antigen and Esc. AlMN markedly enhanced APC maturation, antigen-specific CD8+ T-cell activation, and durable immunological memory in vivo. In a TC-1 tumor model expressing human papillomavirus (HPV)-associated antigens, AlMN vaccination significantly delayed tumor progression, while combination with anti-PD-1 therapy further improved survival. Collectively, this pathogen-mimicking strategy integrating \"danger recognition\" and \"immune activation\" provides a conceptual framework for the rational design and optimization of next-generation vaccine delivery systems.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发拟病原体纳米疫苗，模拟危险识别与免疫激活，增强细胞免疫抗肿瘤。",
+    "innovation": "将甘露聚糖肽作为病原相关危险信号，促进甘露糖受体介导的抗原提呈细胞靶向；筛选出七叶皂苷钠作为新型免疫刺激剂，通过干扰素信号通路激活APC；利用微流控一步组装构建氢氧化铝-甘露聚糖肽纳米疫苗共载抗原与免疫佐剂。",
+    "significance": "该策略合理模拟病原体入侵过程，显著增强CD8+T细胞活化与免疫记忆，在HPV相关肿瘤模型中延迟肿瘤进展，联合抗PD-1疗法进一步提升生存率，为下一代疫苗递送系统提供了理性设计框架。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:41+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.jconrel.2026.115273",
+   "title": "Engineering oral hydrogels for versatile drug delivery: core technologies, disease applications, and industrial translation",
+   "authors": [
+    "Dongyan Liu",
+    "Bei Guo",
+    "Fei Qin",
+    "Yilin Cao",
+    "Jingfeng Zhong",
+    "Zhoufan Xie",
+    "Yinxia Bao",
+    "Yecai Lai",
+    "Ruizhi Guo",
+    "Yiqiu Liao",
+    "Jieqiong Jiang",
+    "Mingwei Liu",
+    "Guiling Zhou",
+    "Chuanbin Wu",
+    "Chao Lu",
+    "Yi Zhang",
+    "Zejun Xu"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 5,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115273",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115273",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42624434/",
+   "abstract": "Oral drug delivery is preferred for patient compliance, but it's challenging for biologics and sensitive therapeutics due to the harsh gastrointestinal environment. Engineered oral hydrogels, enhanced through chemical modifications, offer superior entrapment efficiency and controlled release compared to traditional forms like capsules. Through innovative mechanisms, including stimuli-responsiveness, active adhesion, and microenvironmental modulation, oral hydrogels overcome key limitations associated with traditional oral formulations. These systems can achieve prolonged retention and site-specific controlled release in targeted areas of the gut, such as the colon, through chemical engineering strategies. Meanwhile, they can also be used as bioactive ingredients to regulate intestinal microbiota, restore the integrity of the mucosal barrier, and play a systemic therapeutic role in distal organs through the gut-brain axis and gut-immune axis. This review summarizes the research progress of oral hydrogel materials, focusing on their stimuli-responsive and mucus-adhesive designs for efficient drug delivery, as well as extended functions such as regulation of intestinal microbiota. It also addresses the challenges of clinical translation and examines bottlenecks and regulatory pathways to scale up through disease-specific cases. Finally, an integrated framework combining rational design, artificial intelligence, and translational science is proposed to bridge the gap from laboratory research to clinical applications.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "工程化口服水凝胶通过化学修饰实现刺激响应与粘附控释，可调节肠道菌群，并推动临床转化。",
+    "innovation": "化学修饰策略实现高效包载与结肠等靶向定位控释；刺激响应与黏液粘附设计克服胃肠屏障；兼具调节肠道菌群及肠-脑/肠-免疫轴的生物活性功能。",
+    "significance": "该综述为口服大分子药物递送提供新策略，有望改善患者依从性并拓展治疗窗口。通过肠轴调控可实现远端器官疾病干预，结合人工智能与转化科学框架，可加速口服水凝胶从实验室走向临床应用。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:44+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127327",
+   "title": "Engineered exosome-lymphotropic mRNA vaccine encoding series-connected antigens elicits potent antitumor immunity in pancreatic cancer",
+   "authors": [
+    "Yijia Li",
+    "Jiaying Jin",
+    "Kemeng Chen",
+    "Siyu Yao",
+    "Long Yang",
+    "Yuxing Lin",
+    "Wenbing Dai",
+    "Hua Zhang",
+    "Bing He",
+    "Lei Miao",
+    "Qiang Zhang",
+    "Xueqing Wang"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-08-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗",
+    "基因治疗"
+   ],
+   "relevance_score": 12,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127327",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127327",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "工程化外泌体-淋巴靶向mRNA疫苗编码串联抗原，在胰腺癌中诱导强效抗肿瘤免疫。",
+    "innovation": "利用工程化外泌体实现mRNA疫苗的淋巴系统靶向递送；设计串联抗原编码策略增强免疫应答；针对胰腺癌提出新型mRNA疫苗平台。",
+    "significance": "该疫苗平台有望提高胰腺癌免疫治疗的疗效，克服现有mRNA疫苗递送效率低的瓶颈。其淋巴靶向与串联抗原设计为其他实体瘤的疫苗开发提供新思路，具有临床转化潜力。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-08-21T23:01:42+00:00"
    },
    "source": "crossref"
   },

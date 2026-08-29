@@ -1,12 +1,36 @@
 {
- "updated_at": "2026-08-28T22:08:41+00:00",
- "count": 1094,
+ "updated_at": "2026-08-29T22:08:35+00:00",
+ "count": 1113,
  "note": "本文件由 pipeline build 自动生成，请勿手工编辑。",
  "papers": [
   {
+   "doi": "10.1038/s41591-026-04629-7",
+   "title": "Dual antithrombotic therapy using potent antiplatelet inhibitors in atrial fibrillation and acute coronary syndrome: a randomized controlled trial",
+   "authors": [],
+   "journal": "Nature Medicine",
+   "tier": "A",
+   "publication_date": "2026-08-29",
+   "date_precision": "day",
+   "directions": [
+    "细胞搭便车"
+   ],
+   "relevance_score": 3,
+   "url": "https://www.nature.com/articles/s41591-026-04629-7",
+   "url_doi": "https://doi.org/10.1038/s41591-026-04629-7",
+   "url_pubmed": null,
+   "abstract": "Nature Medicine, Published online: 29 August 2026; doi:10.1038/s41591-026-04629-7 As presented at the 2026 European Society of Cardiology Congress, use of direct oral anticoagulants together with potent P2Y12 inhibitors in patients with atrial fibrillation and acute coronary syndrome was associated with higher bleeding rates without evidence of reduced ischemic events, as compared to direct oral anticoagulants together with clopidogrel and aspirin.",
+   "abstract_source": "rss",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "rss"
+  },
+  {
    "doi": "10.1038/d41586-026-02732-w",
    "title": "Briefing Chat: How Dolly Parton left her mark on science",
-   "authors": [],
+   "authors": [
+    "Benjamin Thompson",
+    "Elizabeth Gibney"
+   ],
    "journal": "Nature",
    "tier": "S",
    "publication_date": "2026-08-28",
@@ -27,7 +51,9 @@
   {
    "doi": "10.1038/d41586-026-02680-5",
    "title": "The Moderna cancer vaccine offers hope — now we must speed up personalized therapies",
-   "authors": [],
+   "authors": [
+    "Patrick A. Ott"
+   ],
    "journal": "Nature",
    "tier": "S",
    "publication_date": "2026-08-28",
@@ -98,6 +124,304 @@
    "summary_status": "pending",
    "summary": null,
    "source": "crossref"
+  },
+  {
+   "doi": "10.1126/sciadv.aeb6556",
+   "title": "Tracking breast cancer progression using Methylscape",
+   "authors": [
+    "Zhen Zhang",
+    "Emtiaz Ahmed",
+    "Nicolas Constantin",
+    "Jennifer Lu",
+    "Stephanie Portelli",
+    "David B. Ascher",
+    "Darren Korbie",
+    "Alain Wuethrich",
+    "Abu Ali Ibn Sina",
+    "Matt Trau"
+   ],
+   "journal": "Science Advances",
+   "tier": "B",
+   "publication_date": "2026-08-28",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 5,
+   "url": "https://doi.org/10.1126/sciadv.aeb6556",
+   "url_doi": "https://doi.org/10.1126/sciadv.aeb6556",
+   "url_pubmed": null,
+   "abstract": "Abstract Cancer progression is intricately driven by epigenetic reprogramming, where aberrant DNA methylation patterns reshape gene regulation and cellular phenotypes. These alterations include promoter hypermethylation of tumour suppressor genes and global hypomethylation, collectively fuelling oncogenesis and disease advancement. We previously introduced the Methylscape —a distinct cancer-specific DNA methylation landscape characterized by clustered promoter hypermethylation and gene body hypomethylation—that enhances DNA’s physical affinity for gold surfaces. In this study, we demonstrate that Methylscape can be leveraged to monitor cancer progression. Using a breast cancer epithelial–mesenchymal transition (EMT) model, we observe an increase in Methylscape enrichment of mesenchymal-state DNA during EMT, suggesting that this method can sensitively detect subtle epigenetic remodelling linked to tumour progression. Using a gold-based DNA desorption enrichment strategy coupled with methylation sequencing and qPCR, we show that hypermethylated regions are preferentially enriched. Finally, we developed a low-cost, disposable screen-printed electrode platform for stage-specific breast cancer monitoring. Together, these findings establish Methylscape as a promising biophysical biomarker for non-invasive and real-time monitoring of cancer progression, advancing its potential for clinical translation.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1126/sciadv.aec0108",
+   "title": "Emerging nitrogen-driven urban atmosphere control on aerosol iron dissolution for biogeochemical cycles",
+   "authors": [
+    "Guochen Wang",
+    "Xiyao Chen",
+    "Kan Huang",
+    "W. J. Guan",
+    "Minkang Zhi",
+    "Qi Yuan",
+    "Keliang Li",
+    "Liang Xu",
+    "Ziwei Liu",
+    "Ruifeng Zhang",
+    "Yuntao Wang",
+    "Shixian Zhai",
+    "Pingqing Fu",
+    "Akinori Ito",
+    "Weijun Li"
+   ],
+   "journal": "Science Advances",
+   "tier": "B",
+   "publication_date": "2026-08-28",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1126/sciadv.aec0108",
+   "url_doi": "https://doi.org/10.1126/sciadv.aec0108",
+   "url_pubmed": null,
+   "abstract": "Iron (Fe) is a critical micronutrient regulating marine productivity and the global carbon cycle, yet its atmospheric dissolution mechanisms remain debated for biogeochemical cycle. The prevailing “iron-sulfur coupling” paradigm has traditionally explained proton-promoted dissolution. However, disproportionate declines in sulfur dioxide relative to nitrogen oxides emissions have created a “low-sulfur, high-nitrogen” atmosphere over East Asia, raising questions about the role of nitric acid. Here, we develop a data-driven framework to elucidate nitric acid–driven Fe dissolution using the nitrate-to-sulfate acidification capacity ratio ( R N/S ). Results show that nitrate now dominates urban aerosol Fe dissolution, contributing ∼1.5 times more than sulfate, challenging the long-standing paradigm. Global simulations further estimate that nitrate contributes to ∼68% of the enhancement in Fe solubility in PM 2.5 (particulate matter with a diameter of 2.5 μm) dust relative to preindustrial levels. These findings reveal an emerging nitrogen-driven control on Fe mobilization, emphasizing the need to incorporate species-dependent acid chemistry into models to accurately represent global Fe cycling and its climate feedbacks.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1126/sciadv.aec8271",
+   "title": "Programmable protein degraders enable selective knockdown of pathogenic β-catenin subpopulations in vitro and in vivo",
+   "authors": [
+    "Tianzheng Ye",
+    "Azmain Alamgir",
+    "Cara M. Robertus",
+    "Darianna Colina",
+    "Connor Monticello",
+    "Thomas Connor Donahue",
+    "Chandra Kanth Bandi",
+    "Lauren Hong",
+    "Sophia Vincoff",
+    "Shrey Goel",
+    "Kieu Lam",
+    "James Heyes",
+    "David Putnam",
+    "Christopher A. Alabi",
+    "Pranam Chatterjee",
+    "Matthew P. DeLisa"
+   ],
+   "journal": "Science Advances",
+   "tier": "B",
+   "publication_date": "2026-08-28",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽",
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1126/sciadv.aec8271",
+   "url_doi": "https://doi.org/10.1126/sciadv.aec8271",
+   "url_pubmed": null,
+   "abstract": "Aberrant activation of Wnt signaling results in unregulated accumulation of cytosolic β-catenin, which subsequently enters the nucleus and promotes transcription of genes that contribute to cellular proliferation and malignancy. Here, we sought to eliminate pathogenic β-catenin from the cytosol using designer ubiquibodies (uAbs), chimeric proteins composed of an E3 ubiquitin ligase and a target-binding domain that redirect intracellular proteins to the proteasome for degradation. To accelerate uAb development, we leveraged a protein language model–driven algorithm called SaLT&PepPr to computationally design “guide” peptides with affinity for β-catenin, which were subsequently fused to the catalytic domain of a human E3 called carboxyl terminus of Hsp70-interacting protein. Expression of the resulting peptide-guided uAbs in colorectal cancer cells led to the identification of several designs that greatly reduced the abnormally stable pool of free β-catenin in the cytosol and nucleus while preserving the normal membrane–associated subpopulation. This selective knockdown of pathogenic β-catenin suppressed Wnt/β-catenin signaling and impaired tumor cell survival and proliferation. Furthermore, one of the best degraders selectively decreased cytosolic but not membrane-associated β-catenin levels in livers of BALB/c mice following delivery as a lipid nanoparticle–encapsulated mRNA. Collectively, these findings reveal the unique ability of uAbs to selectively deplete abnormal proteins in vitro and in vivo and open the door to peptide-programmable biologic modulators of other disease-causing proteins.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1126/sciadv.aef8468",
+   "title": "LATS1/2 inactivation drives a distinct venous endothelial cell response that contributes to fibrotic remodeling of the lung",
+   "authors": [
+    "Konstantinos Kontodimas",
+    "Ahmed Raslan",
+    "Benjamin Spira",
+    "Crystal Zhu",
+    "Janardhan Keshav Karapurkar",
+    "Yohana Kefella",
+    "Darren Chiu",
+    "Xintao Qiu",
+    "Jennifer Beane",
+    "Giovanni Ligresti",
+    "Xaralabos Varelas"
+   ],
+   "journal": "Science Advances",
+   "tier": "B",
+   "publication_date": "2026-08-28",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 5,
+   "url": "https://doi.org/10.1126/sciadv.aef8468",
+   "url_doi": "https://doi.org/10.1126/sciadv.aef8468",
+   "url_pubmed": null,
+   "abstract": "Endothelial dysfunction is recognized to contribute to chronic tissue remodeling in the lung, yet endothelial-derived mechanisms driving these processes remain largely undefined. Here, we show that endothelial inactivation of the LATS1 and LATS2 kinases, key suppressors of the transcriptional regulators YAP and TAZ, elicits distinct responses depending on endothelial identity within different pulmonary vascular beds. Our data indicate that LATS1/2 inactivation in general capillary endothelial cells induces a reactive capillary injury-like state, whereas a separate endothelial population located within veins adopts a distinct profibrotic state. We show that expansion of this reactive venous endothelial cell population, which is marked by EBF1 and ACKR1 expression, is associated with fibroblast activation, macrophage accumulation, and epithelial remodeling, collectively generating a microenvironment characteristic of fibrotic lung disease. We further demonstrate that pharmacologic inhibition of YAP/TAZ-TEAD signaling prevents stromal and immune remodeling and fibrotic lesion formation following endothelial LATS1/2 inactivation. These findings identify LATS1/2-mediated restraint of YAP/TAZ as essential for lung endothelial homeostasis and highlight a distinct venous cell response as a direct contributor to fibrotic lung remodeling.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1126/sciadv.aef9186",
+   "title": "A self-triggering and fully sustainable gastric device enabling long-acting oral delivery of macromolecules",
+   "authors": [
+    "Chengbang Lu",
+    "Zede Yi",
+    "Hongyan Yuan",
+    "Haoying Wang",
+    "Kewen Lei",
+    "Weijie Li",
+    "Xianglin Wu",
+    "Weixuan Liu",
+    "Yunxiang Zhang",
+    "Teng Dong",
+    "Kai Wu",
+    "Yaoben Wang",
+    "Shuquan Cui",
+    "Yue Zhao",
+    "Yingning He",
+    "U Kei Cheang",
+    "Tian Liu",
+    "Yancong Zhang",
+    "Tianyuan Ci",
+    "Yiyuan Yang"
+   ],
+   "journal": "Science Advances",
+   "tier": "B",
+   "publication_date": "2026-08-28",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1126/sciadv.aef9186",
+   "url_doi": "https://doi.org/10.1126/sciadv.aef9186",
+   "url_pubmed": null,
+   "abstract": "Long-acting oral delivery of macromolecular therapeutics remains difficult, as most oral delivery devices focus on improving gastrointestinal absorption but do not adequately address sustained drug release and frequent dosing. In parallel, many gastric-retentive systems rely on nondegradable structural components, raising concerns regarding retained-device burden and postuse medical waste. Here, we report a biodegradable oral capsule device for long-lasting drug delivery, termed the sustainable gastric self-triggered device (SGSTD), inspired by the stinging mechanism of Apis mellifera . After reaching the stomach, SGSTD autonomously deploys a biodegradable barbed drug-loaded needle into the gastric wall, while the remaining carrier body is subsequently excreted, establishing a bioinspired “deploy-and-separate” strategy for long-acting gastric delivery. The embedded needle enables microchannel-mediated sustained release, with structurally tunable release behavior. Ex vivo and in vivo porcine studies confirmed gastric deployment, tissue retention, systemic safety, and localized tissue repair around the insertion region. In vivo, SGSTD maintained insulin delivery for over 7 days, achieving a relative bioavailability of 63.8%, approximately 17.2-fold higher than conventional oral administration. SGSTD is cost-effective, scalable, and composed of biodegradable materials, providing a sustainable strategy for long-acting oral biologics delivery.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1126/sciadv.aef4315",
+   "title": "Surface chemistry governs sex-dependent responses to PEG and zwitterionic siRNA nanocarriers in primary macrophages",
+   "authors": [
+    "Olivia L. Lanier",
+    "Brinkley Morse",
+    "Ethan Cisneros",
+    "Fabiola A. Chapa-Villarreal",
+    "Angelea Maestas-Olguin",
+    "Reem Al Buzz",
+    "Ani Savk",
+    "Nicholas A. Peppas"
+   ],
+   "journal": "Science Advances",
+   "tier": "B",
+   "publication_date": "2026-08-28",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统",
+    "纳米药物"
+   ],
+   "relevance_score": 15,
+   "url": "https://doi.org/10.1126/sciadv.aef4315",
+   "url_doi": "https://doi.org/10.1126/sciadv.aef4315",
+   "url_pubmed": null,
+   "abstract": "Nanoparticle carriers are widely used for nucleic acid delivery, with poly(ethylene glycol) (PEG)–conjugated nanoparticles emerging as a frontrunner in the field. Growing concerns surrounding PEG immunogenicity have generated interest in zwitterionic polymers as alternative biocompatible surface grafts. At present, there exists a paucity of data regarding zwitterion-conjugated nanoparticle performance in primary immune cells and across biological sexes. Here, we synthesized pH-responsive PEG- and zwitterion-grafted cationic nanoparticles, including PEG methyl ether methacrylate (PEGMMA), carboxybetaine methacrylate (CBMA), sulfobetaine methacrylate (SBMA), and polymeric SBMA, and assessed their cytotoxicity and small interfering RNA (siRNA) delivery in primary male and female murine macrophages. All formulations enabled intracellular siRNA uptake and suppressed tumor necrosis factor–α expression. Sex-dependent effects varied by nanoparticle formulation and biological end point. Zwitterionic nanoparticles exhibited sex-specific effects in cytotoxicity and gene knockdown despite similar uptake, whereas PEGMMA showed higher uptake in females but comparable knockdown across sexes. These findings demonstrate that uptake alone does not predict functional efficacy and highlight the importance of sex-informed evaluation when developing nanomedicines.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1126/sciadv.aee6195",
+   "title": "A spatially resolved implantable microdevice for multiplexed in situ screening of engineered cellular therapies in solid tumors",
+   "authors": [
+    "Sajanlal R. Panikkanvalappil",
+    "Ellen Maloney",
+    "Sebastian W. Ahn",
+    "Samantha Martin",
+    "Courtney Marlin",
+    "Sharath K. Bhagavatula",
+    "Oliver Jonas"
+   ],
+   "journal": "Science Advances",
+   "tier": "B",
+   "publication_date": "2026-08-28",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗",
+    "细胞疗法"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1126/sciadv.aee6195",
+   "url_doi": "https://doi.org/10.1126/sciadv.aee6195",
+   "url_pubmed": null,
+   "abstract": "The clinical translation of cellular immunotherapies for solid tumors remains limited by the lack of adequate tools to evaluate therapeutic function within the native tumor microenvironment. Here, we demonstrate a miniaturized implantable microdevice (IMD) capable of spatially resolving and multiplexing the delivery and screening of multiple T cell therapies directly within live tumors. This customizable IMD is comprised of discrete fibrin-filled reservoirs that can be independently loaded with distinct immune cell formulations, which enables spatially confined release and region-specific immune-tumor interactions within the same tumor mass. Using this platform in glioblastoma xenografts, we simultaneously delivered EGFR-targeting CAR-T cells and control T cells and analyzed adjacent tissues via IHC-based quantitative image analysis and multiplexed immunofluorescence. The perireservoir region adjacent to CAR-T cell reservoirs exhibited dense CD8 + infiltration, cleaved caspase-3-mediated apoptosis, and suppressed Ki67 expression, in contrast to minimal activity in control regions. We believe our IMD platform facilitates the parallel in vivo evaluation of multiple immune cell therapies, providing a translational tool to accelerate the development of successful personalized adoptive cell therapies.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-04943-9",
+   "title": "Engineered nanocomplex for targeted delivery of Beclin1 peptide enables autophagy-mediated tumor suppression and immune activation",
+   "authors": [
+    "Se-Youl Chae",
+    "Jiwon Woo",
+    "Yejin Ryu",
+    "Dal‐Hee Min"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-08-28",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统",
+    "自组装多肽",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 12,
+   "url": "https://doi.org/10.1186/s12951-026-04943-9",
+   "url_doi": "https://doi.org/10.1186/s12951-026-04943-9",
+   "url_pubmed": null,
+   "abstract": "Although autophagy is a central regulator of cellular homeostasis, its potential to reprogram the immunosuppressive tumor microenvironment (TME) remains largely unexplored. Within the TME, the dysregulated deposition of Tenascin-C (TNC) establishes a formidable extracellular matrix (ECM) barrier that constrains immune cell infiltration and promotes tumor progression. While it is known that autophagic flux mediates TNC degradation, leveraging this intracellular pathway to therapeutically dismantle the TNC-mediated barrier remains challenging. Here, we present a spatiotemporally controlled peptide-nanocomplex designed to selectively activate Beclin1-mediated autophagy. The induction of autophagy directly affects cancer cells via autophagy-associated cell death. Concurrently, this enhanced autophagic flux facilitates the targeted clearance of TNC, leading to the remodeling of the pericellular matrix. This reconfiguration deconstructs the physical barriers to immune exclusion, thereby facilitating robust cytotoxic T cell infiltration and enhancing effector cytokine production, while also attenuating mesenchymal traits. Consequently, our strategy significantly suppresses tumor growth and potentiates the efficacy of immune checkpoint blockade. Taken together, this approach translates the mechanistic link between intracellular autophagy and ECM dynamics into a targeted therapeutic strategy, providing a chemical biology platform to reprogram the immunosuppressive tumor niche.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.nantod.2026.103162",
+   "title": "From biodistribution to biological action: Redefining lipid nanoparticle high-throughput screening for therapeutic delivery",
+   "authors": [
+    "Xiaojie Yan",
+    "Zhixing Ding",
+    "Ping Yuan"
+   ],
+   "journal": "Nano Today",
+   "tier": "C",
+   "publication_date": "2026-08-28",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.nantod.2026.103162",
+   "url_doi": "https://doi.org/10.1016/j.nantod.2026.103162",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
   },
   {
    "doi": "10.1126/science.aeb0054",
@@ -316,6 +640,38 @@
    "url_doi": "https://doi.org/10.1038/s41467-026-77305-6",
    "url_pubmed": null,
    "abstract": "Abstract Colorectal cancer (CRC) is frequently accompanied by cachexia, a wasting syndrome characterized by progressive loss of muscle and bone that worsens physical function and survival. Although liver dysfunction is increasingly recognized in cachexia, whether tumor-induced liver signaling contributes directly to musculoskeletal decline remains unclear. Here we show that CRC establishes a tumor-liver endocrine relay in which tumor-derived fibroblast growth factor 21 (FGF21) stimulates hepatic production of the hepatokine insulin-like growth factor binding protein 1 (IGFBP1). IGFBP1 is consistently elevated in patients with CRC and in multiple mouse models, where it promotes osteoclast differentiation, muscle atrophy, and bone loss. Genetic or pharmacological inhibition of IGFBP1 preserves muscle and bone despite persistent tumor burden, whereas deletion of tumor-derived FGF21 suppresses hepatic IGFBP1 production and mitigates musculoskeletal wasting. These findings identify a tumor-liver signaling axis that drives CRC-associated cachexia and highlight the FGF21-IGFBP1 pathway as a therapeutic target to preserve musculoskeletal health.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-77159-y",
+   "title": "Yolk-shell zeolite nanoreactors enable multi-poison resistance for NOx reduction",
+   "authors": [
+    "YongLong Li",
+    "Guobo Li",
+    "Rongxing Li",
+    "Jian Ji",
+    "Xiaonan Hu",
+    "Fengbo Yu",
+    "Wenming Liu",
+    "Hongmei Li",
+    "Min Liu",
+    "Honggen Peng"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-08-27",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1038/s41467-026-77159-y",
+   "url_doi": "https://doi.org/10.1038/s41467-026-77159-y",
+   "url_pubmed": null,
+   "abstract": "The practical application of selective catalytic reduction with ammonia (NH3-SCR) for NOx abatement from stationary sources is severely restricted by catalyst deactivation induced by SO2 and alkali metal poisons in flue gas. Although integrating transition metal oxides with zeolites is widely pursued to enhance catalyst poisoning tolerance, most reported strategies have inherent limitations. Conventional loading approaches deliver high active phase loading but leave active sites directly exposed to poisons, whereas confinement strategies offer shielding protection but typically suffer from limited active phase content. Herein, we demonstrate the concept of a zeolite-confined nanoreactor by constructing a yolk-shell structured catalyst, in which high-content (> 10 wt.%) MnFeOx nanoparticles are encapsulated within a hollow ZSM-5 zeolite shell. In situ extended X-ray absorption fine structure spectroscopy (EXAFS) and diffuse reflectance infrared Fourier-transform spectroscopy (DRIFTS), combined with density functional theory (DFT) calculations, reveal a synergistic dual-shielding mechanism: the ZSM-5 zeolite shell physically hinders SO2 from accessing and poisoning the inner active oxides core, while its intrinsic framework Brønsted acid sites chemically suppress SO2 adsorption and trap alkali metal species. Consequently, the catalyst maintains over 95% NOx conversion at 250 °C under co-poisoning by SO2 and potassium. This work establishes hollow zeolite-confined nanoreactors as an effective and versatile platform for developing durable NOx emission control catalysts applicable to industrially relevant multi-poisoning conditions. Ammonia selective catalytic reduction for stationary NOx removal is limited by catalyst deactivation caused by SO2 and alkali metals in flue gas. Here, the authors develop a zeolite-confined yolk-shell nanoreactor that enables stable long-term operation under industrially relevant poisoning conditions.",
    "abstract_source": "openalex",
    "summary_status": "pending",
    "summary": null,
@@ -4504,6 +4860,75 @@
    "summary_status": "pending",
    "summary": null,
    "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.jconrel.2026.115298",
+   "title": "A 68Ga/161Tb-labeled FAP-targeted radioligand for enhanced theranostics: Prolonged tumor retention and metastasis inhibition",
+   "authors": [
+    "He Gao",
+    "Yifei Jiang",
+    "Ying Miao",
+    "Huizhen Yang",
+    "Guoping Jia",
+    "Xinyu Zhang",
+    "Runhua Feng",
+    "Zhenggang Zhu",
+    "Wangxi Hai",
+    "Xiaozheng Zhang",
+    "Peng Wang",
+    "Min Zhang",
+    "Xiao Li",
+    "Biao Li",
+    "Chunfu Zhang"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-08-24",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115298",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115298",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42636892/",
+   "abstract": "Fibroblast activation protein (FAP) is a promising theranostic target in stroma-rich malignancies. However, conventional FAP inhibitors exhibit rapid tumor washout, limiting their application in targeted radionuclide therapy. To address this limitation, we rationally designed two novel FAP-targeted radioligands, FAPI-RuiJ01 and FAPI-RuiJ02, by integrating glutathione or cysteine as hydrophilic linkers, respectively. In preclinical evaluations, FAPI-RuiJ01 showed sub-nanomolar FAP binding affinity (IC50 = 0.55 nM), enhanced hydrophilicity, prolonged tumor retention, low hepatosplenic uptake, and favorable tumor-to-background contrast. FAPI-RuiJ02 also exhibited FAP-specific uptake and improved hydrophilicity, however, its tumor uptake, retention and dosimetric profile were not consistently superior to those of FAPI-04 and were less favorable than those of FAPI-RuiJ01. In a preliminary first-in-human positron emission tomography/computed tomography (PET/CT) study of patients with gastric cancer (n = 5 per group), 68Ga-FAPI-RuiJ01 and 68Ga-FAPI-RuiJ02 showed higher uptake than 68Ga-FAPI-04 in metastatic lesions (P < 0.05), whereas in primary lesions, higher numerical values were observed without reaching statistical significance. For therapeutic evaluation, the tracers were labeled with Terbium-161 (161Tb), a radionuclide that emits both β- particles and Auger electrons. 161Tb-FAPI-RuiJ02 did not significantly inhibit tumor growth and showed therapeutic efficacy comparable to that of 161Tb-FAPI-04. 161Tb-FAPI-RuiJ01 suppressed primary tumor growth and reduced the lung metastatic burden in an orthotopic 4T1 breast cancer model. Mechanistically, 161Tb-FAPI-RuiJ01 induced substantial DNA double-strand breaks in vitro, and in vivo it promoted tumor cell death while suppressing proliferation. Transcriptomic and flow cytometric profiling further revealed that this treatment was associated with the enrichment of interferon-related signaling, along with remodeling of the immune microenvironment. Collectively, these findings support FAPI-RuiJ01 as a promising FAP-targeted theranostic radioligand that warrants further evaluation in metastatic malignancies.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.jconrel.2026.115297",
+   "title": "Dual-transporter-targeted oral semaglutide nanomicelles enable enhanced intestinal absorption and metabolic reprogramming in obesity and diabetes",
+   "authors": [
+    "Laxman Subedi",
+    "Arjun Dhwoj Bamjan",
+    "Eunbin Kim",
+    "Susmita Phuyal",
+    "Binaya Sapkota",
+    "Ki-Taek Kim",
+    "Seung‐Sik Cho",
+    "Jung‐Hyun Shim",
+    "Jong Bae Seo",
+    "Jin Woo Park"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-08-24",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115297",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115297",
+   "url_pubmed": null,
+   "abstract": "Obesity is a chronic, relapsing metabolic disorder associated with insulin resistance, dyslipidemia, and related complications. Although glucagon-like peptide-1 receptor agonists (GLP-1 RAs), particularly semaglutide (SEMA), exhibit robust therapeutic efficacy, their clinical application is limited by low oral bioavailability and the need for subcutaneous injection. Here, we report a dual-transporter-targeted oral nanomicellar platform (SGT-M) designed to overcome these limitations. SEMA was electrostatically complexed with glucosamine and taurolithocholate to enable transporter-mediated recognition, followed by incorporation into an n-dodecyl-β-D-maltoside-based nanomicelle. The optimized SGT-M had a particle size of 64.7 ± 1.27 nm and near-complete drug incorporation. In vitro, SGT-M enhanced apparent permeability by 28.8-fold in Caco-2/HT-29-MTX-E12 monolayers, while in situ intestinal perfusion demonstrated a 12.6-fold increase in effective permeability. Oral administration achieved a relative bioavailability of 4.62%. Mechanistic studies revealed a multivalent absorption pathway involving dual targeting of the apical sodium-dependent bile acid transporter (ASBT) and glucose transporter 2 (GLUT2), together with clathrin- and caveolae/lipid-mediated endocytosis. In a high-fat-diet-induced obese mouse model, daily oral administration of SGT-M produced dose-dependent therapeutic effects; at 5 mg/kg, it reduced body weight by 30.3% and fasting glucose by 65.6%, while improving HbA1c and HOMA-IR and decreasing adipose tissue mass. Notably, the highest oral dose of SGT-M produced therapeutically meaningful outcomes that approached those observed with subcutaneous SEMA (0.5 mg/kg) under the experimental conditions used. Collectively, SGT-M represents an engineered oral SEMA delivery system that enables effective systemic exposure and therapeutic efficacy, offering a promising strategy to transform injectable peptide therapies into clinically viable oral formulations.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
   },
   {
    "doi": "10.1002/anie.3095986",
@@ -9397,6 +9822,39 @@
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124553",
    "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42648264/",
    "abstract": "Osteoarthritis (OA) is a progressive degenerative joint disease characterized by dynamic pathological evolution. Existing therapies are largely confined to single-phase interventions and therefore fail to address the distinct biological requirements that arise during disease progression. Here, we report an intelligent responsive multifunctional nanoplatform that enables spatiotemporally programmed, stage-specific intervention of osteoarthritis through precisely controlled near-infrared (NIR) irradiation. During the initial phase, high-intensity NIR irradiation (1.5 W/cm2) preferentially eliminates pathological fibroblast-like synoviocytes through activation of an Rn7sk-associated apoptotic signaling pathway, thereby attenuating oxidative stress and inflammation-associated matrix degradation. Following microenvironmental remodeling, repeated low-intensity NIR irradiation (0.5 W/cm2) activates endogenous mesenchymal stem cells, enhances chondrogenic differentiation, and promotes extracellular matrix reconstruction, accompanied by increased expression of COL2A1, ELN, COL9A2, and COL11A2, ultimately restoring cartilage structure and function. Rather than relying on a static therapeutic modality, this programmable photothermal strategy synchronizes pathological suppression with regenerative activation according to the evolving biological requirements of osteoarthritis. Collectively, this work establishes a stage-matched therapeutic framework for precise microenvironmental regulation and provides a conceptual strategy for treating chronic degenerative diseases characterized by dynamically evolving pathological processes.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.biomaterials.2026.124560",
+   "title": "Cartilage-targeted siMMP13 delivery using cap-modified tetrahedral framework nucleic acids for Osteoarthritis therapy",
+   "authors": [
+    "Weitong Lu",
+    "Tianyu Chen",
+    "Shengnan Liao",
+    "Yue Sun",
+    "Xiaokai Zhao",
+    "Xingyu Liu",
+    "Yiyi Zhang",
+    "Sirong Shi",
+    "Yunfeng Lin"
+   ],
+   "journal": "Biomaterials",
+   "tier": "C",
+   "publication_date": "2026-08-20",
+   "date_precision": "approx",
+   "directions": [
+    "药物递送系统",
+    "自组装多肽",
+    "纳米药物"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.biomaterials.2026.124560",
+   "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124560",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42664712/",
+   "abstract": "Osteoarthritis (OA) is a degenerative joint disorder characterized by cartilage deterioration, with limited therapeutic options available to halt disease progression. A key driver of this pathology is the chondrocyte overexpression of matrix metalloproteinase 13 (MMP13), an enzyme that degrades type II collagen (Col2). Although small interfering RNA (siRNA) mediated silencing of MMP13 has shown therapeutic potential, its clinical translation is hindered by poor stability, inadequate cartilage infiltration, and a short joint residence time. To overcome these barriers, we engineered a cartilage-specific delivery system, Cap-tFNA-siMMP13 (Cats), by conjugating tetrahedral framework nucleic acid (tFNA) with cartilage-affinity peptides (Cap) to achieve efficient transport of siMMP13. The tFNA is an innovative DNA-based nanocarrier with excellent stability and cellular uptake capability. Beyond serving as delivery vehicles, tFNA also demonstrates intrinsic bioactivities including anti-inflammatory, antioxidant, and pro-proliferative effects on chondrocytes, making it particularly suitable for OA therapy. The resulting Cats nanoplatform demonstrated precise chondrocyte targeting, robust cellular uptake, and prolonged intra-articular retention. This led to potent downregulation of MMP13, which in turn mitigated inflammation and oxidative stress, inhibited chondrocyte apoptosis, and promoted cartilage matrix synthesis. In a rat model of OA, intra-articular injection of Cats effectively preserved the morphological integrity of both cartilage and subchondral bone. Our findings establish the Cats platform as a promising, multi-faceted therapeutic strategy for effective OA treatment.",
    "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,
@@ -21846,6 +22304,154 @@
     "model": "deepseek-v4-flash",
     "generated_at": "2026-08-18T23:02:56+00:00"
    },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acsnano.6c12939",
+   "title": "Chitosan-Infiltrated\nTiO2 Nanocrystal Composite\nOptical Metasurfaces for Colorimetric Leaf Sensing",
+   "authors": [
+    "Akhila Mallavarapu",
+    "Isa Merriam",
+    "Michelle Riemann",
+    "Ellen Y. Hu",
+    "Lujie Cai",
+    "Brent Helliker",
+    "Kevin T. Turner",
+    "Cherie R. Kagan"
+   ],
+   "journal": "ACS Nano",
+   "tier": "C",
+   "publication_date": "2026-08-10",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1021/acsnano.6c12939",
+   "url_doi": "https://doi.org/10.1021/acsnano.6c12939",
+   "url_pubmed": null,
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We report the design and assembly of geometrically and compositionally complex dielectric metasurfaces, termed nanocrystal–adaptive polymer composite optical metasurfaces (NCOMs), architected from nanocrystal (NC) building blocks and stimuli-responsive polymers to enable high figure-of-merit optical leaf sensors. These NCOM sensors are fabricated at scale by direct nanoimprint lithography into UV-curable TiO2 NC inks to structure optical metasurfaces in the geometry of surface relief gratings atop waveguides that support high reflectivity, narrowband guided-mode resonances. A room-temperature ligand exchange process creates a nanoporous TiO2 scaffold that is subsequently infiltrated with a stimuli-responsive polymer while retaining the metasurface geometry and optical quality. As a proof of concept, we demonstrate optical humidity sensors by incorporating a moisture-responsive biopolymer chitosan into the nanoporous TiO2 metasurfaces, resulting in a 430% improvement in sensitivity compared to conventional refractive-index sensors where the polymer is adjacent to the metasurface. The NCOM geometry is engineered to position its resonance at wavelengths above 750 nm, enabling detection with standard VIS-NIR Si photodetectors while maintaining broadband transparency across the photosynthetically active 400–700 nm wavelength range for unobstructive monitoring of crop health. NCOM sensors are mounted face-down on leaves, and the highly reflective resonances are readily distinguished from the leaf background and respond dynamically to leaf water stress, enabling passive, battery-free monitoring of leaf surface humidity.</jats:p>",
+   "abstract_source": "crossref",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acsnano.6c03801",
+   "title": "Boosting Cellular\nGlutathione Accelerates Elimination\nof Engineered Ultrasmall Nanoparticles from Kidneys and Liver by Promoting\nExosome Release",
+   "authors": [
+    "Yunfeng Ren",
+    "Yuanqing Song",
+    "Huixu Lu",
+    "Fang Mei",
+    "Ziyuan Wang",
+    "Yazhe Liang",
+    "Junyang Zhong",
+    "Rui Zheng",
+    "Bujie Du",
+    "Xingya Jiang"
+   ],
+   "journal": "ACS Nano",
+   "tier": "C",
+   "publication_date": "2026-08-10",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1021/acsnano.6c03801",
+   "url_doi": "https://doi.org/10.1021/acsnano.6c03801",
+   "url_pubmed": null,
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Being two major detoxifying organs for in vivo clearance of nanoparticles, the kidneys and liver are susceptible to prolonged accumulation of engineered nanoparticles and associated side effects, particularly for the nondegradable ones. Thus, strategies that expedite the elimination of accumulated nanoparticles from these organs are in high demand. Herein, using two engineered ultrasmall gold nanoparticles that respectively accumulate in the kidneys and liver as models, we showed that orally supplementing N-acetylcysteine (NAC), a clinical drug and precursor of glutathione (GSH), significantly accelerated the elimination of accumulated ultrasmall gold nanoparticles in the kidneys and liver while promoting their renal and hepatobiliary excretion in mice. This enhanced elimination effect stemmed from NAC-induced elevation of intracellular GSH levels, which facilitates endocytosed ultrasmall nanoparticles to be exocytosed via exosomes instead of prolonged trapping in the lysosomes, a mechanism distinct from the conventional transporter-mediated export of small-molecule xenobiotics through GSH conjugation. Moreover, this promotion of exosome release was found to be independent of nanoparticle treatment but a natural cellular response to boosted GSH levels by NAC. Our findings thus demonstrate NAC supplementation as a potential strategy for accelerating the excretion of ultrasmall nanoparticles from the kidneys and liver, offering insights into the role of GSH in facilitating cellular elimination of substances.</jats:p>",
+   "abstract_source": "crossref",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c02630",
+   "title": "Mesostructure-Dependent\nIonogel Infiltration in Electrochromic\nNanocrystal Thin Films",
+   "authors": [
+    "Chanyong Lee",
+    "Hyeyeon Jung",
+    "Janghan Na",
+    "Sungbin Kim",
+    "Juna Lee",
+    "Sungyeon Heo"
+   ],
+   "journal": "Nano Letters",
+   "tier": "C",
+   "publication_date": "2026-08-10",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1021/acs.nanolett.6c02630",
+   "url_doi": "https://doi.org/10.1021/acs.nanolett.6c02630",
+   "url_pubmed": null,
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Ionogels are promising electrolytes for nanocrystal-based near-infrared electrochromic devices, owing to their high ionic conductivity and dimensional stability. However, the extent of ionogel infiltration into nanocrystal films and its influence on electrochromic modulation remains poorly understood. Here, we investigate how thin-film mesostructure governs ionogel penetration and the resulting electrochromic response. WO3–x nanorod films with distinct mesostructures, including low-porosity densely packed films and high-porosity randomly packed films, are fabricated and laminated at room temperature with freestanding ionogel electrolytes (PVDF-HFP/Pp13TFSI/LiTFSI). X-ray photoelectron spectroscopy depth profiling and time-of-flight secondary ion mass spectrometry analyses reveal substantial ionogel infiltration throughout randomly packed films, whereas penetration into densely packed films is largely restricted to the near surface region. As a result, randomly packed films exhibit a higher charge capacity and enhanced optical modulation compared to densely packed counterparts. These findings underscore the critical role of mesostructure engineering in promoting the effective ionogel incorporation for high-performance solid-state electrochromic devices.</jats:p>",
+   "abstract_source": "crossref",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c02584",
+   "title": "Chirality Transfer\nfrom Chiral Molecules to Mie-Resonant\nSilicon Nanoparticles",
+   "authors": [
+    "Hiroki Kasai",
+    "Kento Shintani",
+    "Mojtaba Karimi Habil",
+    "Hiroaki Hasebe",
+    "Shahin Ghamari",
+    "Frank Vollmer",
+    "Hiroshi Sugimoto",
+    "Minoru Fujii"
+   ],
+   "journal": "Nano Letters",
+   "tier": "C",
+   "publication_date": "2026-08-10",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1021/acs.nanolett.6c02584",
+   "url_doi": "https://doi.org/10.1021/acs.nanolett.6c02584",
+   "url_pubmed": null,
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Advances in nanophotonics have enabled circular dichroism (CD) enhancement through optical chirality enhancement and chirality transfer from chiral molecules to nanoantennas. In Mie-resonant dielectric nanoantennas exhibiting both magnetic- and electric-type resonances, both mechanisms contribute to CD enhancement, and the relative contributions of chirality transfer and optical chirality density enhancement remain unclear. Here, we theoretically and experimentally investigate chirality transfer to silicon nanosphere (Si NS) nanoantennas. Analytical calculations show that a chiral shell induces differential absorption and scattering in the Si NS, producing CD signals at resonance wavelengths. Experiments using Si NSs coated with a cysteine-doped polymer layer reveal CD signals at Mie resonances, demonstrating chirality transfer from cysteine to nanoantennas. The results elucidate the underlying mechanism of chirality transfer to dielectric Mie resonators, supporting their potential applications as a platform for chiral sensing in the visible spectral region.</jats:p>",
+   "abstract_source": "crossref",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c02792",
+   "title": "Elastocapillary Deformation of “Glassy”\nPolymer Micelles at an Air–Water Interface",
+   "authors": [
+    "Sangyoon Kim",
+    "Xinzhe Jin",
+    "Nafisa Arfa",
+    "Masako Yamada",
+    "Seyoung Kim",
+    "You-Yeon Won"
+   ],
+   "journal": "Nano Letters",
+   "tier": "C",
+   "publication_date": "2026-08-10",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1021/acs.nanolett.6c02792",
+   "url_doi": "https://doi.org/10.1021/acs.nanolett.6c02792",
+   "url_pubmed": null,
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We report direct in situ neutron reflectivity (NR) observations of elastocapillary deformation of nominally glassy polymer micelles at the air–water interface. Despite possessing glassy cores, adsorbed micelles undergo pronounced surface-tension-driven deformation, forming flattened structures. Core anisotropy changes sharply near the core glass-transition temperature (Tg), revealing a crossover from elastic elastocapillary deformation to relaxation-dominated surface micellization. Far below Tg, the deformation is fully reversible and yields an apparent Young’s modulus that depends strongly on nanoscale core thickness, highlighting surface-induced mechanical gradients within the core.</jats:p>",
+   "abstract_source": "crossref",
+   "summary_status": "pending",
+   "summary": null,
    "source": "crossref"
   },
   {

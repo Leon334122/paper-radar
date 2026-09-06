@@ -1,12 +1,26 @@
 {
- "updated_at": "2026-09-05T22:15:29+00:00",
- "count": 1452,
+ "updated_at": "2026-09-06T22:15:21+00:00",
+ "count": 1462,
  "note": "本文件由 pipeline build 自动生成，请勿手工编辑。",
  "papers": [
   {
    "doi": "10.1038/s41467-026-77247-z",
    "title": "Selectively intraparticle oxygen dissociation and metalloid mineralization for long-term groundwater remediation",
-   "authors": [],
+   "authors": [
+    "C.P. Chen",
+    "Zhongyuan Guo",
+    "Qianhai Zhou",
+    "Du Chen",
+    "Minjie Chen",
+    "Kaijian Sang",
+    "Chen Miao",
+    "Jie Hou",
+    "Yong Wang",
+    "Kun Yang",
+    "Daohui Lin",
+    "Lizhong Zhu",
+    "Jiang Xu"
+   ],
    "journal": "Nature Communications",
    "tier": "A",
    "publication_date": "2026-09-05",
@@ -23,6 +37,135 @@
    "summary_status": "pending",
    "summary": null,
    "source": "rss"
+  },
+  {
+   "doi": "10.1038/s41467-026-77155-2",
+   "title": "PRMT7 restricts CD8+ T cells expansion via the NF-ΚB pathway",
+   "authors": [
+    "Nivine Srour",
+    "Kaixiu Luo",
+    "David Allard",
+    "Yan Xiong",
+    "Zhenbao Yu",
+    "Theodore Papadopoulos",
+    "François Santinon",
+    "Cheng-Hsun Hsieh",
+    "Anthony Parent",
+    "John Stagg",
+    "Simon Turcotte",
+    "Dalia Baršytė-Lovejoy",
+    "Stéphanie Lehoux",
+    "Sonia V. del Rincon",
+    "Jian Jin",
+    "Stéphane Richard"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-09-05",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1038/s41467-026-77155-2",
+   "url_doi": "https://doi.org/10.1038/s41467-026-77155-2",
+   "url_pubmed": null,
+   "abstract": "Nature Communications, Published online: 06 September 2026; doi:10.1038/s41467-026-77155-2 Cytotoxic T cells (CTL) are successfully employed in tumour therapy but understanding how their expansion and effector function is regulated might result in further improvements. Here the authors show by a T-cell-specific deletion of Prmt7 and by developing a PRMT7-targeting PROTAC degrader that PRMT7 is a negative regulator of the NF-κB pathway in CTL, removing of which improves anti-tumour function of CTL.",
+   "abstract_source": "rss",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-77500-5",
+   "title": "Benchmarking copy number alteration inference methods for spatial transcriptomics",
+   "authors": [
+    "Shi Han",
+    "Zhixi Xiong",
+    "Ying Zhou",
+    "Can Yang"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-09-05",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1038/s41467-026-77500-5",
+   "url_doi": "https://doi.org/10.1038/s41467-026-77500-5",
+   "url_pubmed": null,
+   "abstract": "Copy number alterations (CNAs), gains or losses of genomic regions, contribute to malignant progression and tumor heterogeneity. Advances in spatial transcriptomics have expanded opportunities to study clonal structure in situ, but direct spatial genomic profiling remains difficult in practice, motivating the increasing use of computational methods to infer CNAs from spatial transcriptomics data. However, their performance across diverse spatial transcriptomics settings remains unclear. Here, we present a benchmark of nine CNA inference methods across 69 spatial transcriptomics tissue sections from six cancer types and four spatial transcriptomics platforms. By evaluating these methods across four key tasks, we show that no single method consistently outperforms all others, with performance depending on the analytical goal and data characteristics. We therefore provide task-specific and data-aware guidance to help users select appropriate methods in practical settings. More broadly, this benchmark provides a basis for the future development and optimization of CNA inference methods. Copy number alteration inference from spatial transcriptomics remains challenging. Here, the authors benchmark nine methods across a variety of tissue sections, showing that no method dominates across all tasks and providing practical guidance for method selection.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05012-x",
+   "title": "Temporally programmed engineered bacteria orchestrate tumor microenvironment remodeling and nitroxidative amplification for enhanced cuproptosis immunotherapy",
+   "authors": [
+    "Tianjiao Zhang",
+    "Shuyu Xu",
+    "Yang Song",
+    "Xinxin Xie",
+    "Jinxia Zhang",
+    "Mengxin Wang",
+    "Haonan Wang",
+    "Mofan Li",
+    "Shiti Shama",
+    "Xiaolong Liang"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-05",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1186/s12951-026-05012-x",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05012-x",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-04899-w",
+   "title": "A CD44-targeted PDA/ZnO redox-active nanocomposite that couples chemotherapy with mitochondrial stress and tumor immune remodeling",
+   "authors": [
+    "Andrew E-Y Chuang",
+    "Szu-Yu Tung",
+    "Kai-Yi Tzou",
+    "Yao-En Cai",
+    "Hao-Cheng Hsu",
+    "Ke-Hung Tsui",
+    "Wei-Xuan Lin",
+    "Lekshmi Rethi",
+    "Shao-Wei Dong",
+    "Hieu Trung Nguyen",
+    "Chia-Hung Liu"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-05",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1186/s12951-026-04899-w",
+   "url_doi": "https://doi.org/10.1186/s12951-026-04899-w",
+   "url_pubmed": null,
+   "abstract": "Bladder cancer therapy is frequently limited by inefficient drug retention and adaptive immune resistance within a hypoxic tumor microenvironment. Here, we report a CD44-targeted, fully synthetic nanocomposite (HPPZC) that converts chemotherapy into a mitochondria-associated therapeutic strategy accompanied by tumor immune remodeling. Rapid microwave-assisted assembly integrates hyaluronic acid (HA), polydopamine (PDA), protamine, zinc oxide (ZnO), and camptothecin (CPT) into a structurally integrated hybrid nanocomposite with tumor targeting, while the PDA/ZnO interface functions as a redox-active platform associated with mitochondrial dysfunction and redox modulation. HPPZC induces rapid mitochondrial depolarization, elevates oxidative stress, and is associated with PINK1/Parkin-related mitochondrial quality-control and autophagy-associated turnover signatures. In vivo, HPPZC treatment prolonged local intratumoral retention and produced tumor regression. The combination of chemotherapy with mitochondrial stress and tumor immune remodeling, suppressing CXCL12 and PD-L1, promoting M1-like marker profile, and increasing CD8⁺ T-cell infiltration. This work establishes a reproducibly fabricated redox-active nanotherapeutic associated with mitochondrial stress that couples targeted chemotherapy with immune microenvironment remodeling for antitumor efficacy.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
   },
   {
    "doi": "10.1038/s41467-026-76382-x",
@@ -128,12 +271,12 @@
    "directions": [
     "肿瘤治疗"
    ],
-   "relevance_score": 3,
+   "relevance_score": 6,
    "url": "https://doi.org/10.1038/s41467-026-77467-3",
    "url_doi": "https://doi.org/10.1038/s41467-026-77467-3",
    "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "abstract": "Treatment options are limited for women with advanced endometrial cancer after platinum-based chemotherapy. In this single-arm, multicenter phase II CLEAR-EC trial with a safety run-in, we evaluated cadonilimab, a bispecific antibody targeting PD-1 and CTLA-4, plus lenvatinib as second-line or later therapy (ClinicalTrials.gov: NCT05824481). Three patients were enrolled in the safety run-in, followed by 29 additional patients after the recommended phase II dose was established. The primary endpoint was objective response rate; secondary endpoints included progression-free survival, overall survival, duration of response, disease control rate, and safety. Prespecified exploratory analyses assessed circulating tumor DNA in relation to efficacy, with additional post-hoc biomarker analyses. No dose-limiting toxicities occurred, establishing lenvatinib 16 mg once daily plus cadonilimab 10 mg/kg every three weeks as the recommended phase II dose. The trial met its prespecified primary endpoint, with an objective response rate of 40.6% (95% confidence interval, 23.7–59.4). Disease control rate was 81.3% (95% confidence interval, 63.6–92.8), median progression-free survival was 13.8 months, and median overall survival was not reached. Grade ≥3 treatment-related adverse events occurred in 40.6% of patients. Early on-treatment circulating tumor DNA levels were associated with progression-free and overall survival. Immune checkpoint blockade has emerged as a therapeutic option for patients with endometrial cancer. Here the authors report the results of a phase II trial of cadonilimab (a bispecific antibody targeting PD-1 and CTLA-4) combined with lenvatinib in advanced endometrial cancer.",
+   "abstract_source": "openalex",
    "summary_status": "pending",
    "summary": null,
    "source": "openalex"
@@ -1074,6 +1217,48 @@
    "url_doi": "https://doi.org/10.1021/acs.molpharmaceut.6c00526",
    "url_pubmed": null,
    "abstract": "Abstract Nanoparticle barcoding is a powerful approach to accelerate preclinical screening of nanotherapeutics by enabling rapid collection of high-volume data using fewer biological resources, with reduced experimental labor and fewer confounding variables across experiments. We previously introduced aryl halide-based tags (halocodes) as a barcoding technology with sensitive gas chromatography−mass spectrometry (GC−MS) detection, enabling nanoparticle tracking with minimal halocode incorporation and without measurably altering nanoparticle physicochemical properties. Building on this foundation, in this work, we developed a next generation of alkoxy-modified halocodes with tunable chemical properties that enhance encapsulation and stability within nanomaterials and extend the halocoding platform to lipid-based systems. By systematically varying halocode chemical structure and nanoparticle synthesis parameters, we established design rules governing halocode loading and retention in both polymeric nanoparticles and liposomes. We then leveraged next generation halocodes to perform a pooled in vitro screen of a mixed-core PLGA and liposomal-based nanoparticle library to identify nanoparticle core and surface chemistries with the highest affinity for ovarian cancer cells. Together, next generation halocodes provide a more modular and broadly compatible barcoding toolkit that simplifies pooled screening and supports quantitative evaluation of diverse nanocarrier libraries across biological settings.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/anie.6571996",
+   "title": "Effects of Phase‐Transition‐Enabled Atomic Shuttling Between Nanoparticles and Single‐Atom Sites for Boosted Formic Acid Electro‐Oxidation",
+   "authors": [
+    "Jiaxin Gong",
+    "Shouyao Hu",
+    "Tao Gan",
+    "Runze Ma",
+    "Jin Zhang",
+    "Rui Lin",
+    "Jianping Guan",
+    "Jinhua Hu",
+    "Ke Zeng",
+    "Jun Yan",
+    "Zechao Zhuang",
+    "Wei Zhu",
+    "Yuxin Wang",
+    "Awu Zhou",
+    "Xiao Liang",
+    "Jiarui Yang",
+    "Yuhai Dou",
+    "Shibin Wang",
+    "Yunxiang Lin",
+    "Dingsheng Wang"
+   ],
+   "journal": "Angewandte Chemie International Edition",
+   "tier": "B",
+   "publication_date": "2026-09-04",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1002/anie.6571996",
+   "url_doi": "https://doi.org/10.1002/anie.6571996",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Precious metal nanoparticles generally aggregate through Ostwald ripening in the absence of anchoring sites, whereas in the presence of suitable coordination environments, they can disperse into thermodynamically stable single‐atom (SA) with chelate structures. Herein, an unexpected staggered transformation between nanoparticles and SAs on nitrogen‐doped carbon (CN) is reported. M (M = Rh, Ir, Pt)‐Zn intermetallic compound (IMC) nanoparticles together with Ru SAs were initially constructed on CN at 800 °C, and were transformed into M SAs and Ru nanoparticles after annealing at 1000 °C. Metadynamics simulations indicate that Ru─N bond cleavage followed by Rh refilling is kinetically accessible at 1000 °C, with a free‐energy barrier of ∼2.30 eV. The resulting Rh 12 Ru 1 + Rh–N configuration is structurally favored because of its higher d ‐band filling and stronger covalent Rh–N interactions, under which Rh tends to adopt an electronically rigid coordination environment. Benefiting from the cooperation between Rh SAs and Ru nanoparticles, a mass activity of 62.1 A mg −1 was achieved for formic acid electrooxidation (FAOR), which is four times higher than that of Rh SAs (15.9 A mg −1 ). This work provides new insights into the direction of atomic shuttling between precious metal species.",
    "abstract_source": "openalex",
    "summary_status": "pending",
    "summary": null,
@@ -4119,12 +4304,12 @@
    "directions": [
     "纳米药物"
    ],
-   "relevance_score": 6,
+   "relevance_score": 8,
    "url": "https://doi.org/10.1016/j.biomaterials.2026.124606",
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124606",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42700728/",
+   "abstract": "The involvement of oxidative stress, inflammation, and energy metabolism disorders in osteoarthritis (OA) makes it challenging to handle these problems using a single therapeutic agent concurrently. Here, we report a tailored bioactive conjugate consisting of a hydrophobic radical-trapping antioxidant (vitamin E, VE), a hydrophilic nicotinamide adenine dinucleotide (NAD+), and a reactive oxygen species (ROS)-responsive phenylboronic acid linker. The conjugate self-assembly produced VE-NAD+ nanoparticles with high drug loading (>90%), a small hydrodynamic size (ca. 60 nm), and good kinetic stability. The nanoparticles significantly increased intracellular NAD+ levels, inhibited lipid peroxidation and oxidative stress, and suppressed pro-inflammatory cytokine release in macrophages (RAW 264.7) and rat chondrocytes in vitro. The multifunctional nanoparticles also down-regulated the key matrix metalloproteinases. Upon intra-articular delivery, the VE-NAD+ nanoparticles potently mitigated synovial inflammation and alleviated cartilage damage in a spontaneous OA mouse model, as evidenced by magnetic resonance imaging, histological staining, critical biomarker quantification, and OA grading assessment. This work provides an innovative disease-modifying approach to OA management, which may have applications in other aging-related disorders.",
+   "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,
    "source": "openalex"
@@ -6050,6 +6235,100 @@
    "source": "openalex"
   },
   {
+   "doi": "10.1016/j.jconrel.2026.115322",
+   "title": "Micro-armory bearing natural killer cells in hydrogel enable durable in situ activation and localized reinvigoration of antitumor cytotoxic immunity",
+   "authors": [
+    "Tinglei Huang",
+    "Shuang Li",
+    "Shanshan Yin",
+    "Wei Zhang",
+    "Yi Guo",
+    "Siwen Gu",
+    "Xiaoyan Li",
+    "Xujie Zhou",
+    "Yimin Chen",
+    "Jin Luo",
+    "Xiaoding Jin",
+    "Tianyu Liu",
+    "Qiang Zou",
+    "Chengyu Chu",
+    "Yiting Jin"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115322",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115322",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42674290/",
+   "abstract": "Natural killer (NK) cells play a pivotal role in innate immunity, effectively eliminating tumor cells. However, their therapeutic potential in solid tumors is limited due to challenges such as limited infiltration, poor persistence, and functional exhaustion. To address this, NK92 cells are empowered with micro-armory (MA) of interleukin 15 (IL15) and subsequently encased in an injectable supramolecular hydrogel based on hydroxypropyl methylcellulose-nanoparticle interactions. The biocompatible hydrogel serves as a locoregional depot for engineered NK92 cells and confers sustained release. Owing to ambient release of IL15, MA backpacking to NK cell surface assists in situ maintenance in cell survival, activation, and cytotoxicity. In a mouse model of subcutaneous 4T1 breast cancer, the biohybrid extends the localized retention of NK92 cells to at least 15 days, enhances tumor infiltration and facilitates localized intra-tumoral distribution of IL15, thereby potently inhibiting tumor growth. In ex vivo model of human breast cancer tissues, engineered NK92 cells demonstrate superior functionality and further re-activate cytotoxic T cells by delivering IL15, consistently augmenting anti-tumor efficacy. The strategy integrating surface-engineered NK cells and localized hydrogel enables persistently in situ cell activation and subsequent intra-tumoral immune reinvigoration, disclosing clinically translational potential for solid tumor therapy.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127379",
+   "title": "Microfluidic processing of coarse emulsions: a scalable approach for nanoemulsion preparation in dermal drug delivery",
+   "authors": [
+    "Li Ching Wong",
+    "Sak Jie Tan",
+    "Kok Hwa Yu",
+    "Choon Fu Goh"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127379",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127379",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42700904/",
+   "abstract": "Nanoemulsions are increasingly explored to enhance dermal drug delivery due to their nano-size. Microfluidic processing for nanoemulsion generation has attracted much attention but requires extensive optimisation. This study leverages 3D printed microfluidic chips for size reduction of a premixed emulsion as a scalable approach to fabricate cationic oil‑in‑water nanoemulsions loaded with ibuprofen (2%w/w) for dermal delivery. Phase inversion composition (PIC) and homogenisation were used as benchmark methods. Nanoemulsions comprising ethyl oleate, Tween® 80 and cetyltrimethylammonium bromide were optimised using the PIC (∼33 nm) and subsequently used to prepare premixed emulsions (∼84 nm). Microfluidisation effectively reduced the droplet size of premixed coarse emulsions (∼57-67 nm), achieving size reduction comparable to that obtained using conventional homogenisation (∼62 nm). Varying the microchannel geometry in microfluidic chips and flow rate did not significantly affect the nanoemulsion properties. Nanoemulsions prepared by homogenisation remained <200 nm for 3 months at 40°C and 12 months at 25°C, but they were less stable than those prepared via PIC and microfluidisation. Nanoemulsions produced via PIC exhibited higher skin permeation of ibuprofen (∼14 µg) as compared with microfluidisation (∼10 µg) and homogenisation (∼7 µg). Microchannel processing improved nanoemulsion stability and skin delivery over homogenisation, offering scalable, energy-efficient continuous manufacturing, although PIC remained superior overall.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127370",
+   "title": "Pegylated curcumin for cigarette smoke induced oxidative stress: From nasal epithelial cells to fast dissolving microneedle patches",
+   "authors": [
+    "Busra Kilic",
+    "Hayriye Akel Bilgiç",
+    "Buğra Kağan Ünal",
+    "Onur Merdivenli",
+    "Cengiz Uzun",
+    "Soner Çakmak",
+    "Halil Murat Aydın",
+    "Çağatay Karaaslan"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统",
+    "肺部靶向"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127370",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127370",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42700907/",
+   "abstract": "Oxidative stress induced by inhaled oxidants, particularly cigarette smoke, contributes to the development of several acute and chronic respiratory diseases through oxidative damage and epigenetic alterations. Curcumin (CUR), a well-characterized natural polyphenol with potent antioxidant and anti-inflammatory properties, is considered a promising agent for modulating oxidative stress-related signaling pathways and epigenetic mechanisms; however, its poor aqueous solubility and bioavailability limit its clinical application. Therefore, in the present study, PEGylated curcumin (PEG-CUR) was investigated as a modified CUR formulation for subsequent incorporation into a dissolving microneedle-based intranasal delivery system. Exposure to cigarette smoke resulted in significant alterations in the expression of oxidative stress-related genes (SEPP1, NCF2, SFTPD, CCL5, and PTGS1) in nasal epithelial cells. However, pretreatment with curcumin (CUR) and polyethylene glycol-curcumin (PEG-CUR) mitigated these gene expression changes. Both treatments also reduced global DNA methylation, with PEG-CUR showing a more pronounced effect than CUR. Following the demonstration of the beneficial effects of PEG-CUR, we developed PEG-CUR-loaded dissolving microneedle patches (PEG-CUR-DMNPs) as a localized intranasal delivery platform designed to facilitate PEG-CUR delivery through rapid dissolution of the microneedle tips. The mechanical robustness and penetration capability of the patches were initially evaluated using Parafilm® and ex vivo rat dorsal skin models. To further confirm their appropriateness for intranasal use, PEG-CUR-DMNPs were subsequently tested on ex vivo sheep nasal mucosa to evaluate microneedle penetration and dissolution kinetics. Overall, these results indicate that PEG-CUR-DMNPs represent a promising approach for localized intranasal drug delivery targeting oxidative stress-related respiratory diseases.",
+   "abstract_source": "europepmc",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
    "doi": "10.1038/s41467-026-76972-9",
    "title": "IFN-γ-driven iNOS induction in macrophages mediates CAR T cell resistance in B cell lymphoma",
    "authors": [
@@ -7399,6 +7678,35 @@
    "source": "openalex"
   },
   {
+   "doi": "10.1016/j.biomaterials.2026.124604",
+   "title": "A self-initiating battery-like hydrogel for autonomous pH normalization and immune activation in postoperative tumor therapy",
+   "authors": [
+    "Wenyan She",
+    "Xinyi Ding",
+    "Qianran Cao",
+    "Yaqian Song",
+    "Chenxi Huang",
+    "Lin Hou"
+   ],
+   "journal": "Biomaterials",
+   "tier": "C",
+   "publication_date": "2026-08-31",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 11,
+   "url": "https://doi.org/10.1016/j.biomaterials.2026.124604",
+   "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124604",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42700729/",
+   "abstract": "Postoperative recurrence and metastasis remain major causes of cancer mortality, capitally driven by the inevitably acidic niche during surgical wound repair. However, current pH-regulating strategies show transient efficacy and remain passively responsiveness, failing to accommodate the progressive and fluctuating acidification of the postoperative microenvironment. Here, we report an implantable self-initiating battery-like hydrogel that can autonomously sense pH changes and persistently neutralize acidosis through well-designed internal redox reactions. The hydrogel incorporates Fe3+-quercetin as the initiating redox unit and conductive poly(3,4-ethylenedioxythiophene) as the electron mediator, enabling sustained quercetin-quinonoid species cycling with H+ consumption. It provided a broad pH modulation window that covers postoperative pH fluctuation (pH 5.3-6.8) and stabilizes it to neutrality, preventing the formation of pro-recurrence acidic niche. Meanwhile, embedded homoharringtonine-loaded nanoparticles were encapsulated in the hydrogel to promote M2 to M1 macrophages polarization. Fortunately, this system eliminates residual tumor cells and remodels the immunosuppressive microenvironment, resulting in ∼95% suppression of tumor recurrence, while preventing metastasis and establishing durable immune memory. With biocompatible components and flexible architecture suitable for irregular tumor beds, this battery-like hydrogel serves as a promising immunotherapeutic platform for postoperative tumor management.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
    "doi": "10.1002/advs.77458",
    "title": "Natural Product Toosendanin Suppresses the Malignant Development of Skin Melanoma by Targeting BNC2 for Degradation",
    "authors": [
@@ -8100,6 +8408,41 @@
    "summary_status": "pending",
    "summary": null,
    "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127359",
+   "title": "Polysaccharide-functionalized metal-polyphenol network-coated porous microspheres for improving the treatment of probiotics in ulcerative colitis",
+   "authors": [
+    "Congcong Xiao",
+    "Bohan Chen",
+    "Liming Gong",
+    "Jing Feng",
+    "MongHsiu Song",
+    "Xiaolong Li",
+    "Manru Zhang",
+    "Qiushuo Li",
+    "Mingji Jin",
+    "Liqing Chen",
+    "Zhonggao Gao",
+    "Qingyun Yang",
+    "Wei Huang"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-08-30",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127359",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127359",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42669319/",
+   "abstract": "Probiotic therapy offers a new approach to the treatment of ulcerative colitis (UC), but oral drug delivery still faces challenges such as low gastrointestinal survival rates, insufficient intestinal retention, and poor inflammatory targeting. In this study, a layer-by-layer encapsulation probiotic delivery system (HGM-L.re PM) was developed. Lactobacillus reuteri (L.re) was loaded onto poly-L-lactic acid porous microspheres, followed by in situ assembly of a tea polyphenol/Fe3+ metal-polyphenol network (MPN) coating, and then layer-by-layer electrostatic deposition of an ethylene glycol chitosan/ hyaluronate (GCS/HA) polysaccharide gel layers via electrostatic interactions. The porous microspheres provide efficient probiotic loading and physical protection; the MPN coating confers transferrin-responsive degradability, enabling on-demand release at sites of inflammation; the GCS/HA outer layer synergistically forms a dense gel network via acid-triggered electrostatic cross-linking to resist gastric erosion, while the terminal HA moiety specifically binds to CD44 to enhance colonic adhesion. Compared to unencapsulated probiotics, HGM-L.re PM demonstrated significantly enhanced viability protection throughout all simulated stages of gastrointestinal digestion and achieved retention for up to 72 h in mice with colitis. In a DSS-induced acute UC model, this formulation effectively alleviated weight loss and colonic shortening, reduced mucosal damage, downregulated IL-6, IL-1β, and TNF-α levels, upregulated IL-10, restored the expression of mucin and tight junction proteins, and reshaped the gut microbiota composition by enriching beneficial bacteria such as Lactobacillus species. The underlying mechanism involves metabolic reorientation and stress resolution. The formulation also demonstrated good in vivo safety. This layer-by-layer encapsulated probiotic delivery platform offers a new strategy for enhancing the efficacy of oral probiotic therapy for UC.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
   },
   {
    "doi": "10.1038/s41467-026-76701-2",

@@ -1,8 +1,249 @@
 {
- "updated_at": "2026-09-06T22:15:21+00:00",
- "count": 1462,
+ "updated_at": "2026-09-07T22:16:56+00:00",
+ "count": 1473,
  "note": "本文件由 pipeline build 自动生成，请勿手工编辑。",
  "papers": [
+  {
+   "doi": "10.1038/d41586-026-02470-z",
+   "title": "The secret life of a cell-cycle gatekeeper of breast cancer",
+   "authors": [],
+   "journal": "Nature",
+   "tier": "S",
+   "publication_date": "2026-09-07",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://www.nature.com/articles/d41586-026-02470-z",
+   "url_doi": "https://doi.org/10.1038/d41586-026-02470-z",
+   "url_pubmed": null,
+   "abstract": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02470-z A newly discovered function for the protein Rb explains why inhibiting cell division can enhance the signalling mediated by the oestrogen receptor that drives breast cancer.",
+   "abstract_source": "rss",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "rss"
+  },
+  {
+   "doi": "10.1186/s12951-026-05058-x",
+   "title": "Oral Nano-vaccines for cancer immunotherapy: mechanisms, barriers, and the oral-GALT-tumor immune axis",
+   "authors": [
+    "Dongyang Wu",
+    "Mingze Xia",
+    "Kairui Zhu",
+    "Yang Guo",
+    "Haoyang Li",
+    "Weili Liu",
+    "Chenyang Jiang",
+    "Zihan Zhao",
+    "Trinity Tanaka Makumbirofa",
+    "Shuyang Xie",
+    "Zimei Wu",
+    "Yan Liang"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-07",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1186/s12951-026-05058-x",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05058-x",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05062-1",
+   "title": "Sprayable hydrogel loaded with engineered fusion cellular vesicles for cancer recurrence suppression",
+   "authors": [
+    "Yang Yumiao",
+    "Yuyue Zhao",
+    "成国 王",
+    "Zhou Lan",
+    "Hao Cui",
+    "Wei Liu",
+    "Bowen Li",
+    "Jiaxian Yu",
+    "Zhen Tian",
+    "Zhiyang Zhu",
+    "Jiaxin Wu",
+    "Qibu; id_orcid 0009-0008-1618-8964 LUO",
+    "Yingluo Chen",
+    "Zhenzi Lin",
+    "Guang‐Tao Yu"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-07",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1186/s12951-026-05062-1",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05062-1",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.nantod.2026.103173",
+   "title": "Fucoidan/polyphenol-magnesium nanomedicine comprehensively attenuates early brain injury and restores neurological function in subarachnoid hemorrhage",
+   "authors": [
+    "Xishu Liu",
+    "Xiaofeng Sun",
+    "Shan Qin",
+    "Yucheng Chen",
+    "Chen Li",
+    "Ye Miao",
+    "Liang Yang",
+    "Jipeng Yang",
+    "Yue Yang",
+    "Wei Wang",
+    "Lina Wang",
+    "Yupeng Wang",
+    "Hongjiang Liu"
+   ],
+   "journal": "Nano Today",
+   "tier": "C",
+   "publication_date": "2026-09-07",
+   "date_precision": "approx",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1016/j.nantod.2026.103173",
+   "url_doi": "https://doi.org/10.1016/j.nantod.2026.103173",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1038/s41467-026-77051-9",
+   "title": "Glucose-induced histone lactylation confers metformin resistance in colorectal cancer stem cells",
+   "authors": [],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-09-07",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://www.nature.com/articles/s41467-026-77051-9",
+   "url_doi": "https://doi.org/10.1038/s41467-026-77051-9",
+   "url_pubmed": null,
+   "abstract": "Nature Communications, Published online: 07 September 2026; doi:10.1038/s41467-026-77051-9 Metformin has been proposed as a therapy for cancer, but many reports are showing limited efficacy. Here, the authors show that in high-glucose conditions, histone lactylation induces fatty acid uptake leading to metformin resistance in colorectal cancer stem cells.",
+   "abstract_source": "rss",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "rss"
+  },
+  {
+   "doi": "10.1186/s12951-026-04992-0",
+   "title": "CD80-targeted songorine nanotherapy restores PINK1-dependent mitophagy in proinflammatory macrophages for osteoarthritis treatment",
+   "authors": [
+    "Xixi He",
+    "Qiongqian Xu",
+    "Kai Qiu",
+    "Zhao Tian",
+    "Tianran Cheng",
+    "Dongming Wang",
+    "Yujie Zhang",
+    "Jian Wang",
+    "Jichang Han",
+    "Chuncan Ma",
+    "Xue Ren",
+    "Zhenhua Zhang",
+    "Qianye Zhang",
+    "Aiwu Li"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-06",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1186/s12951-026-04992-0",
+   "url_doi": "https://doi.org/10.1186/s12951-026-04992-0",
+   "url_pubmed": null,
+   "abstract": "Synovial macrophage-mediated inflammation and mitochondrial dysfunction are increasingly implicated in osteoarthritis (OA) progression, yet targeted restoration of mitochondrial quality control remains challenging. Here, we developed a macrophage-targeted, targeted delivery nanoplatform (CBP-NPs@Song) by conjugating a CD80-binding peptide to songorine-loaded lipid nanoparticles for preferential and CD80-dependent delivery to proinflammatory (M1) macrophages. CBP-NPs@Song significantly enhanced intracellular drug accumulation and improved multiple indices of mitochondrial function and integrity in inflammatory macrophages. Mechanistically, songorine stabilized PINK1 by reducing its ubiquitination and proteasomal degradation, thereby activating the PINK1–Parkin mitophagy pathway, supporting enhanced clearance of damaged mitochondria through PINK1-associated mitochondrial quality-control processes, and suppressing NLRP3 inflammasome activation. Targeted mitochondrial regulation in macrophages attenuated the adverse effects of proinflammatory macrophages on co-cultured chondrocytes and protected chondrocytes from oxidative and inflammatory injury. In vivo, CBP-NPs@Song exhibited prolonged intra-articular retention with minimal systemic exposure, significantly attenuating synovial inflammation, osteophyte formation, and cartilage degeneration in OA rats. This study presents a targeted nanotherapeutic strategy that integrates selective immunomodulation with mitochondrial quality control, offering a potential strategy for structure-preserving and immunomodulatory OA therapy. Proposed mechanism of CD80-targeted Songorine nanotherapy for osteoarthritis. CBP-NPs@Song preferentially target CD80-expressing proinflammatory macrophages and enhance intracellular Songorine delivery. Songorine treatment is associated with reduced PINK1 ubiquitination and prolonged PINK1 stability, supporting PINK1/Parkin-dependent mitochondrial quality control. This reduces mitochondrial ROS and NLRP3/Caspase-1/IL-1β signaling, thereby attenuating macrophage-to-chondrocyte inflammatory crosstalk and alleviating osteoarthritis-associated joint damage.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c02286",
+   "title": "Chiral by Nature: Chiroptical Activity in Fe3O4 Magnetic Nanoparticles from Bacterial Biomineralization",
+   "authors": [
+    "Matheus de Souza Lima Mendes",
+    "Christopher T. Lefèvre",
+    "Karim Benzerara",
+    "Sylvain Nlate",
+    "Reïko Oda",
+    "E.A. Hillard",
+    "Émilie Pouget"
+   ],
+   "journal": "Nano Letters",
+   "tier": "C",
+   "publication_date": "2026-09-06",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1021/acs.nanolett.6c02286",
+   "url_doi": "https://doi.org/10.1021/acs.nanolett.6c02286",
+   "url_pubmed": null,
+   "abstract": "Abstract The coexistence of chirality and magnetism in nanomaterials has been observed with metallic complexes but remains rarely achieved in magnetic oxides. Here, we identify biologically induced chiroptical activity in the magnetotactic bacterium Magnetospirillum gryphiswaldense strain MSR-1, which biomineralizes Fe3O4 crystals within a prokaryotic organelle known as a magnetosome. Natural and magnetic circular dichroism spectra were recorded for wild-type MSR-1, a magnetosome-deficient mutant (ΔmamAB), and the magnetosomes extracted from the bacterial cells. While chiroptical signals appeared when the particles remained within the bacterial matrix, the isolated nanoparticles did not demonstrate detectable natural optical activity. Subsequent surface modification of the extracted optically inactive nanoparticles with enantiopure aspartic acid produced chiroptical responses. These observations suggest that the biological environment of magnetosomes imposes chiral asymmetry on magnetic nanoparticles and that surface functionalization revealed optical activity. The results collectively describe a biologically mediated induction of chiroptical signals in Fe3O4 nanoparticles.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adhm.71685",
+   "title": "Blood–Brain Barrier Regulation: Evolving From Classic Strategies to Electrochemical Ion and Reactive Oxygen Species Control",
+   "authors": [
+    "Xiaokang Hu",
+    "Caiyu Liu",
+    "Meijun Pang",
+    "Zhiyuan Shi",
+    "Dong Ming",
+    "Xiuyun Liu"
+   ],
+   "journal": "Advanced Healthcare Materials",
+   "tier": "C",
+   "publication_date": "2026-09-06",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1002/adhm.71685",
+   "url_doi": "https://doi.org/10.1002/adhm.71685",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT The blood–brain barrier (BBB), while indispensable for maintaining central nervous system (CNS) homeostasis, constitutes the principal impediment to effective therapeutic delivery for neurodegenerative disorders, particularly hindering spatially resolved modulation of extracellular ions and reactive oxygen species (ROS) within the neural microenvironment. Contemporary electrochemical methodologies have emerged as a paradigm shift for dynamically reconciling these dual parameters, thereby enabling targeted neuroregulation. Critical review of this field reveals a distinct evolution from passive physiological interventions to active electrochemical engineering approaches. Current research, however, encounters persistent translational barriers including insufficient spatiotemporal resolution in neural interfaces, incomplete mechanistic understanding of ROS‐ionic crosstalk, and scalability limitations of nanoscale delivery systems. To transcend these limitations, the synergistic convergence of electrochemical platforms with machine learning (ML)–guided predictive analytics, near‐infrared (NIR) phototherapy, and biocompatible nanocarrier‐mediated delivery systems constitutes a strategic imperative in next‐generation neurotherapeutic development. Such interdisciplinary convergence is not merely incremental but rather a fundamental prerequisite for realizing clinically translatable neural microenvironment modulation.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
   {
    "doi": "10.1038/s41467-026-77247-z",
    "title": "Selectively intraparticle oxygen dissociation and metalloid mineralization for long-term groundwater remediation",
@@ -124,12 +365,12 @@
    "directions": [
     "肿瘤治疗"
    ],
-   "relevance_score": 6,
+   "relevance_score": 9,
    "url": "https://doi.org/10.1186/s12951-026-05012-x",
    "url_doi": "https://doi.org/10.1186/s12951-026-05012-x",
    "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "abstract": "Cuproptosis-based cancer immunotherapy is severely limited by hypoxia-associated metabolic resistance, immunosuppressive tumor microenvironments, and the lack of tumor-selective delivery of cuproptosis inducers. Herein, we developed a temporally coordinated therapeutic strategy by integrating a tumor-targeting nitric oxide (NO)-producing bacterial platform (ECN-NO) with ultrasound-responsive ES-Cu-loaded microbubbles (ES-Cu MBs) to sequentially remodel the tumor microenvironment and potentiate cuproptosis immunotherapy. ECN-NO selectively colonized tumors and continuously released NO, thereby normalizing tumor vasculature, alleviating hypoxia, and facilitating the intratumoral generation, delivery, and penetration of ES-Cu nanotherapeutics following ultrasound-responsive microbubble destruction (UTMD). The enhanced intratumoral accumulation of ES-Cu amplified cuproptosis-induced oxidative stress, which triggered bacterial lysis to both establish an arginine-dependent nitroxidative amplification cascade and intrinsically limit bacterial persistence, resulting in robust peroxynitrite (ONOO⁻) generation. Consequently, ONOO⁻ disrupted glutamine metabolism, reinforced cuproptosis, and potentiated immunological activation. This temporally coordinated strategy of tumor microenvironment remodeling, cuproptosis amplification, and immune activation elicited potent systemic antitumor immunity and durable immunological memory. Together, these findings establish a self-regulating bacterial–nanomedicine strategy for enhancing cuproptosis-based cancer immunotherapy.",
+   "abstract_source": "openalex",
    "summary_status": "pending",
    "summary": null,
    "source": "openalex"
@@ -5986,12 +6227,12 @@
     "纳米药物",
     "肺部靶向"
    ],
-   "relevance_score": 6,
+   "relevance_score": 12,
    "url": "https://doi.org/10.1016/j.biomaterials.2026.124585",
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124585",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42702120/",
+   "abstract": "Cystic fibrosis (CF) is a monogenic disease with severe pulmonary manifestations. Nanoparticle carriers of drug and gene therapeutics for CF are being studied, but only few can traverse the highly concentrated, disulfide-crosslinked airway mucus in the CF lung. Here, we developed mucolytic-associated polydisperse micro/nanoscale bubble formulations (MNB) that couple reducing chemistry (tris(2-carboxyethyl)phosphine, TCEP) with an ultrasound-responsive carrier to disrupt mucus. We evaluated the penetration of a model nanocarrier through a CF-mimetic mucus hydrogel following MNB-TCEP treatment. Under the same reducing-equivalent dosing, MNB-TCEP markedly enhanced penetration of 200 nm anionic nanoparticles relative to both PBS and free TCEP. In the more restrictive thick-mucus condition, therapeutic ultrasound increased anionic nanoparticle penetration approximately 3.5-fold in the MNB-TCEP group relative to its no-ultrasound counterpart, without statistically significant effects on PBS or free TCEP controls. MNB-TCEP also retained diagnostic ultrasound visibility in gel phantoms and produced airway-associated echogenicity in ex vivo porcine lungs within fluid-accessible, non-aerated imaging windows. Moreover, MNB-TCEP with or without ultrasound did not reduce acute viability of ex vivo tracheal biopsies under the tested regimens. Introduction of an AAV1 reporter suggested that bubble-ultrasound conditioning may increase localized reporter-positive nuclei in airway epithelium. Together, these data identify mucolytic-associated MNB formulations as a theranostic strategy to enhance nanocarrier access through CF-mimetic mucus, with exploratory tissue-level data supporting further evaluation for gene-delivery applications.",
+   "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,
    "source": "openalex"
@@ -6138,12 +6379,12 @@
    "directions": [
     "肿瘤治疗"
    ],
-   "relevance_score": 6,
+   "relevance_score": 9,
    "url": "https://doi.org/10.1016/j.biomaterials.2026.124605",
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124605",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42702119/",
+   "abstract": "Targeted radioligand therapy (TRT) is an emerging treatment modality that selectively delivers radioisotopes to tumors while sparing healthy tissues. However, optimizing TRT radiopharmaceuticals to concurrently achieve sustained tumor retention and rapid systemic clearance remains a fundamental challenge. Gold nanoclusters with favorable pharmacokinetic properties and tunable blood half-life are advantageous in addressing this issue. Here, we develop a renally clearable GN-based TRT agent (GNFAPI) that efficiently chelates diagnostic 68Ga or therapeutic 177Lu isotopes, conferring precise targeting of fibroblast activation protein (FAP)-enriched and cancer-associated fibroblast (CAF)-dominated tumor stroma for integrated tumor theranostics. PET imaging demonstrates high tumor-specific uptake and renal clearance of 68Ga-GNFAPI in multiple models, with minimal retention in the liver and spleen. For treatment, we propose the Radio-Hook based Crosstalk Cut (RHCC) strategy, synergizing 177Lu-GNFAPI with a TGF-βRI inhibitor. This strategy utilizes β-radiation from 177Lu-GNFAPI like a powerful \"hook\" to disrupt the stroma and tumor cells, while the inhibitor blocks tumor-stromal crosstalk, thus abrogating the TGF-β-CAF-tumor feedback loop to suppress residual CAF reactivation, inhibit metastasis, and enhance antitumor immunity. Moreover, species-specific transcriptomics in patient-derived xenograft (PDX) models further elucidates the underlying mechanisms. Validation across various tumor models, achieving complete responses in some instances, supports its clinical translational promise.",
+   "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,
    "source": "openalex"
@@ -6272,6 +6513,37 @@
    "source": "openalex"
   },
   {
+   "doi": "10.1016/j.addr.2026.115959",
+   "title": "Molecular design and delivery of extracellular and membrane protein degradation chimeras",
+   "authors": [
+    "Shutong Lin",
+    "Huiling Zhou",
+    "Jiayan Qiu",
+    "Yijing Dang",
+    "Longfa Kou",
+    "Zheying Zhu",
+    "Zhiai Xu",
+    "Yi Lai",
+    "Haijun Yu"
+   ],
+   "journal": "Advanced Drug Delivery Reviews",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1016/j.addr.2026.115959",
+   "url_doi": "https://doi.org/10.1016/j.addr.2026.115959",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42702251/",
+   "abstract": "Extracellular and membrane-associated proteins constitute a substantial therapeutic target space that remains largely inaccessible to intracellular degradation strategies based on the ubiquitin-proteasome system. Membrane and extracellular targeted protein degradation (meTPD) addresses this limitation by coupling target recognition to degradation-competent uptake and intracellular sorting rather than relying on a single receptor or platform. In this Review, we organize meTPD strategies according to their trafficking and degradation routes, including lysosome-targeting receptor-dependent systems, transmembrane E3 ligase recruitment, receptor-independent internalization, lysosomal-sorting sequences and autophagy-mediated clearance. We then examine how ligand affinity and epitope accessibility, ternary-complex geometry, linker architecture, covalency, valency, receptor recycling and degrader reuse collectively determine productive degradation. Particular attention is given to spatial selectivity across tissues, cell populations and subcellular organelles, as well as to artificial intelligence-assisted design, stimuli-responsive activation and delivery systems that regulate the exposure and trafficking of meTPDs. Finally, we discuss emerging clinical evidence, convergence with antibody-drug conjugate-derived modalities, the hook effect and plausible resistance mechanisms. By integrating molecular design, receptor biology, intracellular trafficking, delivery and pharmacodynamic considerations, this Review provides a framework for selecting disease-matched degradation routes and advancing meTPDs from platform-specific demonstrations towards predictable therapeutic modalities.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
    "doi": "10.1016/j.ijpharm.2026.127379",
    "title": "Microfluidic processing of coarse emulsions: a scalable approach for nanoemulsion preparation in dermal drug delivery",
    "authors": [
@@ -6324,6 +6596,41 @@
    "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42700907/",
    "abstract": "Oxidative stress induced by inhaled oxidants, particularly cigarette smoke, contributes to the development of several acute and chronic respiratory diseases through oxidative damage and epigenetic alterations. Curcumin (CUR), a well-characterized natural polyphenol with potent antioxidant and anti-inflammatory properties, is considered a promising agent for modulating oxidative stress-related signaling pathways and epigenetic mechanisms; however, its poor aqueous solubility and bioavailability limit its clinical application. Therefore, in the present study, PEGylated curcumin (PEG-CUR) was investigated as a modified CUR formulation for subsequent incorporation into a dissolving microneedle-based intranasal delivery system. Exposure to cigarette smoke resulted in significant alterations in the expression of oxidative stress-related genes (SEPP1, NCF2, SFTPD, CCL5, and PTGS1) in nasal epithelial cells. However, pretreatment with curcumin (CUR) and polyethylene glycol-curcumin (PEG-CUR) mitigated these gene expression changes. Both treatments also reduced global DNA methylation, with PEG-CUR showing a more pronounced effect than CUR. Following the demonstration of the beneficial effects of PEG-CUR, we developed PEG-CUR-loaded dissolving microneedle patches (PEG-CUR-DMNPs) as a localized intranasal delivery platform designed to facilitate PEG-CUR delivery through rapid dissolution of the microneedle tips. The mechanical robustness and penetration capability of the patches were initially evaluated using Parafilm® and ex vivo rat dorsal skin models. To further confirm their appropriateness for intranasal use, PEG-CUR-DMNPs were subsequently tested on ex vivo sheep nasal mucosa to evaluate microneedle penetration and dissolution kinetics. Overall, these results indicate that PEG-CUR-DMNPs represent a promising approach for localized intranasal drug delivery targeting oxidative stress-related respiratory diseases.",
    "abstract_source": "europepmc",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.jconrel.2026.115336",
+   "title": "Sequential lysosome-microtubule targeted transformable nanosystem for long-lasting photodynamic-based multimodal therapy of breast cancer",
+   "authors": [
+    "Ruyi Lin",
+    "Li Xia",
+    "Yatong Zhang",
+    "Jia Yan",
+    "Yujun Song",
+    "Yufan Du",
+    "Yuan Huang",
+    "Jing Wang",
+    "Hao Wang",
+    "Huile Gao",
+    "Fan Tong"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽",
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 18,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115336",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115336",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42702252/",
+   "abstract": "Subcellular organelle-targeted strategies hold great promise in cancer therapy. Peptide nanofibers can induce lysosomal membrane permeabilization (LMP) and microtubule disruption, yet their in vivo delivery remains challenging. Here, we report a matrix metalloproteinase-2 (MMP-2)-responsive shape transformable nanosystem (CpA) that self-assembles from the amphiphilic conjugate Ce6-pep-iABS, comprising the photosensitizer chlorin e6 (Ce6) and the carbonic anhydrase IX (CA IX) inhibitor 4-(2-aminoethyl) benzenesulfonamide (ABS) linked via an MMP-2-cleavable peptide. Upon reaching tumors, CpA transforms from spherical nanoparticles into nanofibers, enabling deep penetration and long-term retention in tumor. The released ABS segments continuously inhibit CA IX to reverse extracellular acidosis and alleviate immunosuppression. Crucially, the transformed nanofibers exhibit enhanced cellular uptake and induce sequential LMP and microtubule disruption, which synergizes with photodynamic therapy (PDT) to amplify immunogenic cell death (ICD), activate robust antitumor immunity, and establish long-lasting immunological memory. This synergistic effect significantly inhibits tumor growth and prevents tumor recurrence and metastasis, presenting an innovative paradigm for multimodal cancer therapy by integrating sequential organelle targeting, tumor microenvironment modulation, and intensified PDT.",
+   "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,
    "source": "openalex"
@@ -7701,6 +8008,37 @@
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124604",
    "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42700729/",
    "abstract": "Postoperative recurrence and metastasis remain major causes of cancer mortality, capitally driven by the inevitably acidic niche during surgical wound repair. However, current pH-regulating strategies show transient efficacy and remain passively responsiveness, failing to accommodate the progressive and fluctuating acidification of the postoperative microenvironment. Here, we report an implantable self-initiating battery-like hydrogel that can autonomously sense pH changes and persistently neutralize acidosis through well-designed internal redox reactions. The hydrogel incorporates Fe3+-quercetin as the initiating redox unit and conductive poly(3,4-ethylenedioxythiophene) as the electron mediator, enabling sustained quercetin-quinonoid species cycling with H+ consumption. It provided a broad pH modulation window that covers postoperative pH fluctuation (pH 5.3-6.8) and stabilizes it to neutrality, preventing the formation of pro-recurrence acidic niche. Meanwhile, embedded homoharringtonine-loaded nanoparticles were encapsulated in the hydrogel to promote M2 to M1 macrophages polarization. Fortunately, this system eliminates residual tumor cells and remodels the immunosuppressive microenvironment, resulting in ∼95% suppression of tumor recurrence, while preventing metastasis and establishing durable immune memory. With biocompatible components and flexible architecture suitable for irregular tumor beds, this battery-like hydrogel serves as a promising immunotherapeutic platform for postoperative tumor management.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127364",
+   "title": "Multifunctional nanoparticles for co-delivery of elacridar and paclitaxel for breast cancer local treatment",
+   "authors": [
+    "Julia Sapienza Passos",
+    "Giovanna Cassone Salata",
+    "Giovanna  Barros de Melo",
+    "Jessica Ribeiro Nunes",
+    "Alexandre A. Steiner",
+    "João Agostinho Machado‐Neto",
+    "Alyssa Panitch",
+    "Luciana B. Lopes"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-08-31",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 14,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127364",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127364",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42674320/",
+   "abstract": "Breast cancer treatment is often limited by toxicity of systemic chemotherapy and by the development of drug resistance, which reduces the effectiveness of anticancer drugs. Delivering therapeutics directly into the mammary ducts has emerged as a promising strategy to increase drug concentrations at the tumor site while limiting unwanted systemic effects. In this study, we assessed two nanoparticle-based systems to locally co-deliver the anticancer drug paclitaxel with elacridar, an inhibitor of drug-efflux transporters that contribute to chemotherapy resistance. One formulation consisted of nanostructured lipid carriers (NLCs), whereas the other was a NLC-polymeric hybrid nanoparticle (H-NP), in which the polymeric poly(N-isopropylacrylamide) shell was functionalized with SILY, a collagen I-binding peptide, to enhance mammary tissue retention. All formulations exhibited diameter below 400  nm, and negative zeta potential (-16.0 to -8.8 mV). Elacridar was incorporated into the lipid matrix of the NLC (>80% encapsulation efficiency) and in the polymeric shell of the H-NPs (∼70%), which justifies its faster release from H-NPs after 120 h (∼92% compared to 75% from NLC). Compared to nanoparticles containing only paclitaxel, co-encapsulation improved cytotoxicity and reduced IC50 (up to 4.2-fold) in monolayers of paclitaxel-resistant MDA-MB-231 breast cancer and Kasumi-1 (characterized by overexpression P-glycoprotein) cells, as well as in MCF-7 3D spheroids. In an in vivo model of breast cancer, intraductal H-NPs reduced tumor incidence and volume compared to a drug solution, and increased the mammary tissue-to-plasma ratio of paclitaxel by 105-fold, supporting an improved tissue retention. These findings support H-NPs as promising platforms for localized breast cancer therapy.",
    "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,

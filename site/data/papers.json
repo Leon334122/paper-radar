@@ -1,8 +1,42 @@
 {
- "updated_at": "2026-09-11T22:11:50+00:00",
- "count": 1678,
+ "updated_at": "2026-09-12T22:11:08+00:00",
+ "count": 1684,
  "note": "本文件由 pipeline build 自动生成，请勿手工编辑。",
  "papers": [
+  {
+   "doi": "10.1016/j.nantod.2026.103172",
+   "title": "Tumor microenvironment-activatable virus-mimetic reactors reprogram cell fate-defining repressive epigenetic machineries to augment radio-immunotherapy",
+   "authors": [
+    "Qiqi Zhang",
+    "Xuemei Yao",
+    "Xiyuan Li",
+    "Yifeng Yang",
+    "Zhong Luo",
+    "Menghuan Li"
+   ],
+   "journal": "Nano Today",
+   "tier": "C",
+   "publication_date": "2026-09-12",
+   "date_precision": "approx",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.nantod.2026.103172",
+   "url_doi": "https://doi.org/10.1016/j.nantod.2026.103172",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "构建肿瘤微环境可激活的病毒仿生反应器，重编程抑制性表观遗传机器，增强放疗与免疫治疗协同疗效。",
+    "innovation": "病毒仿生反应器实现肿瘤微环境特异性激活，兼顾靶向性与正常组织安全性；靶向细胞命运决定相关的抑制性表观遗传机器（如DNA甲基化、组蛋白修饰），从表观层面逆转放疗抵抗与免疫抑制；将表观遗传重编程与放疗-免疫联合治疗整合于单一纳米平台，形成协同增效。",
+    "significance": "该策略有望突破放疗抵抗与免疫治疗响应率低的瓶颈，为表观遗传调控与放射免疫联合治疗提供新范式。病毒仿生设计兼顾高效递送与生物安全性，具备向多种实体瘤拓展的潜力。若获实验验证，可推动微环境响应型纳米药物向临床转化。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:02+00:00"
+   },
+   "source": "crossref"
+  },
   {
    "doi": "10.1186/s12951-026-05060-3",
    "title": "Basophil membrane-coated nanoparticles for IgE neutralization and allergy treatment",
@@ -281,8 +315,14 @@
    "url_pubmed": null,
    "abstract": "Obesity increases breast cancer risk and tumor aggressiveness, yet the mechanisms underlying this association remain unclear. In this work, we identify a tumor-suppressive lipid signaling pathway in which mammary adipocytes secrete the oxylipin 9S-hydroxyoctadecadienoic acid (9S-HODE). 9S-HODE induces ferroptosis in breast cancer cells by disrupting iron homeostasis. Adipocytes in obese mammary tissue produce less 9S-HODE, and tumors in obese mice exhibit reduced ferroptosis. Accordingly, ferroptosis inhibition accelerates tumor growth in lean mice, and restoring 9S-HODE suppresses tumor growth in obese mice. In humans, mammary 9S-HODE content is inversely correlated with body mass index, and 9S-HODE inhibits patient-derived breast cancer organoid growth. These findings identify the loss of adipocyte-derived 9S-HODE as a mechanism by which obesity promotes breast cancer and suggest that the restoration of ferroptosis-inducing lipid signaling may be a therapeutic strategy.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "瘦型乳腺脂肪细胞分泌的9S-HODE通过扰乱铁稳态诱导乳腺癌细胞铁死亡，肥胖使该脂质信号缺失从而促进肿瘤生长。",
+    "innovation": "首次发现乳腺脂肪细胞分泌的氧化脂质9S-HODE是一条抑制乳腺癌的脂质信号通路，将脂肪微环境与肿瘤抑制直接关联；阐明9S-HODE通过破坏铁稳态诱导乳腺癌细胞铁死亡这一全新作用机制；构建并验证了“肥胖→脂肪细胞9S-HODE减少→肿瘤铁死亡减弱→肿瘤进展”的因果链条，并在人乳腺9S-HODE含量与BMI负相关及患者来源类器官模型中得到印证。",
+    "significance": "该研究从脂质代谢与铁死亡交叉角度，为肥胖促进乳腺癌的流行病学关联提供了明确的分子机制解释。提示恢复9S-HODE等促铁死亡脂质信号有望成为肥胖相关乳腺癌的潜在治疗策略，也为脂肪-肿瘤互作研究提供了新的靶点与思路。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:02+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -740,8 +780,14 @@
    "url_pubmed": null,
    "abstract": "ABSTRACT Fibrous films and fabrics have been extensively employed for solar photothermal interfacial evaporation due to their high specific surface area, flexibility and scalability. However, the inherent planar geometry of fibrous films/fabrics restricts the evaporation area, and vapor/mass diffusion, limiting the evaporation efficiency and inducing salt accumulation. Herein, we propose a strategy of shifting the planar fabrics to photothermal helical microfiber evaporators via microfluidic technology, featuring intrinsic three‐dimensional structure, prominent elasticity and flexibility. The distinctive central cavity in helical gel microfibers enables spatial regulation of light, thermal and water transport, not only expanding evaporation area but also efficiently localizing thermal energy and capturing additional energy. By tuning the helical pitch, the water transport, vapor diffusion and light capture capabilities are synergistically optimized, achieving an evaporation rate of 3.65 kg m − 2 h − 1 under 1 sun irradiation with superior salt resistance. Moreover, the excellent flexibility of the helical microfiber fabric imparts exceptional structural adjustability, allowing to perform solar‐tracking evaporation. Outdoor tests using such solar‐tracking system with enlarged evaporation area deliver a stable evaporation rate of 8.57 kg m − 2 h − 1 under solar intensity of ∼950 W m − 2 , which demonstrates a viable design concept for high‐performance fabric‐based evaporators in sustainable solar interfacial evaporation.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "利用微流控制备弹性光热螺旋凝胶微纤维，通过空间调控光-热-水管理实现高效抗盐太阳能蒸发。",
+    "innovation": "提出微流控纺丝将平面纤维膜转为具有三维中空结构的弹性光热螺旋凝胶微纤维，突破平面几何对蒸发面积和传质限制；利用螺旋微纤维中心空腔空间调控光、热与水传输，并通过调节螺距协同优化水输运、蒸汽扩散和光捕获；螺旋微纤维织物柔性可调，可实现太阳能追踪蒸发，户外扩大面积后蒸发速率达8.57 kg m−2 h−1并具优异抗盐性。",
+    "significance": "该研究为纤维基太阳能界面蒸发器提供了新设计思路，有助于缓解蒸发效率、盐积累与柔性集成之间的矛盾。其高蒸发速率、抗盐和太阳追踪能力有望用于海水淡化、废水处理与可持续清洁水生产。微流控可扩展制备弹性螺旋凝胶微纤维，利于织物级规模化应用。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:10+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -1104,8 +1150,14 @@
    "url_pubmed": null,
    "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02659-2 Therapies that target mitochondria and other organelles are being put to test in the clinic.",
    "abstract_source": "rss",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "该报道聚焦靶向线粒体等细胞器的药物递送策略正进入临床验证阶段，标志亚细胞层面精准治疗加速转化。",
+    "innovation": "将药物递送精度从细胞水平推进至线粒体等亚细胞器水平；针对线粒体等细胞器的治疗策略进入临床测试，验证其可行性与安全性；有望突破传统靶向递送在胞内分布和疗效上的瓶颈。",
+    "significance": "亚细胞靶向递送为线粒体相关疾病、代谢病和肿瘤等提供更精准的治疗可能。若临床验证成功，将推动纳米药物和细胞器靶向疗法从概念走向应用，并重塑药物设计思路。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:15+00:00"
+   },
    "source": "rss"
   },
   {
@@ -1621,8 +1673,14 @@
    "url_pubmed": null,
    "abstract": "T cell receptor (TCR)–based immunotherapy is limited by tumor antigen heterogeneity, which frequently leads to relapse. We developed a bispecific TCR-JANUS engager that functions synergistically with TCR engineered T cells (TCR-T). In contrast to conventional T cell engagers targeting CD3, TCR-JANUS engages both the variable region of a transgenic TCR (TRBV) and a tumor surface antigen. Using a model system targeting a humanized KRAS-G12V–specific TCR and trophoblast cell surface antigen 2 (Trop2), we show that TCR-JANUS effectively redirects TCR-T cells to lyse Trop2-expressing tumor cells while preserving intrinsic specificity toward the cognate pHLA target, thereby enabling simultaneous dual-antigen recognition. In heterogeneous tumor models, the combination of TCR-JANUS with TCR-T cells, an integrated system termed T Cell Dual Arsenal Recon, potently suppressed tumor growth by clearing antigenically divergent populations. Moreover, TCR-JANUS maintained enhanced T cell functionality with reduced exhaustion compared to anti-CD3–based engagers upon chronic stimulation. Together, this approach offers a targeted and durable strategy to overcome antigenic heterogeneity, expanding the clinical prospects of TCR-T cell therapy for solid tumors.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发TCR-JANUS双特异性衔接蛋白，联合TCR-T实现双抗原识别，克服肿瘤抗原异质性并减少T细胞耗竭。",
+    "innovation": "同时靶向转基因TCR的TRBV可变区与肿瘤表面抗原Trop2，不依赖传统CD3；; 使TCR-T保留原有pHLA特异性并额外识别Trop2，实现双抗原同步识别与杀伤；; 与TCR-T组成T Cell Dual Arsenal Recon系统，在异质性肿瘤中清除抗原分歧亚群且慢性刺激下耗竭更低。",
+    "significance": "该策略为TCR-T疗法提供了靶向且持久的克服抗原异质性方案，有望减少因抗原丢失或异质性导致的复发。其保留TCR内在特异性并增强T细胞功能，可拓展TCR-T在实体瘤中的临床应用前景。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:18+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -1805,8 +1863,14 @@
    "url_pubmed": null,
    "abstract": "The frequent development of chemoresistance in cancer presents a major clinical challenge, yet the underlying causes of heterogeneous drug responses remain largely elusive. Here, we systematically assessed the cellular differentiation status of human breast cancer cells using single-cell atlases and identified a distinct population of immature basal-like cancer cells marked by BCL11B . Notably, higher levels of BCL11B + cancer cells are significantly associated with early relapse in patients with breast cancer who received chemotherapy. Functioning as a central regulator, B-cell lymphoma/leukemia 11B (BCL11B) delineates an immature cell state that preferentially transitions to a drug-resistant persister state during treatment through multiple preexisting and adaptive drug resistance programs. The cytokine tumor necrosis factor–α (TNFα) is revealed as a natural inhibitor of BCL11B and can directly reverse the emergence of chemoresistant persister cells. Therefore, we identify BCL11B as an unappreciated predeterminant of drug response and a therapeutic target for a subset of patients with breast cancer at high risk of developing chemoresistance.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究揭示BCL11B标记乳腺癌未成熟基底样细胞状态，预先决定化疗耐药持续细胞形成，并可被TNFα逆转。",
+    "innovation": "利用单细胞图谱鉴定BCL11B+未成熟基底样乳腺癌细胞群，其丰度与化疗后早期复发显著相关；揭示BCL11B作为中心调控因子，通过多种预存和适应性耐药程序预先决定耐药持续状态；发现TNFα是BCL11B的天然抑制剂，可直接逆转化疗耐药持续细胞。",
+    "significance": "该研究将BCL11B确立为乳腺癌化疗反应的新型预测因子和潜在治疗靶点。为识别高化疗耐药风险患者提供分层依据，并为TNFα或BCL11B靶向策略逆转耐药提供新思路。有望推动乳腺癌精准治疗并克服化疗耐药。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:19+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -2372,8 +2436,14 @@
    "url_pubmed": null,
    "abstract": "Drug delivery via skin enables local delivery that targets the skin and systemic delivery that avoids limitations of oral and parenteral administration. However, this route is often constrained by the skin's natural barrier, the stratum corneum. STAR particles with microscopic needles can painlessly puncture the skin to increase skin permeability, but they have previously been made of non-biodegradable materials, such as ceramic and metal. To address potential environmental and safety concerns, we introduce biodegradable polymer STAR particles that are water-soluble (poly(vinyl alcohol), PVA), enzyme-degradable (cellulose acetate, CA), or hydrolyzable (polylactic acid, PLA). STAR particles were fabricated using femtosecond laser micromachining to achieve dimensional features and sharp tips. We characterized their mechanical properties, and confirmed their skin-puncturing ability through gentian violet staining. We also evaluated STAR particle-enhanced delivery of three model drugs in porcine skin ex vivo: tacrolimus with PVA STAR particles, methotrexate with CA STAR particles, and copper tripeptide-1 with PLA STAR particles. Skin treatment with polymer STAR particles increased intradermal drug delivery by up to 37-fold, depending on the drug type and the STAR particle material and application duration. We conclude that biodegradable polymer STAR particles can address environmental and safety concerns while enhancing drug delivery to skin.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "可生物降解聚合物STAR微粒经飞秒激光加工，可无痛穿刺皮肤，使皮内药物递送最高提升37倍。",
+    "innovation": "以PVA、CA、PLA三种可生物降解聚合物替代陶瓷、金属等不可降解材料，分别实现水溶、酶解和水解降解；利用飞秒激光微加工制备尺寸精确、尖端锋利的STAR微粒，兼顾机械强度与穿刺能力；在猪离体皮肤上验证他克莫司、甲氨蝶呤、铜三肽-1三种模型药物的递送效果，皮内递送量提升最高达37倍。",
+    "significance": "该研究针对STAR微粒潜在的环境与安全性隐患，提出了可降解聚合物替代方案，同时保持甚至提升了经皮给药效率。其平台有望推动经皮局部及系统给药（尤其难透皮药物与生物大分子）的临床转化，并为微针递送材料的绿色设计提供新思路。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:27+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -2504,8 +2574,14 @@
    "url_pubmed": null,
    "abstract": "Lowe syndrome is a rare, currently incurable multisystem disorder that affects the eyes, kidneys, and central nervous system. It is caused by mutations in the OCRL gene, which encodes an inositol 5-phosphatase. The disorder remains incurable, and the pathways underlying the ocular symptoms remain poorly understood, largely due to the lack of appropriate models. In this study, trabecular meshwork cell models of Lowe syndrome were generated to test two distinct gene therapy strategies: a mutation-agnostic OCRL DNA augmentation therapy and a patient-specific CRISPR-mediated gene correction strategy. The results showed that AAV2-OCRL demonstrated the highest transduction efficiency in patient iPSC-derived trabecular meshwork models (iHTM) among the three AAV-OCRL vectors evaluated, establishing it as a promising delivery vector. Targeted CRISPR-based gene therapy restored OCRL enzyme activity and corrected cellular defects in patient iPSC-derived trabecular meshwork cell models. Furthermore, RNA-sequencing analysis of these models revealed dysregulation of extracellular matrix organization, cell adhesion, focal adhesion, and cytoskeletal regulatory pathways, suggesting that disruption of interconnected ECM-adhesion-cytoskeletal networks may contribute to trabecular meshwork dysfunction in Lowe syndrome-associated glaucoma. These findings indicate the feasibility of OCRL gene augmentation and CRISPR-based gene editing in patient-derived ocular models and position AAV2-OCRL as a leading therapeutic candidate for Lowe syndrome.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "基于患者iPSC小梁网模型，验证AAV2-OCRL基因增补与CRISPR基因矫正可修复Lowe综合征小梁网功能障碍。",
+    "innovation": "首次建立Lowe综合征患者iPSC来源的小梁网细胞模型，填补该罕见病眼部病理研究模型的空白；头对头比较突变无关的AAV2-OCRL基因增补与患者特异性CRISPR基因矫正两种策略，并筛选出转导效率最高的AAV2-OCRL载体；通过RNA测序揭示细胞外基质组装、细胞黏附、黏着斑及细胞骨架调控网络失调是Lowe综合征相关青光眼小梁网功能障碍的潜在机制。",
+    "significance": "该研究证明在患者来源眼部模型中开展OCRL基因增补与CRISPR基因编辑均具可行性，为缺乏有效疗法的Lowe综合征提供了可转化的治疗思路。AAV2-OCRL被确立为领先的候选治疗载体，同时ECM-黏附-细胞骨架网络的发现为青光眼机制研究和靶点开发提供了新方向。研究策略还可推广至其他由单基因突变引起的罕见眼病建模与基因治疗评价。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:30+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -2524,14 +2600,15 @@
    "publication_date": "2026-09-09",
    "date_precision": "approx",
    "directions": [
+    "纳米药物",
     "肿瘤治疗"
    ],
-   "relevance_score": 6,
+   "relevance_score": 11,
    "url": "https://doi.org/10.1016/j.biomaterials.2026.124629",
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124629",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42727297/",
+   "abstract": "A major challenge for injectable therapeutic nanorobots is to achieve efficient and spatially precise intracellular actuation under biologically compatible field conditions. Here we introduce homotypic membrane-camouflaged magnetic nanorobots that couple selective tumor-cell internalization, low-field intracellular rotation and glutathione-responsive drug release for chemo-mechanical breast cancer therapy. The nanorobots comprise disulfide-bridged mesoporous organosilica nanohelices loaded with doxorubicin, decorated with Fe3O4 nanoparticles and cloaked with MCF-7 cancer cell membranes. The membrane cloak promotes homologous recognition and enriches magnetic actuators inside MCF-7 cells, where a rotating magnetic field drives rapid intracellular rotation and localized mechanical perturbation. Intracellular glutathione concurrently cleaves the disulfide-containing organosilica framework, triggering nanorobot degradation and doxorubicin release. This spatial coupling of mechanical injury and chemotherapy induces pronounced tumor-cell death in vitro and suppresses tumor growth by 87.03% in an MCF-7 xenograft model without obvious systemic toxicity. These findings establish homotypic intracellular localization as a strategy for programmable magneto-mechanical nanotherapy.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "构建细胞内驱动的仿生纳米机器人，以化学-机械协同方式治疗乳腺癌。",
@@ -2564,8 +2641,14 @@
    "url_pubmed": null,
    "abstract": "Advances enable passive thermal management in transparent radiative cooling, yet colorless designs limit aesthetic diversity. Colored glass poorly regulates near-infrared solar heat gain, motivating materials that integrate vivid color, high transparency, and efficient radiative cooling. Here, a colored transparent radiative cooling glass based on a cellulose nanocrystal (CNC) sandwich architecture is proposed. The design incorporates a half-wave plate (HWP) between two CNC layers, overcoming polarization-selective reflection inherent to single-layer CNC films and enabling efficient reflection of both circular polarizations. This structural enhancement boosts visible reflectivity, while an indium tin oxide (ITO) reflector elevates near-infrared reflectivity above 45% to suppress solar heating, and a hydrophobic coating enhances durability. The resulting CNC/HWP/CNC/ITO multilayer glass maintains high visible transparency (32.08-59.02%) with vibrant structural colors, and exhibits excellent thermal emissivity (> 91%) within the atmospheric transparent window, enabling passive radiative cooling. Outdoor field tests demonstrate a maximum average temperature reduction of 12.06°C relative to a black reference, with cooling performance largely color-insensitive. Sunroom validation confirms a 4.20°C average indoor temperature reduction over ordinary glass during daytime. By reconciling aesthetic coloration with efficient passive cooling and durability, this work provides a practical, scalable approach for energy-efficient glazing, especially for applications in lower-attitude regions.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "提出基于纤维素纳米晶三明治结构的彩色透明辐射冷却玻璃，兼具鲜艳结构色、高透明度与高效被动冷却。",
+    "innovation": "在两层纤维素纳米晶（CNC）之间插入半波片（HWP），突破单层CNC薄膜固有的偏振选择性反射限制，实现对左右旋圆偏振光的高效反射并增强可见光反射与结构色；引入ITO近红外反射层使近红外反射率高于45%以抑制太阳热增益，并配合疏水涂层提升耐久性；所得CNC/HWP/CNC/ITO多层玻璃在保持32.08–59.02%可见光透明度与鲜艳结构色的同时，大气透明窗口热发射率超过91%，冷却性能对颜色不敏感",
+    "significance": "该工作将美学着色与高效被动辐射冷却、耐久性统一于可规模化制备的多层玻璃中，为节能窗材提供了实用方案。户外测试相对黑色参比最大平均降温12.06°C，阳光房验证白天较普通玻璃室内平均降温4.20°C，显示实际应用潜力。其颜色不敏感特性尤其适合低纬度等强日照地区的建筑与交通工具节能玻璃。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:34+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -3743,8 +3826,14 @@
    "url_pubmed": null,
    "abstract": "Chronic wounds represent a prominent clinical challenge, often characterized by impaired healing due to uncontrolled bleeding, persistent bacterial infections, and an imbalanced inflammatory microenvironment. Herein, we report the design and fabrication of a bioinspired, multifunctional 3D nanofiber sponge (TB@CuPNS) armored with a copper-chelated polydopamine (PDA) coating and functionalized with thrombin (TB). Structurally, the porous sponge demonstrated excellent mechanical resilience, strong exudate absorption capacity, and rapid hemostatic efficiency, as validated in rat liver and femoral artery hemorrhage models. Functionally, the PDA coating imparts mild NIR-responsive photothermal properties (approximately 45°C) to the sponge, which worked synergistically with pH- and ROS-responsive copper ion release to deliver broad-spectrum antibacterial and antibiofilm effects through photothermal therapy (PTT) and chemodynamic therapy (CDT). Furthermore, copper ions and the PDA coating cooperatively scavenged excess reactive oxygen species (ROS) and modulated macrophage polarization from an M1 to an M2 phenotype. In an S. aureus-infected diabetic mouse wound model, TB@CuPNS under NIR irradiation significantly accelerated wound repair by stimulating angiogenesis, increasing collagen deposition, and alleviating chronic inflammation. This study provides an effective strategy for fabricating advanced biomaterials that actively regulate the complex biological cascades involved in wound repair.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "铜螯合聚多巴胺涂层修饰的凝血酶负载3D纳米纤维海绵，集温和光热抗菌、渗液控制与免疫调节于一体，用于止血和慢性创面愈合。",
+    "innovation": "构建了金属-多酚自组装涂层装甲的3D纳米纤维海绵，将止血、抗菌与免疫调节功能集成于单一材料；利用PDA涂层的温和光热效应（约45°C）与pH/ROS响应性铜离子释放协同，实现光热疗法与化学动力学疗法的广谱抗菌及抗生物膜作用；铜离子与PDA涂层协同清除过量ROS并驱动巨噬细胞由M1向M2表型极化，主动调控创面修复的复杂生物学级联。",
+    "significance": "该研究为糖尿病感染性慢性创面这一临床难题提供了一种兼具快速止血、渗液管理、抗菌和促愈合的多功能一体化治疗策略，在金黄色葡萄球菌感染糖尿病小鼠模型中显著促进血管新生、胶原沉积并缓解慢性炎症。所提出的金属-多酚自组装涂层改性思路具有良好的可拓展性，可为下一代主动调控组织修复微环境的先进生物材料设计提供参考。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:36+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -14655,9 +14744,9 @@
    "relevance_score": 3,
    "url": "https://doi.org/10.1016/j.cell.2026.08.017",
    "url_doi": "https://doi.org/10.1016/j.cell.2026.08.017",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42727576/",
+   "abstract": "Mesenchymal stem/stromal cells (MSCs) are osteoregenerative; however, their therapeutic efficacy for skeletal conditions is hampered by poor bone-homing (\"osteotropism\"). In preclinical models, this deficit is correctable by MSC glycocalyx editing to enforce sialylated Lewis X (sLeX) expression, thereby programming osteotropism. We conducted a first-in-human clinical trial (ClinicalTrials.gov: NCT02566655) involving a single intravenous infusion of glycocalyx-edited autologous bone marrow-derived MSCs in ten women with advanced-stage osteoporosis. The protocol-mandated evaluation spanned 2 years and included clinical assessments, radiographic studies, and measurements of bone turnover markers (BTMs), bone tissue area (BTA), and bone mineral density (BMD). Thereafter, fracture and safety monitoring continued for >3 additional years for each patient. No serious adverse events occurred. Fragility fractures were markedly and durably reduced, amidst increased osteoanabolic BTM levels, BTA, and volumetric BMD. These findings indicate that glycocalyx editing effectuates MSC-based osteoporosis therapy and also refute notions that MSCs derived from older persons and/or diseased-tissue sites are biologically compromised.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "通过编辑间充质干细胞表面糖萼，开发用于晚期骨质疏松的细胞疗法。",
@@ -14666,6 +14755,48 @@
     "model": "deepseek-v4-flash",
     "generated_at": "2026-09-11T22:11:34+00:00"
    },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.08.023",
+   "title": "Mitochondrial ATP promotes T cell differentiation through chromatin accessibility",
+   "authors": [
+    "Charles Ng",
+    "Tak Shun Fung",
+    "Dayi Li",
+    "Korbinian N. Kropp",
+    "Luis F. Somarribas Patterson",
+    "Alexandria Markovitz",
+    "Daniel N. Weinberg",
+    "Olivia Jones",
+    "Ji-Young Kim",
+    "Guoan Zhang",
+    "Richard Koche",
+    "Mara Monetti",
+    "Huayuan Tang",
+    "Yun He",
+    "Zhengshuang Xu",
+    "Xin Cai",
+    "Ziqi Yu",
+    "Geetha Bhagavatula",
+    "Sean P. Colgan",
+    "Ya-Hui Lin"
+   ],
+   "journal": "Cell",
+   "tier": "S",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1016/j.cell.2026.08.023",
+   "url_doi": "https://doi.org/10.1016/j.cell.2026.08.023",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42727574/",
+   "abstract": "Immune elimination of chronic infection or cancer requires cytotoxic CD8+ T cells that adopt and maintain an effector phenotype. Cytotoxic T cell function is a bioenergetically demanding process. Here, we report the ability of D-α-hydroxybutyrate (DAHB) to act as a signaling molecule that increases mitochondrial ATP production and drives the conversion of proliferating T cells into cytotoxic effector cells. DAHB signaling switches ATP production from glycolysis to oxidative phosphorylation supported by fatty acid oxidation. This conversion elevates the level of a phosphagen, phosphocreatine (PCr). Both the PCr bioenergetic reserve and oxidative phosphorylation were required for T cell effector differentiation. DAHB-induced CD8 effector gene transcription was coupled to bioenergetics by BAF-complex-dependent remodeling of chromatin at effector loci. DAHB-enhanced CD8+ T cell antitumor activity both in vitro and in vivo. Together, these findings link cellular bioenergetics to the regulation of chromatin accessibility and gene expression required to support effector function.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
    "source": "crossref"
   },
   {
@@ -14691,12 +14822,12 @@
     "肿瘤治疗",
     "肺部靶向"
    ],
-   "relevance_score": 15,
+   "relevance_score": 20,
    "url": "https://doi.org/10.1016/j.jconrel.2026.115350",
    "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115350",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42727817/",
+   "abstract": "Immune checkpoint blockade has transformed cancer therapy, yet its efficacy against solid tumors remains constrained by poor T cell infiltration and an immunosuppressive tumor microenvironment. Achieving localized and sustained chemokine signaling without systemic immune toxicity remains a central unmet challenge for cytokine-based immunotherapy. Here, we presented a cryo-engineered bio-depot platform derived from liquid‑nitrogen-treated (LNT) tumor cells for the site-restricted and controlled delivery of protein therapeutics. The cryo-shocked process preserves cellular integrity and protein bioactivity while abolishing pathogenicity of tumor cells, generating a versatile vehicle for therapeutic payloads. Applying this platform, we constructed LNT depots expressing C-X-C motif ligand 9 (CXCL9), which established a persistent chemokine gradient within the lung after intravenous injection, leading to robust T cell recruitment and augmented tumor growth inhibition. Furthermore, we demonstrated the platform adaptability by engineering LNT cells to secrete aPD-1, which significantly prolonged survival in a murine orthotopic lung cancer model. This cryo-engineered depot integrates the structural fidelity of biomaterials with the functional complexity of living systems, offering a generalizable route for personalized protein therapeutics in cancer immunotherapy.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "利用工程化低温休克肿瘤细胞招募T细胞，为肺癌免疫治疗提供新型细胞疫苗策略。",
@@ -14736,8 +14867,14 @@
    "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42722161/",
    "abstract": "Glioblastoma (GBM) remains among the most lethal central nervous system (CNS) malignancies, characterized by inevitable recurrence and dismal prognosis. GBM exhibits profound spatiotemporal heterogeneity, continuously evading the immune system and developing drug resistance, which results in limited efficacy of traditional therapies. In this context, mRNA vaccines have emerged as a programmable immunotherapeutic platform well-suited to address this dynamic challenge. Recent advances in multiomics technologies enable systematic identification and real-time tracking of tumor-specific antigens, providing a dynamic roadmap of the evolving tumor ecosystem. Concurrently, engineered nanoparticle delivery systems demonstrate the capacity to navigate the sequential spatial barriers constraining GBM therapy. The integration of multiomics-guided mRNA vaccine design with precision nanocarriers represents a transformative strategy for achieving spatiotemporally matched immunotherapy. This review examines how multiomics approaches enable dynamic antigen discovery, analyzes the mechanisms by which mRNA vaccines activate CNS immunity, evaluates nanoparticle platforms designed to overcome biological barriers, and discusses emerging strategies for spatiotemporally coordinated combination therapies and clinical translation. Ultimately, we propose a paradigm of spatiotemporally matched therapy that integrates multiomics sensing, mRNA programmability, and nanomedicine precision to address the dynamic challenges in GBM.",
    "abstract_source": "pubmed",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "本文综述整合多组学与纳米医学的mRNA疫苗策略，以时空匹配免疫疗法克服胶质母细胞瘤异质性。",
+    "innovation": "提出多组学动态抗原发现与实时追踪指导mRNA疫苗设计；阐明mRNA疫苗激活中枢神经系统免疫的机制并评估跨越GBM空间屏障的纳米载体平台；构建多组学感知—mRNA可编程性—纳米精准递送一体化的时空匹配治疗范式。",
+    "significance": "该综述为胶质母细胞瘤免疫治疗提供了时空动态匹配的新思路，有望提升抗原选择准确性和递送效率，克服复发与耐药。其整合框架可推动联合治疗和临床转化，并为其他高度异质性中枢神经系统肿瘤提供借鉴。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:55+00:00"
+   },
    "source": "crossref"
   },
   {
@@ -14756,14 +14893,20 @@
    "directions": [
     "药物递送系统"
    ],
-   "relevance_score": 3,
+   "relevance_score": 5,
    "url": "https://doi.org/10.1016/j.ijpharm.2026.127385",
    "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127385",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
-   "summary_status": "pending",
-   "summary": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42727712/",
+   "abstract": "Localized drug delivery to solid tumors using implantable or locally applied drug delivery system (DDS) is constrained by limited adaptability to patient- and lesion-specific transport conditions (e.g., tumor geometry and local microenvironment), necessitating the need for novel DDS. Herein, we investigated the potential of three-dimensional (3D) printing to fabricate a dual-actuation DDS combining continuous perfusion with iontophoretic delivery. The rationale was to leverage 3D printing for geometry personalization (e.g., contact area/reservoir dimensions) and to enable continuous perfusion for reservoir replenishment, while iontophoresis provides programmable modulation of transport via externally applied voltage. A design of experiments (DoE) approach was implemented to systematically identify the critical process parameters influencing drug release. Furthermore, calibrated time-lapse imaging with image binarization and segmentation was used to monitor the continuous in vitro drug-release in real-time. The analysis revealed that membrane area, voltage and drug concentration were statistically significant in influencing drug release, whereas flow rate was found to be statistically insignificant, which suggests that continuous perfusion primarily supports reservoir replenishment rather than serving as a dominant control of release rate in the current configuration. Subsequent computational fluid dynamics suggested that the device geometry induces a pressure and velocity drop within the reservoir region, which is consistent with the observed flow-rate insensitivity. Moreover, externally applied voltage was identified in this study as a pivotal control parameter, enabling programmable modulation of transport kinetics for the charged model molecule. The mechanical properties of the 3D printed device were also evaluated, where a mechanical susceptibility to 37 °C and saline was seen, which necessitates rigorous assessment of 3D printing materials under physiologically relevant conditions. The study supports the use of 3D printing to realize dual-actuation delivery in which continuous perfusion maintains reservoir conditions while iontophoresis provides the primary externally tunable control of transport, further advancing the utility of pharmaceutical 3D printing. The research lays the groundwork for more sophisticated DDS development using 3D printing.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "采用3D打印制备连续灌注与离子导入双驱动的给药装置，结合DoE与CFD揭示膜面积、电压和药物浓度是关键释药参数。",
+    "innovation": "将3D打印几何个性化与连续灌注、离子导入双驱动机制集成于单一植入式给药装置；采用设计实验（DoE）系统筛选关键工艺参数，并用CFD模拟揭示流速不敏感源于装置几何引起的储库区压力与流速下降；建立校准延时成像结合图像二值化分割的实时体外释药监测方法。",
+    "significance": "该研究证明连续灌注主要负责储库补充，而外加电压才是可编程调控带电分子转运的主导参数，为按患者与病灶特征定制局部肿瘤给药系统提供了可行路径。同时研究揭示3D打印材料在37 °C与生理盐水中存在力学敏感性，提示需在生理相关条件下严格评价打印材料。研究为基于药物3D打印的复杂递药系统开发奠定了基础。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:57+00:00"
+   },
    "source": "crossref"
   },
   {
@@ -14896,8 +15039,112 @@
    "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42723280/",
    "abstract": "Sarcopenia, the age-related loss of skeletal muscle mass and function, lacks FDA-approved pharmacotherapy. The mechanistic target of rapamycin complex 1 (mTORC1), activated by leucine via Sestrin2, is the master regulator of muscle protein synthesis, but L-leucine suffers from rapid catabolism and poor bioavailability. Here, we report D-leucine methyl ester hydrochloride (DLMEH), a metabolically stabilized prodrug incorporating D-stereoisomer conversion, methyl esterification, and hydrochloride salt formation. Three orthogonal biophysical methods demonstrate that DLMEH directly binds Sestrin2 (Kd 28.3 μM), equivalent to L-leucine. Sestrin2 siRNA knockdown and rapamycin co-treatment confirm Sestrin2-dependent, mTORC1-specific activation. In human primary myotubes, DLMEH (100 μM) restores dexamethasone-suppressed protein synthesis by 58.2%, significantly exceeding L-leucine (800 μM, 28.5%). In a rat dexamethasone-induced atrophy model, intravenous DLMEH (100 mg/kg/day, 14 days) preserves gastrocnemius mass (19.3% rescue), grip strength (90% of normal), and treadmill endurance (85% of normal), all superior to oral L-leucine. RNA-seq reveals 41.7% reversal of dexamethasone-induced transcriptomic changes with enrichment in mTOR signaling, ribosome biogenesis, and oxidative phosphorylation. Safety profiling establishes NOAEL at 2000 mg/kg with therapeutic index greater than 30. DLMEH represents a first-in-class Sestrin2-targeting mTORC1 activator for sarcopenia.",
    "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "D-亮氨酸甲酯盐酸盐DLMEH靶向Sestrin2激活mTORC1，恢复肌少症肌肉蛋白合成。",
+    "innovation": "首次将D-型异构体转化、甲酯化和盐酸盐成盐整合为代谢稳定的D-亮氨酸前药DLMEH；证实DLMEH直接结合Sestrin2并以Sestrin2依赖方式特异性激活mTORC1；在细胞与大鼠肌萎缩模型中，其恢复蛋白合成、肌力和运动耐力的效果显著优于L-亮氨酸，且安全性窗口宽。",
+    "significance": "该研究为缺乏FDA批准药物的肌少症提供了一种first-in-class的Sestrin2靶向mTORC1激活剂。DLMEH兼具高代谢稳定性、明确靶点和优于L-亮氨酸的体内疗效，具有推进临床转化用于年龄相关肌肉丢失的潜力。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:58+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127406",
+   "title": "Andrographolide-loaded PLGA nanoparticles protect retinal ganglion cells against experimental acute glaucomatous injury and attenuate mitochondrial dysfunction and retinal PANoptosis-related changes",
+   "authors": [
+    "Xiao Fan",
+    "Ruotong Ouyang",
+    "Yujia Huo",
+    "Xiaochen Wang",
+    "Sisi Tan",
+    "Miao Wei",
+    "Yunfei Li",
+    "Yanyu Pu",
+    "Junqin Lei",
+    "Liwen Peng",
+    "Yijing Zhou",
+    "Hong Li"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127406",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127406",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "负载穿心莲内酯的PLGA纳米粒可保护视网膜神经节细胞，改善线粒体功能障碍并抑制视网膜PANoptosis相关改变。",
+    "innovation": "以PLGA纳米载体递送天然活性成分穿心莲内酯，改善其眼部递送效率与稳定性；将穿心莲内酯纳米制剂应用于实验性急性青光眼损伤，实现视网膜神经节细胞保护；机制上首次将线粒体功能障碍与PANoptosis（泛凋亡）多重细胞死亡通路联系起来，拓展了青光眼神经保护的作用靶点",
+    "significance": "该研究为青光眼等视网膜神经退行性疾病提供了一种基于纳米递送天然药物的神经保护新策略，有望弥补现有降眼压治疗难以阻断视神经持续损伤的不足。通过揭示线粒体损伤与PANoptosis的关联，也为视网膜神经节细胞死亡的机制研究和联合干预提供了新思路，具有较好的临床转化潜力。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:10:58+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127401",
+   "title": "Pullulan acetate with tailored degree of substitution as a promising polymer for oral drug delivery: Effects on enzymatic degradability and drug release",
+   "authors": [
+    "Alen Damiani",
+    "Milan Decorte",
+    "Martin Purino",
+    "Wim Dehaen",
+    "Guy Van den Mooter"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127401",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127401",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
    "summary_status": "pending",
    "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127410",
+   "title": "Bio-intelligent delivery systems for regenerative medicine: from living biomaterials to clinical translation",
+   "authors": [
+    "Mrinal Singh",
+    "Divya Tripathi",
+    "Dipak Maity"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127410",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127410",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "该文综述用于再生医学的生物智能递送系统，涵盖从活性生物材料设计到临床转化的路径。",
+    "innovation": "提出融合活性生物材料与智能递送功能的生物智能系统框架；强调从材料设计到临床转化的全链条整合；聚焦再生医学中时空精准调控与转化瓶颈。",
+    "significance": "有望提升再生医学递送系统的靶向性、响应性与组织修复效果。通过连接活性材料创新与临床需求，可加速新型再生疗法的转化应用。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:11:01+00:00"
+   },
    "source": "crossref"
   },
   {
@@ -15401,8 +15648,14 @@
    "url_pubmed": null,
    "abstract": "ABSTRACT Hydrogel‐based interfacial solar evaporation shows great promise for desalination. However, conventional hydrogels rely on exogenous photothermal agents, which may compromise water transport and complicate heat transfer within the hydrogel under conditions of high loading, insufficient dispersion, or poor interfacial compatibility. To address those critical issues, we have presented a facile and modular strategy for constructing robust allomelanin bulk hydrogels, where photothermal precursors (1,8‐dihydroxynaphthalene) act as crosslinkers to directly couple with hydrophilic polymers (oxidized polysaccharides) for hydrogel gelation, while serving simultaneously as functional monomers that undergo spontaneous reactions to in situ form photothermal agents during the curing process. This strategy avoids the introduction of exogenous photothermal agents while achieving seamless integration of the in situ‐generated photothermal agents with the hydrogel network, thereby remarkably boosting the performances of water transport, water activation, and thermal management. The resulting allomelanin bulk hydrogel interestingly achieved an impressive evaporation rate of 4.26 kg·m −2 ·h −1 under 1 sun irradiation. Moreover, techno‐economic analysis estimated a competitive clean water production cost of $1.66 per ton for the hydrogel, rivalling reverse osmosis. This work pioneers a novel pathway for designing highly efficient hydrogel‐based desalination devices, presenting a sustainable solution to water scarcity challenges.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "以1,8-二羟基萘作交联剂兼光热前驱体，原位生成异黑色素本体水凝胶，实现高效太阳能海水淡化。",
+    "innovation": "提出简便模块化的异黑色素本体水凝胶构建策略，光热前驱体1,8-二羟基萘同时充当交联剂与功能单体，在固化过程中自发原位生成光热剂，无需引入外源光热剂；原位生成的光热剂与凝胶网络无缝集成，避免了高负载、分散不均和界面相容性差造成的水传输受阻与传热复杂化，显著提升水传输、水活化与热管理性能；所得水凝胶在1个太阳光照下蒸发速率高达4.26 kg·m⁻²·h⁻¹",
+    "significance": "该工作为高效水凝胶太阳能海水淡化器件的设计开辟了新路径，展示了原位光热化策略在界面蒸发领域的巨大潜力。技术经济分析表明其清洁水生产成本约1.66美元/吨，可与反渗透竞争，为缓解全球水资源短缺提供了可持续的解决方案。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:11:02+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -16631,6 +16884,44 @@
     "significance": "该策略可提高CpG寡核苷酸在肿瘤部位的富集与免疫激活效率，同时降低系统性炎症等毒副作用。为免疫佐剂的微环境响应型递送提供了新思路，在肿瘤免疫治疗中具有良好的临床转化前景。",
     "model": "deepseek-v4-flash",
     "generated_at": "2026-09-10T22:10:22+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.biomaterials.2026.124587",
+   "title": "Hydrogen-bond interfacial engineering of silk fibroin-strengthened magnetic colloidal hydrogel for embolization and magnetothermal therapy of hepatocellular carcinoma",
+   "authors": [
+    "Bing Chen",
+    "Xingyu Liu",
+    "Jinlong Hu",
+    "Yonghong Song",
+    "Xiaoli Hou",
+    "Xu Yan",
+    "Liang Dong",
+    "Tao Zhou",
+    "Yun-Jun Xu",
+    "Yang Lu"
+   ],
+   "journal": "Biomaterials",
+   "tier": "C",
+   "publication_date": "2026-08-31",
+   "date_precision": "approx",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1016/j.biomaterials.2026.124587",
+   "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124587",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "通过氢键界面工程构建丝素蛋白增强磁性胶体水凝胶，用于肝细胞癌的栓塞与磁热联合治疗",
+    "innovation": "利用氢键界面工程实现丝素蛋白与磁性纳米粒子的协同组装，显著增强水凝胶的力学强度与胶体稳定性；将经导管栓塞与磁感应热疗集成于同一可注射磁性水凝胶体系，实现物理阻断与热消融的协同增效；面向肝细胞癌介入治疗，构建可磁操控、可原位成胶的复合功能平台",
+    "significance": "该策略有望解决传统栓塞材料力学性能不足、功能单一的问题，为肝癌提供栓塞-磁热一体化治疗方案。丝素蛋白的引入可提升材料的生物相容性与降解可控性，磁性组分则赋予其磁靶向与热疗能力。未来或可拓展至其他富血供实体瘤的介入治疗与影像引导下的联合治疗。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:11:04+00:00"
    },
    "source": "crossref"
   },
@@ -28338,8 +28629,14 @@
    "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42632579/",
    "abstract": "Several studies have measured and rationalised how dissolution medium pH alters the drug crystal surface pH and dissolution rates for ionisable compounds, with predictive models proposed. However, mechanistic understanding of buffer species effects remains limited and existing models are often complex. Other extrinsic parameters including temperature, agitation, and micelles, have received comparatively little attention. This study investigated the impact of parameters on the intrinsic dissolution rate (IDR) of acalabrutinib drug substance, using the rotating disk apparatus. Experiments spanned agitation rates (25, 50, and 100 RPM); temperatures (25 and 37 °C), buffers (sodium acetate, sodium citrate, potassium hydrogen phthalate, sodium phosphate); and micelle-containing media, including FaSSIF-V2, FeSSIF, and sodium dodecyl sulfate (SDS) in pH 6.8 phosphate buffer at varying concentrations. A simple mathematical model, that combines the estimation of surface solubilities (through the surface pH), and a direct calculation of the IDR has been employed to rationalise the experimental findings and to achieve a better mechanistic understanding of the impact of the buffer media and surfactant effects. The model confirmed the importance of explicitly including surface pH in the estimation of surface solubilities, however, lacked predictive capability and generalisability for a quantitative prediction of the IDR in buffered media. The requirement for the fitting of system-dependent diffusivities suggests that a detailed description of transport phenomena for charged species is needed to capture the impact on the IDR per buffer. The transfer of the mechanistic understanding to inform a physiologically based biopharmaceutics model (PBBM) is also discussed.",
    "abstract_source": "pubmed",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "采用转盘法考察搅拌、缓冲液种类、温度与胶束对阿卡替尼特性溶出速率的影响并建立机理模型",
+    "innovation": "系统考察搅拌速率（25/50/100 RPM）、温度（25/37 ℃）、四种缓冲液（乙酸钠、柠檬酸钠、邻苯二甲酸氢钾、磷酸钠）及FaSSIF-V2、FeSSIF、SDS胶束介质对阿卡替尼IDR的联合影响，弥补外在参数研究不足；构建结合表面pH估算表面溶解度并直接计算IDR的简化数学模型，替代复杂模型以解析缓冲液与表面活性剂效应；揭示缓冲液种类效应需依赖体系相关扩散系数拟合，指出现有模型在缓冲介质中缺乏定量预测能力与普适性，提示需细化带电物种的传质描述",
+    "significance": "该研究为可电离药物在缓冲介质中的溶出机理提供了简化且机理清晰的分析框架，明确了表面pH在表面溶解度估算中的必要性。所揭示的缓冲液种类、温度、搅拌与胶束对IDR的作用规律，有助于更合理地设计体外溶出试验条件并解释其差异。相关机理认识可迁移至生理药代动力学生物药剂学模型（PBBM），为口服制剂的处方开发与生物等效性风险评估提供支持。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-12T22:11:08+00:00"
+   },
    "source": "crossref"
   },
   {

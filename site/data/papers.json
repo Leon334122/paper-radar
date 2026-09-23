@@ -1,8 +1,552 @@
 {
- "updated_at": "2026-09-22T00:35:40+00:00",
- "count": 1978,
+ "updated_at": "2026-09-23T00:01:54+00:00",
+ "count": 2037,
  "note": "本文件由 pipeline build 自动生成，请勿手工编辑。",
  "papers": [
+  {
+   "doi": "10.1038/s41551-026-01796-3",
+   "title": "Microfluidics-mediated spatial control of mRNA lipid nanoparticles primes translation and enhances vaccine potency",
+   "authors": [
+    "Zhouyi Zheng",
+    "Yue Jiang",
+    "Yue Gong",
+    "Qiuhe Wang",
+    "Kuan Zhang",
+    "Wenshuo Zhou",
+    "Lei Zhang",
+    "Jiang Xu"
+   ],
+   "journal": "Nature Biomedical Engineering",
+   "tier": "A",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 12,
+   "url": "https://doi.org/10.1038/s41551-026-01796-3",
+   "url_doi": "https://doi.org/10.1038/s41551-026-01796-3",
+   "url_pubmed": null,
+   "abstract": "Nature Biomedical Engineering, Published online: 22 September 2026; doi:10.1038/s41551-026-01796-3 A microfluidic method restructures preformed lipid nanoparticles by inserting a metabolic-enhancing RNA into an internal peripheral compartment while relocating the therapeutic RNA towards the core, thereby improving vaccine therapeutic outcomes.",
+   "abstract_source": "rss",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41551-026-01773-w",
+   "title": "Biomimetic graphitic carbon nitride nanoparticles for multiscale photomodulation and therapeutic intervention",
+   "authors": [
+    "Christoph Müller",
+    "Kjeld Kaj Klompmaker",
+    "Yuge Zhang",
+    "Jing Zhang",
+    "Anna Kalatanova",
+    "Pengju Li",
+    "Lingyuan Meng",
+    "Jesper Guldsmed Madsen",
+    "Thomas Stax Jakobsen",
+    "Asbjørn Cortnum Jørgensen",
+    "Anne Louise Askou",
+    "Yonglun Luo",
+    "Lin Lin",
+    "Sara Vogt Bleshøy",
+    "Georgios Bolis",
+    "Ge Huang",
+    "Wen Li",
+    "Rasmus Schmidt Davidsen",
+    "Toke Bek",
+    "Nikos S. Hatzakis"
+   ],
+   "journal": "Nature Biomedical Engineering",
+   "tier": "A",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1038/s41551-026-01773-w",
+   "url_doi": "https://doi.org/10.1038/s41551-026-01773-w",
+   "url_pubmed": null,
+   "abstract": "Nature Biomedical Engineering, Published online: 22 September 2026; doi:10.1038/s41551-026-01773-w Biomimetic, non-genetic, light-responsive hollow-sphere graphitic carbon nitride nanoparticles can modulate biological activity from subcellular and cellular levels to whole-tissue function and enable therapeutic biomodulation in the retinas of visually impaired mice.",
+   "abstract_source": "rss",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41591-026-04656-4",
+   "title": "Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence",
+   "authors": [
+    "Jian Zhou",
+    "Guangyu Guo",
+    "Jiawen Yao",
+    "Qinji Yu",
+    "郑春鹏",
+    "Xiaochen Feng",
+    "Xianghua Ye",
+    "Yongjin Zhou",
+    "Pei Yang",
+    "Lukáš Lambert",
+    "ShaoJun Zheng",
+    "Qiong Li",
+    "Yingda Xia",
+    "Wenchao Guo",
+    "Yi Chen",
+    "Mengdi Zhang",
+    "Yu Jiang",
+    "Dandan Zheng",
+    "Jia Ge",
+    "Haomiao Qing"
+   ],
+   "journal": "Nature Medicine",
+   "tier": "A",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1038/s41591-026-04656-4",
+   "url_doi": "https://doi.org/10.1038/s41591-026-04656-4",
+   "url_pubmed": null,
+   "abstract": "Nature Medicine, Published online: 22 September 2026; doi:10.1038/s41591-026-04656-4 In a large-scale study, a new tool called Esophageal AI-Guided malignant Lesion Evaluation uses artificial intelligence to enhance esophageal cancer detection through noncontrast computed tomography, achieving high sensitivity and specificity across diverse settings.",
+   "abstract_source": "rss",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究基于非增强CT与人工智能开展大规模食管癌筛查，新工具在多场景下实现高敏感度和高特异度。",
+    "innovation": "研发Esophageal AI-Guided malignant Lesion Evaluation工具，将AI用于非增强CT食管癌筛查；不依赖对比剂，降低筛查门槛并适用于大规模人群；在多场景验证中实现高敏感度与高特异度。",
+    "significance": "该研究为资源有限或大规模人群中的食管癌早期筛查提供了非侵入、可扩展的新路径。若进一步临床验证与推广，有望提高早期检出率、改善预后并减轻疾病负担。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-22T23:59:39+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41591-026-04688-w",
+   "title": "Some answers, more questions for multi-cancer early detection tests",
+   "authors": [
+    "Catherine R. Marinac",
+    "Timothy Richard Rebbeck",
+    "Elizabeth K. O’Donnell"
+   ],
+   "journal": "Nature Medicine",
+   "tier": "A",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1038/s41591-026-04688-w",
+   "url_doi": "https://doi.org/10.1038/s41591-026-04688-w",
+   "url_pubmed": null,
+   "abstract": "Nature Medicine, Published online: 22 September 2026; doi:10.1038/s41591-026-04688-w The PATHFINDER 2 and NHS-Galleri studies provide complementary evidence on the clinical performance, safety and implementation of multi-cancer early detection, while underscoring the next challenge: demonstrating population-level benefit.",
+   "abstract_source": "rss",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41591-026-04679-x",
+   "title": "Trastuzumab plus nivolumab with gemcitabine and cisplatin as first-line therapy for HER2-positive unresectable biliary tract cancer: a phase 1b/2 trial",
+   "authors": [
+    "Choong‐kun Lee",
+    "Taek Chung",
+    "Il Hwan Kim",
+    "Hong Jae Chon",
+    "Jin Won Kim",
+    "Se Jun Park",
+    "Woo Kyun Bae",
+    "Junghun Kang",
+    "Changhoon Yoo",
+    "Dong‐Hoe Koo",
+    "Sora Kang",
+    "Minsuk Kwon",
+    "Ju Won Kim",
+    "Beodeul Kang",
+    "Sejung Park",
+    "Woochan Hwang",
+    "Chang Ho Ahn",
+    "Chang Gon Kim",
+    "Hye Jin Choi"
+   ],
+   "journal": "Nature Medicine",
+   "tier": "A",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1038/s41591-026-04679-x",
+   "url_doi": "https://doi.org/10.1038/s41591-026-04679-x",
+   "url_pubmed": null,
+   "abstract": "Nature Medicine, Published online: 22 September 2026; doi:10.1038/s41591-026-04679-x In a phase 1b/2 trial, first-line treatment of participants with biliary tract cancer with human epidermal growth factor receptor 2 (HER2)-targeting trastuzumab in combination with nivolumab plus gemcitabine and cisplatin showed encouraging clinical response rates and HER2 expression was associated with clinical benefit.",
+   "abstract_source": "rss",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-75976-9",
+   "title": "Actionable genetic landscape and dynamics in circulating DNA from 12,827 patients with metastatic breast cancer",
+   "authors": [
+    "Ignaty Leshchiner",
+    "Arielle J. Medford",
+    "Justin Cha",
+    "Lesli Ann Kiedrowski",
+    "Andrzej Niemierko",
+    "Jennifer C. Keenan",
+    "Charles S. Dai",
+    "Laura M. Spring",
+    "Beverly Moy",
+    "Seth A. Wander",
+    "Neelima Vidula",
+    "Steven Jay Isakoff",
+    "Dejan Juric",
+    "Mendy Miller",
+    "Andrew A. Davis",
+    "Lorenzo Gerratana",
+    "Ami Shah",
+    "Ben Ho Park",
+    "Adam Brufsky",
+    "Joyce O’Shaughnessy"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1038/s41467-026-75976-9",
+   "url_doi": "https://doi.org/10.1038/s41467-026-75976-9",
+   "url_pubmed": null,
+   "abstract": "Abstract Plasma cell-free DNA (cfDNA) is a sensitive, noninvasive tool for monitoring the genomic landscape, heterogeneity, and evolution of cancer, aggregating genetic information from multiple metastatic sites. Here, we study 15,564 cfDNA samples from 12,827 patients with metastatic breast cancer (MBC). We classify samples, deep-sequenced with Guardant360, into MBC subtypes using our trained random forest model. Most patients have variants associated with therapeutic resistance and targetability of approved and experimental therapies, including in PIK3CA, ESR1, PTEN , and AKT1 . Frequencies of multiple actionable alterations differed from primary disease, and multiple variants per gene suggest independent resistant clones. The large cohort size enables uncovering clonal co-behaviors, including co-existence and exclusivity of alleles and correlation of allele fractions. cfDNA testing is now recommended in multiple advanced malignancies, including eligibility assessment for clinical trials. We envision this large collection of MBC cfDNA data as an invaluable resource for the design and planning of future clinical trials.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-77975-2",
+   "title": "Structural basis of laminin mimicry by E. coli CNF1 and its therapeutic potential for cancer immunotherapy",
+   "authors": [
+    "Yuyuan Zheng",
+    "Yu Tang",
+    "X. Wang",
+    "Jie Zhang",
+    "Jiangqing Chen",
+    "Yuzhe Peng",
+    "Xiaolin Shen",
+    "Shize Zhang",
+    "Lianqing Chen",
+    "Yajun Guo",
+    "Jie Sun",
+    "Chun Zhou"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1038/s41467-026-77975-2",
+   "url_doi": "https://doi.org/10.1038/s41467-026-77975-2",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "解析大肠杆菌CNF1模拟层粘连蛋白的结构基础，并评估其用于肿瘤免疫治疗的应用潜力。",
+    "innovation": "从结构生物学层面阐明CNF1对层粘连蛋白（laminin）分子拟态的机制；将细菌效应蛋白的拟态特性与肿瘤免疫治疗相衔接，提出跨界借鉴的新型免疫干预思路；为基于CNF1结构的工程化改造与药物设计提供靶点依据。",
+    "significance": "该研究有助于理解致病菌通过模拟宿主细胞外基质蛋白实现黏附与信号干扰的分子机制。同时，层粘连蛋白拟态有望被转化为调控肿瘤微环境、增强抗肿瘤免疫应答的新工具。若结构信息可指导改造，或可推动基于细菌蛋白的肿瘤免疫治疗策略开发。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-22T23:59:41+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/anie.4212622",
+   "title": "Hydrogen‐Bonding‐Stabilized Organic Piezoelectric Nanofibers for Immunogenic Sonopiezodynamic Therapy of Metastatic Tumors",
+   "authors": [
+    "Run Zhang",
+    "Ziting Lin",
+    "Shuning Liu",
+    "Yujun Lu",
+    "Yiqi Jin",
+    "Zhenghui Li",
+    "Xuan Cheng",
+    "Qi Xu",
+    "Jun Song",
+    "Xingguang Li",
+    "Huijing Xiang"
+   ],
+   "journal": "Angewandte Chemie International Edition",
+   "tier": "B",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗",
+    "肺部靶向"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1002/anie.4212622",
+   "url_doi": "https://doi.org/10.1002/anie.4212622",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Piezoelectric biomaterials enable mechano‐electrical coupling in biological systems, facilitating real‐time sensing, actuation, and in vivo energy harvesting. However, their application is constrained by the scarcity of stable organic piezoelectric systems. Here, we develop a one‐step electrospinning strategy for self‐assembling organic heterostructured piezoelectric nanofibers to combat tumor metastasis. In this system, directional hydrogen bonding between the ─NH 2 groups of diphenylalanine (FF) and the C═O groups of poly(L‐lactic acid) (PLLA), alongside van der Waals interactions, critically promotes oriented PLLA chain crystallization and stabilizes the piezoelectric β‐phase. The resulting PLLA@FF composite exhibits enhanced piezoelectric performance and excellent stability. Under ultrasound irradiation, injectable PLLA@FF generates a potent sonopiezoelectric effect, triggering a reactive oxygen species storm that induces mitochondrial dysfunction, robust apoptosis, and the release of damage‐associated molecular patterns, thereby initiating an immunogenic cell death cascade. In vivo studies demonstrate that PLLA@FF‐mediated sonopiezoelectric therapy not only suppresses primary and distant tumor growth but also inhibits lung metastasis by remodeling the immunosuppressive tumor microenvironment. RNA sequencing further corroborates these findings, revealing activation of oxidative stress, apoptosis, and immune‐related pathways. Collectively, this work overcomes the stability limitations of piezoelectric polymers and establishes a versatile, biodegradable fibrous platform for advanced piezocatalytic immunotherapy.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "通过氢键稳定PLLA@FF有机压电纳米纤维，超声触发声压电免疫原性细胞死亡，抑制肿瘤转移。",
+    "innovation": "提出一步静电纺丝自组装策略，利用FF的─NH2与PLLA的C═O间定向氢键及范德华力，诱导PLLA链定向结晶并稳定压电β相；构建可注射、可生物降解的PLLA@FF异质结构压电纳米纤维，兼具增强压电性能与优异稳定性；将声压电效应与免疫原性细胞死亡级联结合，实现声压电动力学免疫治疗。",
+    "significance": "该工作突破了有机压电聚合物稳定性不足的瓶颈，为稳定高效有机压电体系的设计提供了新思路。所构建的纤维平台在超声下产生ROS风暴，诱导线粒体功能障碍、凋亡及损伤相关分子模式释放，重塑免疫抑制微环境，可同时抑制原发瘤、远端瘤及肺转移。这为晚期转移性肿瘤的微创声压电催化免疫治疗提供了通用、可降解的材料平台与转化前景。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-22T23:59:41+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/anie.3611480",
+   "title": "Highly Efficient Au 1 Pd Single‐Atom Alloy Catalyzing Reversible Formate/Bicarbonate Interconversion: Proof‐of‐Concept for Formate‐Salt Cavern Hydrogen Storage",
+   "authors": [
+    "Xiuqin Ci",
+    "Yuwei Pan",
+    "Changjiang Yang",
+    "Jiachen Xie",
+    "Chenghu Wei",
+    "Ning Sun",
+    "Tie Yu",
+    "Guoqing Ren",
+    "Wei Deng"
+   ],
+   "journal": "Angewandte Chemie International Edition",
+   "tier": "B",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1002/anie.3611480",
+   "url_doi": "https://doi.org/10.1002/anie.3611480",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Reversible hydrogen storage via formate/bicarbonate cycles is a promising strategy for large‐scale hydrogen storage, while the lack of highly efficient catalysts for reversible interconversion remains a critical bottleneck. Herein, we report an amine‐modified activated carbon‐supported Au 1 Pd single‐atom alloy (SAA) catalyst (Au 1 Pd 20 /AC‐NH) as the key breakthrough to address this challenge, and further demonstrate its proof‐of‐concept application in a novel “Formate‐Salt Cavern Hydrogen Storage System”. Featuring atomically dispersed Au promoters anchored on Pd nanoparticles, Au 1 Pd 20 /AC‐NH boosts Pd's intrinsic activity remarkably. Under near‐ambient conditions, it exhibits exceptional turnover frequencies (TOFs, based on total active metal) of 4568 h −1 for dehydrogenation (80°C, 1 bar, 1 M HCOOK) and 77 h −1 for hydrogenation (30°C, 1 bar, 1.5 M KHCO 3 ). Specifically, in the formate dehydrogenation reaction, the Au 1 Pd 20 /AC‐NH catalyst exhibits a 45% higher initial TOF value at a conversion of 20% compared with monometallic Pd/AC‐NH; meanwhile, its hydrogenation activity is increased by 34%. These values are among the highest reported under similar reaction conditions. Mechanistic analysis reveals that the superior catalytic performance stems from the Au 1 Pd SAA effect and synergistic interaction with surface ─NH─ groups, which collectively facilitate H 2 dissociation and reactant adsorption. By establishing an efficient catalytic strategy and providing critical proof‐of‐concept, this work paves a viable pathway for large‐scale hydrogen storage.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsnano.6c11926",
+   "title": "Dual-Stimuli-Driven Calcium Nanomachines for NO-Induced Immunogenic Cell Death",
+   "authors": [
+    "Yujie Mao",
+    "Xin Li",
+    "Juan Qin",
+    "Ting Wang",
+    "Kang Xia",
+    "Duo Wang",
+    "Xikuang Yao",
+    "Wei Huang"
+   ],
+   "journal": "ACS Nano",
+   "tier": "C",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗",
+    "肺部靶向"
+   ],
+   "relevance_score": 5,
+   "url": "https://doi.org/10.1021/acsnano.6c11926",
+   "url_doi": "https://doi.org/10.1021/acsnano.6c11926",
+   "url_pubmed": null,
+   "abstract": "Abstract Tumor blood vascular endothelial cells targeting has emerged as a powerful strategy to enhance the accumulation and penetration of nanomedicines. However, the complex tumor microenvironment, especially the newly discovered breast cancer blood vascular basement membrane, can severely trap accumulated nanomedicines and compromise therapeutic efficacy. In this study, a γ-glutamyl transpeptidase (GGT)-targeting calcium nanomachine is designed and fabricated through decoration of GGT-targeting polysarcosine and encapsulation of nitric oxide (NO) precursors. Upon NIR laser irradiation, these calcium nanomachines can efficiently release NO on demand. By integration of the GGT-targeting and NIR-triggered NO release, these nanomachines can actively target the 4T1 tumor, deeply penetrate into tumor region, and are efficiently internalized by 4T1 cells. Robust tumor cell apoptosis and immunogenic cell death (ICD) can be achieved as well as efficient immune activation. Meanwhile, these calcium nanomachines can also greatly inhibit 4T1 lung metastasis and demonstrate significant efficacy against large tumors. This work offers a great opportunity for the facile design and construction of precision nanomedicines.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsnano.6c12356",
+   "title": "Nanoconfinement of Ultrasmall Bismuth in Hard Carbon Enables Ultrahigh-Capacity Sodium-Ion Batteries at Low Temperatures",
+   "authors": [
+    "Yunhong Wei",
+    "Zhiyu Lu",
+    "Huimin Zhang",
+    "Yue Dou",
+    "Wenhui Zhu",
+    "Song Jin",
+    "Xianghua Kong",
+    "Hengxing Ji"
+   ],
+   "journal": "ACS Nano",
+   "tier": "C",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1021/acsnano.6c12356",
+   "url_doi": "https://doi.org/10.1021/acsnano.6c12356",
+   "url_pubmed": null,
+   "abstract": "Abstract Electrochemical energy storage systems that perform reliably under low temperatures are crucial for applications in transportation, renewable energy buffering, and devices in harsh climates. Alloy-type anodes, particularly bismuth (Bi), are promising for low-temperature sodium-ion batteries (SIBs) due to their high operating potentials and fast Na+ transport. However, challenges such as significant volume changes during cycling hinder their performance. To address this, we preemptively stabilize Bi by exploiting Bi3+-induced ionic bridging with xanthan gum to construct a homogeneous precursor network, followed by carbon locking of sub-10 nm Bi nanoparticles within a hard-carbon scaffold. This design reduces particle migration, mitigates alloying-induced pulverization, and preserves critical Bi–C interfacial contact. The resulting Bi@HC anode shows ultrahigh reversible specific capacity of 520 mAh g–1 at 0.1 A g–1 and long-term stability. When paired with a Na3V2(PO4)3 cathode, the full cell retains ∼250 mAh g–1 after 620 cycles at −40 °C. These results highlight carbon locking as an effective design strategy for durable alloy anodes, enabling sodium-ion batteries with fast charge capability and wide-temperature operation.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05051-4",
+   "title": "Tetrandrine-loaded manganese-doped ceria nanozyme for nebulized inhalation therapy of the ROS-driven inflammatory-fibrotic continuum",
+   "authors": [
+    "Qin Liu",
+    "Luo Yingli",
+    "Xueying Wang",
+    "Xiaoru Zhang",
+    "Yun Jiang",
+    "Shuiling Wen",
+    "Yaoxiang Yang",
+    "Ergang Liu",
+    "Yongzhuo Huang",
+    "Feng Zeng"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1186/s12951-026-05051-4",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05051-4",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "构建负载粉防己碱的锰掺杂氧化铈纳米酶，经雾化吸入干预ROS驱动的炎症-纤维化连续体。",
+    "innovation": "将粉防己碱与锰掺杂氧化铈纳米酶整合，兼具抗炎与抗氧化酶活性；采用雾化吸入递送，靶向肺部ROS微环境；针对炎症-纤维化连续体进行干预，而非单一阶段。",
+    "significance": "该策略有望通过清除ROS、调节炎症并抑制纤维化进展，为肺纤维化等呼吸系统疾病提供无创吸入治疗方案。纳米酶与天然药物联用可提升肺部生物利用度并降低系统毒性，具有临床转化潜力。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-22T23:59:46+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05091-w",
+   "title": "A biomimetic multienzyme‑mimetic Prussian blue nanozyme for catalytic ROS neutralization and macrophage reprogramming in photoacoustic imaging‑guided immunotherapy of acute lung injury",
+   "authors": [
+    "Yibo Tang",
+    "Chaohao Liang",
+    "Honghong Liao",
+    "Wenjie Yin",
+    "Fengbing He",
+    "Dong Liu",
+    "Yu Zhang",
+    "Jian Zhang"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗",
+    "肺部靶向"
+   ],
+   "relevance_score": 10,
+   "url": "https://doi.org/10.1186/s12951-026-05091-w",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05091-w",
+   "url_pubmed": null,
+   "abstract": "Acute lung injury (ALI) is a life‑threatening respiratory disease that lacks precise diagnostic tools and specific therapeutic interventions, highlighting an urgent need for theranostic strategies. Here, we developed a biomimetic multienzyme‑mimetic Prussian blue nanozyme (MM@HMPB/Sim) that couples catalytic ROS neutralization with macrophage reprogramming for photoacoustic (PA) imaging‑guided immunotherapy of ALI. The nanoplatform was constructed by cloaking simvastatin (Sim)‑loaded hollow mesoporous Prussian blue (HMPB) metal–organic framework (MOF) nanozyme with a native macrophage membrane (MM). The HMPB core exhibited catalase (CAT)‑, peroxidase (POD)‑, and superoxide dismutase (SOD)‑like activities, enabling cascade catalytic scavenging of reactive oxygen species (ROS). MM@HMPB/Sim efficiently scavenged ROS, alleviated oxidative cellular damage, promoted M1-to-M2 macrophage repolarization, and inhibited monocyte adhesion to inflamed endothelium via competitive receptor engagement. Mechanistically, the HMPB core appeared to upregulate NRF2-dependent antioxidant responses, while simvastatin seemed to enhance AMPKα1-mediated metabolic reprogramming. Their combination was associated with synergistic restoration of the PPARα/AMPKα1/NRF2 axis and suppression of NF-κB p65, correlating with reduced Th17 differentiation and IL-17A production, which may have facilitated a shift toward an M2-like phenotype. Together with MM-mediated inhibition of immune cell infiltration, these effects were accompanied by improved pulmonary immune homeostasis and attenuated lung injury. The nanozyme also displayed favorable biocompatibility and gradual in vivo clearance. This biomimetic multienzyme‑mimetic nanozyme offers a safe, PA imaging‑guided catalytic immunotherapy that integrates ROS neutralization with synergistic metabolic and antioxidant pathway modulation to resolve ALI, holding translational potential for ROS-driven inflammatory lung diseases.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adhm.71752",
+   "title": "Nanoparticle‐Based Delivery Strategies for Targeted Protein Degradation",
+   "authors": [
+    "Leyuan Wang",
+    "Jianhui Yang",
+    "Yang Liu",
+    "Qi Liu"
+   ],
+   "journal": "Advanced Healthcare Materials",
+   "tier": "C",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统",
+    "纳米药物"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1002/adhm.71752",
+   "url_doi": "https://doi.org/10.1002/adhm.71752",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Targeted protein degradation (TPD) has fundamentally redefined pharmacological intervention, shifting from classical occupancy‐driven inhibition to event‐driven elimination of undruggable pathogenic proteins, holding great promise for treating various intractable diseases. Although heterobifunctional degraders and molecular glues show immense therapeutic promise, their clinical translation is hindered by pharmacokinetic and pharmacodynamic disconnects, including violation of Lipinski's Rule of Five (Ro5) and autoinhibitory thermodynamics known as the hook effect. Nanoparticle‐based delivery systems offer a feasible solution that goes beyond passive solubilization. This review provides a comprehensive evaluation of advanced nanocarriers as spatiotemporal kinetic orchestrators, highlighting their capacity for active and precise therapeutic applications. In this review, we summarize recent progress in nanoparticle‐based TPD delivery strategies, outlining TPD molecular pathways and diverse nanocarriers for efficient delivery of TPD agents, including liposomes, polymeric nanoparticles, micelles, DNA nanostructures, inorganic nanomaterials, and biological carriers. Furthermore, the mechanisms, targeting strategies, preclinical efficacy, biological barriers, and optimization strategies of these works are detailed. Finally, we propose two solutions, namely localized zero‐order release platforms and engineered living vectors, with the potential to bypass physiological barriers and promote the clinical translation of TPD.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41591-026-04618-w",
+   "title": "Performance and safety of a multi-cancer early detection test: the PATHFINDER 2 study",
+   "authors": [],
+   "journal": "Nature Medicine",
+   "tier": "A",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://www.nature.com/articles/s41591-026-04618-w",
+   "url_doi": "https://doi.org/10.1038/s41591-026-04618-w",
+   "url_pubmed": null,
+   "abstract": "Nature Medicine, Published online: 22 September 2026; doi:10.1038/s41591-026-04618-w The interventional PATHFINDER 2 study provides insights on the safety and performance of a blood-based multi-cancer early detection test in an intended-use population, including more than 35,000 participants aged 50 years or older.",
+   "abstract_source": "rss",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "rss"
+  },
+  {
+   "doi": "10.1038/s41591-026-04652-8",
+   "title": "Performance of a multi-cancer early detection test in the randomized controlled NHS-Galleri trial",
+   "authors": [],
+   "journal": "Nature Medicine",
+   "tier": "A",
+   "publication_date": "2026-09-22",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://www.nature.com/articles/s41591-026-04652-8",
+   "url_doi": "https://doi.org/10.1038/s41591-026-04652-8",
+   "url_pubmed": null,
+   "abstract": "Nature Medicine, Published online: 22 September 2026; doi:10.1038/s41591-026-04652-8 Secondary endpoint analyses in the NHS-Galleri randomized controlled trial, testing a multi-cancer early detection test added to usual care, provide insights on the performance of the blood-based test in more than 142,000 participants without suspicion of cancer.",
+   "abstract_source": "rss",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "NHS-Galleri随机试验次要终点分析：在14.2万余名无癌症疑似人群中评估血液多癌早检试验的性能。",
+    "innovation": "依托超14.2万参与者的大型随机对照试验，评估多癌早检血液检测加入常规诊疗后的表现；聚焦无癌症疑似人群，提供接近真实筛查场景的性能数据；以次要终点分析补充主终点证据，为多癌早检临床效用评估提供新依据。",
+    "significance": "该研究为血液多癌早检在无症状人群中的筛查性能提供了大规模随机对照证据，有助于判断其能否作为常规诊疗的有效补充。若性能获得证实，可能推动多癌早检进入人群筛查路径，并影响癌症早诊策略与卫生政策制定。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-22T23:59:50+00:00"
+   },
+   "source": "rss"
+  },
   {
    "doi": "10.1038/s41551-026-01802-8",
    "title": "Development of an investigational epigenetic silencer therapy to transcriptionally inactivate viral DNA in chronic hepatitis B",
@@ -64,12 +608,12 @@
    "directions": [
     "肿瘤治疗"
    ],
-   "relevance_score": 3,
+   "relevance_score": 6,
    "url": "https://doi.org/10.1016/j.nantod.2026.103186",
    "url_doi": "https://doi.org/10.1016/j.nantod.2026.103186",
    "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "abstract": "Ferroptosis, an iron-dependent non-apoptotic cell death mode, has emerged as a promising strategy for tumor therapy, yet the direct delivery of iron-based nanomedicines will inevitably trigger marked anaphylactic reactions in normal tissues. Non-ferrous nanomedicines have thus attracted ever-increasing attentions, while their rational designs, functional exploitations and therapeutic mechanism clarifications remain great challenges. Herein, we report a palladium-tungsten oxide/carbon (Pd-WO 2.90 /C, PWC) nanomedicine via a green, facile and high-efficiency fabrication strategy. In response to the tumor microenvironment (TME, such as mild acidity, overexpressed peroxide (H 2 O 2 ) and glutathione (GSH)), PWC exhibits intrinsic catalase (CAT)-like activity and triggers the generation of multiple reactive oxygen species (ROS) including hydroxyl radical ( • OH), singlet oxygen ( 1 O 2 ) and carbon free radical ( • C). More importantly, PWC achieves ferroptosis-like tumor regression with enhanced specificity and meanwhile efficiently induces immunogenic cell death (ICD) in tumor cells without inducing iron-related adverse reactions in normal tissues. Mechanistically, PWC depletes intracellular GSH to inactivate glutathione peroxidase 4 (GPX4), promotes lipid peroxidation (LPO) accumulation, and simultaneously triggers multi-Radical burst to amplify oxidative stress, collectively driving ferroptosis-like cell death. Furthermore, the PWC-induced ICD elicits robust anti-tumor immune responses, which further suppresses tumor growth and metastasis. In vitro and in vivo experiments consistently validate the superior anti-tumor efficacy and excellent biocompatibility of PWC, and the in-depth exploration of its therapeutic mechanism. This work not only develops a non-ferrous nanomedicine for efficient ferroptosis-like therapy and ICD induction, but also offers a versatile design paradigm for the development of next-generation non-ferrous nanomedicines.",
+   "abstract_source": "openalex",
    "summary_status": "done",
    "summary": {
     "one_liner": "设计微环境响应型多自由基发生器，通过多种自由基协同放大氧化应激，诱导免疫原性肿瘤细胞铁死亡。",
@@ -79,6 +623,986 @@
     "generated_at": "2026-09-22T00:33:43+00:00"
    },
    "source": "crossref"
+  },
+  {
+   "doi": "10.1038/s41467-026-77940-z",
+   "title": "Host-pathogen pyrimidine metabolism drives cystic fibrosis lung disease",
+   "authors": [
+    "Gaurav Kumar Lohia",
+    "Ying-Tsun Chen",
+    "Samantha Chen",
+    "Ayesha Beg",
+    "Erin Theiller",
+    "Aomeng Cui",
+    "Ahmed M. Moustafa",
+    "Sebastián A. Riquelme"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1038/s41467-026-77940-z",
+   "url_doi": "https://doi.org/10.1038/s41467-026-77940-z",
+   "url_pubmed": null,
+   "abstract": "Cystic fibrosis (CF), caused by CFTR mutations, is characterized by progressive pulmonary remodeling, particularly during bacterial infection. This pathological environment, exacerbated by altered epithelial growth, leads to thickened airway walls, inducing permanent narrowing and long-term breathing difficulties. However, what drives this adverse milieu remains unclear. Here, we identify activation of the de novo pathway of pyrimidine synthesis (DNPPS) as a central contributor of CF lung remodeling. In response to impaired mitochondrial bioenergetics, CFTR-mutant epithelial cells engage compensatory DNPPS activity, functionally coupling mitochondrial oxidative metabolism to pyrimidine production and, inadvertently, promoting proliferation. This phenotype is reversible with CFTR modulators and pharmacologic DNPPS inhibitors using clinically established agents. Strikingly, Pseudomonas aeruginosa, the predominant CF pathogen, undergoes convergent pyrimidine adaptation, activating its own DNPPS machinery to amplify biomass and sustain a remodeled niche. Together, these findings define pyrimidine metabolism as a shared host-pathogen axis driving epithelial restructuring and bacterial persistence in the CF lung. Here, Lohia et al show that pyrimidine metabolism is a driver of pulmonary remodelling and bacterial infection in people with cystic fibrosis.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-78003-z",
+   "title": "Inductive charging systems empowered by stress-annealed nanocrystalline alloys with high induced magnetic anisotropy",
+   "authors": [
+    "Yue Wang",
+    "Xuesong Li",
+    "Jing Zhou",
+    "Liping Mo",
+    "Xiaosheng Wang",
+    "Ben Zhang",
+    "Ruibo Li",
+    "Tianlu Ma",
+    "Weisheng Guo",
+    "Yue Liu",
+    "Sheng Ren",
+    "Junhui Yang",
+    "Zhaozheng Zhu",
+    "Hao Guo",
+    "K. T. Chau",
+    "Han Wang",
+    "Yuhao Zhang",
+    "Grant A. Covic",
+    "Baoan Sun",
+    "Teng Long"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1038/s41467-026-78003-z",
+   "url_doi": "https://doi.org/10.1038/s41467-026-78003-z",
+   "url_pubmed": null,
+   "abstract": "The large-scale commercial deployment of autonomous electric vehicles requires automated charging solutions. Inductive charging provides an alternative but faces efficiency, power density, and thermal stability challenges associated with ferrite-based systems. Here, we report an inductive charging system utilizing Fe-based nanocrystalline alloys, developed through combined material and system-level optimization. While conventional approaches often target maximum permeability, our analysis indicates that moderate permeability aligns more effectively with system requirements. Through stress-annealing, an effective permeability of 2330 and a core loss of 135 kW/m³ (at 85 kHz, 0.2 T) are achieved. The material is subsequently fabricated into core bars via a coil-aligned lamination technique. This material–system co-design results in an inductive charger with an AC-AC efficiency of 98.51%, a volumetric power density of 9.55 kW/L (including coils and magnetic cores), and thermal stability during high-power operation. Integrating material and electrical design facilitates the development of inductive charging systems to support autonomous vehicles and electric mobility. The work tunes iron-based nanocrystalline alloys by stress annealing to reach moderate permeability and low loss, then uses coil-aligned laminated cores in a 20 KW inductive charger that achieves 98.51% alternating-current efficiency, high power density, and stable temperature.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-77417-z",
+   "title": "PUM3 is an essential suppressor of replication stress in homologous recombination deficient breast cancer",
+   "authors": [
+    "Valeria Amodeo",
+    "Daniel Weekes",
+    "Nicolae Balan",
+    "Rebeca Uceda Castro",
+    "Nadja D’Uonno",
+    "Asha Konde",
+    "Élodie Noël",
+    "Luisa Robbez-Masson",
+    "Jennifer Trendell",
+    "Maya Shlomi",
+    "Callum Walker",
+    "Anjan Venkatesh",
+    "Colm J. Ryan",
+    "Sarah C. Moser",
+    "Jos Jonkers",
+    "Laurence H. Pearl",
+    "Antony W. Oliver",
+    "Dragomir B. Krastev",
+    "Syed Aleem Haider",
+    "Anita Grigoriadis"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1038/s41467-026-77417-z",
+   "url_doi": "https://doi.org/10.1038/s41467-026-77417-z",
+   "url_pubmed": null,
+   "abstract": "Most Triple Negative Breast Cancers (TNBCs) are p53 mutant high-grade invasive ductal carcinomas with a basal-like transcriptional programme. A large proportion of TNBCs also have mutation signatures indicating defective homologous recombination (HR) DNA repair. While HR deficiency is mutagenic and oncogenic, it can also compromise cell fitness. Here, we show that BLBCs harbouring the recurrent 9p21.3–9p24 amplicon, and particularly those that are HR-defective, overexpress PUM3 (Pumilio RNA binding family member 3). PUM3 inhibition is also synthetic lethal in tumour cells that overexpress PUM3 including those that have BRCA1/BRCA2 defects. Mechanistically, PUM3 suppresses transcription-mediated replicative stress and R-loop accumulation, thereby preventing DNA damage that would normally require RAD51-mediated repair. Transcription/replication collisions are commonly resolved by topoisomerase TOP1; without PUM3, TOP1 DNA chromatin localisation is impaired, revealing one mechanism by which PUM3 limits replication stress. PUM3 is therefore required for the continued fitness of a BLBC subset, allowing tolerance of HR deficiency’s deleterious effects. How tumour cells survive defective homologous recombination (HR) DNA repair has not been fully understood. Here the authors find that PUM3 prevents transcription replication conflicts and accumulation of R-loops through recruiting the DNA topoisomerase TOP1 in HR-defective triple negative breast cancer cells.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-77998-9",
+   "title": "A phage DUF669 protein mediates post-cleavage DNA repair against host CRISPR immunity",
+   "authors": [
+    "Heng Zhu",
+    "Shengkun Dai",
+    "Hewen Deng",
+    "Shifeng Hou",
+    "Yuelong Li",
+    "Xin Tan",
+    "Ning Jia",
+    "Nan Li",
+    "Yingfei Ma"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "基因治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1038/s41467-026-77998-9",
+   "url_doi": "https://doi.org/10.1038/s41467-026-77998-9",
+   "url_pubmed": null,
+   "abstract": "Phages have evolved various anti-CRISPR (Acr) proteins or RNA-based anti-CRISPR (Racr) to evade host CRISPR immunity by direct interference. However, whether other counter-CRISPR mechanisms exist remains unexplored. Here, we report a phage-encoded two-protein system, termed Healer, which neutralizes CRISPR immunity via a post-cleavage DNA repair mechanism. This phage replication-associated system comprises two proteins: Gp63 (a DUF669 domain-containing protein), and Gp64 (an AAA domain-containing protein). Mechanistic investigations elucidate that Gp63 acts as a rapid-response effector of CRISPR-induced DNA breaks. After Gp63 binds ssDNA, it promotes Gp64-mediated homologous recombination, which repairs CRISPR-generated phage DNA breaks and supports phage viability. Notably, co-expression of the Healer system with Cas9/Cas12 in E. coli, P. aeruginosa, and A. baumannii demonstrated high phage genome-editing efficiency. Collectively, our findings reveal an important anti-CRISPR complementary strategy, providing a promising tool for genome engineering. Using affinity purification-mass spectrometry, these authors identified the Healer system, a phage two-protein effector that repairs CRISPR-mediated DNA breaks via homologous recombination.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1073/pnas.2608378123",
+   "title": "Candida in the lower respiratory tract induces barrier disruption in mice and predicts poor outcomes in mechanically ventilated humans",
+   "authors": [
+    "Nathanial J. Tolman",
+    "Won Seok Choi",
+    "Riley Coulter",
+    "Mark E. Snyder",
+    "Lokesh Kumar Sharma",
+    "Shulin Qin",
+    "Eric D. Morrell",
+    "Carmen R. Mikacenic",
+    "Jonathan K. Alder",
+    "Xiaohong Wang",
+    "Mohammadreza Tabary",
+    "Yingze Zhang",
+    "Kyle Inman",
+    "Noel Britton",
+    "Barbara Methe",
+    "Panayiotis V. Benos",
+    "Jessica M. Bon",
+    "Keven Robinson",
+    "Charles Dela Cruz",
+    "M. Hong Nguyen"
+   ],
+   "journal": "Proceedings of the National Academy of Sciences",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1073/pnas.2608378123",
+   "url_doi": "https://doi.org/10.1073/pnas.2608378123",
+   "url_pubmed": null,
+   "abstract": "Candida albicans ( Calb ) in the lower respiratory tract (LRT) is considered a rare cause of pneumonia, yet its frequent recovery from LRT secretions of mechanically ventilated patients associates with poor clinical outcomes. To determine whether Calb contributes to lung injury, we conducted a translational investigation spanning two independent, prospective human cohorts, murine models of lung injury, and in vitro assays. In critically ill patients, Calb was the most abundant fungus in LRT specimens, and its detection associated with increased markers of lung injury, prolonged mechanical ventilation, and increased mortality. In a murine model, intratracheal Calb was sufficient to disrupt the air-blood barrier and recruit neutrophils, effects markedly attenuated with heat-killed Calb . Neutrophil depletion led to uncontrolled fungal growth, systemic dissemination and mortality, with surviving mice exhibiting worsened barrier disruption, demonstrating that neutrophils support pathogen control while lung injury is driven by the live organism. Calb induced lung epithelial cytotoxicity as well as barrier disruption in human alveolar epithelial cells at air liquid interface. Yeast-locked mutants without hyphal morphogenesis demonstrated attenuated barrier disruption in human alveolar cells and diminished lung injury in mice, despite higher fungal burden. In human cohort data, LRT microbiome profiles with high Calb abundance and codominant bacterial pathogens predicted worse mortality, and mouse models confirmed that Calb amplifies lung barrier disruption when followed by Pseudomonas aeruginosa inoculation, an effect requiring hyphal morphogenesis. These findings establish that LRT Calb causes direct air-blood barrier disruption through hyphal morphogenesis and amplifies bacterial lung injury, challenging the prevailing view of Candida as an innocent respiratory bystander.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "下呼吸道白色念珠菌经菌丝形态发生破坏气血屏障并放大细菌性肺损伤，预示机械通气患者不良预后。",
+    "innovation": "整合两个独立前瞻性人类队列、小鼠肺损伤模型与体外气液界面实验，证实下呼吸道白色念珠菌是肺损伤的直接致病因素而非无辜旁观者；发现菌丝形态发生是气血屏障破坏的关键机制，酵母锁定突变体虽真菌负荷更高但屏障破坏与肺损伤更轻；揭示中性粒细胞既控制真菌感染又由活菌驱动损伤的双重作用，并证明念珠菌经菌丝形态发生放大铜绿假单胞菌所致肺损伤",
+    "significance": "该研究挑战了念珠菌作为呼吸道无害定植菌的传统认知，为机械通气患者下呼吸道念珠菌检出的临床解读提供了因果性证据。其发现支持将念珠菌丰度及菌丝形态发生纳入重症肺炎风险分层，并为抗菌丝或靶向屏障保护的干预策略提供新思路。在念珠菌与细菌共感染的危重患者中，该机制有望指导更精准的抗感染与联合治疗决策。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-22T23:59:56+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1073/pnas.2612774123",
+   "title": "Thymic age and peripheral residence time determine antitumor competence of CD8 + T cells",
+   "authors": [
+    "Yuanqin Yang",
+    "Yunyi Wang",
+    "Amanda Wicki",
+    "Qianpeng Li",
+    "Chunrun Qu",
+    "Brian Debo",
+    "Berna Bou Tayeh",
+    "Tingyu Wen",
+    "Hui Huang",
+    "Amir Hosseini",
+    "Vinnycius Pereira Almeida",
+    "Carol S. Leung",
+    "Georg A. Holländer",
+    "Benoı̂t Van den Eynde",
+    "Yang Shi"
+   ],
+   "journal": "Proceedings of the National Academy of Sciences",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1073/pnas.2612774123",
+   "url_doi": "https://doi.org/10.1073/pnas.2612774123",
+   "url_pubmed": null,
+   "abstract": "The developmental timing of T cell generation imprints durable functional programs, yet how this shapes antitumor immunity remains unclear. Here, we combine genetic fate mapping with functional assays to dissect how thymic age and peripheral residency regulate CD8 + T cell behavior within the same host. We find that, compared with adulthood-derived CD8 + T cells, the adolescent-derived counterparts consistently exhibit enhanced tumor infiltration, increased effector cytokine production, and superior proliferative fitness. Transcriptomic and phenotypic profiling identify a CXCR3 + IL-18Rα + subset preferentially enriched among adolescent-derived T cells that shares core virtual memory-like features and displays elevated cytotoxic potential. Mechanistically, thymic origin timing and time spent in the periphery independently regulate the abundance and activity of this subset, revealing a two-tier control comprising developmental bias and postthymic remodeling. Functionally, CXCR3 + IL-18Rα + CD8 + T cells mediate potent tumor killing and confer robust therapeutic benefit in adoptive transfer models. Together, these findings establish developmental imprinting as an important determinant of CD8 + T cell heterogeneity and identify CXCR3 + IL-18Rα + CD8 + T cells as key effectors for antitumor immunity.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/advs.77624",
+   "title": "Layer‐Specific Dermal and Subcutaneous Delivery via Modular LNP–Hydrogel‐Integrated Threaded Microneedles",
+   "authors": [
+    "Fangzhou Xie",
+    "Yixiang Zhang",
+    "Shifeng Ling",
+    "Yuxuan Huang",
+    "Yingying Wei",
+    "Rao Fu",
+    "Jiahao He",
+    "Baikun Liu",
+    "Lucia Zhou",
+    "Kaifeng Huo",
+    "Yida Wang",
+    "Qingfeng Li",
+    "Yawei Du",
+    "Wenguo Cui",
+    "Yun Xie"
+   ],
+   "journal": "Advanced Science",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1002/advs.77624",
+   "url_doi": "https://doi.org/10.1002/advs.77624",
+   "url_pubmed": null,
+   "abstract": "Skin diseases exhibit hierarchical pathological remodeling across the epidermis, dermis, and subcutaneous tissue. However, current therapies lack precise and controllable layer-specific intervention. Here, we present a threaded microneedle-mRNA platform enabling stratified, targeted delivery. Guided by spatial transcriptomics and clinical validation, we identified layer-specific targets in skin fibrosis. Optimized lipid nanoparticles (LNPs) were integrated into a microneedle design featuring a fast-releasing superficial hydrogel that delivers a SIRT1 agonist to mitigate dermal fibroblast senescence, and helical grooves that directionally deposit PGC1α mRNA-LNPs into subcutaneous adipose during rotational insertion for in situ expression and reversal of adipocyte fibrotic phenotypes. In bleomycin-induced murine fibrosis, the system reduced dermal senescence and ECM deposition, restored subcutaneous adipose architecture, and attenuated overall fibrosis. This layer-specific microneedle-mRNA strategy offers a precise therapeutic pathway for complex skin diseases.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/advs.77708",
+   "title": "Targeting the YAP‐BST2 Axis Overcomes Intrinsic Anti‐PD‐1 Resistance in Metastatic Gastric Cancer",
+   "authors": [
+    "Weihong Zhang",
+    "Shilong Wang",
+    "Meng Wang",
+    "Ruixian Yu",
+    "Jingwu Yue",
+    "Lin Shao",
+    "Hui Zhang",
+    "Mengwen Zhu",
+    "Luyang Tian",
+    "Shuting Cheng",
+    "Weimin Qin",
+    "Yang Tang",
+    "Yi Han",
+    "Wenjia Wang",
+    "Liwei An",
+    "Yan Meng",
+    "Shi Jiao",
+    "Zhaocai Zhou"
+   ],
+   "journal": "Advanced Science",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1002/advs.77708",
+   "url_doi": "https://doi.org/10.1002/advs.77708",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Intrinsic resistance to anti‐PD‐1 immunotherapy remains a major obstacle in treating metastatic gastric cancer (GC), particularly in tumors harboring concurrent YAP hyperactivation and TP53 loss. Here, using a genetically engineered mouse model with conditional YAP hyperactivation and Tp53 deletion in gastric Atp4b + cells (AYP), we show this “double‐hit” alone suffices to recapitulate human refractory GC, including histopathological heterogeneity, multi‐organ metastasis, and intrinsic PD‐1 resistance. We identified BST2 as a direct YAP‐TEAD transcriptional target. In human GC, BST2‐high tumor correlates with poor anti‐PD‐1 response. Mechanistically, tumor cell‐derived BST2 engages the inhibitory receptor PIRA2 on neutrophils and liver Kupffer cells, instructing an immunosuppressive, pro‐metastatic phenotype that inhibits T cells antitumor response and confers PD‐1 resistance. Therapeutically, dual BST2/PD‐1 blockade in the AYP model suppresses primary tumor growth and eradicates established liver metastases. Thus, YAP activation, cooperating with TP53 loss, fuels metastatic GC and immunotherapy resistance via BST2 induction.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "YAP激活联合TP53缺失经BST2驱动胃癌免疫抑制与转移，双阻断BST2/PD-1可克服抗PD-1内在耐药。",
+    "innovation": "构建胃Atp4b+细胞YAP过激活联合Tp53缺失的基因工程小鼠模型，单一“双打击”即重现人类难治性胃癌的组织异质性、多器官转移与内在PD-1耐药；首次鉴定BST2为YAP-TEAD直接转录靶点，并揭示肿瘤细胞BST2通过中性粒细胞和肝Kupffer细胞上的抑制性受体PIRA2塑造免疫抑制、促转移微环境；提出BST2/PD-1双阻断策略，在模型中抑制原发瘤生长并清除已形成的肝转移。",
+    "significance": "该研究阐明YAP激活与TP53缺失协同经BST2诱导免疫抑制是转移性胃癌抗PD-1内在耐药的关键机制，BST2高表达可作为疗效预测与患者分层标志。BST2/PD-1双阻断为YAP激活/TP53缺失型难治性胃癌提供了新的联合免疫治疗思路，具有明确的临床转化前景。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-22T23:59:58+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/advs.77770",
+   "title": "Beyond Conventional: A Review of Phytochemical‐Hydrogel Systems Enhanced by AI and 3D Printing for Chronic Wound Management",
+   "authors": [
+    "Yitao Zhou",
+    "Xing Liu",
+    "Cuiyi Wang",
+    "Xiaoxuan Zhao",
+    "Zhang PengRun",
+    "Jingjing Gu",
+    "Qiuhua Sun",
+    "Malcolm M. Q. Xing",
+    "Yeqin Yang"
+   ],
+   "journal": "Advanced Science",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1002/advs.77770",
+   "url_doi": "https://doi.org/10.1002/advs.77770",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Chronic wounds represent a global healthcare challenge, characterized by persistent inflammation, microbial infection, and compromised tissue regeneration, often refractory to conventional therapies. Natural phytochemicals, with their inherent diverse bioactivities, provide a multi‐target approach to modulate inflammation and accelerate tissue repair, overcoming the limitations of single‐agent interventions. However, their clinical utility is frequently limited by poor physicochemical stability, low bioavailability, and insufficient retention at the wound site. Advanced hydrogel platforms serve as effective delivery systems, capable of encapsulating these potent compounds to ensure localized, sustained, and on‐demand release, addressing critical translational barriers. This review examines the wound‐healing mechanisms and molecular targets of key phytochemical classes, critically analyzing their physicochemical limitations. We then discuss the rational design principles of phytochemical hydrogel systems, encompassing stimuli‐responsive networks, externally triggered release modalities, and 3D‐printed scaffolds for precise spatial drug distribution. We also highlight the emerging role of artificial intelligence in accelerating this field, from predicting hydrogel characteristics and screening novel phytochemicals to optimizing formulation strategies. Finally, we propose a strategic translational roadmap, addressing crucial aspects such as botanical standardization, scalable manufacturing, and regulatory pathways, to support the clinical translation of these systems.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/advs.77614",
+   "title": "Ribonucleotides Amplify Mitochondrial DNA‐Driven cGAS–STING Activation via FdUMP‐ribonucleotide Hybrid Particles to Potentiate Chemoimmunotherapy",
+   "authors": [
+    "Chao Wang",
+    "Chenxuan Zhao",
+    "Yesong Yao",
+    "Zhiwen Zou",
+    "Anxin Shi",
+    "Zhuo Feng",
+    "Mingkang Yang",
+    "Yue Yu",
+    "Yang Liu",
+    "Xuehui Rui",
+    "Jinhui Wu"
+   ],
+   "journal": "Advanced Science",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1002/advs.77614",
+   "url_doi": "https://doi.org/10.1002/advs.77614",
+   "url_pubmed": null,
+   "abstract": "Intracellular nucleotide imbalance between ribonucleotides and deoxyribonucleotides can trigger cytosolic mitochondrial DNA (mtDNA) release and subsequent activation of the cGAS-STING pathway. However, fluoropyrimidine-induced nucleotide imbalance is constrained by their metabolic instability. Here, we leverage ribonucleotides to amplify floxuridine (FUDR)-induced mtDNA release and cGAS-STING activation for enhanced cancer chemoimmunotherapy. We identified that cytidine monophosphate (CMP) significantly enhances FUDR-mediated activation of the mtDNA-driven cGAS-STING pathway, inducing over 300-fold upregulation of the interferon gene Ifnb1 and initiating STING-dependent antitumor immunity. Genome-wide CRISPR-Cas9 screening identified five pyrimidine-metabolizing enzymes (CMPK1, CMPK2, TYMP, UPP1, and UPP2) that are responsible for the metabolic instability of floxuridine monophosphate (FdUMP). CMP and its intracellular metabolites can metabolically block these enzymes, thereby increasing the peak intracellular concentration of FdUMP by over 500-fold and extending its half-life by more than 20-fold, which in turn promotes sustained intracellular nucleotide imbalance. To translate this mechanism into therapy, we co-encapsulated FdUMP and CMP into hybrid lipid nanoparticles (FC-NPs). FC-NPs robustly activated STING-dependent antitumor immunity, achieving remarkable therapeutic efficacy in multiple murine colorectal cancer (CRC) models. Our study not only addresses the long-standing issue of fluoropyrimidine metabolic instability but also reveals a novel ribonucleotide-mediated immunomodulatory mechanism, providing a promising strategy to potentiate chemoimmunotherapy in CRC.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/anie.8290035",
+   "title": "Synthesis of Large‐ and Medium‐Sized Heterobiaryl Atropisomeric Rings and Atropopeptides by Catalytic Intramolecular S N Ar",
+   "authors": [
+    "Alireza Abbasi Kejani",
+    "Paritosh Dey",
+    "Nicholas H. Stillman",
+    "Daniel M. Andrade",
+    "M. Šimek",
+    "Martin Dračínský",
+    "Daniel Bím",
+    "Paulo H. S. Paioti"
+   ],
+   "journal": "Angewandte Chemie International Edition",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1002/anie.8290035",
+   "url_doi": "https://doi.org/10.1002/anie.8290035",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT We report the first examples of catalytic, intramolecular N‐heterocycle arylation by nucleophilic aromatic substitution (S N Ar), a general method for synthesis of highly strained macrocycles and medium‐sized heterobiaryl atropisomeric rings. Key to the approach is the ability to generate a strong base catalytically, as the desired cyclizations can be problematic under non‐catalytic conditions. Substitution reactions catalyzed by Brønsted bases often suffer from poor turnover because leaving groups are poorly basic. We put forth a process in which base regeneration does not depend on p K a considerations, but on reaction of a fluoride catalyst (Lewis base) with an organosilane (base‐embedding electrophile). Our protocol is amenable to an unprecedented broad range of heterocycles and highly functionalized and sterically hindered fluoroarenes. Despite ring strain, direct formation of C─N stereogenic axis can be carried out with linear substrates unbiased for cyclization and with tryptophan‐containing peptides. We provide synthesis of drug‐like cyclic and atropisomeric molecules which are elusive in medicinal chemistry screenings, as well as a direct macrocyclization route toward stereochemically and structurally diverse atropopeptides, molecules inspired by bioactive and naturally occurring ribosomally synthesized post‐translationally modified peptides (RiPPs). This work establishes a unique disconnection toward cyclic heterobiaryl molecules and catalysis that is to unlock other transformations.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/anie.3685338",
+   "title": "A Ruthenium(CAAC‐5) Olefin Metathesis Catalyst for Bioconjugation",
+   "authors": [
+    "Damian Alexander Graf",
+    "Mikhail Boym",
+    "María Álvarez",
+    "Tsvetan Kardashliev",
+    "Thomas R. Ward"
+   ],
+   "journal": "Angewandte Chemie International Edition",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1002/anie.3685338",
+   "url_doi": "https://doi.org/10.1002/anie.3685338",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Olefin metathesis is a powerful transformation for carbon–carbon bond formation, yet its application in biological settings is challenged by the instability of most ruthenium catalysts in aqueous media. Herein, we report a Ru(CAAC‐5) olefin metathesis catalyst bearing a functional handle for bioconjugation. The resulting hybrid catalyst catalyzes ring‐closing metathesis (RCM) and displays extended lifetimes in aqueous media. Functionalized CAAC‐5 ligands bearing a protected aniline linker were prepared via enamine alkylation and coordinated to ruthenium to afford the corresponding Ru(CAAC‐5) complex. In a benchmark RCM reaction under biologically relevant conditions, the ruthenium complex exhibits enhanced catalytic robustness and reaches turnover numbers of up to 600. Deprotection of an amine‐functionalized handle enables the bioconjugation to proteins and peptides. Using this platform, the catalyst was anchored to biomolecules through supramolecular anchoring to human carbonic anhydrase II (hCA II), click conjugation to peptides (SS01), and covalent attachment to ubiquitin (Ubi). To the best of our knowledge, this aniline‐functionalized Ru(CAAC‐5) complex is the first CAAC‐bearing metathesis catalyst amenable to bioconjugation, while retaining the prolonged catalytic activity characteristic of CAAC‐based systems in aqueous media.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/anie.6455772",
+   "title": "Role of Graphene Oxide in the Nucleation and Growth of Gold Nanoparticles Revealed by Operando Time‐Resolved Studies",
+   "authors": [
+    "Liran Hu",
+    "Carine Clavaguéra",
+    "Zhenpeng Cui",
+    "Zhiwen Jiang",
+    "Thomas Bizien",
+    "Filippo Ferdeghini",
+    "Nguyen‐Thi Van‐Oanh",
+    "Michel Goldmann",
+    "François Muller",
+    "Samy Rémita"
+   ],
+   "journal": "Angewandte Chemie International Edition",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1002/anie.6455772",
+   "url_doi": "https://doi.org/10.1002/anie.6455772",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Understanding nanoparticle growth in complex composite systems remains a central challenge in materials chemistry. Herein, we elucidate the stepwise formation mechanism of gold nanoparticles (AuNPs) in graphene oxide (GO) aqueous systems under well‐defined reductive conditions. Pulse radiolysis reveals that GO significantly accelerates AuCl 4 − reduction by hydrated electrons ( e aq − ), thereby altering early‐stage kinetics. Operando synchrotron small‐angle x‐ray scattering (SAXS) and time‐resolved UV–vis absorption spectroscopy enable direct observation of AuNP nucleation and growth. Au(III) reduction precedes GO reduction, and nascent Au clusters preferentially anchor at GO edges through interactions with carboxyl groups, resulting in anisotropic, size‐constrained growth. As GO becomes progressively reduced, depletion of oxygen‐containing functional groups weakens interfacial stabilization and promotes nanoparticle coalescence. This stepwise mechanism integrates kinetic, spectroscopic, structural, and theoretical evidence, identifying GO as both a kinetic modulator and a spatial growth regulator. The insights provide general design principles for size‐controlled nanoparticle growth in graphene‐based composite systems.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/anie.4453766",
+   "title": "Tailoring and Unraveling Surface Functionalization of Nanomaterials via Self‐Reporting NIR‐Induced Upconversion Energy Transfer Process",
+   "authors": [
+    "Guangli He",
+    "Wenhui Li",
+    "Jingyi Hao",
+    "Junle Zhang",
+    "Meng Chen",
+    "Xuejing Zhai",
+    "Meng-Jie Zhou",
+    "Ge Shi",
+    "Xiaoguang Qiao",
+    "Yanjie He",
+    "Wenjie Zhang",
+    "Xinchang Pang"
+   ],
+   "journal": "Angewandte Chemie International Edition",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1002/anie.4453766",
+   "url_doi": "https://doi.org/10.1002/anie.4453766",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT The surface functionalization chemistry of nanomaterials remains a black box, where the dynamic modification process is conventionally imperceptible, which severely limits the rational design of advanced nanohybrids. Herein, a holistic strategy that transforms upconversion nanorods (UCNR) surface functionalization from an empirically treated outcome into an optically self‐reporting process via near‐infrared (NIR)‐mediated photoinduced electron/energy transfer‐reversible addition‐fragmentation chain transfer (PET‐RAFT) polymerization is present. This three‐in‐one design, where the UCNR concurrently acts as a NIR‐harvesting antenna, polymerization substrate, and optical signaling unit, enables the precise, temporally controlled growth and monitoring of polymer shells with tunable thickness and grafting density. Critically, a linear correlation between the evolving polymer shell architecture and the upconversion luminescence intensity was unraveled, thereby turning the optical signal into a real‐time, nondestructive probe that reveals the invisible surface modification process. Building upon this self‐monitoring capability, the polymer brushes were further engineered to template the in situ growth of gold nanoparticles, establishing a cascaded energy transfer pathway for efficient photothermal conversion. Using the nanohybrids as a built‐in ratiometric fluorescent nanothermometer, the nanohybrid enables real‐time temperature feedback during NIR irradiation as precise nanothermometry. This work establishes a new paradigm for creating intelligent, self‐sensing nanoplatforms with profound implications for precision theranostics and adaptive photonic materials.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/anie.7868412",
+   "title": "Electron‐Donating Aminosilane Bridging Enables General Access to Full‐Color Aqueous Phosphorescent Nanospheres",
+   "authors": [
+    "Kang Shao",
+    "Jiahong Chen",
+    "Xueting Wang",
+    "Haoru Wen",
+    "Ying Meng",
+    "Yining Zhang",
+    "Qibin Dong",
+    "Zaifa Pan",
+    "Shiyi Ye",
+    "Jing Wang"
+   ],
+   "journal": "Angewandte Chemie International Edition",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1002/anie.7868412",
+   "url_doi": "https://doi.org/10.1002/anie.7868412",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT The pursuit of a universal and efficient strategy for converting organic molecules into aqueous‐phase phosphorescent nanoparticles (PNPs) exhibiting prolonged afterglow and uniform morphology represents a persistent challenge in materials chemistry. In this study, we report a general in situ silanization platform that enables the integration of organic precursors into silica‐based matrices via an aminosilane‐mediated “bridge”, yielding monodisperse, size‐tunable (10∼320 nm) full‐color PNPs with emission spanning blue‐purple to red. Aminosilanes with electron‐donating characteristics not only promote an intramolecular charge transfer (ICT) state to enhance intersystem crossing (ISC) efficiency but also facilitate the encapsulation of silanized anhydride within silica frameworks (ASLs@SiO 2 ), effectively shielding the emitters from aqueous and oxygen quenching. Orthogonal screening across 14 anhydrides and 12 aminosilanes validated the strategy's universality, achieving full‐color afterglow with a maximum lifetime of 1128.07 ms and a quantum yield of 24.04%. Furthermore, to precisely control dispersion and size, two distinct ASLs@SiO 2 architectures were engineered: one embedding silanized anhydride within a concentric silica interlayer, and another infusing it into dendritic porous silica spheres. This scalable, low‐cost synthesis (∼$1 per 150 g) underscores the commercial viability of the approach and establishes a new approach for designing high‐performance aqueous‐phase PNPs.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "氨基硅烷桥接的原位硅烷化平台可将多种有机酐普适性转化为全色水相磷光纳米球",
+    "innovation": "提出给电子氨基硅烷作为分子桥，同时促进ICT态增强ISC效率并实现硅烷化酐在二氧化硅基质中的有效封装；通过14种酐与12种氨基硅烷的正交筛选验证了策略的普适性，实现蓝紫至红全色余辉，最长寿命1128.07 ms、量子产率24.04%；设计同心二氧化硅夹层与树枝状多孔硅球两种ASLs@SiO2结构，实现10∼320 nm单分散尺寸可调",
+    "significance": "该策略为有机分子向水相磷光纳米颗粒的转化提供了通用、高效、可规模化的方法，有效屏蔽水相与氧猝灭。低成本合成（约每150 g 1美元）展现商业化潜力，有望推动生物成像、信息加密与防伪等领域的水相余辉材料应用。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:03+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/anie.8540595",
+   "title": "Single‐Atom O/S/Se Substitution at the Glycosidic Linkage in Glycopeptide Cancer Vaccines Reveals Divergent Performance",
+   "authors": [
+    "Carmen Bretón",
+    "Ana Guerreiro",
+    "Paula Oroz",
+    "Noelia Oses",
+    "Irene Ginés‐Alcober",
+    "Francisco Javier Cañada",
+    "Ramón Hurtado‐Guerrero",
+    "Juan L. Asensio",
+    "Jesús Manuel Peregrina",
+    "Gonçalo J. L. Bernardes",
+    "Francisco Corzana"
+   ],
+   "journal": "Angewandte Chemie International Edition",
+   "tier": "B",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1002/anie.8540595",
+   "url_doi": "https://doi.org/10.1002/anie.8540595",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Single‐atom substitution provides an exceptionally subtle means of editing molecular structure, yet how such minimal atom‐level modifications propagate into biological function remains poorly understood. Here, we report streamlined access to Se ‐linked Tn glycopeptides which, together with their O ‐ and S ‐linked counterparts, enable systematic atom‐level editing at the glycosidic linkage of MUC1 glycopeptide antigens. Surface plasmon resonance established a clear hierarchy of antigen recognition that was rationalized by molecular dynamics simulations and independently validated by STD‐NMR epitope mapping, revealing that O→S→Se substitution subtly remodels glycopeptide presentation while preserving the overall 5E5 recognition epitope. Translation of these structurally defined antigens into CRM 197 glycoconjugate vaccines with comparable antigen loading showed that neither antigen‐binding affinity nor antibody levels alone predict therapeutic efficacy. Instead, the results demonstrate that minimal atom‐level editing propagates from molecular recognition to biological function through a nonlinear structure–function relationship, highlighting that therapeutic efficacy cannot be inferred directly from antigen affinity alone.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsnano.6c10932",
+   "title": "N-Modulated Graphdiyne Iron Single-Atom Nanozyme through Long-Range Interactions for Photothermal Amplified Multifunctional Catalytic Antibacterial Therapy",
+   "authors": [
+    "Fuchun Nan",
+    "Yuxuan Zhao",
+    "P. X. Li",
+    "Dawei Li",
+    "Zilong Wu",
+    "Lingyun Wang",
+    "Fangfang Lang",
+    "Xinxin Han",
+    "Lanbo Shen",
+    "William W. Yu"
+   ],
+   "journal": "ACS Nano",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1021/acsnano.6c10932",
+   "url_doi": "https://doi.org/10.1021/acsnano.6c10932",
+   "url_pubmed": null,
+   "abstract": "Abstract The rational design of single-atom nanozymes (SAzymes) can be achieved by regulation of the first and second coordination shells near the metal coordination center. However, the impact of structural changes at distances further away from the metal coordination center on the catalytic activity has been rarely reported. Herein, graphdiyne (GDY)-derived Fe SAzymes (GFeN SAzymes) with tunable N dopants (amino-N, pyridinic-N, graphitic-N) were synthesized via controlled NH3 pyrolysis. Fe-centered single-atom sites were stabilized within the GDY-derived framework, while N dopants modulated their catalytic behavior through long-range electronic effects. GFeN SAzymes possess multi-enzyme activities, including oxidase, peroxidase, catalase, and superoxide dismutase. Catalytic performance was modulated by N type: pyridinic-N provides more favorable regulation of Fe-centered catalysis, whereas amino-N is associated with less favorable catalytic behavior. Remarkably, SAzymes are pH-responsive, scavenging reactive oxygen species (ROS) under neutral conditions and generating ROS in acidic environments, enabling adaptive antibacterial action and wound repair. GFeN SAzyme pyrolyzed at 700 °C exhibited a photothermal conversion efficiency of 28.3% under 808 nm laser irradiation, synergistically enhancing catalytic sterilization. In vitro and in vivo experiments confirmed excellent wound disinfection and healing via photothermal amplified catalytic therapy. This work highlights the crucial role of long-range interactions in regulating catalytic activity and offers a strategy for designing highly efficient SAzymes.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "通过调控N掺杂类型远程调节石墨二炔衍生铁单原子纳米酶的催化活性，并结合光热效应实现多功能催化抗菌治疗。",
+    "innovation": "通过可控NH3热解构筑N掺杂类型（氨基N、吡啶N、石墨N）可调的石墨二炔衍生Fe单原子纳米酶，揭示远离金属中心的远程电子效应调控催化活性；发现吡啶N比氨基N更有利于Fe中心催化，且纳米酶具pH响应性（中性清除ROS、酸性产生ROS）及氧化酶、过氧化物酶、过氧化氢酶、SOD多酶活性；700℃热解样品光热转换效率达28.3%，实现光热增强的催化杀菌与伤口修复。",
+    "significance": "该工作拓展了单原子纳米酶配位环境调控的维度，证明长程相互作用对催化活性的关键影响，为高效单原子纳米酶的理性设计提供新思路。所构建的pH自适应、光热协同抗菌平台在感染性伤口消毒与愈合中展现良好应用前景，有望推动纳米酶在生物医学领域的转化应用。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:07+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsnano.6c13287",
+   "title": "A Microenvironment-Adaptive Nanoadjuvant Resolves the Radioprotection and Radiosensitization Paradox in Cancer Therapy",
+   "authors": [
+    "Hao Guo",
+    "Zhong Shao",
+    "Ke Li",
+    "Yi Zhang",
+    "Gang Wang",
+    "Yangyang Cheng",
+    "Xicheng Zhang"
+   ],
+   "journal": "ACS Nano",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 7,
+   "url": "https://doi.org/10.1021/acsnano.6c13287",
+   "url_doi": "https://doi.org/10.1021/acsnano.6c13287",
+   "url_pubmed": null,
+   "abstract": "Abstract The intrinsic spatiotemporal discord between augmenting tumor radiosensitivity and safeguarding normal tissue has persistently circumscribed the therapeutic horizon of radiotherapy. Here, we introduce a microenvironment-adaptive platform, cross-linked lipoic acid nanoadjuvant (cLAN), designed to strategically navigate this dilemma. Upon cellular internalization, cLAN dissociates into the lipoic acid (LA)/dihydrolipoic acid (DHLA) redox pair, which elicits distinct biological responses in normal vs tumor cells. In irradiated normal cells, the LA/DHLA system primarily scavenges radiation-induced reactive oxygen species (ROS), thereby conferring radioprotection. In tumor cells, the relatively high reducing environment shifts the LA/DHLA equilibrium toward the reduced DHLA state, which further promotes Fenton reactions and aggravates oxidative stress. Together with the suppression of NF-κB-mediated DNA damage repair, these effects ultimately potentiate tumor radiosensitivity. Under total body irradiation, cLAN efficiently mitigates radiation-induced damage, particularly preserving marrow DNA content and maintaining nucleated cell counts at normal levels, far surpassing clinical standard radioprotector amifostine. Meanwhile, cLAN elicits tumor radiosensitization comparable to clinical standard radiosensitizer sodium glycididazole. Such compatibility of efficacy-safety achieves 100% 30-day survival in both subcutaneous and orthotopic mouse tumor models. This study demonstrates the potential of this microenvironment-adaptive strategy for radiotherapy by simultaneously achieving radioprotection and radiosensitization within the same spatiotemporal domain.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "本研究构建微环境自适应交联硫辛酸纳米佐剂cLAN，在同一时空内依据正常与肿瘤细胞氧化还原差异，双向实现正常组织辐射防护与肿瘤辐射增敏。",
+    "innovation": "利用硫辛酸/二氢硫辛酸（LA/DHLA）氧化还原对在正常与肿瘤细胞中响应差异，正常细胞中清除ROS实现辐射防护，肿瘤高还原环境驱动DHLA促Fenton反应加剧氧化应激；同时抑制NF-κB介导的DNA损伤修复，强化肿瘤辐射敏感性；单一纳米平台突破辐射防护与辐射增敏长期对立的悖论，防护效果优于阿米福司汀、增敏效果媲美甘氨双唑钠。",
+    "significance": "该策略首次在同一时空域内兼容放疗的疗效与安全性，在全身照射下显著保护骨髓DNA与有核细胞计数，并在皮下及原位小鼠肿瘤模型中实现100%的30天生存率。其微环境自适应设计为放疗佐剂提供了可转化的新范式，有望拓展放疗的治疗窗口并改善肿瘤患者预后。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:06+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05022-9",
+   "title": "Soft-hard immune taming: a macrophage-targeted GPx-like nanozyme reprograms immunometabolism for acute lung injury therapy",
+   "authors": [
+    "Wenjiao Shi",
+    "Yulu Pan",
+    "Zhe Zhu",
+    "Xiaomei Xue",
+    "Jingnan Xiong",
+    "Hanqing Li",
+    "Yuxuan Sun",
+    "Jingtong Jiao",
+    "Jin Zhu",
+    "Yanfei Mao",
+    "Gang Zhao",
+    "Lai Jiang"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统",
+    "肺部靶向"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1186/s12951-026-05022-9",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05022-9",
+   "url_pubmed": null,
+   "abstract": "Acute lung injury (ALI) is a life‑threatening disorder driven by a self‑amplifying cycle between excessive reactive oxygen species (ROS) accumulation and macrophage‑mediated hyperinflammation, which can develop into acute respiratory distress syndrome (ARDS) with limited targeted therapies. A novel host‑centric strategy termed soft-hard synergistic immune taming is proposed to disrupt the self‑amplifying inflammatory circuit in ALI. An intelligent nanodelivery system named LF@MVN‑4OI is designed, which combines a V(III)‑based metal‑organic framework nanozyme (MVN) with glutathione peroxidase (GPx)‑like activity and phospholipid‑modified 4‑octyl itaconate (4OI). Lactoferrin (LF) modification enables targeted delivery to activated macrophages in inflamed lungs and responsive release in high‑ROS and mildly acidic microenvironments. 4OI provides “soft” immunometabolic reprogramming through the itaconate/immune response gene 1 (IRG1) axis, polarizing macrophages towards a pro-resolving phenotype, while MVN exerts a “hard” catalytic redox control effect by decomposing peroxides to mitigate oxidative damage. In vivo, LF@MVN‑4OI effectively alleviates lung inflammation, oxidative damage, and tissue injury. Collectively, this work establishes a multimodal nanotherapeutic that reframes LPS-induced inflammatory ALI management from pathogen eradication toward rapid restoration of pulmonary redox-immune homeostasis, and highlights soft-hard immune taming as a generalizable framework for critical inflammatory lung syndromes.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "纳米酶递送4-辛基衣康酸，以软硬协同免疫驯化重塑肺部氧化还原-免疫稳态治疗急性肺损伤。",
+    "innovation": "提出“软硬协同免疫驯化”新策略，同时切断ROS累积与巨噬细胞过度炎症间的自我放大环路；构建LF@MVN-4OI纳米递送系统，V(III)基金属有机框架纳米酶具GPx样活性实现“硬”催化抗氧化，4-辛基衣康酸经衣康酸/IRG1轴实现“软”免疫代谢重编程；乳铁蛋白修饰实现炎症肺内活化巨噬细胞靶向，并在高ROS、弱酸微环境响应释放。",
+    "significance": "该工作将LPS诱导急性肺损伤的治疗思路从病原清除转向快速恢复肺部氧化还原-免疫稳态，为ARDS等危重炎症性肺综合征提供了多模式纳米治疗范式。所提出的软硬协同免疫驯化框架具有通用性，有望拓展至其他以ROS-炎症正反馈为核心的免疫代谢紊乱疾病。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:07+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05052-3",
+   "title": "PEG-PLGA-based GSH-responsive nanoparticles deliver a PI3Kγ inhibitor to remodel the immuno-metabolic microenvironment in PD-1-resistant triple-negative breast cancer",
+   "authors": [
+    "Xiaoshen Dong",
+    "Wenqi Wu",
+    "Xinyu Zheng",
+    "Lu Liu",
+    "Haiyang Jiang",
+    "Yu Cao",
+    "Shuo Wang"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 13,
+   "url": "https://doi.org/10.1186/s12951-026-05052-3",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05052-3",
+   "url_pubmed": null,
+   "abstract": "Triple-negative breast cancer (TNBC) has a low response rate to immune checkpoint inhibitors (ICIs), and programmed cell death protein-1 (PD-1) resistance remains a key obstacle to durable immunotherapeutic benefit. The lactate-phosphoinositide 3-kinase gamma (lactate-PI3Kγ) axis contributes to tumor immunometabolic reprogramming and immunosuppression. This study aimed to develop glutathione (GSH)-responsive polyethylene glycol-poly(lactic-co-glycolic acid) (PEG-PLGA) nanoparticles for delivery of the PI3Kγ inhibitor IPI-549 and to evaluate their effects on the TNBC immunometabolic microenvironment. sNP@IPI-549 was prepared by nanoprecipitation and characterized for particle size, zeta potential, morphology, GSH responsiveness, drug release, biosafety, and pharmacokinetics. Cell and animal models, together with flow cytometry, immunofluorescence, enzyme-linked immunosorbent assay, western blotting, single-cell transcriptomics, and targeted metabolomics, were used to evaluate macrophage, T-cell, and PD-1-resistant tumor responses. Triplicate characterization showed a hydrodynamic diameter of approximately 135 nm, a PDI of 0.12, an encapsulation efficiency of 72.3 ± 4.1%, and a drug loading of 5.2 ± 0.3%. sNP@IPI-549 showed GSH-triggered release, inhibited TNBC cell proliferation, migration, and invasion, induced G0/G1 arrest (58% to 71%), and promoted apoptosis (28–30%). It also shifted macrophages toward an immune-activated phenotype, enhanced CD8+ T-cell proliferation and cytotoxicity, reduced PD-L1 protein expression in tumor tissues, and suppressed tumor progression in a PD-1-resistant 4T1-R model. Short-term biosafety assessment showed stable body weight, comparable food intake, no significant hematological or biochemical abnormalities, and no obvious major-organ injury. Single-cell multi-omics and targeted metabolomics further indicated increased arginine/NOx signaling and reduced lactate and ornithine/polyamine metabolism. Overall, sNP@IPI-549 provides experimental evidence that GSH-responsive IPI-549 delivery can modulate the lactate-PI3Kγ axis and partially improve immune responses in PD-1-resistant TNBC models, supporting further preclinical validation.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05019-4",
+   "title": "A pH-responsive, surface charge-reversing biomimetic hybrid nanosystem with enhanced deep cartilage penetrability for lipid metabolic reprogramming therapy in osteoarthritis",
+   "authors": [
+    "Shuyi Li",
+    "Yuguo Li",
+    "Jiang Wu",
+    "Yue Gao",
+    "Shiyi Zeng",
+    "Hao Deng",
+    "Xin Hu",
+    "Quanyi Guo",
+    "Jingang Xiao",
+    "Jiawei Wei"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1186/s12951-026-05019-4",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05019-4",
+   "url_pubmed": null,
+   "abstract": "Dysregulation of chondrocyte metabolic networks and the physical barrier imposed by the extracellular matrix (ECM) represent primary bottlenecks in precision intervention for osteoarthritis (OA). We engineered an environment-responsive, charge-adaptive biomimetic nanoplatform, IM@PP-R, in which the metabolic modulator RCGD423 was encapsulated within a polycaprolactone (PCL) core via flash nanoprecipitation (FNP), then cloaked with a hybrid shell of neutrophil membranes and ionizable lipids. In the mildly acidic OA microenvironment (pH 6.4–6.8), IM@PP-R undergoes surface charge inversion from negative to positive, converting electrostatic ECM repulsion into attraction to facilitate deep cartilage penetration. Both in vitro and in vivo, IM@PP-R treatment was associated with improved mitochondrial status and attenuated oxidative stress. This process was closely linked to a redirection of the arachidonic acid (ARA) metabolic profile: integrated transcriptomic and metabolomic analyses revealed the downregulation of pro-inflammatory enzymes (ALOX5, mPGES-1) alongside a partial recovery of the IL-1β-suppressed pro-resolving enzyme CYP2J4. These enzymatic shifts corresponded with a transition from PGE2 toward PGA2/PGJ2 accumulation, suggestive of a reprogrammed lipid mediator profile. In a rat ACLT model, IM@PP-R significantly prolonged joint residence time and attenuated osteochondral degeneration. This study presents a translatable strategy for overcoming dense tissue barriers to achieve intracellular metabolic reprogramming in OA.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05094-7",
+   "title": "A self-assembled dual-component hydrogel with Ce(III)/Ce(IV)-tuned cascade nanozyme and coordinated microenvironment regulation for comprehensive diabetic wound healing",
+   "authors": [
+    "Linshan Jia",
+    "Haoyun Shi",
+    "Yecao Su",
+    "Zimeng Zhou",
+    "Guangyue Su",
+    "Xiaohong Hou"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1186/s12951-026-05094-7",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05094-7",
+   "url_pubmed": null,
+   "abstract": "Chronic diabetic wounds are trapped in a vicious cycle of hyperglycemia, oxidative stress, hypoxia, infection, and inflammation. Current treatments target only a few of these problems and cannot break the cycle. Here, a self-assembled dual-component hydrogel (Au NS@Ce‑RA@Gel, ACG) is designed by crosslinking a cerium‑rosmarinic acid metal‑phenolic network (Ce‑RA) grown on gold nanostar with phenylboronic acid‑modified carboxymethyl chitosan. Through polyphenol-assisted coordination, the Ce(III)/Ce(IV) ratio is tuned to endow Ce-RA with superoxide dismutase (SOD)- and catalase (CAT)-like activities. Meanwhile, Au NS provides intrinsic glucose oxidase (GOx)-like activity for enzyme-free glucose oxidation, enabling ACG to integrate GOx-, SOD-, and CAT-like catalytic functions. In infected diabetic wounds, ACG responds to glucose and ROS fluctuations to coordinately regulate local glucose burden, oxidative stress, hypoxic stress, and inflammation, while maintaining redox-buffering capacity during photothermal treatment and enabling efficient photothermal antibacterial activity (54.32% photothermal conversion efficiency). It achieves > 80% wound closure by day 6, outperforming clinical silver sulfadiazine. Mechanistically, ACG attenuates TNF/NF‑κB‑related inflammatory signaling by reducing the pathological stimuli that sustain chronic inflammation, while concurrently enriching TGF‑β/ErbB‑associated repair programs linked to cell motility and tissue remodeling. By coupling catalytic microenvironment regulation with immune remodeling and tissue repair, ACG offers a streamlined strategy for restoring a pro-healing wound microenvironment.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c02274",
+   "title": "Macrophage-Inspired Fe3O4 Nanozymes with a Hydrophobic Spiky Topography for Treating Drug-Resistant Bacteria",
+   "authors": [
+    "Jia‐Cheng Lv",
+    "Shi-Peng Chen",
+    "Wei Yu-qing",
+    "Ming Yan",
+    "Zhi-Guo Wang",
+    "Sujiao Cao",
+    "Jia‐Zhuang Xu",
+    "Li Qiu",
+    "Zhong‐Ming Li"
+   ],
+   "journal": "Nano Letters",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1021/acs.nanolett.6c02274",
+   "url_doi": "https://doi.org/10.1021/acs.nanolett.6c02274",
+   "url_pubmed": null,
+   "abstract": "Abstract Fe3O4, the first reported nanozyme and the first FDA-approved transition-metal-based nanomaterial, holds promise for antibacterial therapy but is limited by poor ROS catalytic activity and utilization. Inspired by macrophage-like bacterial capture and insect wing micro/nanostructures, we designed Fe3O4 nanoparticles encapsulated in a conductive, hydrophobic carbon shell with densely aligned nanoneedles. This architecture shifted the Fe/O d/p-band centers toward the Fermi level, promoted H2O2 adsorption and activation, and strengthened H2O2 homolysis through H2O2–O hydrogen bonding, yielding 2.67-fold higher POD-like activity than that of pristine Fe3O4. The hydrophobic nanoneedle surface further inhibited continuous liquid film formation, enhanced bacterial adhesion, and shortened the distance between ROS generation sites and bacterial membranes, thereby improving ROS utilization. Consequently, the engineered Fe3O4 nanozyme achieved an MRSA inhibitory concentration nearly 15-fold lower than pristine Fe3O4. This work offers a microenvironment engineering strategy to advance Fe3O4-based antibacterial nanozymes toward clinical translation.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c02923",
+   "title": "Alveolar-Inspired Negative-Pressure Soft Actuators with Integrated Actuation–Sensing",
+   "authors": [
+    "Xueli Zhou",
+    "Ruidan Zhang",
+    "Yansong Chen",
+    "Zhihui Qian",
+    "Qingping Liu",
+    "Zhen Hua Shang",
+    "Lei Ren",
+    "Luquan Ren"
+   ],
+   "journal": "Nano Letters",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1021/acs.nanolett.6c02923",
+   "url_doi": "https://doi.org/10.1021/acs.nanolett.6c02923",
+   "url_pubmed": null,
+   "abstract": "Abstract Soft actuators show promise for soft robotics, wearables, and biomedical devices. However, existing pneumatic actuators rely on positive pressure actuation, yielding bulky, complex systems. This study presents a negative-pressure-driven soft actuator inspired by alveolar respiration. A double-layer membrane composed of a high-porosity alveolar-mimicking layer (AML) and a dense structural layer (DSL) was fabricated via an ethanol-induced porogenic method. Under negative pressure, AML microbubbles expand, driving macroscopic directional bending, constrained by the DSL. The effects of the curing temperature and ethanol content on the pore structure, mechanical properties, and deformation behavior were systematically studied. Integrated actuation sensing was achieved by depositing a carbon nanotube conductive coating on the alveolar-inspired negative-pressure-driven (AND) soft actuator surface. The AND soft actuator exhibits reversible deformation within 0.0 to −0.1 MPa and has been demonstrated in soft crawling robots, shape-programmable reconfiguration, and negative-pressure-triggered switches. This study offers a bioinspired negative-pressure actuation strategy, opening a route to high-performance integrated soft actuators.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c02315",
+   "title": "In Situ Control of Self-Assembled Morphology and Photonic Properties via In-Film Polymerization",
+   "authors": [
+    "Minjoong Shin",
+    "Kaitlyn R. Wiegand",
+    "Lucy T. Stevens",
+    "Simona G. Fine",
+    "Cécile A. C. Chazot",
+    "Damien Guironnet",
+    "Muzhou Wang"
+   ],
+   "journal": "Nano Letters",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1021/acs.nanolett.6c02315",
+   "url_doi": "https://doi.org/10.1021/acs.nanolett.6c02315",
+   "url_pubmed": null,
+   "abstract": "Abstract Bottlebrush block copolymers (BBCPs) are promising materials for the fabrication of photonic crystals because of their tunable composition and rapid self-assembly into large-period nanostructures. However, it is currently difficult to achieve spatially resolved control over nanostructure and photonic response, because these nanostructures are usually fixed upon fabrication. Here, we demonstrate that in-film polymerization within a BBCP photonic film provides a composition-directing route to alter its morphology and structural color based on the effective volume fraction of the two blocks. Monomer vapor swells photoinitiator-containing BBCP films and undergoes UV-triggered photopolymerization, generating a homopolymer in situ within the BBCP matrix. Reflectance spectroscopy monitored the color evolution, while SEM visualized the accompanying morphology changes, which were driven by the shift in film composition from the resulting homopolymer. Masked irradiation further provides a proof-of-concept route to localize the polymerization and resulting optical response within a single film.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c02599",
+   "title": "Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy",
+   "authors": [
+    "Luyao Wang",
+    "Zhaofan Yang",
+    "Yuanzhen Su",
+    "Guanyu JIN",
+    "Shanyi Lin",
+    "Bingzheng Yu",
+    "Huicong Zhou",
+    "Qi Zhang",
+    "Shiyu Zhang",
+    "Zhao-yu Bi",
+    "Jiawen Xu",
+    "Sijun Xiang",
+    "Shixian Lv",
+    "Haochen Yao",
+    "Linlin Liu"
+   ],
+   "journal": "Nano Letters",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统",
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 15,
+   "url": "https://doi.org/10.1021/acs.nanolett.6c02599",
+   "url_doi": "https://doi.org/10.1021/acs.nanolett.6c02599",
+   "url_pubmed": null,
+   "abstract": "Abstract Chemo-immunotherapy is limited by the poor bioavailability, nonspecific distribution, and systemic toxicity of free drugs. Here, we develop a reactive oxygen species (ROS)-responsive prodrug strategy by conjugating paclitaxel (PTX) and the TLR7/8 agonist resiquimod (R848) with a phenylboronic ester (PBE) moiety to generate two ROS-activatable prodrugs, PTX–PBE and R848–PBE. These prodrugs spontaneously coassemble into carrier-free nanoparticles (PR NPs) with ultrahigh loading efficiency and tunable drug ratios. PBE modification improves systemic stability while enabling ROS-triggered drug release in the tumor microenvironment, allowing PTX-mediated immunogenic cell death and R848-mediated innate immune activation. In colorectal cancer models, PR NPs suppress tumor growth, reduce systemic toxicity, and remodel the tumor immune microenvironment by promoting antitumor immune responses. This prodrug engineering strategy provides a high-loading, activatable, and carrier-free platform for chemo-immunotherapy with potential for cancer treatment.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究构建ROS响应性PTX/R848双前药，自组装无载体纳米粒，实现协同化学免疫治疗。",
+    "innovation": "将PTX和R848分别与苯硼酸酯PBE偶联，设计ROS可激活双前药；两种前药自发共组装成无载体纳米粒，载药效率超高且药物比例可调；PBE修饰提高系统稳定性并实现肿瘤微环境ROS触发释药，协同诱导免疫原性细胞死亡与天然免疫激活。",
+    "significance": "该策略克服游离药物生物利用度低、非特异性分布和全身毒性等问题。在结直肠癌模型中，PR NPs抑制肿瘤生长、降低全身毒性并重塑肿瘤免疫微环境。为高载药、可激活、无载体的化学免疫联合治疗提供了新平台，具临床转化潜力。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:15+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c03038",
+   "title": "Cell-Dependent Particle Shape Preference during Phagocytosis is Governed by Cell Mechanics",
+   "authors": [
+    "Shu Yang",
+    "Leila Elhaissouni",
+    "Joshua A. Placides",
+    "Konstantinos Zinelis",
+    "Qin M. Qi"
+   ],
+   "journal": "Nano Letters",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1021/acs.nanolett.6c03038",
+   "url_doi": "https://doi.org/10.1021/acs.nanolett.6c03038",
+   "url_pubmed": null,
+   "abstract": "Abstract Controlling the physicochemical properties of nano/microparticles is crucial to optimizing their performance as drug carriers and achieving selective cellular uptake. Extensive experimental evidence suggests that particle shape strongly influences the phagocytosis rate and immune cell targeting, showing disparate and cell-dependent trends that remain poorly understood. We develop a theoretical framework that reconciles experimental results using a computationally efficient method to estimate the energy required for active forces to achieve particle engulfment. We demonstrate that cell-dependent shape preferences arise from distinct cell membrane properties that regulate tension during particle-induced deformations. Macrophages prefer disks because particle-induced membrane tension increases, while neutrophils prefer rods because their membranes maintain constant tension. Varying cell rigidity alone hardly alters the particle shape preference. Further, rods are preferred for spontaneous attachment to both membrane types. Our theory provides mechanistic insights that guide the selection of parameter ranges with the highest likelihood of success for tailor-made particle designs.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adhm.71733",
+   "title": "Neutrophil‐Mediated Delivery of MRI‐Traceable Nanocarriers Ameliorates Acute Kidney Injury and Associated Cognitive Deficits and Anxiety‐Like Behaviors",
+   "authors": [
+    "Chen Yang",
+    "Jun Li",
+    "Yutong Liu",
+    "Jiqian Zhang",
+    "Lan Xiao",
+    "Jinying Yang",
+    "Weiping Ding",
+    "Ying Wan",
+    "Debo Zhi",
+    "Xuesheng Liu",
+    "Bensheng Qiu",
+    "Fenfen Li"
+   ],
+   "journal": "Advanced Healthcare Materials",
+   "tier": "C",
+   "publication_date": "2026-09-21",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统",
+    "纳米药物"
+   ],
+   "relevance_score": 14,
+   "url": "https://doi.org/10.1002/adhm.71733",
+   "url_doi": "https://doi.org/10.1002/adhm.71733",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Acute kidney injury (AKI) frequently progresses to chronic kidney disease (CKD) and is increasingly linked to significant remote neuropsychiatric sequelae. However, current therapeutic strategies usually lack renal targeting and, critically, neglect to address these systemic comorbidities, particularly the associated cognitive deficits and anxiety‐like behaviors. In this study, we developed a biomimetic platform consisting of neutrophils loaded with superparamagnetic iron oxide nanoparticles encapsulating celastrol (termed NSPIOC), as an MRI‐visible theranostic system for targeted renal therapy and simultaneous mitigation of associated neuropsychiatric impairments. Systemically administered NSPIOC leverage innate neutrophil chemotaxis to home toward renal inflammatory gradients. Upon infiltration, inflammation‐triggered NETosis releases the cargo into vulnerable proximal tubules, while T 2 ‐weighted MRI enables real‐time monitoring of neutrophil recruitment. Our results demonstrate that NSPIOC effectively restore renal function and inhibits the AKI‐to‐CKD transition. Importantly, our findings provide new evidence that renal‐targeted intervention can alleviate AKI‐induced cognitive deficits and anxiety‐like behaviors. Mechanistically, restoring renal homeostasis prevents the pathological hyperactivation of glutamatergic neurons in the medial prefrontal cortex (mPFC). This biomimetic platform offers a holistic strategy for managing AKI by simultaneously addressing primary renal injury and remote neurological dysfunction, presenting a promising approach to systemic inflammatory complications.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "开发中性粒细胞载塞来昔布氧化铁纳米平台NSPIOC，靶向肾脏并MRI示踪，缓解急性肾损伤及认知焦虑障碍。",
+    "innovation": "仿生中性粒细胞借炎症趋化靶向肾脏，NETosis触发放药，并借助T2加权MRI实现诊疗一体化；首次证实肾脏靶向干预可缓解AKI诱导的认知缺陷与焦虑样行为，机制与抑制mPFC谷氨酸能神经元病理性过度激活相关；有效阻断AKI向CKD转化，同时兼顾原发肾损伤与远端神经精神共病。",
+    "significance": "该研究提出了一种同时针对肾脏原发病变与远端神经精神并发症的整体治疗策略，突破了现有AKI疗法缺乏靶向性且忽视系统性共病的局限。其仿生递送与MRI示踪结合的设计为炎症相关系统性并发症的精准纳米诊疗提供了新范式，具有较好的临床转化前景。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:18+00:00"
+   },
+   "source": "openalex"
   },
   {
    "doi": "10.1021/acsnano.6c12176",
@@ -106,8 +1630,14 @@
    "url_pubmed": null,
    "abstract": "Abstract Nanotitanium dioxide (nTiO2) is widely used as a food additive, leading to chronic dietary exposure and rising health concerns. Although adverse effects on the liver and gut microbiota have been individually investigated, whether gut microbiota mediates nTiO2-induced liver injury remains unclear, especially given the well-established role of the gut–liver axis in hepatic physiology and pathology. Herein, we explored the long-term hepatotoxic effects of oral nTiO2 in mice and the underlying mechanisms through the lens of gut–liver axis crosstalk. Our results showed that chronic exposure to nTiO2 induced dose-dependent liver injury and the disorder of the gut microbiota. Spearman correlation analysis suggested the reduced abundance of beneficial taxa, notably g_Lactobacillus and g_Bacteroides, was strongly associated with elevated intestinal inflammation markers, impaired liver function indicators, and altered hepatic metabolite profiles. Fecal microbiota transplantation demonstrated that nTiO2-perturbed microbiota directly caused liver injury, while colonization with Lactobacillus intestinalis reversed this toxic phenotype, confirming the important role of gut microbiota in the liver injury mediated by nTiO2. More importantly, we found the administration of indole-3-propionic acid (IPA), one of the Lactobacillus-derived indole compounds, restored microbiota homeostasis and alleviated liver toxicity. Mechanistically, IPA increased the expression of MERTK receptor in Kupffer cells, enhancing their phagocytic capacity to redirect nTiO2 accumulation from hepatocytes to Kupffer cells, thereby reducing hepatic oxidative stress and inflammation. Collectively, these findings establish gut microbiota as a critical mediator of nTiO2-induced liver injury, highlight the hepatoprotective role of microbiota-derived IPA, and provide effective strategies for risk intervention against foodborne nanomaterials.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究揭示肠道菌群介导纳米二氧化钛肝损伤，并发现IPA经MERTK增强枯否细胞吞噬以护肝",
+    "innovation": "首次通过粪菌移植和单菌定植证明nTiO2扰动菌群可直接导致肝损伤；发现肠道菌群来源IPA通过上调枯否细胞MERTK增强其吞噬能力，将nTiO2从肝细胞重定向至枯否细胞；提出靶向肠道菌群-IPA-MERTK轴干预食品源纳米材料肝毒性",
+    "significance": "研究将食品添加剂nTiO2的长期肝毒性机制与肠-肝轴及菌群代谢物联系起来，深化了对食源纳米材料安全性的理解。IPA及其靶点MERTK为纳米材料暴露相关肝损伤提供了潜在干预策略。该发现对食品安全风险评估以及益生菌或后生元的转化应用具有重要意义。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:18+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -135,8 +1665,14 @@
    "url_pubmed": null,
    "abstract": "Abstract Background Immunotherapy is being actively explored for malignant tumors through various approaches, with recent success exemplified by immune checkpoint inhibitors (ICIs), which function by restoring T-cell activity to eliminate tumor cells. Some chemotherapeutic drugs synergistically improve the therapeutic effect of ICIs, leading to their combined use in clinical practice, but their immunosuppressive effect and chemotoxicity remain a clinical dilemma. Results In this work, the synergistic effect of chemotherapeutics with immunotherapy was delivered without the in vivo chemotherapy treatment. Specifically, we constructed a nanovaccine using chemotherapy-derived antigens, while preserving the synergistic effect of chemotherapy—such as the upregulation of neoantigens and the release of damage-associated molecular patterns—when applied along with ICIs. R848 based delivery nanoformulation, NanoR848, captures antigens through the positively charged amine group of R848, an immune agonist. This nanodrug releases R848 and antigens in the acidic environment of lysosomes within antigen-presenting cells. The use of chemotherapy-derived antigens delivers an improved anti-tumor efficacy without observable systemic chemotoxicity when combined with an ICI. The constructed nanovaccine enhances the proportion of activated dendritic cells in tumor-draining lymph nodes and upregulates tumor-infiltrating T cells while reducing the population of regulatory T cells and other immunosuppressive compartments, echoing the immunoregulatory mechanism of ICIs. Conclusion Our strategy effectively preserves the immunostimulatory effects from chemotherapy without the systemic chemotoxicity and immunosuppression associated with in vivo chemotherapy treatment, thereby offering a promising approach for cancer immunotherapy.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "本研究构建酸响应纳米激动剂NanoR848，递送化疗来源肿瘤抗原，在不进行体内化疗的前提下保留化疗的免疫协同效应。",
+    "innovation": "利用R848正电荷胺基捕获化疗来源抗原，构建酸响应纳米疫苗，在溶酶体酸性环境中同时释放R848与抗原；以化疗衍生抗原替代体内化疗，保留新抗原上调与损伤相关分子模式释放等免疫协同效应，同时规避系统化疗毒性；与免疫检查点抑制剂联用，重塑肿瘤引流淋巴结与肿瘤微环境免疫格局。",
+    "significance": "该策略在不引入系统化疗毒性与免疫抑制的前提下，复现了化疗对免疫检查点抑制剂的增效作用，为纳米疫苗与免疫治疗联合提供了新思路。其可提升活化树突状细胞比例、增加肿瘤浸润T细胞并减少调节性T细胞等免疫抑制细胞，具有较好的临床转化前景。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:17+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -280,6 +1816,274 @@
     "generated_at": "2026-09-22T00:33:47+00:00"
    },
    "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adma.75095",
+   "title": "Bioinspired Molecular Screening of Zwitterionic Dipeptides for Stable Ah‐Level Zinc–Iodine Batteries",
+   "authors": [
+    "Tao Yang",
+    "Zeyang Sun",
+    "Chang Dong",
+    "Fangyi Zha",
+    "Hongbo Wu",
+    "Yalan Zhang",
+    "Yong Chen",
+    "Shimou Chen",
+    "Hongli Chen",
+    "Yuhang Liang",
+    "Xi Zhang"
+   ],
+   "journal": "Advanced Materials",
+   "tier": "B",
+   "publication_date": "2026-09-20",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1002/adma.75095",
+   "url_doi": "https://doi.org/10.1002/adma.75095",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Aqueous zinc–iodine (Zn─I 2 ) batteries are attractive for large‐scale energy storage yet remain limited by two coupled failure mechanisms: unstable zinc interface at the anode and polyiodide shuttling at the cathode. To address both challenges with a single additive, we systematically screened 44 amino acids and dipeptides using molecular dipole moment and LUMO energy as key descriptors. L‐Carnosine (LC) emerged as a unique candidate exhibiting both the highest dipole moment and a moderate LUMO energy across the screened library. Experimentally, LC's zwitterionic, multicenter charge distribution drives persistent multidentate adsorption at the zinc interface, suppressing HER, directing (101)‐oriented crystallographic deposition through facet‐selective passivation, and enabling formation of a vertically graded organic‐inorganic hybrid solid electrolyte interphase. Concurrently, the electron‐rich imidazole group rapidly quenches polyiodide intermediates through a rapid redox reaction. This synergistic regulation enables Zn||Zn symmetric cells to operate stably for 4980 h, Zn||Cu cells to achieve 99.76% average Coulombic efficiency (CE) over 1400 cycles, and Zn||I 2 full cells to sustain over 18 000 cycles with nearly 100% capacity retention. Furthermore, the practical viability is demonstrated in Ah‐level pouch cells with 85% capacity retention after 500 cycles. This work establishes a unique molecular transformation strategy for stabilizing high‐energy aqueous energy systems.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adma.75092",
+   "title": "Sequential Unlocking of an RNS/ROS Storm via a Four‐Layer Logic‑Gated Ruthenium Nanocomposite for Hypoxia‐Tolerant Photodynamic Cancer Immunotherapy",
+   "authors": [
+    "Peng Wang",
+    "Long‐Bo Yu",
+    "Qing‐Hua Shen",
+    "Xiang-Jie Jiang",
+    "Xinyi Zhang",
+    "Ying‐Ying Han",
+    "Zhi‐Yuan Li",
+    "Qing-Yuan Hu",
+    "Cai‐Ping Tan"
+   ],
+   "journal": "Advanced Materials",
+   "tier": "B",
+   "publication_date": "2026-09-20",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 12,
+   "url": "https://doi.org/10.1002/adma.75092",
+   "url_doi": "https://doi.org/10.1002/adma.75092",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Tumor hypoxia, an immunosuppressive microenvironment, and the lack of spatiotemporally precise therapeutic activation collectively limit current cancer treatments. Here, we report a smart nanocomposite ( G&Ru@CuS ) that produces a localized reactive nitrogen species (RNS)/reactive oxygen species (ROS) storm controlled by four sequential logic gates. (i) Intracellular ROS degrade a thioketal‐crosslinked polymer gatekeeper, exposing the hollow CuS core. (ii) Acidic tumor pH (6.5–6.8) and high glutathione (GSH) trigger release of Cu 2+ , the NO donor S‐Nitrosoglutathione (GSNO), and a NO‐responsive mitochondria‐targeted prodrug photosensitizer Ru1 from the a degradable CuS scaffold. (iii) Cu 2+ catalyzes NO generation from GSNO. (iv) NO reacts with Ru1 to form Ru2 . Ru2 is an NO‐responsive prodrug photosensitizer that, upon activation, displays dual Type I/II photodynamic activity. It retains efficacy under hypoxia, rapidly depletes GSH, oxidizes NADH, and shows photocatalytic peroxidase activity, making it a powerful agent for triggering an RNS/ROS storm that drives tumor cell mitochondrial damage, necroptosis and ferroptosis, resulting in immunogenic cell death that promotes dendritic cell maturation and systemic antitumor immunity. In murine models, intravenous G&Ru@CuS achieves potent tumor inhibition with excellent immunotherapy and no systemic toxicity. This work is the first quadruple logic‐gated nanoplatform that overcomes hypoxia, enables spatiotemporal precision, and minimizes off‐target effects.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adma.75122",
+   "title": "Phase‐Transfer Catalysis Toward Surface‐Reconstructed Perovskite Nanocrystals Enabling Efficient Perovskite LEDs and Micropatterns",
+   "authors": [
+    "Mengqi Zhang",
+    "Lin Zhang",
+    "Xiong Chen",
+    "Yuyu Jing",
+    "Fei Huang",
+    "Delin Kong",
+    "Yuxuan Li",
+    "Zhitao Xue",
+    "Chengyang Liang",
+    "Xuejiao Sun",
+    "Haizheng Zhong",
+    "Jianjun Tian"
+   ],
+   "journal": "Advanced Materials",
+   "tier": "B",
+   "publication_date": "2026-09-20",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 5,
+   "url": "https://doi.org/10.1002/adma.75122",
+   "url_doi": "https://doi.org/10.1002/adma.75122",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Metal halide perovskite nanocrystals (NCs) are promising materials for next‐generation ultrahigh‐definition displays through achieving efficient micropattern light‐emitting diodes (LEDs). However, the micro‐devices exhibited inferior electroluminescent (EL) efficiency, which likely arose from the fact that effective surface reconstruction of the NCs is often impeded by challenges in defect management. In this work, we developed a phase‐transfer catalytic (PTC) strategy for the surface reconstruction of CsPbI 3 NCs, utilizing tetrabutylammonium iodide (TBAI) as a catalyst to mediate the incorporation of the solid‐phase ligand guanidinium iodide (GuI). The mechanism is rooted in a specific molecular interaction between TBAI and GuI, which disrupts the strong hydrogen‐bonding network of GuI molecules, effectively inhibits excessive GuI accumulation, and prevents micelle formation. As a result, the LEDs achieved peak external quantum efficiency (EQE) of 26.5% and exhibited more than a tenfold increase in operational lifetime. Furthermore, this methodology enabled the fabrication of high‐resolution micro‐LEDs with 1588 pixels per inch (PPI) and an EQE of 20.6%, which exhibiting bright and stable electroluminescence, further highlighting the versatility and scalability of the approach for advanced display technologies.",
+   "abstract_source": "openalex",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "提出相转移催化策略实现CsPbI3钙钛矿纳米晶表面重构，获得26.5%外量子效率的LED及1588 PPI微显示阵列。",
+    "innovation": "以四丁基碘化铵为相转移催化剂，通过其与胍基碘的特定分子相互作用破坏胍基碘氢键网络，抑制过量积累与胶束形成，实现固相配体的可控引入与纳米晶表面重构；所得LED峰值外量子效率达26.5%，工作寿命提升十倍以上；该策略可拓展至1588 PPI高分辨微LED阵列，微器件外量子效率达20.6%。",
+    "significance": "该工作揭示了相转移催化在钙钛矿纳米晶表面配体工程中的新机制，为解决微纳器件中缺陷管理与表面重构难题提供了通用思路。高效率、长寿命且可图案化的钙钛矿LED有望推动下一代超高清显示与微显示技术的发展。相转移催化策略具有良好的普适性与可扩展性，为高性能光电器件的规模化制备开辟了新途径。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:22+00:00"
+   },
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adma.75011",
+   "title": "Geometry‐Mediated Microgel Structure‐Mechanics for Intestinal Region‐Specific Probiotic Delivery",
+   "authors": [
+    "Shanan Chen",
+    "Wei Shang",
+    "Qimeng Wang",
+    "Jasper Landman",
+    "Yoav D. Livney",
+    "YueMiao Zhang",
+    "Caroline Thum",
+    "Shangwu Chen",
+    "Zhengyuan Zhai",
+    "Xiangyu Liu",
+    "Zhaoxiang Ma",
+    "Wenxuan Di",
+    "Yuan Li"
+   ],
+   "journal": "Advanced Materials",
+   "tier": "B",
+   "publication_date": "2026-09-20",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1002/adma.75011",
+   "url_doi": "https://doi.org/10.1002/adma.75011",
+   "url_pubmed": null,
+   "abstract": "The physiological efficacy of functional food ingredients, particularly probiotics is highly dependent on their spatial localization within the intestine. The non-specific delivery of probiotics severely restricts their therapeutic efficacy. Herein, we developed a sustainable, food-grade microgel delivery platform assembled from corncob nanocellulose building blocks with distinct geometries for programmable intestinal probiotic release. Owing to their distinct topological structures and mechanical properties, spherical nanocellulose-based microgels (CNSM) were found to disintegrate in the ileum, while rod-like nanocellulose-based microgels (CNRM) retained intact until reaching the colon, where they subsequently ruptured. Molecular dynamics simulations supported the superior structural stability of CNRM against osmotic swelling, revealing a structure-mechanics driven mechanism for the controlled release pattern. Both microgels significantly enhanced probiotic survival, as well as nanocoating-mediated mucoadhesion and colonization. To maximize functionality, bile salt hydrolase-producing L. plantarum WCFS1 and immunomodulatory L. rhamnosus GG were embedded into CNSM and CNRM, respectively. Consequently, ileum-targeted WCFS1@CNSM significantly ameliorated hypercholesterolemia, accompanied by increased fecal cholesterol excretion and potential modulation of the gut-liver signaling axis whereas colon-targeted LGG@CNRM profoundly alleviated DSS-induced colitis through epithelial barrier restoration and inflammation suppression. This work provides a region-specific delivery strategy for next-generation probiotic therapeutics.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.jconrel.2026.115383",
+   "title": "Engineered polymeric systems suppress breast cancer metastasis by manipulating the clustering states of cell surface C-X-C chemokine receptor 4",
+   "authors": [
+    "Chendong Liu",
+    "Junzhu Shi",
+    "Likai Shi",
+    "Qingrui Jia",
+    "Jiaqi Liu",
+    "Yue Yan",
+    "Minglu Zhou",
+    "Zhou Zhou",
+    "Yuan Huang",
+    "Lian Li"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-09-20",
+   "date_precision": "approx",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115383",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115383",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42764094/",
+   "abstract": "The clustering states of cell surface C-X-C chemokine receptor 4 (CXCR4) play a critical role in cancer metastasis. We previously reported a \"Pro-Clustering Polymers (PCP)\" system, P-BS-CM1 → P-CM2, for the treatment of metastatic triple-negative breast cancer (TNBC). Subsequent studies demonstrated that PCP enhanced CXCR4 blockade and metastasis suppression by disrupting CXCR4 association-disassociation dynamic equilibrium and shifting the receptor toward a hyper-clustered state. As an alternative strategy to disrupt this equilibrium, shifting CXCR4 toward a less clustered, more dispersed state, i.e., inhibiting CXCR4 clustering, remains largely underexplored. Herein, we developed a \"De-Clustering Polymer (DCP)\" system, P-BS-pHLIP, which introduces steric hindrance to block receptor-receptor interactions and thereby inhibits CXCR4 clustering. Side-by-side comparisons of DCP with our previously developed PCP system revealed that different modes of CXCR4 manipulation dictate divergent downstream biological outcomes. PCP preferentially impaired tumor cell motility by inducing mitochondrial dysfunction and energy depletion, whereas DCP preferentially reduced tumor cell adhesiveness by downregulating multiple adhesion molecules. Both PCP and DCP exert potent anti-metastatic efficacy in multiple TNBC metastatic models. Collectively, this study demonstrates that engineered polymeric systems that biophysically manipulate receptor clustering states, via either pro-clustering or de-clustering, represent promising therapeutic strategies for suppressing cancer metastasis.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1002/adhm.71725",
+   "title": "A Hybrid Bioprinting–Microfabrication Approach to Controllable Multitype Spheroid Arrays for Modeling Tumor Heterogeneity",
+   "authors": [
+    "Simone Bonetti",
+    "Eva Clemente",
+    "Emanuela Mensa’",
+    "Marco De Maria",
+    "Fulvia Farabegoli",
+    "Emanuela Saracino",
+    "Barbara Bortolani",
+    "Emanuela Marcelli",
+    "Renato Brandimarti",
+    "Dario de Biase",
+    "Giampaolo Zuccheri"
+   ],
+   "journal": "Advanced Healthcare Materials",
+   "tier": "C",
+   "publication_date": "2026-09-20",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1002/adhm.71725",
+   "url_doi": "https://doi.org/10.1002/adhm.71725",
+   "url_pubmed": null,
+   "abstract": "The intrinsic heterogeneity of solid tumors remains a crucial barrier to understanding cancer biology and predicting therapeutic outcomes. Here, we introduce a scalable and versatile biofabrication platform that enables the controlled assembly of multitype spheroid arrays (MSA) within standard culture microplates. By performing programmable bioprinting within soft, microstructured culture devices, we achieve the precise spatial deposition of multiple cell types into defined microwells, yielding reproducible arrays of heterogeneous 3D tumor spheroids that collectively recapitulate the macro- and micro-heterogeneity of solid cancers. We demonstrate that this approach permits the fine-tuning of spheroid size, composition, and arrangement. It also supports the delayed secondary programmed seeding of cells on pre-grown spheroids, mimicking biological processes such as the invasion of immune cells. These methods enable quantitative drug-response profiling within a single assay. They overcome some critical limitations of current 3D cancer models, introducing the concept of the \"cancer-in-a-well\" technology. This technology provides a simple-to-use, cost-effective, high-throughput, and highly reproducible platform to recreate the complexity of tumors in vitro using methods and instruments that can be potentially used by any researcher in any cell culture lab. We can foresee a positive impact on cancer biology studies, drug screening, and personalized oncology.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adhm.71736",
+   "title": "NIR‐Triggered Methylgermanane Nanosheet‐Embedded Hydrogels Enable Cascade Dual‐Organelle Stress to Potentiate Cancer Immunotherapy",
+   "authors": [
+    "Yingying Huang",
+    "Yufan Zheng",
+    "Qin Zhang",
+    "Yadi Fan",
+    "Fu Zhou",
+    "Yucheng Ma",
+    "Jiaxiang Yan",
+    "Jiareng Chen",
+    "Fengqi Wang",
+    "Youhua Tan",
+    "Bohan Yin",
+    "Siu Hong Dexter Wong",
+    "Mo Yang"
+   ],
+   "journal": "Advanced Healthcare Materials",
+   "tier": "C",
+   "publication_date": "2026-09-20",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1002/adhm.71736",
+   "url_doi": "https://doi.org/10.1002/adhm.71736",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT The efficacy of photothermal therapy (PTT) mediated immunotherapy against tumor recurrence and metastasis is limited by inherent cellular thermoresistance and weak immune activation. To address this, we developed an accelerated immunomodulatory matrix reservoir (AIMR) integrating methylgermanane nanosheets (mGeNS) within an active Ca 2 + ‐crosslinked alginate hydrogel. As an emerging 2D material, mGeNS exhibits exceptional drug‐loading capacity and robust near‐infrared (NIR) photothermal conversion (efficiency > 60%). Importantly, the hydrogel matrix effectively shields these biodegradable nanosheets from premature in vivo clearance. Upon NIR irradiation, localized hyperthermia softens the hydrogel, triggering the co‐release of Ca 2+ and an mGeNS‐delivered immunogenic cell death (ICD) inducer (doxorubicin, DOX). This heat stimulation promotes intracellular Ca 2+ influx, causing mitochondrial dysfunction that downregulates thermoprotective heat shock proteins (e.g., HSP70), thereby sensitizing tumor cells and amplifying PTT‑mediated endoplasmic reticulum stress. Such a synergistic strategy boosts ICD accompanied by the release of numerous damage‐associated molecular patterns for dendritic cell maturation and CD8 + T cell activation. In murine bilateral tumor models, AIMR achieved > 80% local tumor suppression and a 2.43‐fold increase in abscopal immune memory over 60 days compared to surgery alone. By synergizing novel 2D mGeNS with active thermosensitive hydrogel, AIMR provides a dual‐organelle stress platform for durable photoimmunotherapy.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127419",
+   "title": "Elucidating drug-carrier interactions and release from PCL and PLA microspheres prepared by PES membrane emulsification: a strategy integrating molecular docking",
+   "authors": [
+    "Jingwen Zhai",
+    "Haoran Zeng",
+    "Liwei Guo",
+    "You Chen",
+    "Juan Li",
+    "Junfang Chen",
+    "Wenwei Zhong"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-09-20",
+   "date_precision": "approx",
+   "directions": [
+    "药物递送系统"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127419",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127419",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42764084/",
+   "abstract": "PES membrane, with its excellent mechanical properties and biocompatibility, facilitate many pharmaceutical applications, particularly to replace SPG and PVDF membranes for membrane emulsification for microspheres preparation. Despite the extensive use of polycaprolactone (PCL) and polylactic acid (PLA) as drug carriers, their interactions with drug molecules have rarely been directly compared. This knowledge gap directly impacts the rational design and control of drug release rates from microspheres made of these polymers. Hence this study focuses on the use of novel PES membrane emulsification technology to investigate the preparation and properties of the PCL and PLA microspheres for sustained drug release. The effect of additives for casting solutions of membrane were investigated for comparing the size distribution of PCL and PLA microspheres. The encapsulation of three phenolic drug contents (i.e. baicalin, quercetin and bakuchiol) were conducted using PCL and PLA as the carrier of the microspheres. The drug release rate as well as other pharmaceutic characteristics were evaluated, while the molecular action between the drug carriers and drug contents were estimated using molecular docking. The experimental results confirmed that microspheres with small and uniform particle size, measured at 40.72 μm, could be achieved using casting solution of 18 wt% prepared PES membrane with additives. In contrast to the smooth surface of PCL microspheres, their PLA counterparts exhibited a distinctly porous morphology. Molecular docking simulations suggested baicalin exhibit strong binding affinity with PCL and PLA reaching -3.36 kcal/mol and -2.32 kcal/mol, together with its low solubility and molecular size, resulted in slowest release of 0.52% on 17th day when encapsulated in both PCL and PLA microsphere. Bakuchiol exhibited weaker binding affinity with PLA than with PCL, resulting in a higher release rate from PLA microspheres. Quercetin, conversely, showed weaker binding affinity with PCL than with PLA, resulting in a higher release rate from PCL microspheres. Among them, C-Bak microspheres showed the highest 48 h wound closure rate (46.09%), while A-Que microspheres exhibited the best cell viability (287.17%).",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
   },
   {
    "doi": "10.1186/s12951-026-05090-x",
@@ -1578,8 +3382,14 @@
    "url_pubmed": null,
    "abstract": "Inflammatory diseases are characterized by overactivated immune responses and a disrupted metabolic equilibrium, particularly in dendritic cells (DCs), where mitochondrial reactive oxygen species (mtROS) burst and metabolic reprogramming drives pathological maturation. While modulating immunometabolism is a promising therapeutic avenue, achieving subcellular-targeted delivery of bioactive molecules remains a formidable challenge. Here, we report a mitochondria-targeted nanozyme designed to concurrently scavenge mtROS and reprogram DC metabolism for effective anti-inflammatory therapy in periodontitis. This system is constructed based on Prussian blue nanoparticles (PB NPs) loaded with manganese carbonyl, a high oxidative stress-responsive carbon monoxide (CO) donor, and further modified with triphenylphosphine for mitochondrial targeting. This nanozyme efficiently accumulates in the mitochondria of activated DCs, where it efficiently scavenges mtROS and concurrently delivers controlled CO release, synergistically modulating DC function. Metabolomics analysis reveals that CO suppresses DC maturation by reprogramming cellular metabolism, including inhibiting the tricarboxylic acid cycle, modulating glycolysis, and disrupting fatty acid synthesis. Consequently, the synergistic action of PB NPs and CO effectively reverses the pro-inflammatory phenotype of DCs, reshapes the immune microenvironment, and ultimately alleviates periodontal inflammation in vivo. This work presents a promising strategy for curing inflammatory diseases by targeting metabolic reprogramming at the subcellular level.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "构建线粒体靶向纳米酶，经微环境响应释放CO清除mtROS并重编程树突状细胞代谢，治疗牙周炎。",
+    "innovation": "构建PB NPs负载羰基锰的线粒体靶向纳米酶，实现mtROS清除与氧化应激响应CO释放协同；揭示CO通过抑制TCA循环、调节糖酵解和干扰脂肪酸合成重编程DC代谢并逆转促炎表型；在牙周炎模型中实现亚细胞水平免疫代谢干预与微环境重塑。",
+    "significance": "该策略将亚细胞靶向、气体治疗与免疫代谢调控有机结合，为牙周炎等炎症性疾病提供了新的治疗思路。其机制研究加深了对CO调控树突状细胞代谢的理解，并展现纳米酶在精准抗炎治疗中的转化潜力。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:46+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -1878,8 +3688,14 @@
    "url_pubmed": null,
    "abstract": "Most lung cancers are tobacco related, with genetic factors influencing smoking behavior identified through genome-wide association studies. However, inherited risk in familial and non-smoking-related lung cancers, including risk in carriers of EGFR T790M, remains poorly understood. Here, in more than 3.3 million individuals, the EGFR T790M germline variant is significantly associated with lung cancer risk, with no increased risk for 17 other cancers and no interaction with polygenic risk. This risk exceeds that conferred by smoking and is several-fold higher in never-smokers. Global geographic and ancestry analyses show higher T790M prevalence in the US than in British- and Irish-descendant populations, reflecting a Southern Appalachian founder event about 200 to 225 years ago, increasing regional prevalence and affecting those of British, Irish, and African descent. Recognition of high-risk carriers may inform targeted genetic testing and screening strategies.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "在超330万人中证实胚系EGFR T790M显著增加肺癌风险，尤其在不吸烟者中更高，并揭示美国南部阿巴拉契亚奠基者效应。",
+    "innovation": "基于超330万人队列发现胚系EGFR T790M与肺癌风险显著关联，且不增加其他17种癌症风险；该变异风险超过吸烟，在从不吸烟者中高数倍，且与多基因风险无交互；全球地理与祖源分析显示美国T790M患病率高于英国和爱尔兰裔人群，溯源至约200至225年前南部阿巴拉契亚奠基者效应。",
+    "significance": "识别高危携带者有助于指导靶向基因检测和肺癌筛查策略。该发现改变了对家族性及非吸烟相关肺癌遗传风险的认识，并提示可按祖源和地区优化筛查与遗传咨询。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:46+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -2608,8 +4424,14 @@
    "url_pubmed": null,
    "abstract": "ABSTRACT Gallium (Ga) is an iron‐mimetic metal with broad‐spectrum antimicrobial activity and emerging potential in bone regeneration and localized cancer therapy. However, its biomedical translation is limited by unfavorable pharmacokinetics, systemic exposure, and hydrolytic instability of free Ga 3 + under physiological conditions. Hydrogels offer a versatile strategy by stabilizing gallium species, enhancing local retention, regulating release, and providing tissue‐compatible interfaces and microenvironmental modulation. This review focuses on how hydrogel design can stabilize different gallium species, control their local availability, and improve therapeutic performance across distinct pathological microenvironments. We summarize gallium bioactivity and speciation, classify gallium‐containing hydrogels according to gallium incorporation and network interactions, and analyze how network architecture, coordination chemistry, degradation, and external stimuli govern retention and release. Emerging applications include infected wound and biofilm treatment, bone repair, localized cancer therapy, and other site‐specific interventions. We further discuss iron competition, immune regulation, cytotoxicity, liquid‐metal stability, and translational barriers, and outline directions for mechanism‐guided and quantitatively standardized gallium‐hydrogel design.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "综述系统梳理水凝胶稳定镓物种的设计策略，按掺入方式分类，并解析其控释机制与局部治疗应用。",
+    "innovation": "从配位化学与网络结构角度构建\"稳定—编程—局部释放\"一体化设计框架，将镓物种形态与病理微环境精准匹配；首次按镓掺入方式与网络相互作用对含镓水凝胶进行系统分类，并整合网络架构、降解行为与外源刺激等控释要素；聚焦铁竞争、免疫调节、细胞毒性及液态金属稳定性等关键问题，提出机制导向与定量标准化的转化设计方向。",
+    "significance": "该综述为镓基材料克服游离Ga³⁺水解不稳定、药代动力学差与全身暴露等瓶颈提供了以水凝胶为载体的解决思路，有助于提升局部滞留与按需释放能力。其总结的设计原则可推动感染创面与生物膜、骨修复及局部肿瘤治疗等场景的精准干预。所提出的机制研究与标准化评价路径，有望加速镓-水凝胶体系从实验室走向临床转化。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:49+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -2674,12 +4496,12 @@
    "directions": [
     "肿瘤治疗"
    ],
-   "relevance_score": 3,
+   "relevance_score": 5,
    "url": "https://doi.org/10.1016/j.biomaterials.2026.124633",
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124633",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42766960/",
+   "abstract": "Inefficient clearance of tumor-associated cellular debris sustains chronic inflammation and reinforces tumor-promoting immune niches in the colorectal cancer (CRC), yet strategies to selectively enhance macrophage-mediated cellular debris clearance remain largely unexplored. Here, we engineered a dual-targeted oral nanoplatform based on probiotic-derived extracellular vesicles (EVs) for selective delivery of astaxanthin (AXT-EVs) to tumor-associated macrophages (TAMs) in inflamed colonic tissues. Following oral administration, AXT-EVs preferentially accumulated within TAMs and induced functional reprogramming toward enhanced inflammatory debris resolution. Internalized AXT downregulates bridging integrin 2 (BIN2), a previously unrecognized negative regulator of macrophage phagocytic remodeling, thereby restoring macrophage-mediated clearance of tumor-associated cellular debris and disrupting debris-driven inflammatory amplification. In murine CRC models, AXT-EVs significantly inhibited tumor progression, alleviated intestinal inflammation and restored epithelial barrier integrity. Our findings identify defective macrophage debris clearance as a therapeutically targetable driver of colorectal tumorigenesis and establish a probiotic nanovesicle-based strategy as an immune-modulating platform for restoring tissue clearance homeostasis.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "利用负载虾青素的工程化益生菌囊泡重编程免疫碎片清除，抑制结直肠肿瘤发生",
@@ -2710,12 +4532,12 @@
     "纳米药物",
     "肿瘤治疗"
    ],
-   "relevance_score": 9,
+   "relevance_score": 13,
    "url": "https://doi.org/10.1016/j.biomaterials.2026.124634",
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124634",
    "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "abstract": "Chemoresistance, often driven by aberrant transcriptional and epigenetic mechanisms, remains a significant barrier to effective colon cancer therapy. This study introduces a dendrimer-based proteolysis-targeting chimera (PROTAC) system, JTP, generated by conjugation of polyamidoamine (PAMAM-G4) dendrimer with 4-hydroxythalidomide (an E3 ligase recruiter) and JQ1 carboxylic acid (a BRD4 inhibitor). The multivalent dendrimer scaffold increases local surface ligand density, promotes endocytic uptake and endosomal escape, and facilitates cytosolic engagement of BRD4 for proteasome-mediated degradation. In vitro, JTP effectively increased the chemosensitivity of CT26 colon cancer cells to chemotherapy, particularly to irinotecan, leading to enhanced DNA damage, cell cycle arrest in the S and G2/M phases, and apoptosis, as well as a synergistic reduction in oncoprotein expression. In vivo studies in orthotopic colon cancer-bearing mice demonstrated a prominent antitumor effect of JTP in combination with irinotecan, yielding marked inhibition of tumors and metastases and promoting long-term survival, with toxicity within a well-tolerated range. The in vivo studies also demonstrated the robust effects of JTP on reducing the expression of TFEB, c-Myc, β-catenin, Bcl-2, VEGFR2, IL-1β, TNF-α, HIF-1α, and vimentin by BRD4 elimination in tumor tissues. These findings demonstrate that combining JTP with epigenetic modulation offers an effective strategy to promote chemotherapeutic effects in colon cancer.",
+   "abstract_source": "openalex",
    "summary_status": "done",
    "summary": {
     "one_liner": "利用多价树状大分子构建靶向BRD4的PROTAC，并评估其联合化疗对结肠癌的协同疗效。",
@@ -2723,6 +4545,48 @@
     "significance": "为BRD4等传统难以成药的靶点提供了基于降解的新干预策略，并拓展了PROTAC在实体瘤中的应用空间。多价树状大分子平台有望改善PROTAC的递送效率与成药性。与化疗联用或可降低给药剂量、克服耐药，为结肠癌治疗提供新的联合方案。",
     "model": "deepseek-v4-flash",
     "generated_at": "2026-09-22T00:34:17+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.biomaterials.2026.124639",
+   "title": "Nanoparticle-mediated magnetic hyperthermia for ectopic pregnancy treatment",
+   "authors": [
+    "Karthickraja Duraisamy",
+    "Prem Singh",
+    "Akshay Vyawahare",
+    "Ana Paula Mesquita Souza",
+    "Kongbrailatpam Shitaljit Sharma",
+    "Kentaro Yamada",
+    "Takeshi Suzuki",
+    "Vladislav Grigoriev",
+    "Bishal Misra",
+    "Leslie Myatt",
+    "Maureen K. Baldwin",
+    "Khashayar Farsad",
+    "Oleh Taratula",
+    "Olena R. Taratula"
+   ],
+   "journal": "Biomaterials",
+   "tier": "C",
+   "publication_date": "2026-09-17",
+   "date_precision": "approx",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1016/j.biomaterials.2026.124639",
+   "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124639",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "该研究提出利用纳米颗粒介导的磁热疗，为异位妊娠提供一种靶向、微创的非手术治疗新策略。",
+    "innovation": "提出纳米颗粒介导磁热疗用于异位妊娠治疗；借助磁热效应实现异位妊娠组织的局部热消融；为异位妊娠提供非手术、微创干预的新思路。",
+    "significance": "若该方法可行，有望避免或补充传统手术与药物疗法，降低异位妊娠破裂出血等风险。其靶向产热特性可能有助于保护正常组织并保留生育功能。后续仍需通过实验与临床研究验证其安全性、有效性和转化潜力。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:50+00:00"
    },
    "source": "crossref"
   },
@@ -2868,8 +4732,14 @@
    "url_pubmed": null,
    "abstract": "Nature Medicine, Published online: 16 September 2026; doi:10.1038/s41591-026-04636-8 In this single-arm phase 1 trial, an AAV gene therapy carrying the Padua variant of factor IX was well tolerated in 11 adolescents with hemophilia B and led to reductions in annualized bleeding rate.",
    "abstract_source": "rss",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "AAV介导FIX-Padua基因治疗在11例青少年血友病B中耐受良好，年化出血率下降。",
+    "innovation": "首次将FIX-Padua变体AAV基因治疗推进至青少年血友病B人群的1期临床验证，填补儿科过渡期数据空白；借助高活性Padua变体（R338L）提升凝血因子IX表达效率，有望降低所需载体剂量与免疫暴露；在单臂设计中同步评估安全性与年化出血率下降的初步疗效信号",
+    "significance": "该研究为青少年血友病B提供了潜在“一次性”治疗方案的早期人体证据，支持将基因治疗干预窗口前移至青春期以预防关节病变与出血并发症。其结果可为后续更大规模随机对照试验及长期安全性、疗效持久性随访奠定基础。若疗效持久，有望显著减轻患者终身凝血因子替代治疗的注射负担与医疗成本。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:52+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -3897,8 +5767,14 @@
    "url_pubmed": null,
    "abstract": "Plants produce a considerable number of metabolites, and many of them appear to interfere with certain cellular processes such as cell division. For example, taxanes produced by Taxus are known as anti-cancer drugs that stabilize microtubules and prevent the cell from dividing normally. Disorder of cell division also leads to abnormal growth and development in plants. It is worthy of consideration whether these metabolites have negative effects on plants per se. In this study, we developed an efficient screening system for identifying plant metabolites affecting rapeseed seedling root growth. One compound, 7-epi-10-deacetyltaxol, inhibited tissue elongation by adversely altering cell division and elongation. And it was applied to plant cell lines, rat vascular smooth muscle cells, and human tumor organoids, resulting in similar cell division suppression. Transcriptome and proteomics analysis indicated the suppression in plant growth was through brassinosteroid-regulated expression of cell cycle proteins, while cytological observation reveals microtubule morphology anomalies. Single-nucleus transcriptome sequencing revealed inhibitory effects of ovarian cancer organoids. Together, our findings identified a universal cell division inhibitor and characterized its conserved function with respective regulatory mechanisms, providing new insights into what role \"harmful\" plant metabolites are playing in plants.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "研究建立植物代谢物筛选体系，发现7-epi-10-deacetyltaxol通过干扰细胞周期与微管组织抑制多种细胞分裂。",
+    "innovation": "建立基于油菜幼苗根生长的高效植物代谢物筛选体系；发现7-epi-10-deacetyltaxol是跨植物、动物细胞及人肿瘤类器官的通用细胞分裂抑制剂；揭示其经油菜素内酯调控细胞周期蛋白并伴微管形态异常的保守机制。",
+    "significance": "为理解植物“有害”代谢物在植物自身中的生理与生态角色提供了新视角；为靶向细胞周期和微管的抗增殖及抗癌药物研发提供了候选分子；后续需评估其植物毒性与转化应用的治疗窗口。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:00:58+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -4211,8 +6087,14 @@
    "url_pubmed": null,
    "abstract": "Conventional magnetic resonance imaging (MRI) often detects liver tumors after morphologic and vascular changes become apparent, whereas biomechanical alterations may precede visible tumor formation. Here, we evaluate multifrequency magnetic resonance elastography (mMRE)-derived shear wave speed (SWS) and phase angle (ϕ) covering stiffness and viscosity as non-invasive biomechanical imaging markers for liver cancer formation and progression in a translational rabbit model. VX2 liver tumor-bearing New Zealand White rabbits underwent five longitudinal multiparametric MRI scans over 14 days, including mMRE at clinically relevant frequencies on a 3 Tesla scanner. SWS and ϕ maps were compared with apparent diffusion coefficient (ADC) maps, histopathology, and proteomics. Tumor SWS and ϕ increased 2-3 days after implantation and were significantly higher than liver at two weeks (SWS: p = .002; ϕ: p = .008). Tumor ADC decreased significantly only from days 11-13 onward (day 14: p = .02). Histopathology and proteomics demonstrated tumoral enrichment of collagen, proteoglycan, and glycosaminoglycan pathways compared to liver, suggesting matrix remodeling as a key contributor to increased stiffness and viscosity measured by mMRE. The early elevation of SWS and ϕ preceding ADC changes highlights mMRE as a promising tool for detecting tumor-associated biomechanical remodeling and enabling earlier liver cancer diagnosis and monitoring beyond conventional MRI.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "兔VX2肝癌多频MR弹性成像显示，剪切波速与相位角在植入后2-3天即升高，显著早于ADC下降，可早期捕捉肿瘤生物力学重塑。",
+    "innovation": "在转化型兔VX2肝癌模型中开展纵向多频MRE，同步量化硬度（SWS）与黏度（相位角）；发现SWS与相位角于植入后2-3天即升高，早于ADC（11-13天）变化，证实生物力学改变先于形态与扩散异常；结合组织病理与蛋白质组学，揭示胶原、蛋白聚糖及糖胺聚糖通路富集驱动的基质重塑是硬度与黏度升高的机制来源。",
+    "significance": "mMRE作为一种无创、临床可转化的生物力学成像手段，可在常规MRI发现形态与血管改变之前识别肝脏肿瘤的发生与进展。该研究为肝癌早期诊断、动态监测和疗效评估提供了新范式，并支持将组织硬度与黏度纳入肝癌影像生物标志物体系。未来有望用于高危人群筛查及抗基质重塑治疗反应的评价。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:01:00+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -4333,8 +6215,14 @@
    "url_pubmed": null,
    "abstract": "Aspirin, as the most widely used drug in the world, has been reported to exert antiplatelet, anti-inflammatory, and anti-tumor effects. However, apart from the hydrolyzed acetyl group acetylating proteins, and salicylic acid functioning as a classic COX enzyme inhibitor, it is unknown whether the salicylic group of aspirin could participate in the salicylation of histone lysine. Herein, we discover and characterize lysine salicylation (Ksa) in histone and 39 Ksa sites of histone were mapped in 3 cell lines. Ksa could be stimulated by aspirin via direct action and conversion to salicyl-CoA, and regulated by CBP and SIRT2 in vivo. Multi-omics analyses reveal associations between histone Ksa enrichment and transcriptional changes in physiologically relevant genes. Moreover, immunohistochemistry of Ksa levels in bladder cancer tissues are associated with aspirin exposure and show a preliminary correlation with recurrence-related outcomes. Collectively, we discover a new histone mark with potential physiological relevance and may reveal a previously unrecognized mechanism underlying the non-canonical functions of aspirin.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "发现阿司匹林衍生水杨酰-CoA驱动组蛋白赖氨酸水杨酰化，并由CBP和SIRT2调控。",
+    "innovation": "首次发现并表征组蛋白赖氨酸水杨酰化（Ksa）这一新型表观遗传修饰；揭示阿司匹林经转化为水杨酰-CoA直接驱动Ksa，并明确CBP与SIRT2为其调控酶；在膀胱癌组织中建立Ksa水平与阿司匹林暴露及复发相关结局的初步关联。",
+    "significance": "该研究拓展了阿司匹林非经典功能机制，将水杨酸代谢与组蛋白修饰及基因转录调控联系起来。为理解阿司匹林抗炎、抗肿瘤等效应提供新表观遗传视角，并为膀胱癌复发监测与药物开发提供潜在靶点。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:01:00+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -4888,8 +6776,14 @@
    "url_pubmed": null,
    "abstract": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04559-4 In a phase 1 trial evaluating GFH375, an oral, dual on–off binding KRAS G12D inhibitor, in patients with KRASG12D-mutated solid tumors, there was one treatment-related death, while most treatment-related adverse events were low-grade, and encouraging response rates were observed in non-small cell lung cancer and pancreatic cancer.",
    "abstract_source": "rss",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "口服KRAS G12D抑制剂GFH375治疗经治KRAS G12D突变晚期实体瘤的1期试验，安全性可控，在肺癌与胰腺癌中显示鼓舞疗效。",
+    "innovation": "GFH375为口服、兼具on-off双态结合机制的KRAS G12D选择性抑制剂，可及性与靶点覆盖具差异化优势；首次在既往接受治疗的KRAS G12D突变泛实体瘤人群中完成1期临床验证；在非小细胞肺癌与胰腺癌两大难治瘤种中均观察到令人鼓舞的客观缓解率",
+    "significance": "KRAS G12D是最常见的KRAS突变亚型之一，长期缺乏直接靶向药物，该结果为其口服靶向治疗提供了早期临床证据；多数治疗相关不良事件为低级别，提示安全性总体可控，但需关注出现的1例治疗相关死亡；该数据支持在非小细胞肺癌和胰腺癌中开展后续剂量优化与注册导向研究，并探索联合治疗策略。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:01:02+00:00"
+   },
    "source": "rss"
   },
   {
@@ -7000,12 +8894,12 @@
    "directions": [
     "肿瘤治疗"
    ],
-   "relevance_score": 6,
+   "relevance_score": 9,
    "url": "https://doi.org/10.1016/j.biomaterials.2026.124635",
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124635",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42766961/",
+   "abstract": "Postoperative tumor recurrence remains a major clinical challenge because surgery-induced metabolic dysregulation establishes an immunosuppressive microenvironment characterized by hyperglycemia, lactate accumulation, NADH elevation, and hypoxia. Although catalytic NADH oxidation can directly suppress lactate biogenesis, current NADH oxidase (NOX)-mimetic catalysts are fundamentally limited by rigid catalytic interfaces that hinder efficient electron-relay processes. Here we report an allosteric reconfigurable metabzyme hydrogel for adaptive metabolic-immunotherapy against postoperative recurrence. Inspired by induced-fit enzymatic catalysis, we engineer a manganese-doped molybdenum oxide (Mn-MoOx) metabzyme featuring a metastable high-entropy lattice that undergoes NADH-triggered interfacial reconstruction, which synchronizes proton-coupled electron transfer (PCET) and accelerates charge flux through cooperative Mn-O-Mo and Mn-O-Mn relay pathways. Combined with raddeanin A, the hydrogel further amplifies oxidative stress, suppresses glycolytic flux and promotes mitochondrial DNA leakage to activate the cGAS-STING pathway. In postoperative models mimicking hostile hyperglycemic and hyperlactatic microenvironments, the hydrogel drives robust antitumor immunity by enforcing a 5.84-fold reduction in lactate and a 5.76-fold enhancement in STING phosphorylation, effectively achieving 94.35% recurrence inhibition and profoundly suppressing metastasis. This work establishes a substrate-responsive allosteric metabzyme that bridges enzymatic plasticity and metallic catalysis, offering a transformative strategy to overcome metabolism-driven immune resistance and achieve durable postoperative tumor control.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "构建变构可重构代谢酶水凝胶，通过动态调控肿瘤代谢并重塑免疫微环境，实现适应性肿瘤代谢免疫治疗",
@@ -8371,8 +10265,14 @@
    "url_pubmed": null,
    "abstract": "ABSTRACT Engineered stem cells offer promise for organ regeneration but face challenges including off‐target effects and limited homing. Here, we develop a novel optogenetic strategy that spatiotemporally engineers mesenchymal stromal cells (MSCs) for liver regeneration. Through single‐cell sequencing analysis, we reveal the CXCR4/SDF1 axis as an important signaling pathway for MSC homing. By integrating the photosensitive component ultraviolet‐B resistance locus 8 (UVR8) with the homing chemokine receptor CXCR4, we construct a spatiotemporal optogenetic system for MSC transfection. Upon UV irradiation, UVR8's dissociation property is activated, enabling photosensitive proteins to migrate from the endoplasmic reticulum to the golgi apparatus and subsequently release CXCR4 on the MSC membrane. To address the limited tissue penetration of UV, we incorporate upconversion nanoparticles (UCNPs) that convert near‐infrared (NIR) light into UV. Following injection, UCNPs accumulate in the liver, where targeted NIR irradiation activates CXCR4/SDF1‐mediated MSC homing. In a ConA‐induced liver injury mouse model, the engineered MSCs regulate the SP1/SK1/S1P axis, thereby inhibiting necroptosis of intrahepatic macrophages. Moreover, hepatocyte proliferation is promoted via S1P/YAP signaling. In conclusion, our optogenetic strategy opens promising therapeutic avenues for the regeneration field and biomedical applications.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "本研究开发时空光遗传工程化间充质干细胞，利用上转换纳米粒近红外激活CXCR4归巢，治疗ConA诱导肝损伤。",
+    "innovation": "揭示CXCR4/SDF1轴是MSC归巢的重要信号通路；构建UVR8-CXCR4光遗传系统，实现UV触发蛋白从内质网向高尔基体迁移并释放CXCR4；引入UCNP将NIR转为UV，实现深层组织时空精准调控。",
+    "significance": "该策略通过调控SP1/SK1/S1P轴抑制肝内巨噬细胞坏死性凋亡，并经S1P/YAP信号促进肝细胞增殖，为ConA诱导肝损伤提供新型治疗手段。其时空精准性和深层组织激活能力有望拓展至其他器官再生与生物医学应用。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:01:25+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -13690,8 +15590,14 @@
    "url_pubmed": null,
    "abstract": "ABSTRACT Ca 2+ signaling serves as a core regulator controlling both cellular survival and immunomodulation pathways. Here, we report a paradigm‐shifting bidirectional Ca 2+ redistribution nanomodulator (RP@AA‐Lip) that rewires Ca 2+ homeostasis across intracellular‐extracellular compartments to orchestrate a self‐reinforcing mechanical‐immunological cascade for deep photothermal‐immunotherapy (PTI). This core‐shell nanomodulator RP@AA‐Lip consists of hypoxia‐targeting Rhodopseudomonas palustris (RP) as the photothermal core and an ascorbic acid (AA)‐enriched liposome (Lip) shell. Under NIR irradiation, RP activates TRPV1‐mediated Ca 2+ influx, while AA inhibits PMCA4‐driven Ca 2+ efflux, jointly triggering intracellular Ca 2+ overload to induce mitochondrial damage and thermoresistance reversal for amplified immunogenic cell death. We find that extracellular Ca 2+ depletion disassembles E‐cadherin junctions and softens tumor stiffness 4.23‐fold, enabling deep tumor penetration (up to 500 µm) and robust cytotoxic T cell (CTL) infiltration. Concurrently, the intracellular Ca 2+ overload further stiffens tumor cells to establish mechanical immunosurveillance that improves CTL‐mediated tumor killing. In triple‐negative breast cancer models, this integrated strategy elicits a robust antitumor immune cascade to remodel the tumor microenvironment and suppress tumor progression. Collectively, this work pioneers a compartmental Ca 2+ engineering strategy that unites nanomaterial design, ion signaling, and mechanical immunology, offering a transformative and translatable blueprint for deep PTI against stroma‐rich solid tumors.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "构建双向钙再分配纳米调节器，通过胞内外钙重编程重塑肿瘤力学并实现深层光热免疫治疗。",
+    "innovation": "以缺氧靶向沼泽红假单胞菌为光热核心、富抗坏血酸脂质体为壳，构建核壳型双向Ca2+再分配纳米调节器，同时激活TRPV1促钙内流并抑制PMCA4阻钙外排，实现胞内钙超载；胞外钙耗竭破坏E-钙黏蛋白连接使肿瘤硬度软化4.23倍，深度穿透达500 µm，而胞内钙超载反向硬化肿瘤细胞，形成力学免疫监视增强CTL杀伤；首次将纳米材料设计、离子信号调控与力学免疫学统一为分区钙工程策略，实现自增强的机械-免疫级联。",
+    "significance": "该策略在三阴性乳腺癌模型中有效重塑肿瘤微环境并抑制肿瘤进展，为富含基质实体瘤的深层光热免疫治疗提供了可转化蓝图。其分区钙工程思路突破了光热治疗穿透深度不足与免疫浸润受限的双重瓶颈，具有重要的临床转化潜力。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:01:33+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -13868,8 +15774,14 @@
    "url_pubmed": null,
    "abstract": "Acid-degradable vinyl polymers prepared by free-radical polymerization (FRP) remain rare despite their potential applications in photoresists, responsive materials, and drug delivery systems. Herein, a series of vinyl oxirane (VO) monomers were designed for radical ring-opening polymerization (rROP) to afford acid-degradable polymers. Among the monomers investigated, VO-1, which features a phenyl substituent at the α-position of the vinyl group, showed superior polymerization behavior, producing polymers with molecular weights up to 31.2 kDa. Density functional theory (DFT) reveals that the significantly enhanced polymerization efficiency arises from the phenyl substitution stabilizing the propagating radical intermediate and promoting epoxide ring-opening. Structural characterization confirmed efficient formation of enol ether linkages along the polymer backbone. VO-1 was also compatible with nitroxide-mediated polymerization. Catalytic hydrogenation of poly(VO-1) yielded an oxygen-containing polystyrene analogue, which can undergo complete depolymerization to give defined small molecules. Copolymerization of VO-1 with 1,3-diene monomers successfully incorporated degradable units into the polymer backbone, and the resulting polymers underwent efficient acid-triggered degradation. The incorporation of VO‑1 also successfully endows the 1,3-dienes-derived elastomer network with acid‑triggered dissolution. This work expands the scope of acid-degradable materials accessible through radical polymerization.",
    "abstract_source": "openalex",
-   "summary_status": "pending",
-   "summary": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "设计乙烯基环氧乙烷单体，经自由基开环聚合制备含骨架烯醇醚的酸降解聚合物，并实现共聚与弹性体酸触发溶解。",
+    "innovation": "α-苯基取代的VO-1显著提升自由基开环聚合效率，分子量达31.2 kDa，DFT揭示苯基稳定增长自由基并促进环氧开环；VO-1兼容氮氧调控聚合，氢化后得到可完全解聚为小分子的含氧聚苯乙烯类似物；与1,3-二烯共聚将可降解单元引入主链，并赋予弹性体网络酸触发性溶解能力。",
+    "significance": "该工作突破了自由基聚合难以制备酸降解乙烯基聚合物的限制，拓展了酸降解材料的可及范围。所得材料在光刻胶、响应性材料及药物递送系统等场景具有应用潜力，并为可降解弹性体与可持续聚合物设计提供了新思路。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:01:35+00:00"
+   },
    "source": "openalex"
   },
   {
@@ -26159,14 +28071,16 @@
    "publication_date": "2026-09-01",
    "date_precision": "month",
    "directions": [
+    "药物递送系统",
+    "肺部靶向",
     "基因治疗"
    ],
-   "relevance_score": 3,
+   "relevance_score": 8,
    "url": "https://doi.org/10.1016/j.jconrel.2026.115388",
    "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115388",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42767377/",
+   "abstract": "In vivo engineering of chimeric antigen receptor (CAR) immune cells has emerged as a promising alternative to ex vivo cell manufacturing, but its clinical translation remains limited by the lack of delivery systems capable of selective programming immune cells within lymphoid organs. Here we report a rationally engineered ternary polyplex that redirects intravenously-administered CAR mRNA from the lungs to the spleen through programmable surface-charge modulation while maintaining nanoparticle stability. The polyplex consists of amphiphilic polyaspartamide/mRNA secondary complexes coated with a pH-responsive charge-conversion polymer, enabling efficient systemic delivery and endosomal release of mRNA. Systemic optimization of polymer architecture, hydrophobicity, and surface charge identifies design principles governing spleen-selective delivery, resulting in luminescence intensities that are over 250-fold higher in the spleen than in the liver and over 330-fold higher than in the lungs following intravenous administration. The optimized formulation preferentially transfects splenic dendritic cells, macrophages, and natural killer cells, enabling transient in vivo expression of anti-CD19 CAR. This immune cell programming promotes macrophage activation, enhances CAR-mediated phagocytic activity, and induces antigen-specific depletion of peripheral B cells for several days. Transcriptomic profiling further reveals coordinated activation of innate immune pathways associated with macrophage polarization, dendritic cell activation, and natural killer cell responses. These findings establish programmable ternary polyplexes as a platform for spleen-selective mRNA delivery and provide a nonviral strategy for in vivo CAR immune cell engineering.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "该研究设计可编程三元聚合物复合物，将系统性mRNA递送重定向至脾脏，实现体内CAR工程化。",
@@ -26197,14 +28111,15 @@
    "publication_date": "2026-09-01",
    "date_precision": "month",
    "directions": [
+    "肺部靶向",
     "基因治疗"
    ],
-   "relevance_score": 3,
+   "relevance_score": 6,
    "url": "https://doi.org/10.1016/j.jconrel.2026.115390",
    "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115390",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42767375/",
+   "abstract": "Efficient cytosolic delivery remains a central challenge in the clinical translation of gene therapeutics. Inspired by viral strategies, we explored disulfide chemistry as a structural lever to enhance cellular uptake and intracellular trafficking. We systematically incorporated disulfide moieties into the poly(β-amino ester)s (PAEs) backbone to generate a series of PAEs with different disulfide content. These minimalist backbone modifications significantly reprogrammed the cellular uptake route through thiol-mediated internalization. Furthermore, we found that backbone disulfide incorporation increases polymer chain flexibility, enabling the carrier to differentially package genetic cargoes based on their intrinsic rigidity. While the rigid, double stranded plasmid DNA remained primarily sequestered in the lungs, the more flexible single stranded messenger RNA formed more compact polyplexes that effectively shifted gene expression to the spleen. Such cargo dependent redistribution was absent in disulfide free systems, highlighting the role of backbone flexibility in redefining the in vivo identity of the carrier. Together, this work establishes backbone disulfide engineering as a virus-inspired and tunable design strategy for programmable gene delivery and control over organ-specific distribution.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "借鉴病毒结构开展二硫键工程改造，重塑载体的细胞摄取途径与体内器官分布，从而提升基因递送效率。",
@@ -26236,12 +28151,12 @@
    "directions": [
     "纳米药物"
    ],
-   "relevance_score": 3,
+   "relevance_score": 4,
    "url": "https://doi.org/10.1016/j.jconrel.2026.115385",
    "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115385",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42767380/",
+   "abstract": "Dry eye disease (DED) is a highly prevalent ocular disorder affecting an estimated 5-50% of the global population. Despite its substantial clinical burden, effective therapeutic options remain limited owing to the multifactorial nature and complex pathophysiology of the disease. To simultaneously address the two principal pathological drivers of DED, oxidative stress and chronic inflammation, we engineered mRC@PAM, a polyamidoamine (PAMAM) dendrimer-based nanotherapeutic eye-drop system capable of co-delivering curcumin (Cur) and microRNA-146a (miR-146a) through hydrophobic encapsulation and electrostatic complexation, respectively. The resulting nanoformulation exhibited excellent physicochemical stability, high cargo-loading efficiency, outstanding biocompatibility, and prolonged retention on the ocular surface. Mechanistically, mRC@PAM effectively restored intracellular redox balance by preserving antioxidant defense capacity and maintaining mitochondrial membrane integrity. Simultaneously, it attenuated inflammatory responses through miR-146a-mediated suppression of interleukin-1 receptor-associated kinase 1 (IRAK1), leading to inhibition of the nuclear factor kappa B (NF-κB) signaling cascade and subsequent regulation of macrophage polarization. In vivo, treatment with mRC@PAM markedly reduced reactive oxygen species (ROS) accumulation and apoptotic cell death in corneal tissues, promoted recovery of the corneal epithelium and conjunctival goblet cells, diminished inflammatory cell infiltration, and significantly enhanced tear-film stability. Taken together, these findings highlighted mRC@PAM as a promising dual-action nanotherapeutic platform capable of concurrently mitigating oxidative and inflammatory damage, thereby offering a potential treatment strategy for DED and other ocular surface disorders characterized by intertwined oxidative stress and inflammatory pathologies.",
+   "abstract_source": "pubmed",
    "summary_status": "done",
    "summary": {
     "one_liner": "本研究利用树枝状聚合物共递送姜黄素与miR-146a，通过协同抗炎与免疫调节缓解干眼病。",
@@ -26249,6 +28164,225 @@
     "significance": "干眼病发病率高且现有治疗多为对症处理，该联合递送策略有望提升疗效并减少给药频次。研究为小分子药物与核酸药物的协同递送提供了可行范式，也为眼科炎症性疾病的纳米治疗开辟了新思路，具有较好的临床转化前景。",
     "model": "deepseek-v4-flash",
     "generated_at": "2026-09-22T00:35:40+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.jconrel.2026.115386",
+   "title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+   "authors": [
+    "Xinxin Yan",
+    "Lixin Lin",
+    "Yifan Zhang",
+    "Xinyue Zhang",
+    "Lu Shi",
+    "Kexin Su",
+    "Menghao Yin",
+    "Mengyao Yu",
+    "Shun He",
+    "Tianrui Gu",
+    "Shuai Liu"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "药物递送系统",
+    "纳米药物",
+    "基因治疗"
+   ],
+   "relevance_score": 18,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115386",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115386",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42767379/",
+   "abstract": "Expanding the therapeutic landscape of mRNA medicines to diverse applications necessitates delivery systems tailored to distinct biological requirements. However, beyond vaccine applications, current FDA-approved lipid nanoparticles (LNPs) are often directly used as their original vaccine formulations, substantially limiting their therapeutic potential. Rather than pursuing new ionizable lipids with uncertain safety profiles, we propose an application-oriented re-engineering strategy that leverages the clinically validated SM-102 platform, enabling rational LNP optimization for diverse mRNA delivery and therapeutic scenarios. Through systematic modulation of phospholipid component (e.g., 1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC) and 1,2-dioleoyl-sn-glycero-3-phosphoethanolamine (DOPE)) and lipid molar ratios, we tailor LNPs for transfection across representative cell types in vitro, systemic administration in vivo, and intramuscular delivery in vivo. Consequently, SM-102/DSPC and SM-102/DOPE LNPs emerge as preferred formulations for RAW 264.7 macrophages and IGROV1 ovarian cancer cells, respectively, achieving up to a 25.6-fold enhanced mRNA delivery over original SM-102 LNPs in vitro. For intravenous administration, optimal SM-102/DSPC LNPs enable 2.3-fold enhanced hepatic mRNA delivery compared to original SM-102 LNPs. In contrast, intramuscular injection preferentially benefits from SM-102/DOPE LNPs, achieving 17.7-fold higher muscular expression and 22.0-fold enhanced lymph node delivery than SM-102 LNPs. All optimized formulations show comparable tolerability to the clinically validated SM-102 LNPs. This study supports an application-specific tailoring platform that enables the rational selection of appropriate mRNA delivery systems for diverse therapeutic scenarios.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.nantod.2026.103192",
+   "title": "Artificial Intelligence-Empowered Surface-enhanced Raman Scattering for Cancer Diagnosis and Therapy: A Comprehensive Review",
+   "authors": [
+    "Fu Tan",
+    "Nan Kang",
+    "Yanlei Liu",
+    "Qian Zhang"
+   ],
+   "journal": "Nano Today",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1016/j.nantod.2026.103192",
+   "url_doi": "https://doi.org/10.1016/j.nantod.2026.103192",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127456",
+   "title": "Development of prostate-selective, sustained-release anti-androgen implants for prostate cancer treatment",
+   "authors": [
+    "Pujan Desai",
+    "Nela Pawlowska",
+    "Cassidy J. Mileti",
+    "Deanna R. Worley",
+    "Richard Wheeler",
+    "Maithili Rairkar",
+    "Scott Thomas",
+    "Pamela N. Munster"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127456",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127456",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "本研究开发前列腺选择性、缓释抗雄激素植入剂，用于前列腺癌的局部靶向与长效内分泌治疗。",
+    "innovation": "通过前列腺选择性递送设计，提高病灶局部药物暴露并降低全身性抗雄激素副作用；采用缓释植入剂型实现长期持续释药，减少频繁给药带来的依从性问题；将抗雄激素治疗与可植入长效制剂策略相结合，为前列腺癌内分泌治疗提供新思路。",
+    "significance": "该植入剂有望在保证抗雄激素疗效的同时改善安全性与患者依从性，为前列腺癌的长期内分泌管理提供新的给药方案。若临床转化成功，可减少系统性不良反应并降低给药频次，具有良好的应用前景。具体疗效与安全性仍需实验与临床研究验证。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:01:50+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ymthe.2026.09.024",
+   "title": "p38 MAPK inhibition safeguards genome integrity during gene editing of hematopoietic stem and progenitor cells",
+   "authors": [
+    "Roberta Vacca",
+    "Lucrezia della Volpe",
+    "Nicolò Gualandi",
+    "Kohei Shiroshita",
+    "Edoardo Carsana",
+    "Kety Giannetti",
+    "Chiara Gaddoni",
+    "Fabrizio Benedicenti",
+    "Barbara Gega",
+    "Sergio Arévalo",
+    "Parinaz Zarghamian",
+    "Stefano Beretta",
+    "Maria Carmina Castiello",
+    "Chiara Brombin",
+    "Daniele Canarutto",
+    "Ivan Merelli",
+    "Toni Cathomen",
+    "Eugenio Montini",
+    "Anna Villa",
+    "Luigi Naldini"
+   ],
+   "journal": "Molecular Therapy",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "基因治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.ymthe.2026.09.024",
+   "url_doi": "https://doi.org/10.1016/j.ymthe.2026.09.024",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42768749/",
+   "abstract": "Ex vivo genome editing of hematopoietic stem and progenitor cells (HSPCs) holds significant therapeutic potential but remains constrained by genotoxic risks associated with nuclease-induced DNA double-strand breaks, DNA donor template delivery and sensing, and proliferation-induced stress during ex vivo manipulation. These processes can lead to chromosomal instability, large on-target deletions, donor mis-integration, off-target events, and impaired long-term stem cell function, raising safety concerns for clinical translation. Here, we evaluate the impact of transient p38 MAPK inhibition on genomic integrity during clinically relevant CRISPR-Cas9 editing and show that this intervention attenuates ex vivo culture-associated stress without increasing detectable genotoxic outcomes. Comprehensive genotoxicity analyses, including quantification of large on-target deletions, adeno-associated viral vector mis-integration, and CAST-seq mapping of translocations, reveal no measurable differences in gene editing-associated structural alterations upon p38 MAPK inhibition, while micronuclei were significantly reduced. Importantly, long-term xenotransplantation followed by whole-exome sequencing shows that p38i-treated HSPCs display a reduced mutational burden without evidence of increased genomic alterations. Collectively, these findings identify transient p38 MAPK inhibition as a strategy to improve the quality and long-term fitness of gene-edited HSPCs without detectable adverse effects on the genome editing outcomes, supporting its further evaluation as a refinement to clinically relevant CRISPR-Cas9 editing workflows.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ymthe.2026.09.022",
+   "title": "Catestatin peptide ameliorates tauopathy and amyloidogenesis via adrenergic inhibition",
+   "authors": [
+    "Suborno Jati",
+    "Satadeepa Kal",
+    "Daniel Munoz-Mayorga",
+    "Kechun Tang",
+    "Debashis Sahoo",
+    "Xu Chen",
+    "Sushil K. Mahata"
+   ],
+   "journal": "Molecular Therapy",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 5,
+   "url": "https://doi.org/10.1016/j.ymthe.2026.09.022",
+   "url_doi": "https://doi.org/10.1016/j.ymthe.2026.09.022",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42768750/",
+   "abstract": "Neurodegenerative disorders such as Alzheimer's disease (AD), Corticobasal Degeneration (CBD), and Progressive Supranuclear Palsy (PSP) are characterized by tau aggregation, neuroinflammation, and progressive cognitive decline. Although metabolic dysregulation and neuropeptide imbalance have been linked to these disorders, the functional consequences of this imbalance and its reversal remain poorly understood. Our previous work identified chromogranin A (CgA), the gene encoding a pro-hormone for several metabolic peptides, as a key regulator of tau pathology. Here, we investigate Catestatin (CST), a CgA-derived peptide, for its role in modulating tauopathy. We report marked reductions in CST levels and an increase in Pancreastatin (PST) in the hippocampus and cortex of AD brains, as well as in the frontal cortex of CBD and the basal ganglia of PSP. CST-supplementation in cortical neuronal cultures and organotypic slice cultures (OTSC) reduced Tau phosphorylation and aggregation. In vivo, CST administration to PS19 tauopathy mice decreased pathological Tau species, attenuated gliosis, improved cognitive function, and reduced amyloid burden and neuroinflammation in 5xFAD mice. Mechanistically, CST reduced epinephrine levels in PS19 and 5xFAD mice, suppressed Protein Kinase A hyperactivation in PS19 and OTSC, and revealed a link between CST deficiency, adrenergic stress signaling, tauopathy-mediated neurodegeneration, and the therapeutic potential of CST supplement.",
+   "abstract_source": "pubmed",
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "Catestatin肽在AD、CBD、PSP等tau蛋白病脑内显著减少，补充后可经抑制肾上腺素能应激信号减轻tau病理与淀粉样变并改善认知。",
+    "innovation": "首次在AD、CBD、PSP患者脑组织中揭示CgA衍生肽失衡——CST下降而PST升高，并将其与tau病理程度相联系；在皮层神经元培养、器官型脑片及PS19、5xFAD两种小鼠模型中系统验证CST补充可降低tau磷酸化与聚集、减轻胶质增生和淀粉样负荷；机制上阐明CST通过降低肾上腺素水平、抑制PKA过度激活，把神经肽缺乏与肾上腺素能应激信号及tau介导的神经退行连接起来。",
+    "significance": "该研究将“神经肽失衡—肾上腺素能应激”轴确立为tau蛋白病可干预的新靶点，为缺乏有效疗法的AD及非AD tau蛋白病提供了统一的作用机制解释。CST作为内源性多肽，兼具良好转化潜力与广谱性，有望成为跨疾病类型的候选治疗分子。其发现亦提示调节代谢/神经内分泌信号可作为神经退行性疾病干预的新策略。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:01:54+00:00"
+   },
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ymthe.2026.09.025",
+   "title": "Pre-clinical validation of AAV-mediated gene therapy for KCNV2 retinopathy improves visual function and expression in mouse and patient models",
+   "authors": [
+    "Rabab Rashwan",
+    "Paula I. Fuller-Carter",
+    "Xin Ru Lim",
+    "Alicia A. Brunet",
+    "Annie L. Miller",
+    "Yashvi Bhatt",
+    "Rebekah James",
+    "Denise Anderson",
+    "Valentina Voigt",
+    "Joao A. Paulo",
+    "Mehdi Mirzaei",
+    "Melissa M. Mangala",
+    "Emilie O. Wong",
+    "Robyn V. Jamieson",
+    "Anai Gonzalez-Cordero",
+    "David M. Hunt",
+    "Livia S. Carvalho"
+   ],
+   "journal": "Molecular Therapy",
+   "tier": "C",
+   "publication_date": "2026-09-01",
+   "date_precision": "month",
+   "directions": [
+    "基因治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.ymthe.2026.09.025",
+   "url_doi": "https://doi.org/10.1016/j.ymthe.2026.09.025",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "done",
+   "summary": {
+    "one_liner": "临床前验证AAV介导的KCNV2视网膜病变基因治疗，可在小鼠和患者模型中改善视觉功能与表达。",
+    "innovation": "采用AAV载体递送针对KCNV2视网膜病变的基因治疗；在临床前阶段同时利用小鼠和患者模型进行验证；治疗后视觉功能与目标基因表达均获改善",
+    "significance": "为KCNV2相关视网膜病变提供了候选基因治疗方案。该策略在小鼠和患者模型中显示疗效，支持进一步临床转化。未来有望改善此类遗传性视网膜病患者的视觉功能。",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-23T00:01:54+00:00"
    },
    "source": "crossref"
   },

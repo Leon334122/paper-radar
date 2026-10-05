@@ -1,8 +1,88 @@
 {
- "updated_at": "2026-10-04T00:25:11+00:00",
- "count": 2451,
+ "updated_at": "2026-10-05T00:30:13+00:00",
+ "count": 2468,
  "note": "本文件由 pipeline build 自动生成，请勿手工编辑。",
  "papers": [
+  {
+   "doi": "10.1038/s41467-026-78130-7",
+   "title": "A CCL21 gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+   "authors": [
+    "Michael S. Oh",
+    "Aaron Elliott Lisberg",
+    "Camelia Dumitras",
+    "Linh My Tran",
+    "Ramin Salehi‐Rad",
+    "Kostyantyn Krysan",
+    "Raymond J. Lim",
+    "Maryam Shabihkhani",
+    "Tahmineh Romero",
+    "Shuo Li",
+    "Weihua Zeng",
+    "Zhe Jing",
+    "Rui Li",
+    "Bitta P. Kahangi",
+    "Olga Tsvetkova",
+    "Robert D. Suh",
+    "Fereidoun G. Abtin",
+    "Scott J. Genshaft",
+    "Scott S. Oh",
+    "Gregory A. Fishbein"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-04",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗",
+    "肺部靶向",
+    "细胞疗法"
+   ],
+   "relevance_score": 16,
+   "url": "https://doi.org/10.1038/s41467-026-78130-7",
+   "url_doi": "https://doi.org/10.1038/s41467-026-78130-7",
+   "url_pubmed": null,
+   "abstract": "Abstract Immune checkpoint inhibitors (ICIs) have transformed treatment for non-small cell lung cancer (NSCLC), but resistance to these therapies is common. We report here results from a phase I trial combining intratumoral injection of a CCL21-expressing dendritic cell (CCL21-DC) vaccine with pembrolizumab in patients with advanced non-small cell lung cancer (ClinicalTrials.gov identifier: NCT03546361). The primary objectives were to determine the maximum administered dose (MAD) in the dose escalation phase and the objective response rate (ORR) in the dose expansion. Eleven patients were enrolled in the dose escalation cohort, and 12 patients were treated in the dose expansion cohort at the MAD of 3 ×10 7 cells/injection. The trial did not meet its primary endpoint for ORR as no objective responses were observed, though 36.8% of patients achieved a best response of stable disease. The combination therapy was well tolerated. Post-hoc analyses of longitudinal biopsies revealed that the therapy increased tumor infiltration by CD4+ T cells and novel T cell clones. Disease stability was associated with increased T cell receptor diversity and greater expansion of novel clones following therapy. However, many novel clones failed to persist over time, and immunosuppressive myeloid signaling signatures were identified across time points. Our findings overall demonstrated that CCL21-DC vaccination combined with pembrolizumab can promote T cell infiltration, but this did not translate into meaningful clinical efficacy, potentially due to limited tumor specificity of the T cell response and an inability to fully reprogram the tumor microenvironment.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05122-6",
+   "title": "A dual-functional, responsive nanomodulator alleviates pyroptosis-associated lung injury in ARDS by selectively suppressing the cGAS–STING signaling axis",
+   "authors": [
+    "Xiaoling Qiu",
+    "Li Chen",
+    "Yu Tian",
+    "Hongjin An",
+    "Xiaoting Wang",
+    "Xun Guo",
+    "Chier Du",
+    "Chenyang Duan",
+    "Wenqi Huang",
+    "Haitao Ran",
+    "Jin Tong",
+    "Weixi Jiang",
+    "Jianli Ren",
+    "An Zhang"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-10-04",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1186/s12951-026-05122-6",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05122-6",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
   {
    "doi": "10.1038/s41467-026-77973-4",
    "title": "Thermally programmed disassembly and reconstruction of 2D polymer platelets via melting-governed crystallization-driven self-assembly",
@@ -23,6 +103,223 @@
    "url_doi": "https://doi.org/10.1038/s41467-026-77973-4",
    "url_pubmed": null,
    "abstract": "Abstract Crystallization-driven self-assembly (CDSA) has emerged as a powerful methodology to precisely control the morphology and size of polymer nanostructures, enabling the formation of 1D and 2D nanomaterials. Yet, the melting behavior of polymer crystals grown in solution using this technique has remained largely unexplored. Here, we show that melting temperature is a structurally sensitive descriptor and an active design parameter for 2D poly(ε-caprolactone) platelets formed by seeded living CDSA. Using nano differential scanning calorimetry, we establish quantitative thickness-melting correlations consistent with Gibbs-Thomson theory for finite, solution-grown lamellae. Leveraging these insights, we engineer multilayer platelets with programmed thermal stability gradients that undergo rapid, selective disassembly under mild conditions (37 °C), yielding uniform hollow architectures within minutes. Upon cooling, released polymer chains undergo spatially confined recrystallization, allowing reversible reconstruction and self-healing of the platelet framework. This work establishes melting as a powerful thermodynamic handle for probing and reconfiguring CDSA-derived nanostructures in solution.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-77740-5",
+   "title": "A proximity-driven and regioselective peptide bicyclization (PReP-Bicyc) approach for phage display libraries",
+   "authors": [
+    "Guoqing Jin",
+    "Yifan Shi",
+    "Shihui Fan",
+    "Hoang-Son Lai Le",
+    "Wenyue Cao",
+    "Thuzar Hla Shwe",
+    "Zihan Anna Zhang",
+    "Demonta D. Coleman",
+    "Satyanarayana Nyalata",
+    "Joshua Trae Hampton",
+    "Wenshe Ray Liu"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-03",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1038/s41467-026-77740-5",
+   "url_doi": "https://doi.org/10.1038/s41467-026-77740-5",
+   "url_pubmed": null,
+   "abstract": "Peptide macrocyclization is a powerful strategy to enhance the stability, rigidity, binding affinity, and cellular permeability of therapeutic candidates. Peptide bicycles provide superior conformational constraint but remain difficult to generate in phage-displayed libraries because of limited phage-compatible chemistries. Here, we report Proximity-Driven, Regioselective Peptide Bicyclization (PReP-Bicyc), a general, additive-free, phage-compatible strategy for site-selective bicyclization of peptide libraries. PReP-Bicyc uses a rationally designed linker, 4,6-dichloropyrimidine-2-carbonitrile (4,6-DCCPm), that rapidly reacts with an N-terminal cysteine through nitrile-mediated thiazoline formation, followed by proximity-driven intramolecular thiol arylation of two internal cysteines. The resulting bicycles form efficiently under mild conditions while preserving phage viability. Screening a PReP-Bicyc-modified CX4CX4C library against programmed cell death protein 1 (PD-1) identifies sub-micromolar bicyclic ligands (best Kd ≈ 400 nM) that selectively label PD-1-expressing cells and inhibit the PD-1/PD-L1 interaction. PReP-Bicyc provides a robust platform for evolving high-affinity bicyclic ligands and expands the chemical toolkit for macrocyclic therapeutic discovery. Peptide bicycles offer superior conformational constraint but remain challenging to construct within phage-displayed peptide libraries due to the necessity for phage-compatible chemistry. Here, the authors report Proximity-Driven, Regioselective Peptide Bicyclization (PReP-Bicyc), a general, additive-free, and phage-compatible strategy for site-selective bicyclization of phage-displayed peptide libraries.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adma.75256",
+   "title": "Nanoscale Thermocatalysis: Mechanisms, Regulation, and Biomedical Applications",
+   "authors": [
+    "Lu Yang",
+    "Bo Yuan",
+    "Baokun Zhao",
+    "Shili Gai",
+    "Shuyao Li",
+    "Pengyu Zang",
+    "Jun Lin"
+   ],
+   "journal": "Advanced Materials",
+   "tier": "B",
+   "publication_date": "2026-10-03",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1002/adma.75256",
+   "url_doi": "https://doi.org/10.1002/adma.75256",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Thermal‐driven catalysis has emerged as a promising interdisciplinary field that integrates thermal science, catalysis, nanotechnology, and biomedicine by utilizing thermal energy as a driving force for catalytic reactions. Unlike conventional catalytic systems, thermal‐driven catalysis exploits temperature gradients, thermal fluctuations, or localized heating to induce charge separation, accelerate reaction kinetics, and regulate interfacial redox processes. This review systematically summarizes the fundamental mechanisms of thermoelectric catalysis, pyroelectric catalysis, and thermo‐enhanced catalytic reactions, with particular emphasis on the role of nanoscale heat transport and non‐Fourier thermal behavior in thermal energy conversion. Recent advances in material engineering strategies, including defect engineering, heterojunction engineering, phase engineering, morphology engineering, interface engineering, and emerging approaches such as entropy, spin, and single‐atom engineering, are comprehensively discussed. Furthermore, representative biomedical applications, including photothermal and plasmonic nanomedicine, pyroelectric catalysis, thermoelectric catalysis, and thermally regulated catalytic systems, are highlighted in the contexts of antibacterial therapy, tumor treatment, biosensing, and tissue engineering. Finally, current challenges and future perspectives regarding material design, energy‐conversion efficiency, mechanistic understanding, and clinical translation are discussed. This review provides a comprehensive overview of thermal‐driven catalysis and offers insights into the development of next‐generation catalytic platforms for advanced biomedical applications.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-04971-5",
+   "title": "MMP-9–responsive stealth-to-activation liposomes enable tumor-selective PD-L1 degradation via dual-PEG shedding",
+   "authors": [
+    "Pan Wang",
+    "Ling Long",
+    "Weiya Zeng",
+    "露凡 梅",
+    "Zihao Tian",
+    "Qi Li",
+    "Qing Zhang",
+    "Fan Li",
+    "Chengyuan Zhang",
+    "Xing Wang Zhou"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-10-03",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物",
+    "肿瘤治疗",
+    "肺部靶向"
+   ],
+   "relevance_score": 12,
+   "url": "https://doi.org/10.1186/s12951-026-04971-5",
+   "url_doi": "https://doi.org/10.1186/s12951-026-04971-5",
+   "url_pubmed": null,
+   "abstract": "Abstract PD-1/PD-L1 blockade benefits patients across > 20 cancer types, yet durable responses remain limited and antibody therapies only transiently engage the axis while causing systemic immune-related adverse events. We report lipoRDPA, a rationally designed liposomal degrader that fuses MMP-9-responsive gating with PD-L1-targeted protein degradation (TPD) into a single unified mechanism. The platform conjugates anti-PD-L1 antibody atezolizumab (DPA) onto a liposome and shields it with an MMP-9-cleavable PEG cloak, so that PD-L1 binding, internalization, and lysosomal degradation are activated only in the protease-rich TME while staying silent in circulation. Crucially, the MMP-9 gate and the degrader form one mechanism: unlike classical enzyme-gated carriers that cleave to release an entrapped payload, the cloak is the switch that confines an intrinsically active degradation effector to the tumor—the central challenge of nanobody-targeted protein degradation. In vitro, lipoRDPA exhibits PD-L1-dependent binding and degrades both surface and total PD-L1 through targeted degradation, circumventing receptor recycling and ligand competition to sustain T-cell activation beyond blockade. In vivo imaging confirms reduced off-target distribution and enriched tumor accumulation. In human-T-cell-reconstituted NSG mice, lipoRDPA enhances intratumoral CD8⁺ T-cell infiltration, suppresses Ki-67, and yields the strongest tumor growth inhibition. In immunocompetent BALB/c mice, the murine counterpart lipoRDPa similarly inhibits tumors while preserving normal lung PD-L1 and avoiding the pulmonary inflammation seen with constitutively exposed formulations. By fusing TME-gated activation with a PD-L1-targeted degrader into one tumor-gated mechanism, lipoRDPA confines checkpoint elimination to the tumor, reconciling antitumor efficacy with tissue-level biosafety and providing a generalizable strategy for tumor-gated targeted protein degradation immunotherapy.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05082-x",
+   "title": "mRNA-LNP vaccines targeting conserved virulence factors elicit protective immunity against lethal Legionella pneumophila infection",
+   "authors": [
+    "Heng Xia",
+    "Yun-Ru He",
+    "Haowei Qiu",
+    "Jun Xu",
+    "Yuan-Tong He",
+    "Gao‐Feng Zha",
+    "Xiao-Yong Zhan"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-10-03",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1186/s12951-026-05082-x",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05082-x",
+   "url_pubmed": null,
+   "abstract": "Legionnaires’ disease (LD), caused by the intracellular pathogen Legionella pneumophila , imposes a substantial global health burden, yet no vaccine has been clinically approved. Here, we develop mRNA-LNP vaccines encoding conserved virulence factors Pal, PilE, and FlaA. In BALB/c mice, immunization expands T follicular helper and germinal center B cells, elicits high-titer IgG, and induces potent IFN-γ⁺ Th1-type responses, with no observed systemic toxicity. In a lethal challenge model (2 × 10 8 CFU in susceptible A/J mice), monovalent FlaA-LNP confers superior protection with 100% survival and sterilizing immunity, whereas PilE-LNP is less protective. Following sublethal challenge, spatiotemporal profiling in A/J mice reveals systemic CD8⁺ effector responses. At the pulmonary mucosa, more protective vaccine formulations (Pal-, FlaA-, and MIX-LNP) expand CD4⁺ and CD8⁺ memory T cells; yet within the tissue-resident memory T (TRM) subset, the increase is selectively restricted to the CD8⁺. This CD8⁺ TRM enrichment, together with increased alveolar macrophages and mucosal sIgA responses, correlates with protective efficacy and defines the local immune landscape. In the bone marrow, plasma cell fate is antigen-dependent: FlaA is associated with acute short-lived plasma cell bursts, whereas PilE is required for long-lived plasma cell seeding. Correlation analyses further link the Tfh–GCB axis and local lung microenvironment (including memory T cells, alveolar macrophages, and mucosal sIgA) to protective efficacy. Collectively, these findings demonstrate that mRNA-LNP vaccines orchestrate a multilayered immune defense against L. pneumophila , coupling acute humoral recall, mucosal CD8⁺ TRM establishment, and antigen-dependent plasma cell fate, providing a translatable mechanistic framework for next-generation vaccines. It schematically summarizes antigen selection from Legionella pneumophila, mRNA-LNP vaccine construction, immunization and immune responses, lethal intratracheal challenge protection, and the mechanistic immune landscape in the lung, spleen, and bone marrow",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05135-1",
+   "title": "Regulation of gut microbial dysbiosis and inflammatory microenvironment by GQD-derived nanoparticles for the treatment of colitis-associated osteoporosis",
+   "authors": [
+    "Yijuan Han",
+    "Luyao Xiao",
+    "Qiaoning Wang",
+    "Pei Li",
+    "Qi Pan",
+    "Xuanqi Feng",
+    "Na Zhao",
+    "Mengchi Yan",
+    "Zhang Yuan",
+    "Cheng‐Hu Hu"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-10-03",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1186/s12951-026-05135-1",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05135-1",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05121-7",
+   "title": "Engineered cryo-dead macrophages promote healing of MRSA-infected burn wounds via precise, long-acting photodynamic/antibiotic bacterial killing and broad-spectrum anti-inflammation",
+   "authors": [
+    "Lu Zhao",
+    "Qin Gu",
+    "Jing Zhou",
+    "Changting He",
+    "Yue Jia",
+    "Fei Ma",
+    "Hongyi Lei",
+    "Bin Li",
+    "Yuhui Liao"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-10-03",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1186/s12951-026-05121-7",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05121-7",
+   "url_pubmed": null,
+   "abstract": "Methicillin-resistant Staphylococcus aureus (MRSA)-infected burn wounds suffer from severe bacterial infection (resistant to almost all antibiotics) and intense inflammatory responses, leading to difficulty in wound healing. We designed a multifunctional cryogenic dead macrophage system (Van@AIE-CD-M) for precise, long-acting photodynamic/antibiotic MRSA eradication and broad-spectrum anti-inflammation. Cryo-dead macrophage (CD-M) carriers were prepared by freeze-killing live macrophages in liquid nitrogen, which eliminates the inflammatory side effects while preserving cellular structure and receptors. CD-M were then loaded with a high-performance aggregation-induced emission (AIE) photosensitizer TTVP on the membrane and vancomycin in the cytoplasm, yielding Van@AIE-CD-M. Following dripping onto MRSA-infected burn wounds, Van@AIE-CD-M utilized retained pattern-recognition receptors to bind MRSA, enhancing photodynamic antibacterial efficacy by bringing the bacteria close to the membrane-anchored photosensitizer. Meanwhile, pro-inflammatory cytokine receptors expressed on the Van@AIE-CD-M membrane neutralized multiple pro-inflammatory cytokines through specific receptor-ligand binding, achieving broad-spectrum anti-inflammatory effects. Moreover, Van@AIE-CD-M exhibited sustained vancomycin release, ensuring prolonged anti-infective efficacy. After treatment, Van@AIE-CD-M effectively reduced MRSA burden, pro-inflammatory cytokines, and macrophage M1 polarization, while notably increasing anti-inflammatory IL-10, macrophage M2 polarization, and angiogenesis, ultimately accelerating burn wound healing. This engineered CD-M offers a new strategy for treating burns complicated by drug-resistant bacterial infection and could be extended to other infectious diseases.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c02711",
+   "title": "A DNAzyme-Driven DNA Nanotracker for Orthogonal Dual-Channel Imaging of an Oncogenic Signaling Axis and Its Pharmacological Modulation",
+   "authors": [
+    "Qianying Zhang",
+    "Jingyi Zheng",
+    "Kaiyue Liu",
+    "Jian-Rong Zhang",
+    "Sai Bi",
+    "Jun‐Jie Zhu"
+   ],
+   "journal": "Nano Letters",
+   "tier": "C",
+   "publication_date": "2026-10-03",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 5,
+   "url": "https://doi.org/10.1021/acs.nanolett.6c02711",
+   "url_doi": "https://doi.org/10.1021/acs.nanolett.6c02711",
+   "url_pubmed": null,
+   "abstract": "Abstract Pathway-targeted therapy has emerged as a promising strategy in cancer treatment, yet its efficacy relies on the accurate analysis of key signaling axes in living cells. The miR-140/FEN1 signaling axis, which is balanced in normal hepatocytes but dysregulated in hepatocellular carcinoma, represents a potential target for cancer therapy. Here, we present a DNAzyme-driven DNA nanotracker (DDN) for the orthogonal imaging of this pathway in dual channels with high sensitivity. The nanotracker is constructed by assembling DNAzyme-powered DNA walkers, which are responsive to miR-140 and FEN1, onto gold nanoparticles, enabling simultaneous visualization of upstream miRNA expression and downstream enzymatic activity in living cells. Leveraging this platform, we further revealed the differential pharmacological modulations of the miR-140/FEN1 signaling axis by simvastatin and myricetin. In summary, the DDN serves not only as a sensitive molecular imaging probe but also as a versatile tool for mechanistic studies, offering advanced opportunities for pathway-guided drug discovery and precision therapeutics.",
    "abstract_source": "openalex",
    "summary_status": "pending",
    "summary": null,
@@ -1961,6 +2258,36 @@
    "source": "openalex"
   },
   {
+   "doi": "10.1016/j.jconrel.2026.115431",
+   "title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+   "authors": [
+    "Chan Hyeok Lee",
+    "Hyunjun Moon",
+    "Kang Hyeok Lee",
+    "Jin Hee Na",
+    "Jeong Uk Choi",
+    "Jin Woo Choi",
+    "Sangmin Lee"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-10-01",
+   "date_precision": "month",
+   "directions": [
+    "肺部靶向",
+    "基因治疗"
+   ],
+   "relevance_score": 5,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115431",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115431",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42829049/",
+   "abstract": "Many genetic and rare diseases are molecularly defined but remain difficult to treat because their biology involves intracellular targets, toxic gain-of-function mechanisms, splicing defects, repeat expansions, or chemically undruggable pathways. Although RNA medicines can be designed directly from genetic information, their clinical success depends on delivery architecture rather than sequence design alone. This review examines delivery architectures for oligonucleotide therapeutics, using GalNAc-siRNA as the central clinically validated model. The GalNAc-siRNA platform demonstrates how receptor selection, ligand presentation, linker design, chemical stabilization, intracellular persistence, PK/PD properties, dosing, and safety monitoring enable durable subcutaneous hepatocyte pharmacology. As of July 18, 2026, seven FDA-approved GalNAc-siRNA drugs validated this paradigm. We compare extrahepatic strategies for the CNS, muscle, eye, lung, kidney, immune cells, and adipose tissue. Intrathecal C16-siRNA and TfR1-directed antibody-oligonucleotide conjugates are among the most advanced extrahepatic approaches. Inhaled pulmonary RNAi has generated human PD and entered Phase 2a development; divalent CNS siRNA has entered Phase 1; adipose RNAi is in Phase 1/2a; ocular and kidney synthetic-siRNA platforms remain preclinical, whereas immune-cell delivery remains early translational. Antisense oligonucleotide and phosphorodiamidate morpholino oligomer examples illustrate shared delivery principles, including GalNAc-mediated hepatocyte targeting, TfR1-mediated muscle uptake, and local central nervous system and ocular administration. Rather than comprehensively reviewing oligonucleotide chemistry, this review emphasizes delivery architecture, including targeting moieties, lipophilic and structural handles, linker design, administration route, PK/PD, safety liabilities, rare-disease biomarkers, and regulatory experience. Overall, RNA medicines are genetically programmable, but their clinical reach is determined by delivery architecture.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
    "doi": "10.1016/j.ijpharm.2026.127499",
    "title": "Redox-responsive and liver-targeted nanoplatform for paclitaxel delivery toward hepatocellular carcinoma therapy",
    "authors": [
@@ -1987,6 +2314,72 @@
    "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42826847/",
    "abstract": "Conventional paclitaxel (PTX) chemotherapy for hepatocellular carcinoma (HCC) is severely restricted by insufficient tumor-targeting specificity, unsatisfactory therapeutic efficacy, and marked systemic toxicity. To address these drawbacks, a redox-responsive and liver-targeted nanoplatform was designed for efficient PTX delivery in HCC therapy. Herein, we synthesized a disulfide-bridged amphiphilic glycyrrhetinic acid-indomethacin prodrug conjugate (GA-ss-IND), which could spontaneously self-assemble into uniform nanomicelles driven by hydrophobic interaction and van der Waals forces, as verified by molecular dynamics simulations. After PTX encapsulation, the fabricated PTX@GA-ss-IND nanomicelles (NMs) displayed regular spherical morphology and favorable colloidal stability. In vitro drug release experiments showed that the nanomicelles displayed prominent redox-responsive release behavior, achieving rapid and on-demand PTX release in high-glutathione intracellular tumor microenvironments. Benefiting from the glycyrrhetinic acid-mediated receptor targeting, cellular uptake assays and ex vivo organ imaging results demonstrated the prominent liver-targeting accumulation of PTX@GA-ss-IND NMs. In vitro cytotoxicity evaluation revealed that the fabricated nanosystem exhibited better antiproliferative activity against HepG2 cells compared with free PTX. Moreover, this nanoplatform effectively improved the in vivo bioavailability of PTX and reduced systemic adverse effecs. In conclusion, the constructed redox-responsive and liver-targeted nanodelivery system presents a feasible and promising strategy for precise and safe chemotherapy toward hepatocellular carcinoma.",
    "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127495",
+   "title": "Engineering smart polymeric lipid nanoparticles for breast cancer: The convergence of AI and medical personalization to enhance efficacy and safety",
+   "authors": [
+    "Usamah Sayed",
+    "Diyora Azamova",
+    "Abdulqader F Abdulqader",
+    "Amir Abdul Kadhim",
+    "K.V. Jamuna",
+    "Divya Singhal",
+    "Navin Kumar Tailor",
+    "Djamila Sh. Polatova"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-10-01",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 18,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127495",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127495",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42829010/",
+   "abstract": "Breast Cancer (BC) continues to be a predominant cause of cancer-related death globally, with clinical therapy impeded by off-target toxicity and limited therapeutic windows of traditional chemotherapeutics, especially across various molecular subtypes. This study critically assesses the integration of advanced nanocarrier engineering, Artificial Intelligence (AI), and personalized medicine in developing smart Polymeric-lipid nanoparticles (PLNs) for BC treatment. Preclinical data suggest that carefully designed PLNs with ligand-functionalized active targeting and stimuli-responsive release mechanisms may overcome biological barriers, improve tumor-specific accumulation, and potentially reduce systemic side effects compared with traditional formulations. By accelerating predictions of nanoparticle (NP)-bio interactions, optimizing formulation parameters (like lipid-polymer ratios and drug loading), and predicting in vivo performance before benchtop synthesis, we highlight the revolutionary potential of machine learning (ML) models in nanotherapeutic development. Additionally, including tumor microenvironment characteristics and patient-specific omics profiles may make it easier to strategically create customized PLN regimens that match the range of BC subtypes. AI-driven, patient-specific PLNs could increase anticancer efficacy through precision targeting while potentially lowering off-target toxicities, thereby expanding the safety margin, according to current preclinical evidence. However, clinical validation is still pending because no PLN formulation has entered registered clinical trials for BC. This paper presents a strategic approach to address key translational issues, such as scalable production and regulatory clearance. It argues that, with effective clinical translation and thorough prospective validation, combining nanotechnology and digital intelligence could radically change precision oncology for BC.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127485",
+   "title": "Engineering lipid-based nanocarriers for PROTAC delivery: evaluating the influence of manufacturing and morphology on pharmacokinetic exposure",
+   "authors": [
+    "Ponien Kou",
+    "Matthew N. O’Brien",
+    "Andrew P. Latham",
+    "Cheng Chiang",
+    "Donglu Zhang",
+    "Jodie Pang",
+    "Yusi Cui",
+    "Nanzhi Zang",
+    "Shijia Tang",
+    "Karthik Nagapudi",
+    "Vijay Sethuraman",
+    "Elizabeth S. Levy"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-10-01",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统",
+    "纳米药物"
+   ],
+   "relevance_score": 18,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127485",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127485",
+   "url_pubmed": null,
+   "abstract": "Proteolysis targeting chimeras (PROTACs) are a promising therapeutic modality used in a significant number of pre-clinical and clinical investigations. The encapsulation of highly lipophilic PROTACs into lipid based drug delivery systems can be used to improve systemic exposure after parenteral administration, and thereby enable efficacy at lower PROTAC doses. Here we describe nanoparticle lipid based drug delivery systems, including liposomes and lipodisks, for intravenous administration to enhance exposure of a bivalent PROTAC molecule for estrogen receptor alpha, G5472. We utilized different manufacturing technologies – microfluidic mixing, flash nanoprecipitation, and thin film hydration plus extrusion – to investigate and optimize the conditions that result in the production of liposomes and lipodisks. When optimized G5472 formulations were administered intravenously in mice and compared to free G5472 at a matched dose of 1 mg/kg, a 3.2x enhancement in apparent G5472 exposure was observed for liposomes and lipodisks compared to free G5472. In addition, the liposome and lipodisk formulations showed a significant reduction in the apparent clearance (3.5x and 3.0x, respectively) and a corresponding increase in the apparent G5472 plasma half life (8.1x and 5.9x, respectively). Surprisingly, nanoparticle size had a greater impact than nanoparticle morphology on the extent of G5472 exposure improvement. These findings illuminate the impact of manufacturing conditions on nanoparticle size and morphology and provide a framework for how to engineer such nanoparticles for the delivery of PROTACs and similar molecules.",
+   "abstract_source": "openalex",
    "summary_status": "pending",
    "summary": null,
    "source": "openalex"
@@ -3770,6 +4163,68 @@
    "source": "openalex"
   },
   {
+   "doi": "10.1016/j.biomaterials.2026.124674",
+   "title": "Engineering extracellular vesicles for multi-cargo co-delivery in silicosis and related fibrotic diseases: design strategies and translational prospects",
+   "authors": [
+    "Zhen Chen",
+    "Yuqin Liu",
+    "Shuo Yang",
+    "Yanhong Lai",
+    "Hong Zhang",
+    "Kaiji Lang",
+    "Wenzhen Li",
+    "Xinyuan Zhao",
+    "Weihong Chen",
+    "Dongming Wang"
+   ],
+   "journal": "Biomaterials",
+   "tier": "C",
+   "publication_date": "2026-09-30",
+   "date_precision": "approx",
+   "directions": [
+    "药物递送系统",
+    "纳米药物"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.biomaterials.2026.124674",
+   "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124674",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42828842/",
+   "abstract": "Silicosis remains therapeutically intractable because its three driver axes-the NLRP3 inflammasome, ROS/Nrf2 oxidative stress, and TGF-β/Smad fibrosis-interlock into a self-reinforcing network whose topological redundancy reroutes signalling around any single-target drug, the structural basis for repeated single-agent failure. Existing nanocarriers cannot meet the resulting demand for multi-cargo delivery: lipid nanoparticles risk triggering NLRP3, polymeric carriers escape endosomes too poorly to deliver nucleic acids, and inorganic particles intensify the ROS-driven fibrotic loop. Engineered exosomes close this gap. Their native architecture matches the silicotic microenvironment and can carry nucleic acids, proteins, and small molecules together at defined ratios across the vesicle population, while surface CD47 can confer immune evasion, donor-encoded integrins can direct cell-selective pulmonary tropism, and membrane fusion can deliver payloads directly into the cytoplasm, - properties we argue must be demonstrated for each engineered construct rather than assumed. Here, we evaluate the complete engineering pipeline - donor-cell selection, GMP-compatible isolation, cargo loading by electroporation and bio-orthogonal surface click chemistry, and stimuli-responsive release whose triggering thresholds have been established in oncological rather than fibrotic settings and require validation in silicosis. Preclinical evidence, graded by a three-tier scheme, is consistent with coordinated multi-axis efficacy spanning NLRP3 suppression, Nrf2 restoration, and TGF-β/Smad blockade, but remains predominantly Grade B and C; we critically appraise manufacturing scalability, co-loading optimization, and endotype-matched dosing as the milestones still separating this platform from clinical deployment.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.biomaterials.2026.124673",
+   "title": "Rapid microwave-assisted synthesis of ZnMn dual-atom nanozymes for cancer catalytic immunotherapy",
+   "authors": [
+    "Qiqi Xu",
+    "Qiang Sun",
+    "Yanheng Wu",
+    "Jinxuan Wang",
+    "Shangqin Yang",
+    "Hongmei Liu",
+    "Lulu Cai"
+   ],
+   "journal": "Biomaterials",
+   "tier": "C",
+   "publication_date": "2026-09-30",
+   "date_precision": "approx",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1016/j.biomaterials.2026.124673",
+   "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124673",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42828844/",
+   "abstract": "Catalytic nanomedicines face a persistent trade-off between structurally defined active sites and rapid synthesis. A microwave-assisted salt-flux conversion is developed that transforms a bimetallic metal-organic framework precursor within 3 min into nitrogen-doped carbon-supported ZnMn dual-atom nanozymes (ZnMn DAzymes). Aberration-corrected HAADF-STEM and dual-edge X-ray absorption fine structure analyses support adjacent Zn-Mn sites with an N-dominated ZnMn-N6-like coordination motif. Steady-state kinetics and density functional theory calculations suggest cooperative catalysis: Zn modulates H2O2 adsorption and O-O bond activation, whereas Mn provides stronger H2O2 chemisorption and redox flexibility, jointly enhancing catalase-, peroxidase-, and oxidase-like activities. The resulting cascade decomposes H2O2, relieves hypoxia, generates reactive oxygen species, and depletes glutathione, inducing mitochondrial dysfunction, immunogenic cell death, cGAS-STING-associated signaling, dendritic-cell maturation, and effector T-cell infiltration. Glutathione-responsive Mn2+ release additionally enables activatable T1-weighted magnetic resonance contrast. Combined with αPD-L1, ZnMn DAzymes suppress primary and distal tumors by approximately 90%, reduce lung metastases by 92%, and prolong survival in 4T1 models. This work provides a rapid route to ZnMn dual-atom nanozymes for catalytic immunotherapy.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
    "doi": "10.1038/d41586-026-02776-y",
    "title": "A new chapter in targeting kinase enzymes in cancer",
    "authors": [
@@ -5149,6 +5604,37 @@
    "summary_status": "pending",
    "summary": null,
    "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127486",
+   "title": "Ionic liquid self-assembly enables high-loading inhalable delivery of remdesivir",
+   "authors": [
+    "Alaa Akram",
+    "Omnia Kutkat",
+    "Mokhtar Gomaa",
+    "Basma Emad Aboulhoda",
+    "Rabeh El‐Shesheny",
+    "Ghada Ahmed Abdelbary",
+    "Maie S. Taha"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-09-29",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽",
+    "纳米药物",
+    "肺部靶向"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127486",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127486",
+   "url_pubmed": null,
+   "abstract": "Clinical use of remdesivir (RDV), the first FDA-approved antiviral for COVID-19 treatment, is limited by poor aqueous solubility and intravenous administration. In this study, an inhalable dry powder (IDP) based on hyaluronic acid (HA)-coated cholinium ionic liquid (IL)-core liposomes (HA-CAGE-Lp@IDP) was developed to overcome these limitations. Two ILs, cholinium maleate (CAME) and cholinium geranate (CAGE), markedly enhanced RDV solubility. Mechanistic studies revealed distinct IL localization within liposomes, with CAME predominantly dissolved in the aqueous core, whereas CAGE self-assembled into an IL-rich dense core that enabled superior RDV solubilization and loading (30% w/w). The optimized HA-coated CAGE liposomes were lyophilized into an IDP that preserved nanoparticle integrity. HA-CAGE-Lp@IDP exhibited favorable powder flowability (Hausner's ratio = 1.08) and aerodynamic properties suitable for deep lung deposition (FPF = 53.5%; MMAD = 2.99 µm). The formulation retained potent anti-SARS-CoV-2 activity in vitro with excellent cytocompatibility (selectivity index = 296.87). In a SARS-CoV-2 hamster model, inhaled HA-CAGE-Lp@IDP achieved rapid viral suppression comparable to marketed RDV, with approximately 99% inhibition of viral replication in the lungs and trachea and marked histopathological improvement. These findings establish HA-coated IL-core liposomes as a promising inhalable platform for localized pulmonary RDV delivery and outpatient antiviral therapy.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
   },
   {
    "doi": "10.1038/d41586-026-03004-3",
@@ -6550,6 +7036,63 @@
    "summary_status": "pending",
    "summary": null,
    "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127479",
+   "title": "Organic solvent-free nimodipine-loaded mixed nanomicelles for safe intravenous delivery",
+   "authors": [
+    "Chuanqi Ning",
+    "Jing Wang",
+    "Qun Ban",
+    "Hang Qi",
+    "Tiejun Li",
+    "Shankui Liu",
+    "Jinping Wang"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-09-28",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127479",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127479",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42805574/",
+   "abstract": "Nimodipine (Nimo) is a first-line calcium channel blocker for preventing cerebral vasospasm post-subarachnoid hemorrhage. However, its clinical formulations depend on high concentrations of organic solvents to improve solubility, frequently causing vascular irritation and dilution-induced precipitation that limits safe use. Herein, we developed organic solvent-free Nimo-loaded mixed nanomicelles (Nimo-PGH-MNMs) through a direct dispersion-thermal approach, using soybean phospholipids (SPC), sodium glycocholate (SGC) as primary carriers, and 15-hydroxystearic acid polyethylene glycol ester (HS-15) as a stabilizer. Single-factor screening and modified Box-Behnken-type response surface methodology were subsequently applied for formulation optimization. The optimized Nimo-PGH-MNMs have a uniform diameter of 2.41 ± 0.39 nm, high encapsulation efficiency of 99.8 ± 0.2%, and low critical micelle concentration of 0.38 mg/mL, maintaining stability for 24 h after clinical dilution and tolerating autoclaving at 121 °C for 15 min. In vitro profiles of Nimo-PGH-MNMs are highly similar to that of commercial Nimotop® (similarity factor 85.7 ± 1.5). Additionally, beagle dog pharmacokinetics confirm pharmacokinetic bioequivalence to the commercial formulation, and rat tissue distribution was highly comparable, with only a transient difference in gastric tissue at 2 h that did not alter the overall distribution pattern. Moreover, New Zealand rabbit safety evaluation shows minimal vascular irritation, significantly less than that caused by the ethanol-containing Nimotop®, and no hemolytic reaction, with high biocompatibility. This organic solvent-free and sterilizable system eliminates organic solvent-related risks, resolves conventional formulation limitations, and provides a clinically feasible, scalable strategy for intravenous Nimo delivery, establishing a paradigm for injections of poorly water-soluble drugs.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127480",
+   "title": "Design-of-experiments-assisted microfluidic synthesis of sorafenib tosylate nanocrystals for improved oral bioavailability",
+   "authors": [
+    "Jichao Dai",
+    "Heba Allah Abou Swid",
+    "Randa Zoqlam",
+    "Asterios Gavriilidis",
+    "Duncan Q.M. Craig",
+    "Maryam Parhizkar"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-09-28",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127480",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127480",
+   "url_pubmed": null,
+   "abstract": "Sorafenib tosylate (ST) is a potent multikinase inhibitor used for the treatment of hepatocellular carcinoma, but its poor aqueous solubility limits oral bioavailability. Drug nanocrystals are an effective strategy to enhance dissolution while maintaining high drug loading; however, conventional batch antisolvent precipitation suffers from limited mixing control, heterogeneous nucleation, making it challenging to achieve consistent control of critical product attributes, including particle size, size distribution, and solid-state form, particularly upon scale-up. This study establishes a systematic development approach for continuous microfluidic production of sorafenib tosylate nanocrystals (ST-NCs), integrating formulation screening, design of experiments (DoE)-based process optimisation, physicochemical characterisation, pharmaceutical performance evaluation, and stability assessment. Initial batch screening identified polyvinylpyrrolidone K30 (PVP-K30) as the optimal stabiliser. The formulation was then translated to a microfluidics platform and optimised using a DoE approach to evaluate the effects of drug concentration, total flow rate (TFR), and flow rate ratio (FRR) on particle size, polydispersity index (PDI), and yield. Statistical analysis revealed FRR as the dominant factor controlling nanocrystal size, highlighting the critical role of hydrodynamic regulation of supersaturation and nucleation. Under optimised conditions, microfluidic processing produced ST-NCs with a mean particle size of 169 ± 3 nm and a narrow size distribution (PDI 0.28 ± 0.01), outperforming batch-prepared nanocrystals. Solid-state characterisation by PXRD and DSC confirmed improved polymorphic control and retained crystallinity, with microfluidically prepared ST-NCs maintaining crystalline Form II after lyophilisation and storage, whereas batch samples exhibited mixed forms. The optimised ST-NCs also demonstrated enhanced dissolution efficiency and increased cytotoxicity against HepG2 cells. Overall, microfluidic nanoprecipitation combined with DoE optimisation offers a robust and scalable strategy for producing high-quality ST-NCs with controlled size, stable solid-state properties, and improved pharmaceutical performance.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
   },
   {
    "doi": "10.1186/s12951-026-05115-5",

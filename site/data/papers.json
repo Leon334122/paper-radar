@@ -1,12 +1,177 @@
 {
- "updated_at": "2026-10-17T23:55:49+00:00",
- "count": 2953,
+ "updated_at": "2026-10-19T00:05:32+00:00",
+ "count": 2964,
  "note": "本文件由 pipeline build 自动生成，请勿手工编辑。",
  "papers": [
   {
+   "doi": "10.7150/thno.142321",
+   "title": "Rational design of mRNA delivery systems: balancing delivery efficiency and safety toward clinical translation",
+   "authors": [
+    "Ping Chen",
+    "Zhongyuan Cai",
+    "Jian Zhang",
+    "Bing Wang",
+    "Qiyong Gong",
+    "Kui Luo"
+   ],
+   "journal": "Theranostics",
+   "tier": "C",
+   "publication_date": "2026-10-18",
+   "date_precision": "approx",
+   "directions": [
+    "药物递送系统",
+    "基因治疗"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.7150/thno.142321",
+   "url_doi": "https://doi.org/10.7150/thno.142321",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.7150/thno.135848",
+   "title": "Mechanistic insights into iRGD and α-melittin modified resveratrol liposomes for melanoma: a spatial lipidomics approach",
+   "authors": [
+    "Qi Zhang",
+    "Xue-heng Sun",
+    "Liyan Huang",
+    "Lin Guo",
+    "Peiyun Liu",
+    "Rui Zheng",
+    "Qianqian Zhan",
+    "Xiaoqing Tan",
+    "Ye Yao",
+    "Chunyan Li",
+    "Kai Xiong",
+    "Wenqiang Cao",
+    "Zhan-You Wang"
+   ],
+   "journal": "Theranostics",
+   "tier": "C",
+   "publication_date": "2026-10-18",
+   "date_precision": "approx",
+   "directions": [
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.7150/thno.135848",
+   "url_doi": "https://doi.org/10.7150/thno.135848",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.7150/thno.139927",
+   "title": "A conserved glycolytic malignant subcluster drives invasive progression through a PPIA-BSG metabolic-immune interaction in early lung adenocarcinoma",
+   "authors": [
+    "Liuqing Yang",
+    "Fang Yang",
+    "Chenghao Mei",
+    "Wenwen Li",
+    "Lin Liu",
+    "Jinhua Fan",
+    "Xiang Li",
+    "Runxiang Yang",
+    "Lianhua Ye",
+    "Yupeng Cun"
+   ],
+   "journal": "Theranostics",
+   "tier": "C",
+   "publication_date": "2026-10-18",
+   "date_precision": "approx",
+   "directions": [
+    "肿瘤治疗",
+    "肺部靶向"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.7150/thno.139927",
+   "url_doi": "https://doi.org/10.7150/thno.139927",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.7150/thno.135840",
+   "title": "Next-generation intelligent microneedle systems for precision tumor immunotherapy",
+   "authors": [
+    "Hong-Xiang Zhao",
+    "Yanhui Shi",
+    "Hao Zhang",
+    "Wanchuan Ding",
+    "Ming Xia",
+    "Miaoqing Zhao"
+   ],
+   "journal": "Theranostics",
+   "tier": "C",
+   "publication_date": "2026-10-18",
+   "date_precision": "approx",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.7150/thno.135840",
+   "url_doi": "https://doi.org/10.7150/thno.135840",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.7150/thno.139570",
+   "title": "Recent progress in magnetic nanoparticles: classification, morphological features, and applications for cancer treatment",
+   "authors": [
+    "Shuang Bai",
+    "Kai Ma",
+    "Yupei Zhang",
+    "Juanjuan Wang",
+    "Long Liu",
+    "Shuqin Xu",
+    "Yi Lv"
+   ],
+   "journal": "Theranostics",
+   "tier": "C",
+   "publication_date": "2026-10-18",
+   "date_precision": "approx",
+   "directions": [
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.7150/thno.139570",
+   "url_doi": "https://doi.org/10.7150/thno.139570",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
    "doi": "10.1038/s41467-026-78873-3",
    "title": "Size-dependent catalysis of Ru nanoparticles for selective reductive amination of PET plastic",
-   "authors": [],
+   "authors": [
+    "Zuyi Zhang",
+    "Yawen Shi",
+    "Shengbo Zhang",
+    "Junyang Wang",
+    "Chen Meng",
+    "Xinyi Niu",
+    "Xinyong Diao",
+    "Na Ji"
+   ],
    "journal": "Nature Communications",
    "tier": "A",
    "publication_date": "2026-10-17",
@@ -23,6 +188,173 @@
    "summary_status": "pending",
    "summary": null,
    "source": "rss"
+  },
+  {
+   "doi": "10.1038/s41467-026-78698-0",
+   "title": "Perk mediates tumor cell fate and therapeutic outcome in response to CDK4/6 inhibition",
+   "authors": [
+    "Marganit Farago",
+    "Bartosz Mucha",
+    "Varun Samudra",
+    "Shuyuan Zhang",
+    "Dariusz Pytel",
+    "Ata Abbas",
+    "Polly J. Phillips‐Mason",
+    "Debora Cavero",
+    "Masataka Shimonosono",
+    "Brian S. Henick",
+    "Hiroshi Nakagawa",
+    "Kwok‐Kin Wong",
+    "Anil K. Rustgi",
+    "Constantinos Koumenis",
+    "Davide Ruggero",
+    "Yi Fan",
+    "Serge Yu. Fuchs",
+    "John Alan Diehl"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-17",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1038/s41467-026-78698-0",
+   "url_doi": "https://doi.org/10.1038/s41467-026-78698-0",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-78618-2",
+   "title": "Molecular chaperone-like TIGR04500 family proteins guide graspetide biosynthesis",
+   "authors": [
+    "Ling Hu",
+    "Wei Huang",
+    "Ji‐Wu Huang",
+    "Jing Zhang",
+    "Xiaohui Qiu",
+    "Botao Cheng",
+    "Lifeng Pan",
+    "Wen Liu"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-17",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1038/s41467-026-78618-2",
+   "url_doi": "https://doi.org/10.1038/s41467-026-78618-2",
+   "url_pubmed": null,
+   "abstract": "TIGR04500 family proteins share architectural features with the prokaryotic chaperones trigger factor and SurA, but their functions have remained unknown. Here, we demonstrate that TIGR04500 proteins act as dedicated, non-catalytic tri-domain partners in the biosynthesis of graspetides, a family of ribosomally synthesized and posttranslationally modified peptides (RiPPs) that possess ester/amide linkages formed between residue side-chains. The partner action of TIGR04500 proteins largely depends on their distinct N-terminal domains, which can interact with family-defining ATP-grasp enzymes to form a catalytic complex. The remaining central multi-helix and C-terminal domains share structural similarities with trigger factor and SurA, and thus enable TIGR04500 family proteins to function in a manner similar to these molecular chaperones for peptide substrate recognition. Genome mining reveals a number of conserved multi helix-containing proteins/domains that could be involved in the biosynthesis of many families of RiPPs using a similar molecular mechanism, suggesting a common, chaperone-like function in RiPP biosynthesis. Graspetides are ribosomally synthesized and post-translationally modified peptides. Here, TIGR04500 family proteins are shown to guide graspetide biosynthesis as non-catalytic chaperone-like partners through a likely widespread recognition mechanism.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-78818-w",
+   "title": "Epitope-resolved Epstein-Barr virus antibody mapping identifies disease-stratifying signatures in nasopharyngeal carcinoma",
+   "authors": [
+    "Yingying Yu",
+    "Zhaodong Fei",
+    "Weidong Huang",
+    "Min Liu",
+    "Jiabao Tang",
+    "Qiao He",
+    "Suzhen Wang",
+    "李付贵",
+    "Chao Zheng",
+    "Huating Xie",
+    "Sheng‐ce Tao",
+    "Zhaowei Xu",
+    "Xu Lin"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-17",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 3,
+   "url": "https://doi.org/10.1038/s41467-026-78818-w",
+   "url_doi": "https://doi.org/10.1038/s41467-026-78818-w",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-78763-8",
+   "title": "De novo design of lipopeptides with antimicrobial potency enabled by a chain-as-prompt deep learning framework",
+   "authors": [
+    "Fan Zhang",
+    "Xuchang Yu",
+    "Yuzhu Wu",
+    "Lei Li"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-17",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1038/s41467-026-78763-8",
+   "url_doi": "https://doi.org/10.1038/s41467-026-78763-8",
+   "url_pubmed": null,
+   "abstract": "Antimicrobial lipopeptides (AMLPs) represent a promising solution to global antibiotic crisis, yet their precision design remains challenging due to the inability of current computational models to account for N-terminal fatty acid modification. Here we develop a deep learning-driven AMLP model for de novo design of AMLPs by integrating a chain-as-prompt mechanism with domain-adaptive transfer learning, effectively bridging the representation gap between peptide sequence and lipid-induced bioactivity. Using the AMLP model, 2657 evolutionarily selected RiPP-derived core peptide sequences from 96,911 bacterial genomes are inspiringly designed for virtual lipidation with seven N-terminal fatty acid chains (C6–C18) followed by predictive screening, generating 6197 candidate sequences. Notably, we find that both high KRH rate ( ≥ 0.3) and common fatty acid tails (C12 and C16) are also critical for further selection of candidate AMLPs, resulting in 289 sequences. Then, 46 are randomly synthesized, with 44 showing antimicrobial activities (a positive rate of 95.7%). The lead antibiotic LP630 exhibits broad-spectrum activities against typical Gram-positive, Gram-negative and mycobacterial strains by targeting multiple bacterial cell membrane components, and demonstrates potent therapeutic efficacy in murine wound infection models. Our study provides a streamlined and universal paradigm for deep learning-enabled high-throughput discovery of novel lipopeptide therapeutics. Authors present their chain-as-prompt deep learning framework, which identifies antimicrobial lipopeptides that show efficacy against drug-resistant bacterial pathogens in laboratory and animal model.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05172-w",
+   "title": "A Multifunctional Nb2C MXene-based hydrogel supports mesenchymal stem cell therapy for subacute spinal cord injury",
+   "authors": [
+    "Dong Guo",
+    "Jie Li",
+    "Jialiang Li",
+    "Jiaxi Li",
+    "Yubing Yang",
+    "Fang Wang",
+    "Sue Chang",
+    "Qiongchi Zhang",
+    "Xilong Bai",
+    "Ke Xu",
+    "Lin Xiao",
+    "Hua Zheng",
+    "Qiuyu Zhang",
+    "Xijing He"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-10-17",
+   "date_precision": "day",
+   "directions": [
+    "细胞疗法"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1186/s12951-026-05172-w",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05172-w",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
   },
   {
    "doi": "10.1038/d41591-026-00052-0",
@@ -351,12 +683,12 @@
    "directions": [
     "肺部靶向"
    ],
-   "relevance_score": 3,
+   "relevance_score": 4,
    "url": "https://doi.org/10.1038/s41467-026-78434-8",
    "url_doi": "https://doi.org/10.1038/s41467-026-78434-8",
    "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "abstract": "Interleukin-33 (IL-33) from lung epithelial cells serves as a crucial alarmin to activate the lung-resident group 2 innate lymphoid cells (ILC2s) and then to initiate type 2 inflammation. However, whether IL-33 has an intrinsic role in the ILC2-driven lung inflammation remains unclear. In this study, we characterize the proteomic features of mouse lung ILC2s during activation and observe an increased expression of intrinsic IL-33 in activated ILC2s. The expression of intrinsic IL-33 in lung ILC2s can be induced by the co-stimulation of cysteinyl leukotrienes (CysLTs) and exogenous IL-33. Deletion of ILC2-intrinsic IL-33 attenuates lung inflammation by restraining ILC2 proliferation and cytokine production. Mechanistically, ILC2-intrinsic IL-33 promotes transcriptional activation of both inflammatory and proliferative signaling cascades. Additionally, ILC2-intrinsic IL-33 localizes in the nucleus and promotes the expression of Fosl2 and Nfatc1 through promoting their chromatin accessibility, leading to increased ILC2 proliferation and type 2 cytokine production. Further, we confirm that intrinsic IL-33 can be induced by co-stimulation of CysLTs and exogenous IL-33 in human ILC2s (hILC2s), which is positively related to enhanced hILC2 responses. Collectively, our findings implicate IL-33 as a nuclear factor and intrinsic amplifier of lung-resident ILC2s, operating in a positive feedback loop downstream of exogenous IL-33 and CysLTs co-stimulation to promote allergic lung inflammation. IL-33 is known to promote differentiation and activation of innate lymphoid cells type 2 (ILC2). Here the authors show that IL-33 generated by ILC2 has a function in the increase of inflammatory allergic responses and can be promoted by exogenous IL-33 and cysteinyl leukotrienes.",
+   "abstract_source": "openalex",
    "summary_status": "pending",
    "summary": null,
    "source": "openalex"
@@ -13216,6 +13548,40 @@
    "source": "rss"
   },
   {
+   "doi": "10.7150/thno.140822",
+   "title": "Bismuth-based nanosystems for precise tumor theranostics: Recent progress, challenges and perspectives",
+   "authors": [
+    "Haohao Zhang",
+    "Mengge Guo",
+    "Zhen Kong",
+    "Yujie Ma",
+    "Laixin Hong",
+    "Mingyuan Pang",
+    "Zimai Wang",
+    "Min Yang",
+    "Juan An",
+    "Yen Leng Pak",
+    "Jibin Song"
+   ],
+   "journal": "Theranostics",
+   "tier": "C",
+   "publication_date": "2026-10-02",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.7150/thno.140822",
+   "url_doi": "https://doi.org/10.7150/thno.140822",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
    "doi": "10.1126/science.aed3065",
    "title": "Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion",
    "authors": [
@@ -17195,14 +17561,16 @@
    "publication_date": "2026-10-01",
    "date_precision": "month",
    "directions": [
-    "纳米药物"
+    "药物递送系统",
+    "纳米药物",
+    "肿瘤治疗"
    ],
-   "relevance_score": 3,
+   "relevance_score": 12,
    "url": "https://doi.org/10.1016/j.ijpharm.2026.127556",
    "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127556",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42892454/",
+   "abstract": "Stimuli-responsive nanocarriers capable of precise intracellular drug release are critical for improving the efficacy and safety of cancer chemotherapy. However, many existing systems suffer from limited structural tunability and incomplete integration of molecular architecture, self-assembly, and responsiveness, which constrains tumor delivery and therapeutic performance. Here, we report reactive oxygen species (ROS)-responsive bola-amphiphilic dendrimers with tunable dendron generations, bola4A and bola8A, as a platform for doxorubicin (DOX) delivery and systematic comparison. Both dendrimers displayed high drug-loading capacities and stable nanoassembly formation, whereas bola4A, with lower-generation PAMAM dendrons, permitted more efficient stimulus penetration into the nanosystems. This architectural feature enhanced ROS- and pH-triggered drug release, promoted cellular uptake, and accelerated endosomal escape. Importantly, modulation of dendron generation systematically altered nanoparticle architecture and responsiveness, directly dictating therapeutic efficacy. Consequently, bola4A/DOX nanoparticles achieved superior tumor accumulation and tissue penetration, together with improved anticancer efficacy in vitro and in ovarian cancer SKOV3 xenograft models and reduced systemic toxicity relative to free DOX. These results establish dendritic architecture as a key determinant of stimuli-responsiveness and drug delivery performance, and provide a rational framework for the design of next-generation stimuli-responsive nanomedicines tailored to pathological microenvironments.",
+   "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,
    "source": "crossref"
@@ -17220,12 +17588,12 @@
    "directions": [
     "肺部靶向"
    ],
-   "relevance_score": 9,
+   "relevance_score": 12,
    "url": "https://doi.org/10.1016/j.ijpharm.2026.127560",
    "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127560",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42892456/",
+   "abstract": "This narrative review discusses the effects that healthy aging has on particle deposition in the lungs. The lung structure and its size, breathing patterns and minute ventilation are all affected by age, from infancy through adulthood. These age-dependent variations in turn affect total and regional deposition in the healthy lung. While, for age-specific breathing patterns, overall deposition of inhaled particles tends to be higher in children than in adults, regional deposition is age- and particle size-dependent. For aerosols in the 1-5 µm size range, typical of pharmaceutical aerosols, deposition fraction in the upper respiratory tract is higher in children (<15 year old) than in adults while the opposite is observed in the intrathoracic lungs where deposition fraction is lower in children than in adults. However, compared to adults, children have smaller lung surface area over which the deposited dose is distributed. Consequently, the deposition rate per lung surface area is higher in the intrathoracic lungs of children than of adults. In adulthood, aging appears to have little effect on overall deposition during tidal breathing. However, for deep aerosol inhalation, studies suggest an increased deposition in the lung periphery with aging due to airway closure occurring at higher lung volume in the elderly than in young adults. These observations suggest that both therapeutic aerosol delivery and the adverse effects of particle matter exposure may be altered with age through the lifespan.",
+   "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,
    "source": "crossref"
@@ -17255,12 +17623,12 @@
     "肺部靶向",
     "基因治疗"
    ],
-   "relevance_score": 15,
+   "relevance_score": 20,
    "url": "https://doi.org/10.1016/j.ijpharm.2026.127550",
    "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127550",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42892455/",
+   "abstract": "Pulmonary delivery of messenger RNA (mRNA) offers a promising strategy for local vaccination and treating respiratory diseases, but aerosolization stress and airway barriers remain major obstacles. Here, we developed PEG-free lipid-polymer hybrid nanoparticles (mucLPs) composed of a solid polylactic acid (PLA) core and an engineered lipid corona. Nine formulations were screened by varying lipid composition and were evaluated for physicochemical properties, mRNA association, cytocompatibility, stability during vibrating-mesh nebulization, and transfection. The lead formulation, mucLP3, combined high mRNA association with a negative post-loading surface charge and preserved its size distribution and reporter activity after nebulization. By contrast, the SM-102-based reference LNP tested under the same conditions showed aggregation and reduced reporter expression after nebulization. Non-nebulized mucLP3 also supported mRNA expression in airway epithelial cell lines, mouse lung organoids, and primary human airway epithelial cultures maintained at an air-liquid interface. These data establish a proof of concept for a PEG-free lipid-polymer hybrid architecture that tolerates the tested nebulization procedure and remains functional in respiratory models of increasing complexity. Direct mucus-transport measurements, aerosol-deposition studies, and in vivo efficacy studies will be required to establish pulmonary delivery performance.",
+   "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,
    "source": "crossref"

@@ -1,8 +1,124 @@
 {
- "updated_at": "2026-11-01T00:57:23+00:00",
- "count": 3367,
+ "updated_at": "2026-11-02T01:30:31+00:00",
+ "count": 3388,
  "note": "本文件由 pipeline build 自动生成，请勿手工编辑。",
  "papers": [
+  {
+   "doi": "10.1016/j.jconrel.2026.115510",
+   "title": "Lysosome-resident nanoreactor enables spatiotemporally controlled ferroptosis via cascade amplification of lipid peroxidation in breast cancer therapy",
+   "authors": [
+    "Tian-Jiao Zhou",
+    "Li-Ling Huang",
+    "Hao-Bin Che",
+    "Meng-Meng Zhang",
+    "Rui Long",
+    "Qiang Dai",
+    "Yan Wang",
+    "Wen-Yan Yang",
+    "Jing Zhang",
+    "Yi Wang",
+    "Jin-Jian Lu",
+    "Jee-Heon Jeong",
+    "Xian Wu Cheng",
+    "Lei Xing",
+    "Hu-Lin Jiang"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-11-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115510",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115510",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.jconrel.2026.115517",
+   "title": "Self-augmenting procoagulant microspheres potentiate microvessel embolization and hypoxia-activated prodrug activation against hepatocellular carcinoma",
+   "authors": [
+    "Jintao Huang",
+    "Wanting Chen",
+    "Jinhe Guo",
+    "Jiakun Guo",
+    "Shang Liu",
+    "Zhiyuan Zhong",
+    "Chao Deng",
+    "Jian Lu"
+   ],
+   "journal": "Journal of Controlled Release",
+   "tier": "C",
+   "publication_date": "2026-11-01",
+   "date_precision": "month",
+   "directions": [
+    "药物递送系统",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 6,
+   "url": "https://doi.org/10.1016/j.jconrel.2026.115517",
+   "url_doi": "https://doi.org/10.1016/j.jconrel.2026.115517",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127619",
+   "title": "Electrosprayed dry powder formulations of paclitaxel/carboplatin for the treatment of non-small cell lung cancer",
+   "authors": [
+    "Fangyuan Zhang",
+    "Congliang Fu",
+    "Karolina Dziemidowicz",
+    "Gareth R. Williams"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-11-01",
+   "date_precision": "month",
+   "directions": [
+    "肿瘤治疗",
+    "肺部靶向"
+   ],
+   "relevance_score": 9,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127619",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127619",
+   "url_pubmed": null,
+   "abstract": null,
+   "abstract_source": null,
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1038/s41467-026-79210-4",
+   "title": "Excess type I interferon disrupts developmental crosstalk and promotes premature distalization in trisomy 21 lungs",
+   "authors": [],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-11-01",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 8,
+   "url": "https://www.nature.com/articles/s41467-026-79210-4",
+   "url_doi": "https://doi.org/10.1038/s41467-026-79210-4",
+   "url_pubmed": null,
+   "abstract": "Nature Communications, Published online: 01 November 2026; doi:10.1038/s41467-026-79210-4 Congenital lung anomalies are associated with Trisomy 21 lungs. Here, authors show that hyperactivation of the type I IFN signaling pathway promotes precocious epithelial cell differentiation, contributing to the T21 related lung pathologies.",
+   "abstract_source": "rss",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "rss"
+  },
   {
    "doi": "10.1021/acsnano.6c07541",
    "title": "X-ray Crystallography of a Nanobody/JAM-1 Complex Informs Barrier Weakening and Enhanced Drug Permeability in a Cellular Blood–Brain Barrier Model",
@@ -75,7 +191,28 @@
   {
    "doi": "10.1038/s41467-026-79142-z",
    "title": "Cell surface proteomics of patient-derived malignant rhabdoid tumor organoids identifies ROBO1 as CAR T cell target for pediatric solid tumors",
-   "authors": [],
+   "authors": [
+    "Juliane L. Buhl",
+    "Jannet Koelewijn",
+    "Charlotte op ’t Hoog",
+    "Li Yang",
+    "Stijn De Munter",
+    "Victoria M. Cruz",
+    "D Chin",
+    "Baojie Zhang",
+    "Marliek van Hoesel",
+    "Nienke van Herk",
+    "Mariëtte E.G. Kranendonk",
+    "Mariel O. Brok",
+    "Irene Paassen",
+    "Katie Nachataya",
+    "Laura Hofman",
+    "Ella de Boed",
+    "Stefan Nierkens",
+    "Patrick Kemmeren",
+    "Annelisa M. Cornel",
+    "Wei Wu"
+   ],
    "journal": "Nature Communications",
    "tier": "A",
    "publication_date": "2026-10-31",
@@ -97,7 +234,26 @@
   {
    "doi": "10.1038/s41467-026-79039-x",
    "title": "AI-driven discovery and engineering of human-derived protein scaffolds for mRNA delivery",
-   "authors": [],
+   "authors": [
+    "Dongmin Xun",
+    "Lanqing Li",
+    "Jie Zou",
+    "Yi Liu",
+    "Ziyue Yang",
+    "Qianyi Liang",
+    "Ke Li",
+    "Zhu Zhu",
+    "Jicong Zhang",
+    "Lijun Lang",
+    "Kun Liu",
+    "Xinyu Wang",
+    "Meilin Tian",
+    "Guangyong Chen",
+    "Jun Yang",
+    "Bolin An",
+    "Pheng‐Ann Heng",
+    "Chao Zhong"
+   ],
    "journal": "Nature Communications",
    "tier": "A",
    "publication_date": "2026-10-31",
@@ -114,6 +270,377 @@
    "summary_status": "pending",
    "summary": null,
    "source": "rss"
+  },
+  {
+   "doi": "10.1038/s41467-026-79183-4",
+   "title": "Cell Spreading-Enhanced Electron-Transfer Electrochemical Cytosensor Enabling Single-Cell Detection",
+   "authors": [
+    "Yan Qi",
+    "Zhenhua Chao",
+    "Binbin Jian",
+    "Liang Tai",
+    "Qian Guo",
+    "Huan Song",
+    "Yixin Zhang",
+    "Yue Liu",
+    "乔维洲",
+    "Lingyun Jia",
+    "Lulu Han"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1038/s41467-026-79183-4",
+   "url_doi": "https://doi.org/10.1038/s41467-026-79183-4",
+   "url_pubmed": null,
+   "abstract": "Achieving single-cell detection with electrochemical cytosensors remains challenging, owing to a poor understanding of how electroactive redox probes generate measurable signals near large, insulating cells. Here, we validate a cell–electrode interfacial electron-transfer effect, in situ visualizing that the measurable current signal originating from redox probes located at the cell–electrode adjacent interface, rather than from those distributed on the cell surface. Notably, cell spreading enlarges this cell-adjacent interface, thereby enabling effective current amplification. Guided by this effect, we design an integrated cytosensor platform that combines a highly conductive lamellar reduced graphene oxide (RGO)/Ti3C2Tx electrode chip, which facilitates lamellipodia-driven cell spreading, with a high peroxidase-activity FeCN single-atom nanozyme. This platform exhibits a 7.6-fold signal enhancement over conventional chips and a detection limit of 0.03 cells mL−1, allowing a resolvable current response from a single cell on the 2 cm2 large-sized chip. Furthermore, it demonstrates potential feasibility for clinical detection of circulating tumor cells, achieving 96% specificity and 87% sensitivity across 55 blood samples in distinguishing cancer patients from healthy controls. This work establishes a cell spreading-enhanced electron-transfer paradigm and advances electrochemical cytosensing toward high-performance liquid biopsy applications. Electrochemical cytosensors have emerged as powerful tools for single-cell analysis, but generating robust signals from individual cells remains a major challenge. The authors uncover a cell-electrode interfacial electron-transfer effect, in which only redox probes at the cell-electrode interface contribute to measurable currents. Exploiting this mechanism, they develop a cell spreading-enhanced electron-transfer (SEET) cytosensor and apply it to circulating tumor cell detection in 55 patient samples, achieving 96% specificity and 87% sensitivity.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-78844-8",
+   "title": "Reversal of trauma-induced monocyte paralysis by IFN-γ fails to prevent ventilator-associated pneumonia, implicating lymphoid deficits in infection risk",
+   "authors": [
+    "Jonas Schmid",
+    "Susanne Unger",
+    "Athanasios Ziogas",
+    "Stefanie Kreutmair",
+    "Maud Mayoux",
+    "Can Ulutekin",
+    "Colin Sparano",
+    "Juan Villar-Vesga",
+    "Marijne Vermeer",
+    "Minqi Lin",
+    "Selma Tuzlak",
+    "Tobias Wertheimer",
+    "Daehong Kim",
+    "Stanislav Dergun",
+    "Boris Novakovic",
+    "Laura Hurtado‐Navarro",
+    "Anaísa V. Ferreira",
+    "Mariolina Bruno",
+    "Marijana Saric",
+    "Julien Chabbey"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "细胞搭便车"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1038/s41467-026-78844-8",
+   "url_doi": "https://doi.org/10.1038/s41467-026-78844-8",
+   "url_pubmed": null,
+   "abstract": "Abstract Ventilator-associated pneumonia (VAP) remains a frequent and severe complication in critically ill patients. Although interferon-gamma (IFN-γ) has been reported to restore trauma-associated immune defects, the PREV-HAP trial (ClinicalTrials.gov NCT04793568) did not show a benefit of IFN-γ on VAP prevention. To investigate the immunological basis of this therapeutic failure, we performed longitudinal high-dimensional immunoprofiling on 104 trial participants. IFN-γ improved phenotypic and metabolic features of monocyte immune suppression, most notably by increasing HLA-DR expression. Whereas HLA-DR on monocytes is a well-established biomarker for patient outcomes, its modulation via IFN-γ injection did not prevent lung pathology, possibly due to CCR7 induction. In contrast, we identified pre-existing deficits in T- and B-cell subsets in patients who subsequently developed VAP. Together, these findings suggest that monocytic HLA-DR expression reflects the immune status rather than directly influencing VAP susceptibility, and that lymphoid immune alterations may represent more relevant determinants of infection risk in ventilated patients.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-78574-x",
+   "title": "Ultrastable de novo SuperMyo proteins enable high-performance macroscopic fibers from minimal repeats",
+   "authors": [
+    "Xiaodong Han",
+    "Bin Zheng",
+    "Shengbang Xu",
+    "Jingjing Li",
+    "Yuanhao Liu",
+    "Juanjuan Su",
+    "Peng Zheng"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1038/s41467-026-78574-x",
+   "url_doi": "https://doi.org/10.1038/s41467-026-78574-x",
+   "url_pubmed": null,
+   "abstract": "Conventional routes to strong protein fibers rely on the assembly of high-molecular-weight polymers, where mechanical performance is achieved by increasing the number of tandem repeats within the polypeptide chain. This repeat-number strategy inherently complicates production and limits scalability. Here, we introduce a contrasting paradigm in which macroscopic strength is derived not from chain length, but from the increased intrinsic mechanostability of each repeating unit. We implement this using computationally designed immunoglobulin-domain-based SuperMyo proteins, whose force-bearing β-strands are engineered to form ultra-dense hydrogen-bond networks, yielding unfolding forces nearly double those of natural immunoglobulin domains at a pulling speed of 1000 nm s−1. When assembled into minimal tetrameric constructs (only four repeats), these designed units retain their high nanomechanical stability. Processed via wet-spinning, the tetramers form continuous macroscopic fibers with a tensile strength up to 372 MPa and a toughness of 61 MJ m⁻³. Crucially, this performance matches or exceeds that of previously reported fibers spun from polymers containing far more repeats (e.g., 64-mers). Structural analyses confirm that the enhanced stability of the monomers promotes superior β-sheet crystallization and alignment during fiber formation. By demonstrating that engineering the mechanical stability of protein building blocks is a potential strategy for producing strong protein fibers from low-repeat-number constructs, this work establishes a more efficient and scalable foundation for manufacturing high-performance protein-based materials. High-performance biofuels require a well-defined flash point, yet the coexistence of pentanol isomers can introduce ignition-point variations that compromise fuel performance. Here, the authors present an electrochemiluminescence shunt strategy based on a bifunctional catalytic system that exploits the distinct reactive oxygen species scavenging properties of pentanol isomers. The approach generates differential anodic and cathodic luminol signals, enabling their precise discrimination and providing a powerful tool for fuel-quality assessment",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-79023-5",
+   "title": "Steering directional charge migration via ordered self-assembled molecular layers for efficient BiVO4-silicon artificial leaf",
+   "authors": [
+    "Min Zhao",
+    "Haoran Wu",
+    "Xiaodong Sun",
+    "Wenbo Liu",
+    "Zongyang Li",
+    "Bowen Li",
+    "Zhong‐Yong Yuan",
+    "Jingkun Wang",
+    "Yuying Hao",
+    "Tianyi Ma"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1038/s41467-026-79023-5",
+   "url_doi": "https://doi.org/10.1038/s41467-026-79023-5",
+   "url_pubmed": null,
+   "abstract": "The BiVO4-silicon artificial leaf represents an attractive candidate for unbiased photoelectrochemical water splitting device, yet its efficiency remains limited by sluggish charge transport in the BiVO4 photoanode. Here we propose a self-assembled molecular-bridge strategy to establish ordered and fast pathways for efficient charge transport between BiVO4 and NiFeCo layered double hydroxide (NiFeCo-LDH) oxygen evolution cocatalysts. To clarify the role of dipole strength, we compare two self-assembled monolayer layers with distinct dipole moments: [4-(9H-carbazol-9-yl)ethyl]phosphonic acid (4PACZ ~ 1.83 Debye) and [4-(7H-dibenzo[c,g]carbazol-7-yl)butyl]phosphonic acid (4PADCB ~ 2.54 Debye). The larger dipole of 4PADCB generates a stronger interfacial electric field, which drives directional hole extraction and suppresses recombination. Consequently, the optimized BiVO4/4PADCB/NiFeCo-LDH photoanode achieves a photocurrent density of 6.35 mA cm–2 at 1.23 V versus a reversible hydrogen electrode, which is competitive with other reported BiVO4-based systems modified with organic interfacial layers. Furthermore, by integrating the photoanode with a silicon solar cell, a standalone artificial leaf (1.5 cm2 area) is constructed, achieving a solar-to-hydrogen conversion efficiency of 8.75% and stable operation for over 60 hours. This work establishes a clear link between molecular dipole strength and interfacial charge separation, providing a generalizable design principle for molecular interface engineering in photoelectrochemical water splitting. Solar artificial leaves promise sustainable hydrogen production, but interfacial charge losses limit their efficiency. Here, the authors report ordered molecular layers that promote charge transport and improve water splitting in bismuth vanadate-silicon artificial leaves.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/anie.5772233",
+   "title": "A Compact Fluorogenic Peptide Tag for Bright Wash‐Free Live‐Cell Imaging",
+   "authors": [
+    "Yifan Bao",
+    "Hao Rong",
+    "Juncheng Chen",
+    "Hanqing Zhao",
+    "Zhenglong Zhai",
+    "Rui Bao",
+    "Zijia Liu",
+    "Jingjing Xie",
+    "Lu Wang"
+   ],
+   "journal": "Angewandte Chemie International Edition",
+   "tier": "B",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1002/anie.5772233",
+   "url_doi": "https://doi.org/10.1002/anie.5772233",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Live‐cell fluorescence imaging offers profound insights into cellular biology, yet achieving strong fluorescence signals with minimal labeling footprint and perturbation to proteins of interest remains a persistent challenge. Here we introduce FluoP‐tag, a compact fluorogenic peptide‐tag platform for tandem‐array engineering in live cells. FluoP‐tag combines a 31‐residue peptide (∼3.4 kDa) with a cell‐permeable fluorogenic dye, FluoP580 (568 Da), rationally engineered to undergo peptide‐triggered switching from a non‐emissive spirolactam state to an emissive zwitterionic state. This compact design enables wash‐free intracellular labeling and copy‐number‐dependent signal amplification in tandem‐array formats. An 8×FluoP array produced 3.37‐fold higher brightness than HaloTag labeled with a Rhodamine X‐derived probe while remaining smaller overall (∼29.5 kDa vs. ∼33 kDa). FluoP‐tag arrays further enabled protein imaging across diverse intracellular compartments, spanning biomolecular condensates in stress granules, the nucleus, and the nucleolus, and cytoskeletal architectures resolved by live‐cell structured illumination microscopy (SIM). FluoP‐tag provides a compact fluorogenic tag‐array platform for protein labeling and imaging in living cells.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1186/s12951-026-05194-4",
+   "title": "Transformable peptide-drug conjugate nanoparticle for bladder cancer therapy",
+   "authors": [
+    "Zhaoqing Cong",
+    "Qiwei Chen",
+    "Xingchen Liu",
+    "Yuqing Li",
+    "Yanyu Huang",
+    "Ruiqi Huang",
+    "Aihong Ma",
+    "Lu Zhang",
+    "Song Wu",
+    "Kit S. Lam"
+   ],
+   "journal": "Journal of Nanobiotechnology",
+   "tier": "C",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统",
+    "自组装多肽",
+    "纳米药物",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 21,
+   "url": "https://doi.org/10.1186/s12951-026-05194-4",
+   "url_doi": "https://doi.org/10.1186/s12951-026-05194-4",
+   "url_pubmed": null,
+   "abstract": "Bladder cancer (BC) remains a significant health concern, necessitating the development of innovative therapeutic approaches. Herein, a novel strategy is developed utilizing BC cell surface receptor-mediated, transformable peptide nanoparticles, where the prodrug leucine-doxorubicin (Leu-DOX) and the PLZ4 ligand are linked by a β-sheet-forming peptide sequence, KLVFF, to enhance drug delivery efficacy while minimizing toxicity. These transformable peptides self-assemble into nanoparticles with high specificity for BC tissues through the specific recognition of αvβ3 integrin via PLZ4. Upon binding to αvβ3 integrin, the nanoparticles undergo a transformation process facilitated by ligand-receptor interaction, forming nanofibrils on the cancer cell surface, followed by gradual uptake by the cancer cells. In response to matrix metallopeptidase 9 (MMP-9) overexpressed in the tumor microenvironment, the conjugate is cleaved to release the Leu-DOX prodrug, which is subsequently converted into active doxorubicin inside the tumor cells, leading to effective tumor cell elimination. These findings suggest substantial implications for the development of targeted therapies for BC.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/smll.76583",
+   "title": "Bioinspired Honeycomb‐Armored Photothermal Superhydrophobic Surface With Robust Mechanical Durability for Efficient Anti‐/De‐Icing",
+   "authors": [
+    "Junlan Liang",
+    "Hongde Zhu",
+    "Zhiguang Guo"
+   ],
+   "journal": "Small",
+   "tier": "C",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "肿瘤治疗"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1002/smll.76583",
+   "url_doi": "https://doi.org/10.1002/smll.76583",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Photothermal superhydrophobic surfaces have emerged as promising candidates for anti‐/de‐icing applications; however, their further application is limited by the mechanical fragility of micro/nanostructures and the reliance on hazardous fluorinated additives. Inspired by the mechanical robustness of natural honeycombs and the superhydrophobic mechanism of lotus leaves, a mechanically durable and fluorine‐free honeycomb‐armored micro‐/nanostructured photothermal superhydrophobic surface (HAMSE) is fabricated. The surface was constructed by laser‐etching honeycomb micro‐arrays on an Al substrate, followed by the spray coating of a hydrophobic SiO 2 / hydroxylated multi‐walled carbon nanotubes (OH‐MWCNTs) /epoxy resin composite. The as‐prepared HAMSE achieved a freezing delay time of 1207.6 ± 135.7 s at −10°C and de‐icing within 83.01 ± 12.04 s under 1 sun illumination. Benefiting from the mechanical protection by the honeycomb armor, the surface maintained its superhydrophobicity after undergoing 100 m of sandpaper abrasion. Even after superhydrophobicity was lost at 140 m of abrasion, the surface retained 68.68% of its original steady‐state temperature rise under illumination. Overall, this durability stems from the structural‐material synergy, where the honeycomb armor sacrifices its own top structure to resist wear while the cross‐linked epoxy network preserves photothermal functionality. This work provides a viable strategy for designing durable, fluorine‐free, solar‐driven anti‐/de‐icing surfaces.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/smll.76593",
+   "title": "One‐Step Synthesis of Supramolecular Nanoparticles With Interlocking‐Enhanced Two‐Photon Fluorescence",
+   "authors": [
+    "Haiyang Zhang",
+    "Shulin Li",
+    "Xia Xin",
+    "Nan Sun",
+    "Xu Wang",
+    "Yitan Li"
+   ],
+   "journal": "Small",
+   "tier": "C",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1002/smll.76593",
+   "url_doi": "https://doi.org/10.1002/smll.76593",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Traditional organic two‐photon excited fluorescence (TPEF) materials relying on extended π ‐conjugated backbones inherently suffer from complex synthesis, limited biocompatibility, and aggregation‐caused quenching (ACQ). In this work, conceptually inspired by the interlocking design in engineering structures, we develop a facile one‐step supramolecular assembly strategy to fabricate poly(2,5‐diamino‐1,4‐benzenedithiol) (PMBT) supramolecular nanoparticles (SNPs). The SNPs are constructed through the synergistic interplay of disulfide polymerization, hydrogen bonding, and π – π stacking, resulting in an interlocking‐enhanced, short‐range locally ordered structure that lacks extended π ‐conjugated backbones. The interlocking architecture not only effectively suppresses nonradiative decay pathways by restricting molecular motion within the rigidified matrix, but also facilitates efficient exciton coupling and radiative recombination through enhanced interchain electronic communication. Consequently, PMBT SNPs exhibit favorable overall performance, including high aqueous stability, favorable fluorescence properties (quantum yield of 9% ± 1%, lifetime of 15.6 ns), exceptional two‐photon absorption cross‐section of up to 6.3 × 10 5 GM at 800 nm excitation, favorable biocompatibility (>85% cell viability at 200 µg/mL for 48 h), and deep‐tissue imaging capabilities. This work establishes a supramolecular engineering paradigm that harnesses intermolecular interactions, thereby enabling the development of high‐performance two‐photon clusterization‐triggered emissive materials.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/smll.76346",
+   "title": "Relevance of the Magnetic Nanoparticles for Second Harmonic Ultrasound Generation: A New Approach for Magneto‐Acoustic Theranostic",
+   "authors": [
+    "Rafael Marqués Gómez",
+    "Juan Manuel Melchor Rodríguez",
+    "A. C. Moreno‐Maldonado",
+    "Clara Marquina",
+    "Gerardo Fabián Goya",
+    "Manuel Ricardo Ibarra",
+    "G. Rus"
+   ],
+   "journal": "Small",
+   "tier": "C",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1002/smll.76346",
+   "url_doi": "https://doi.org/10.1002/smll.76346",
+   "url_pubmed": null,
+   "abstract": "We report experimental evidence of second harmonic (SH) ultrasound (US) generation by magnetic nanoparticles (MNPs) under pulsed radiofrequency electromagnetic fields (EMFs) (EMFs, 65 mT, 800 kHz, at 100 ms bursts). This pulsed EMF was fixed to avoid heating of the MNPs environment. We developed an experimental setup to detect the second harmonic (SH) signal without a temperature increase. This SH-US signal is observed only in samples containing MNPs. The use of non-MNPs does not show this contribution, which suggests that US generation is due to a magneto-acoustic effect in the MNPs. This could consider the use of this phenomenon as a diagnostic magneto-acoustic tomography (MAT) to detect MNPs localized at a malignancy region. We also report that magnetically aligned MNP clusters in gelatin significantly enhance the amplitude of the SH signal compared to that observed in non-aligned MNP samples. We demonstrate the capability for MNP detection by US scanning pulsed EMFs, which, combined with magnetic hyperthermia therapy, constitutes a new theranostic platform. Furthermore, pre-aligned anisotropic MNP structures significantly enhance the SH-US emission. This establishes a platform where spatial MNP orientation optimizes diagnostic sensitivity, enabling real-time image guidance for magnetic hyperthermia therapy.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/smll.76528",
+   "title": "Spent Coffee Grounds‐Derived Micro‐Nano‐Architectured Air Filtration Membranes for Multiwavelength Light‐Triggered Bioaerosol Inactivation",
+   "authors": [
+    "Seyed Shahrooz Zargarian",
+    "Zuzanna Joanna Krysiak",
+    "Anna Zakrzewska",
+    "David Renshaw",
+    "Massimiliano Lanzi",
+    "Yen Bach Truong",
+    "Filippo Pierini"
+   ],
+   "journal": "Small",
+   "tier": "C",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "肺部靶向"
+   ],
+   "relevance_score": 4,
+   "url": "https://doi.org/10.1002/smll.76528",
+   "url_doi": "https://doi.org/10.1002/smll.76528",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Indoor air carries particulate matter, toxic gases, and viable microorganisms, yet filtration systems treat them separately at an added energy cost. We introduce a membrane that targets all three by spatially segregating two metal‐organic frameworks (MOFs) within a micro‐nanostructured architecture: one for gas adsorption, and the other is positioned at the particle‐capture interface. The membrane is fabricated in a single step by simultaneous electrospinning of MOF‐177‐loaded polyacrylonitrile nanofibers and electrospraying of ZIF‐8‐decorated spent coffee ground (SCG) microparticles. SCG, a waste stream exceeding 10 million tons annually, exhibits multiwavelength photothermal activity via bio‐derived chromophores and develops hydrophobicity upon mild annealing. At 4.5 times the NIOSH respirator test velocity, the membrane captures 99.7% of PM 2.5 at roughly half the pressure drop of an equivalent MOF‐free membrane, while removing 83.4% of ammonia vapor. The membrane reaches above 80°C under simulated sunlight, enabling chemical‐free, external‐power‐free microbial inactivation of accumulated bioaerosols; after 3 days of real office‐air exposure, a single 10 min simulated solar exposure or a 20 min near‐infrared (NIR) exposure restored effective microbial suppression. This establishes a generalizable principle: spatially resolved co‐deposition of multiple functional agents via twin electrohydrodynamic techniques can convert an organic waste stream into a self‐sterilizing air‐purification platform.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/smll.76494",
+   "title": "Metal‐Peptide Frameworks Reconfigure Biopiezoelectricity for Coupled Sonocatalysis and PROTAC Degradation in Tumor Therapy",
+   "authors": [
+    "Runzhe Huang",
+    "Min Yang",
+    "Yudi Zhang",
+    "Jie Wang",
+    "Qingyuan Wu",
+    "Huiyu Liu"
+   ],
+   "journal": "Small",
+   "tier": "C",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "自组装多肽",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 11,
+   "url": "https://doi.org/10.1002/smll.76494",
+   "url_doi": "https://doi.org/10.1002/smll.76494",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Sonodynamic therapy (SDT) relies on sonosensitizers to convert ultrasonic mechanical energy into reactive oxygen species (ROS), yet efficient and biocompatible acoustically responsive materials remain limited. Here, we propose a metal coordination strategy to regulate biopiezoelectric materials. Cu 2+ reconstructs the assembly and charge distribution of diphenylalanine (FF), constructing metal‐peptide framework nanospheres (CuFF) with an effective local piezoresponse of approximately 168 pm V −1 . Density functional theory calculations reveal that asymmetric local coordination generates directional dipoles and anisotropic charge distribution, while ionic displacement within the flexible framework dominates the piezoelectric response. Under ultrasound, piezoelectric polarization, and enhanced cavitation synergistically promote the generation of •OH, •O 2− , and 1 O 2 . Surface modification and loading of a BET‐targeting PROTAC produce CuFF@PROTAC@PEG (CPP). Combined with ultrasound, CPP induces ROS generation, mitochondrial damage, and transcriptomic stress responses, while enhancing BRD3/BRD4 degradation and c‐Myc suppression, achieving a 91.3% killing rate in HeLa cells and a 92.6% tumor inhibition rate in tumor‐bearing mice. This work demonstrates that metal‐coordination‐mediated reconstruction of peptide assembly and interfacial charge distribution can enhance and harness biopiezoelectricity for ultrasound‐responsive catalysis, as validated in the CuFF system.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/smll.76511",
+   "title": "Anti‐Dissolution Tungsten Alloying Stabilizes Highly Active Platinum for Industrial‐Grade Hydrogen Evolution",
+   "authors": [
+    "Chuhan Dai",
+    "Yongtao Li",
+    "Wenhao Xie",
+    "Guoliang Dai",
+    "Ruirui Wang",
+    "Zhenhui Kang",
+    "Ziliang Chen"
+   ],
+   "journal": "Small",
+   "tier": "C",
+   "publication_date": "2026-10-31",
+   "date_precision": "day",
+   "directions": [
+    "纳米药物"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1002/smll.76511",
+   "url_doi": "https://doi.org/10.1002/smll.76511",
+   "url_pubmed": null,
+   "abstract": "ABSTRACT Platinum‐based alloys remain the most promising electrocatalysts for the hydrogen evolution reaction (HER), yet suffer from activity‐stability trade‐offs, particularly in alkaline media where Pt‐Ni alloys undergo continuous dissolution. Herein, we report the rational design of intermetallic Pt 2 W alloy nanoparticles uniformly anchored on N‐doped carbon nanomeshes (N‐CM), leveraging tungsten's exceptional thermodynamic stability and corrosion resistance to address this dilemma. Systematic compositional optimization reveals that Pt 2 W/N‐CM delivers superior alkaline HER performance, achieving an ultralow overpotential of 7 mV at 10 mA cm −2 and outperforming both Pt‐Ni analogues and commercial Pt/C. Critically, the catalyst exhibits unprecedented long‐term durability, maintaining stable operation for 200 h at an industrial‐grade high current density of 800 mA cm −2 . Combined theoretical and experimental analyses elucidate that W fulfills a cooperative trifunction whereby oxophilic sites markedly lower the kinetic barrier for water dissociation while directional electron transfer downshifts the Pt d ‐band center to optimize hydrogen adsorption. Simultaneously, the intrinsic anti‐dissolution property of W fundamentally suppresses active site degradation under harsh HER conditions, establishing a structural self‐stabilization mechanism. This work demonstrates that leveraging corrosion‐resistant tungsten enables a structurally self‐stabilizing and highly active Pt 2 W electrocatalyst for industrial alkaline water electrolysis.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
   },
   {
    "doi": "10.1126/sciadv.aee7939?af=R",
@@ -513,6 +1040,45 @@
    "source": "openalex"
   },
   {
+   "doi": "10.1038/s41467-026-79035-1",
+   "title": "Sequence Display generates large-scale sequence–activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs",
+   "authors": [
+    "Linqi Cheng",
+    "Xinzhe Zheng",
+    "Haoxue Ding",
+    "Shiyu Jiang",
+    "Yu Hu",
+    "Chenhang Wang",
+    "Chen‐Long Li",
+    "Zuotong Tian",
+    "Rain Jay Leeuwon",
+    "Jinyan Rui",
+    "Haoxin Ye",
+    "Teng Yuan",
+    "Y. N. Liu",
+    "Kaiqiang Yang",
+    "Boyang Zhou",
+    "Xiongyi Huang",
+    "Han Xiao"
+   ],
+   "journal": "Nature Communications",
+   "tier": "A",
+   "publication_date": "2026-10-30",
+   "date_precision": "day",
+   "directions": [
+    "基因治疗"
+   ],
+   "relevance_score": 2,
+   "url": "https://doi.org/10.1038/s41467-026-79035-1",
+   "url_doi": "https://doi.org/10.1038/s41467-026-79035-1",
+   "url_pubmed": null,
+   "abstract": "Protospacer adjacent motif (PAM) requirements constrain the targeting scope of CRISPR-Cas9 systems and limit genome editing applications that require precise nuclease positioning. Although broad-PAM and near-PAMless Cas9 variants have expanded the editable genome, robust targeting across certain PAM families remains difficult, particularly at NNAN PAMs. Here, we apply Sequence Display to generate multiplexed, large-scale sequence–activity datasets for Staphylococcus lugdunensis Cas9 (SlugCas9) across the NNAN PAM family, including NNAA, NNAT, NNAC and NNAG. These datasets quantitatively resolve how individual and combinatorial mutations reshape nuclease activity across distinct PAM contexts. By integrating Sequence Display-derived datasets with protein language models, we construct fine-grained activity landscapes and identify SlugCas9 variants with enhanced and broadened activity across NNAN PAMs. The resulting variants reprogram PAM recognition beyond the native G-compatible landscape of SlugCas9 and enable improved base editing at selected endogenous NNAN-constrained sites in cultured mammalian cells, including disease-relevant sites in APOC3 and PCSK9. Together, our results establish a strategy for reprogramming PAM preference in compact Cas9 nucleases and highlight Sequence Display as a general platform for evolving genome editors toward specific and difficult-to-access PAM spaces. Compact CRISPR-Cas9 enzymes are easier to deliver but recognize few targets. Here, authors use Sequence Display to generate large-scale SlugCas9 sequence–activity datasets and apply protein language models to engineer variants that recognize difficult NNAN PAMs and edit selected human genomic sites.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
+  },
+  {
    "doi": "10.1126/sciadv.aeh9736",
    "title": "GPR183 senses 7α,25-OHC to drive T reg differentiation and tumor immune evasion via AXL-JAK2-STAT5 signaling",
    "authors": [
@@ -851,6 +1417,36 @@
    "summary_status": "pending",
    "summary": null,
    "source": "crossref"
+  },
+  {
+   "doi": "10.1002/smll.76509",
+   "title": "Poly‐β‐Hydroxybutyrate Nanoparticles Improve Septic Immunoparalysis and Prognosis by Energy‐Refreshing via Controlled Release of β‐Hydroxybutyrate",
+   "authors": [
+    "Shanqing Xu",
+    "Qin Ouyang",
+    "Peihe Zhang",
+    "Hui Chen",
+    "Zuoliang Liu",
+    "Wenhu Zhou",
+    "Jianbin Tong"
+   ],
+   "journal": "Small",
+   "tier": "C",
+   "publication_date": "2026-10-30",
+   "date_precision": "day",
+   "directions": [
+    "药物递送系统",
+    "纳米药物"
+   ],
+   "relevance_score": 12,
+   "url": "https://doi.org/10.1002/smll.76509",
+   "url_doi": "https://doi.org/10.1002/smll.76509",
+   "url_pubmed": null,
+   "abstract": "Sepsis-associated immunoparalysis remains a key driver of poor clinical outcomes, yet no targeted pharmacotherapies have received clinical approval. Accumulating evidence identifies cellular metabolic dysfunction as a core pathogenic driver of this state, positioning metabolic modulation as a rational therapeutic approach. Biodegradable poly-β-hydroxybutyrate nanoparticles (PHB NPs) are fabricated via emulsion-solvent evaporation to address the short in vivo half-life and systemic adverse effects of free β-hydroxybutyrate (BHB), leveraging the intrinsic integrated carrier-prodrug nature of the PHB polymer.The optimized PHB NPs formulation exhibits uniform spherical morphology, extended circulation half-life, good biocompatibility, and broad tissue biodistribution. PHB NPs attenuate immunoparalysis both in vitro and in vivo, improve survival and restore immune responsiveness to LPS rechallenge in septic mice, and preserve cognitive function in surviving animals. Mechanistically, sustained BHB release from the nanoparticles restores cellular bioenergetics in immunoparalyzed cells through the tricarboxylic acid cycle-oxidative phosphorylation (TCA-OXPHOS) axis. These protective effects are recapitulated ex vivo in immunoparalyzed peripheral blood monocytes from a small cohort of septic patients.Collectively, these data indicate that PHB NPs ameliorate sepsis-induced immunoparalysis by restoring immune cell bioenergetics, and represent an energy-targeted nanotherapeutic candidate for further clinical development.",
+   "abstract_source": "openalex",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "openalex"
   },
   {
    "doi": "10.1126/science.aei5255",
@@ -1842,12 +2438,12 @@
     "肿瘤治疗",
     "肺部靶向"
    ],
-   "relevance_score": 15,
+   "relevance_score": 21,
    "url": "https://doi.org/10.1016/j.biomaterials.2026.124722",
    "url_doi": "https://doi.org/10.1016/j.biomaterials.2026.124722",
-   "url_pubmed": null,
-   "abstract": null,
-   "abstract_source": null,
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42965979/",
+   "abstract": "Lung cancer is the leading cause of cancer-related deaths worldwide. Among them, non-small cell lung cancer (NSCLC) accounts for approximately 85% of all cases, while the mutation of KRAS oncogene plays a crucial role in its formation and metastasis. Here, we report a transcription activator-like effector (TALE) base editor that can accurately identify KRAS gene under the guide of TALE and sgRNA, convert C base to T base, thereby generating a stop codon and blocking the expression of KRAS. Besides, a targeted TALE base editing lipid nanoparticle (targeted TALE LNP) is developed by rationally designing with cancer-targeted EGFR peptide. The targeted TALE LNP exhibits a base editing effect, cancer targeting, and remarkable therapy efficacy in NSCLC cancer-bearing mice. In conclusion, the targeted TALE LNP has the potential to treat lung cancer with KRAS gene mutation through an approach of transcription activator-like effector base editing.",
+   "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,
    "source": "crossref"
@@ -1914,6 +2510,30 @@
    "summary_status": "pending",
    "summary": null,
    "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127610",
+   "title": "Current status and prospects of metal-organic frameworks (MOFs) in drug delivery for women’s health",
+   "authors": [
+    "Waleed Y. Rizg"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-10-29",
+   "date_precision": "approx",
+   "directions": [
+    "药物递送系统",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127610",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127610",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42957074/",
+   "abstract": "Women's health includes many biological and social challenges, such as reproductive disorders, maternal complications, osteoporosis, and gynecological cancers. Many current treatments have limitations like poor drug solubility, side effects, and lack of targeted delivery for female physiology. Metal-organic frameworks (MOFs), which are crystalline porous materials made of metal nodes and organic linkers, are being studied as advanced drug delivery systems to solve these problems. This review explains how MOF-based systems can be used in women's healthcare. MOFs like UiO-66 and ZIF-8 are used in targeted chemotherapy for breast and ovarian cancers. These systems are pH-responsive and ligand-functionalized, which improves treatment efficiency and reduces side effects. MOFs are also useful in bone health, where they help deliver calcium, vitamin D3, and other osteogenic ions for treating postmenopausal osteoporosis. MOFs are being explored for hormonal regulation, non-hormonal contraception, and treatment of gynecological infections. However, there are still challenges such as long-term safety, metal ion leakage, and the need for proper testing in maternal-fetal conditions. With further research on safe synthesis methods and toxicity evaluation, MOFs can become an important platform for personalized and effective treatments in women's health.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
   },
   {
    "doi": "10.1126/sciadv.aei7877?af=R",
@@ -3218,6 +3838,38 @@
    "source": "openalex"
   },
   {
+   "doi": "10.1016/j.ijpharm.2026.127568",
+   "title": "Enhanced inhalation delivery of ROS-responsive methylprednisolone dimer nanoparticles via hydrogen-oxygen carrier gas for efficient treatment of acute lung injury with CFD-simulated pulmonary deposition",
+   "authors": [
+    "Xidong Tian",
+    "Bogang Li",
+    "Jiamao Chen",
+    "Haidong Zha",
+    "Chang Liu",
+    "Jianhuan Guan",
+    "Tzu-Ming Liu",
+    "Defang Ouyang",
+    "Ying Zheng"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-10-28",
+   "date_precision": "approx",
+   "directions": [
+    "纳米药物",
+    "肺部靶向"
+   ],
+   "relevance_score": 21,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127568",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127568",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42951223/",
+   "abstract": "Distal lung delivery remains a key bottleneck for inhaled therapy in severe pulmonary disease. We developed a hydrogen-oxygen mixture (H2/O2 mixture, 2:1 v/v) gas-assisted nebulization platform to deliver ROS-responsive, self-assembled methylprednisolone dimer nanoparticles (MP2-TK NPs). MP2-TK NPs were stable during nebulization and selectively released drug under ROS-rich conditions. Compared with air, H2/O2 mixture improved NGI-assessed aerosol deposition and artificial mucus penetration. CFD simulations further supported enhanced distal deposition, particularly for clinically respirable droplets (1-5 μm). In an LPS-induced acute lung injury mouse model, H2/O2-assisted nebulization increased pulmonary distribution and small-airway localization of MP2-TK NPs, leading to reduced bronchoalveolar lavage cytokines (IL-6, TNF-α, IL-1β), total cell counts, and protein levels. H2/O2 mixture inhalation alone also showed anti-inflammatory activity, consistent with hydrogen's antioxidant effects. This strategy couples carrier-gas engineering with ROS-responsive nanomedicine to enhance deep-lung delivery and therapeutic efficacy in acute lung injury.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
    "doi": "10.1038/d41586-026-03449-6",
    "title": "Gene therapy that led to boy’s death had limited efficacy",
    "authors": [],
@@ -4233,6 +4885,41 @@
    "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127608",
    "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42946268/",
    "abstract": "Bone marrow tyrosine kinase on chromosome X (BMX) is an emerging therapeutic target implicated in prostate cancer progression, metastatic disease, and resistance to current therapies; however, no selective BMX-targeted therapy has advanced to clinical development. Building upon our previously established AI-driven BMX discovery platform, this study presents an integrated Discovery Pharmaceutics strategy combining artificial intelligence-assisted drug repurposing, Quality-by-Design (QbD)-guided lipid nanoparticle (LNP) formulation, experimental validation, and physiologically based pharmacokinetic (PBPK) modeling to accelerate clinical translation through the FDA 505(b)(2) regulatory pathway. An structure-based virtual screening workflow comprising 2,115 FDA-approved small molecules identified netupitant as one of the highest-ranked candidates against the BMX catalytic domain, exhibiting a predicted binding affinity of -10.9 kcal/mol together with favorable selectivity over closely related Tec-family kinases. Netupitant demonstrated concentration-dependent inhibition of prostate cancer cell growth with IC50 values of 15.97 μM in DU145 cells and 7.1 μM in PC3 cells. A Box-Behnken Design optimized Netupitant-loaded lipid nanoparticles (Netupitant-LNPs) with a particle size of 133.9 ± 3.2 nm, polydispersity index of 0.213 ± 0.005, zeta potential of + 30 ± 1.3 mV, and encapsulation efficiency of 97.3 ± 0.7%. Cryogenic transmission electron microscopy confirmed uniformly dispersed spherical nanoparticles with an average diameter of 130 ± 6 nm, consistent with dynamic light scattering measurements. The nanoformulation substantially enhanced therapeutic efficacy, reducing IC50 values to 1.1 μM in DU145 cells and 0.5 μM in PC3 cells, representing approximately 15-fold and 14-fold improvements, respectively, over free netupitant. To facilitate clinical translation, experimentally determined formulation characteristics were incorporated into a mechanistic Simcyp® Version 25.2 middle-out physiologically based pharmacokinetic model. The exploratory PBPK model compared alternative intravenous dosing scenarios and identified 100 mg once weekly as a candidate regimen for further evaluation; these simulations do not establish a clinical dosing recommendation. Collectively, this work demonstrates that integrating AI-enabled drug repurposing, Discovery Pharmaceutics, nanomedicine engineering, and model-informed drug development provides an effective strategy for accelerating oncology drug development. Netupitant-LNPs emerge as a repurposed nanomedicine candidate with predicted BMX binding while establishing a broadly applicable translational framework for FDA-approved drug repurposing through the 505(b)(2) pathway.",
+   "abstract_source": "pubmed",
+   "summary_status": "pending",
+   "summary": null,
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.ijpharm.2026.127606",
+   "title": "MMP-responsive multiwalled carbon nanotubes enable tumor-selective drug delivery with altered intracellular trafficking and reduced off-target toxicity",
+   "authors": [
+    "Prapanna Bhattarai",
+    "Asif Iqbal",
+    "Umakant Yadav",
+    "Shahnaz Majid Qadri",
+    "Nishat Ara",
+    "Saptarshi Mandal",
+    "Aaron Foote",
+    "Kevin Castillo",
+    "Samuel Kok Suen Cheng",
+    "Jian Sheng",
+    "Fadi Khasawneh",
+    "Lin Zhu"
+   ],
+   "journal": "International Journal of Pharmaceutics",
+   "tier": "C",
+   "publication_date": "2026-10-27",
+   "date_precision": "approx",
+   "directions": [
+    "药物递送系统",
+    "肿瘤治疗"
+   ],
+   "relevance_score": 8,
+   "url": "https://doi.org/10.1016/j.ijpharm.2026.127606",
+   "url_doi": "https://doi.org/10.1016/j.ijpharm.2026.127606",
+   "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/42946269/",
+   "abstract": "Doxorubicin (DOX) is a widely used chemotherapeutic agent, but its clinical efficacy is limited by multidrug resistance (MDR), poor tumor penetration, and off-target toxicity. To address these challenges, we developed matrix metalloproteinase (MMP)-responsive multiwalled carbon nanotubes (MWCNTs) for tumor-targeted DOX delivery. The MWCNT formulation exhibited MMP-responsive cellular uptake, cell permeability, tissue penetration, and enhanced cytotoxicity of loaded DOX in cancer cells, a transwell model, and tumor spheroids. Mechanistic studies revealed that these CNTs entered cells primarily via clathrin-mediated endocytosis. Acidic endosomal conditions promoted lipid redistribution and membrane destabilization of endolysosomes, facilitating efficient endosomal escape and strong colocalization with the endoplasmic reticulum (ER). This intracellular trafficking pathway bypassed drug efflux mechanisms and prolonged intracellular drug retention in MDR cancer cells. In a mouse breast tumor model, MMP-responsive MWCNTs resulted in approximately 5-fold higher blood DOX levels and 2-fold greater tumor DOX accumulation than free DOX at the end of the treatment regimen. Improved pharmacokinetics and tumor specificity enhanced DOX's tumor inhibitory effects and increased tumor cell apoptosis. Importantly, the MMP-responsive MWCNTs significantly reduced DOX's off-target toxicity, as evidenced by approximately 2-fold lower cardiac DOX accumulation, reduced cardiomyocyte apoptosis, and preservation of white blood cell counts. Overall, this MMP-responsive CNT-based nanoplatform offers a promising strategy to enhance tumor targeting and retention, overcome MDR, and improve the therapeutic index of DOX.",
    "abstract_source": "pubmed",
    "summary_status": "pending",
    "summary": null,
